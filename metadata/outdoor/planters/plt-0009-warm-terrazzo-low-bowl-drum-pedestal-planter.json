@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0009",
+  "slug": "plt-0009-warm-terrazzo-low-bowl-drum-pedestal-planter",
+  "title": "Warm-Terrazzo Low-Bowl Drum-Pedestal Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "modern-architectural",
+    "one broad circular bowl",
+    "one cylindrical pedestal",
+    "one circular foot",
+    "one aggregate inlay band"
+  ],
+  "dimensions_m": {
+    "width": 0.88,
+    "depth": 0.88,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 3328,
+    "triangles": 6648,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0009-warm-terrazzo-low-bowl-drum-pedestal-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0009-warm-terrazzo-low-bowl-drum-pedestal-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0009-warm-terrazzo-low-bowl-drum-pedestal-planter.usdz",
+  "file_size_bytes": 493469,
+  "sha256": "11c5ce1e65b5bf41e87b6078a44dd1dd32b48f11dab83d039a038eb3ae3dc958",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

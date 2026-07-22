@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0016",
+  "slug": "ods-0016-natural-rattan-egg-hanging-chair-arc-stand",
+  "title": "Natural-Rattan Egg Hanging Chair Arc Stand",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "architectural-specialty",
+    "one egg basket",
+    "one fitted cushion",
+    "one short chain",
+    "one C-arc support",
+    "one circular floor ring"
+  ],
+  "dimensions_m": {
+    "width": 1.12,
+    "depth": 1.02,
+    "height": 1.96
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 14980,
+    "triangles": 29016,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0016-natural-rattan-egg-hanging-chair-arc-stand.usdz",
+  "preview": "previews/outdoor/seating/ods-0016-natural-rattan-egg-hanging-chair-arc-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0016-natural-rattan-egg-hanging-chair-arc-stand.usdz",
+  "file_size_bytes": 1909575,
+  "sha256": "3e4d6ba9a552fff43e292ee52efb20ceb6bb1705e2e784bb797c53c9ecd59fdd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

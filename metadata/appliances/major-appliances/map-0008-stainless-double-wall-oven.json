@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0008",
+  "slug": "map-0008-stainless-double-wall-oven",
+  "title": "Stainless Double Wall Oven",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "cooking",
+    "one complete standalone major appliance",
+    "one tall built-in-style oven body with exactly two stacked oven doors, two windows, two horizontal handles, and one shared center control band."
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.69,
+    "height": 1.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1864,
+    "triangles": 3680,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0008-stainless-double-wall-oven.usdz",
+  "preview": "previews/appliances/major-appliances/map-0008-stainless-double-wall-oven.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0008-stainless-double-wall-oven.usdz",
+  "file_size_bytes": 629872,
+  "sha256": "3b7b7f8e81d193652ff81cb0f7b9c9eb90e90750b6e52f12c52b8f78c494d6a5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0007",
+  "slug": "odt-0007-white-fiberstone-oval-slot-pedestal-dining-table",
+  "title": "White Fiberstone Oval Slot-Pedestal Dining Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "contemporary-entertaining",
+    "one oval outdoor dining table",
+    "one thin top",
+    "one monolithic slab pedestal",
+    "one horizontal slot aperture",
+    "two recessed floor pads"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 0.92,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2304,
+    "triangles": 4580,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0007-white-fiberstone-oval-slot-pedestal-dining-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0007-white-fiberstone-oval-slot-pedestal-dining-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0007-white-fiberstone-oval-slot-pedestal-dining-table.usdz",
+  "file_size_bytes": 599478,
+  "sha256": "bdc398a9e43199bc0e00c3ceae2c3d159201a2178afb0450f1bdd75e67e38eb9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

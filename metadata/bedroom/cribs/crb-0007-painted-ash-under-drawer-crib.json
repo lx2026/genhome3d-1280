@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0007",
+  "slug": "crb-0007-painted-ash-under-drawer-crib",
+  "title": "Painted-Ash Under-Drawer Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "modern-convertible",
+    "painted-ash",
+    "under-drawer",
+    "storage",
+    "recessed-plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.48,
+    "depth": 0.8,
+    "height": 1.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 64,
+    "vertices": 6400,
+    "triangles": 12544,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.usdz",
+  "file_size_bytes": 990694,
+  "sha256": "ebf1e4baf8960784a0e3451798626c2d58ae8d8f849fdc7440c000f3c6a9dfdc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

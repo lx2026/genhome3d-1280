@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0017",
+  "slug": "knv-0017-teal-five-slot-fillet-knife",
+  "title": "Teal Five-Slot Fillet Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "specialty-knives",
+    "one complete standalone knife",
+    "one flexible fillet blade",
+    "exactly five open blade slots",
+    "one teal grip"
+  ],
+  "dimensions_m": {
+    "width": 0.345,
+    "depth": 0.032,
+    "height": 0.022
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1544,
+    "triangles": 3092,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0017-teal-five-slot-fillet-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0017-teal-five-slot-fillet-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0017-teal-five-slot-fillet-knife.usdz",
+  "file_size_bytes": 611019,
+  "sha256": "acbf29cdb724476f054ccb945a7d5a941fbf352af0825e8a5109cf7fcc7f60dd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

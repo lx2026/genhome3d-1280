@@ -1,0 +1,57 @@
+{
+  "id": "ART-0018",
+  "slug": "art-0018-black-marble-offset-portal-pair-sculpture",
+  "title": "Black-Marble Offset Portal-Pair Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "architectural-assemblage",
+    "one complete freestanding decorative art-object assembly",
+    "exactly two offset rectangular portal frames",
+    "one short brushed-brass bridge",
+    "one shared oblong black plinth",
+    "exactly two clear rectangular openings",
+    "two opposing portal rotations",
+    "one visibly raised rear portal"
+  ],
+  "dimensions_m": {
+    "width": 0.540001,
+    "depth": 0.22,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1264,
+    "triangles": 2488,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.usdz",
+  "file_size_bytes": 655476,
+  "sha256": "10da35ebb945b28e95a26241fa1f185179a47d91164fb39ba79ceccda38a0263",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

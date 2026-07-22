@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0007",
+  "slug": "bfx-0007-black-steel-twin-leg-console-sink",
+  "title": "Black-Steel Twin-Leg Console Sink",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "basins-washstands",
+    "one complete freestanding bathroom-fixture assembly",
+    "one rectangular porcelain basin",
+    "exactly two front tubular legs",
+    "one rear support frame",
+    "one lower H-stretcher",
+    "one bridge faucet",
+    "exactly two lever handles"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.48,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 3060,
+    "triangles": 6016,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.usdz",
+  "file_size_bytes": 887228,
+  "sha256": "2761e9c2d2babc9c447564ef397000ff109b69444b8fe831c94d7d56c7c20336",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

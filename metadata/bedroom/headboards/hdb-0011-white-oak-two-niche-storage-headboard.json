@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0011",
+  "slug": "hdb-0011-white-oak-two-niche-storage-headboard",
+  "title": "White-Oak Two-Niche Storage Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "storage-integrated",
+    "white-oak",
+    "two-niches",
+    "casework",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.88,
+    "depth": 0.25,
+    "height": 1.26
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1208,
+    "triangles": 2368,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0011-white-oak-two-niche-storage-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0011-white-oak-two-niche-storage-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0011-white-oak-two-niche-storage-headboard.usdz",
+  "file_size_bytes": 436549,
+  "sha256": "cdc18c6b541ac64249dfaa9bc1dd942065a9027e5057aeb12b2dc72810338b67",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

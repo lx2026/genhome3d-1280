@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0014",
+  "slug": "ott-0014-saddle-leather-x-frame-ottoman",
+  "title": "Saddle Leather X-Frame Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "lounge-statement",
+    "saddle",
+    "leather",
+    "x-frame",
+    "sling"
+  ],
+  "dimensions_m": {
+    "width": 0.88,
+    "depth": 0.55,
+    "height": 0.421495
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2000,
+    "triangles": 3936,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.usdz",
+  "file_size_bytes": 1450385,
+  "sha256": "cc2adcf95f264553ffa3d185e19bcd67318100f95ca22b7c41ba4a4b4724a971",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

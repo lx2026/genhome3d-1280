@@ -1,0 +1,57 @@
+{
+  "id": "CLK-0020",
+  "slug": "clk-0020-art-deco-seven-panel-fan-mantel-clock",
+  "title": "Art-Deco Seven-Panel Fan Mantel Clock",
+  "category": "decor",
+  "subcategory": "clocks",
+  "category_path": "decor/clocks",
+  "category_label": "Decor / Clocks",
+  "tags": [
+    "decor clocks",
+    "sculptural-architectural-clocks",
+    "one complete freestanding decorative clock assembly",
+    "exactly seven stepped fan panels",
+    "one central circular ivory dial",
+    "exactly twelve black hour bars",
+    "exactly two clock hands",
+    "exactly two flanking brass finials",
+    "one long stepped black plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.18,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 4068,
+    "triangles": 8020,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.usdz",
+  "preview": "previews/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.usdz",
+  "file_size_bytes": 878546,
+  "sha256": "4769fea28e64669917f71752274f918446cf7bd869a6f12e126d17f41ed55505",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

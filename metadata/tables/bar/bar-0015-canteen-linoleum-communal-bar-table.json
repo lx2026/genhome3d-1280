@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0015",
+  "slug": "bar-0015-canteen-linoleum-communal-bar-table",
+  "title": "Canteen Linoleum Communal Bar Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "commercial-communal",
+    "canteen",
+    "linoleum",
+    "bent-plywood",
+    "crossbar-footrest"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.65,
+    "height": 1.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1344,
+    "triangles": 2660,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0015-canteen-linoleum-communal-bar-table.usdz",
+  "preview": "previews/tables/bar/bar-0015-canteen-linoleum-communal-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0015-canteen-linoleum-communal-bar-table.usdz",
+  "file_size_bytes": 559153,
+  "sha256": "191c8f417aca8977ddb5b7854efa8318fbb4a2d07b5129d762c1111a0f4d223b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

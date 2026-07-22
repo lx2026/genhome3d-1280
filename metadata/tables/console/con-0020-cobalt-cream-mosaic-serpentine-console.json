@@ -1,0 +1,54 @@
+{
+  "id": "CON-0020",
+  "slug": "con-0020-cobalt-cream-mosaic-serpentine-console",
+  "title": "Cobalt-Cream Mosaic Serpentine Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "sculptural-outdoor",
+    "mosaic",
+    "serpentine-front",
+    "cobalt-cream",
+    "cylindrical-legs"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.4,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 77,
+    "vertices": 11884,
+    "triangles": 23412,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0020-cobalt-cream-mosaic-serpentine-console.usdz",
+  "preview": "previews/tables/console/con-0020-cobalt-cream-mosaic-serpentine-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0020-cobalt-cream-mosaic-serpentine-console.usdz",
+  "file_size_bytes": 697816,
+  "sha256": "923b9e1d617f053b1917dc5866efd342ff43081df2e033830f503e1fa4a4351f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

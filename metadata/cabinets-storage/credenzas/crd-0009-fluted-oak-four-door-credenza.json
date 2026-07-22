@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0009",
+  "slug": "crd-0009-fluted-oak-four-door-credenza",
+  "title": "Fluted-Oak Four-Door Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "modern-utility",
+    "fluted",
+    "four doors",
+    "black slab top",
+    "four metal legs"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.44,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 38,
+    "vertices": 3504,
+    "triangles": 6856,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0009-fluted-oak-four-door-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0009-fluted-oak-four-door-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0009-fluted-oak-four-door-credenza.usdz",
+  "file_size_bytes": 580727,
+  "sha256": "93140b0debbefc7a5b6c2b29c4fc7ae936e615201ae1db296b8708715f9b520e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0007",
+  "slug": "cab-0007-white-lacquer-tambour-utility-cabinet",
+  "title": "White-Lacquer Tambour Utility Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "modern-utility",
+    "waterfall shell",
+    "two tambour doors",
+    "open niche",
+    "dark plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.43,
+    "height": 1.65
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 55,
+    "vertices": 6120,
+    "triangles": 12020,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0007-white-lacquer-tambour-utility-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0007-white-lacquer-tambour-utility-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0007-white-lacquer-tambour-utility-cabinet.usdz",
+  "file_size_bytes": 353882,
+  "sha256": "6eb0ab9ee73e31ea76fca9af9a30e4c478db8832977a073f5a4972e28c2cd3d8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

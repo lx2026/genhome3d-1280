@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0003",
+  "slug": "svw-0003-acacia-three-well-appetizer-board",
+  "title": "Acacia Three-Well Appetizer Board",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "platters-and-trays",
+    "one complete standalone serving product",
+    "one rounded acacia board with exactly three separately recessed oval wells and four rounded outer corners."
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.18,
+    "height": 0.045
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 2480,
+    "triangles": 4956,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0003-acacia-three-well-appetizer-board.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0003-acacia-three-well-appetizer-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0003-acacia-three-well-appetizer-board.usdz",
+  "file_size_bytes": 533453,
+  "sha256": "c08408cf92758b4043347a4107dd1274f12d06bf3e948c20144fa69dcc18dd6f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

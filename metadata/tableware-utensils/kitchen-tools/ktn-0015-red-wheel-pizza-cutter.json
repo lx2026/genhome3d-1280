@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0015",
+  "slug": "ktn-0015-red-wheel-pizza-cutter",
+  "title": "Red Wheel Pizza Cutter",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "peeling-pressing-tools",
+    "one complete standalone kitchen tool",
+    "one circular stainless cutting wheel",
+    "one red forked wheel guard",
+    "one black handle with open hanging hole"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.08,
+    "height": 0.075
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1968,
+    "triangles": 3824,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.usdz",
+  "file_size_bytes": 805117,
+  "sha256": "f302bab859a90fcb7dffd87a1858012375aaca03b926f9a5f8169ab73d8b3493",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

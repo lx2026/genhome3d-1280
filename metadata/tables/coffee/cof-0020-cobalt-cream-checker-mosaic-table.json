@@ -1,0 +1,54 @@
+{
+  "id": "COF-0020",
+  "slug": "cof-0020-cobalt-cream-checker-mosaic-table",
+  "title": "Cobalt-Cream Checker Mosaic Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "sculptural-outdoor",
+    "mosaic",
+    "checkerboard",
+    "tile",
+    "block-base"
+  ],
+  "dimensions_m": {
+    "width": 0.92,
+    "depth": 0.92,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 167,
+    "vertices": 9544,
+    "triangles": 18420,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.usdz",
+  "preview": "previews/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.usdz",
+  "file_size_bytes": 541332,
+  "sha256": "ad12f41a92e956340d82008edc777cd72cf7e00fc04662b9d509eb54df71ebfd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

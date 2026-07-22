@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0010",
+  "slug": "dsk-0010-color-blocked-steel-mobile-workdesk",
+  "title": "Color-Blocked Steel Mobile Workdesk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "modern-utility",
+    "mobile workdesk",
+    "two drawers",
+    "one lower shelf",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.3,
+    "depth": 0.7,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 1968,
+    "triangles": 3864,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.usdz",
+  "preview": "previews/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.usdz",
+  "file_size_bytes": 687491,
+  "sha256": "f21269b93488fb55e4b7f035fd4c16d8c7e28802af38f8d7637c39418a77e34c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

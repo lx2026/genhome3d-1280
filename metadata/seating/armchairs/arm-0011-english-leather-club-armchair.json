@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0011",
+  "slug": "arm-0011-english-leather-club-armchair",
+  "title": "English Leather Club Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "lounge",
+    "english",
+    "club-chair",
+    "leather",
+    "rolled-arms"
+  ],
+  "dimensions_m": {
+    "width": 0.86,
+    "depth": 0.91,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 3048,
+    "triangles": 6056,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0011-english-leather-club-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0011-english-leather-club-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0011-english-leather-club-armchair.usdz",
+  "file_size_bytes": 951977,
+  "sha256": "2fea62a12c4db4864341dc54c54d04134ae01f8dc3742f7c6423298b5ad279af",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

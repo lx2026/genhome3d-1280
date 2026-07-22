@@ -1,0 +1,54 @@
+{
+  "id": "CSH-0004",
+  "slug": "csh-0004-rust-velvet-twelve-ray-sunburst-cushion",
+  "title": "Rust-Velvet Twelve-Ray Sunburst Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "tailored-knife-edge",
+    "one complete standalone cushion assembly",
+    "exactly twelve radial wedge panels",
+    "exactly one center button",
+    "one continuous outer piping line"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.17,
+    "height": 0.5
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2066,
+    "triangles": 4000,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0004-rust-velvet-twelve-ray-sunburst-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0004-rust-velvet-twelve-ray-sunburst-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0004-rust-velvet-twelve-ray-sunburst-cushion.usdz",
+  "file_size_bytes": 885434,
+  "sha256": "3d1bb701f09f3c5d1c4232b4ac3d0888a0397cec3a1482b1fe23c7f14a36c94c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "OST-0008",
+  "slug": "ost-0008-corten-six-vent-double-door-garden-cabinet",
+  "title": "Corten Six-Vent Double-Door Garden Cabinet",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "contemporary-weatherproof",
+    "one garden cabinet",
+    "two flush doors",
+    "six ventilation slots",
+    "two bar pulls",
+    "one recessed sled plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.16,
+    "depth": 0.52,
+    "height": 1.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1716,
+    "triangles": 3336,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0008-corten-six-vent-double-door-garden-cabinet.usdz",
+  "preview": "previews/outdoor/storage/ost-0008-corten-six-vent-double-door-garden-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0008-corten-six-vent-double-door-garden-cabinet.usdz",
+  "file_size_bytes": 250922,
+  "sha256": "6bd8257a7f85d5fe76cd6736430a28b4846607c9d1aceca32299e3645eea4b74",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

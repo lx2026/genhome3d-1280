@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0001",
+  "slug": "arm-0001-scandinavian-oak-open-armchair",
+  "title": "Scandinavian Oak Open-Arm Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "compact",
+    "scandinavian",
+    "oak",
+    "open-arm",
+    "loose-cushion"
+  ],
+  "dimensions_m": {
+    "width": 0.680013,
+    "depth": 0.759988,
+    "height": 0.820002
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1760,
+    "triangles": 3460,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0001-scandinavian-oak-open-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0001-scandinavian-oak-open-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0001-scandinavian-oak-open-armchair.usdz",
+  "file_size_bytes": 1292737,
+  "sha256": "e3fc436f4835b1479049f04802bff9e0607dfe8cce2c6509a9031e837aa72ba5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

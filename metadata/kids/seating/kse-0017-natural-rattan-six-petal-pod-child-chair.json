@@ -1,0 +1,54 @@
+{
+  "id": "KSE-0017",
+  "slug": "kse-0017-natural-rattan-six-petal-pod-child-chair",
+  "title": "Natural-Rattan Six-Petal Pod Child Chair",
+  "category": "kids",
+  "subcategory": "seating",
+  "category_path": "kids/seating",
+  "category_label": "Kids / Seating",
+  "tags": [
+    "kids seating",
+    "sculptural-specialty",
+    "six woven petal panels",
+    "round upholstered seat",
+    "pod silhouette",
+    "circular cane base"
+  ],
+  "dimensions_m": {
+    "width": 0.56,
+    "depth": 0.52,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 54,
+    "vertices": 32896,
+    "triangles": 65604,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/seating/kse-0017-natural-rattan-six-petal-pod-child-chair.usdz",
+  "preview": "previews/kids/seating/kse-0017-natural-rattan-six-petal-pod-child-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/seating/kse-0017-natural-rattan-six-petal-pod-child-chair.usdz",
+  "file_size_bytes": 2329981,
+  "sha256": "dec20b2776867406b4f8b6eecb4308707c8f62b860e8a771564727a3fec43de7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

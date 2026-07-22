@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0003",
+  "slug": "drs-0003-campaign-teak-brass-bound-dresser",
+  "title": "Campaign Teak Brass-Bound Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "classic-heritage",
+    "campaign",
+    "six drawers",
+    "twelve brass straps",
+    "four block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.5,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 44,
+    "vertices": 3616,
+    "triangles": 6960,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0003-campaign-teak-brass-bound-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0003-campaign-teak-brass-bound-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0003-campaign-teak-brass-bound-dresser.usdz",
+  "file_size_bytes": 991145,
+  "sha256": "27175e585897d06151a978a6cac4900e5ea9b2b4bfb3c208fac308f6c7231675",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

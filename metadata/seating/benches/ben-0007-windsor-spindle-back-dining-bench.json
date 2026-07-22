@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0007",
+  "slug": "ben-0007-windsor-spindle-back-dining-bench",
+  "title": "Windsor Spindle-Back Dining Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "dining",
+    "windsor",
+    "maple",
+    "spindle-back",
+    "bowed-crest"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.53,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 5508,
+    "triangles": 10876,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0007-windsor-spindle-back-dining-bench.usdz",
+  "preview": "previews/seating/benches/ben-0007-windsor-spindle-back-dining-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0007-windsor-spindle-back-dining-bench.usdz",
+  "file_size_bytes": 855577,
+  "sha256": "bd10bdfd893e3c1a2a2f61fa7f93b8608a981c002ebaa754e9bed5b2ced4c021",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

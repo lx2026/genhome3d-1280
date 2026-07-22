@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0010",
+  "slug": "hdb-0010-modular-gray-wool-tile-headboard",
+  "title": "Modular Gray-Wool Tile Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "modern-upholstered",
+    "wool",
+    "modular-tiles",
+    "grid",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.16,
+    "depth": 0.17,
+    "height": 1.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 3800,
+    "triangles": 7544,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.usdz",
+  "file_size_bytes": 994321,
+  "sha256": "5f40b4ece429263cba1283c1c3777eb344d623a0e3e4f9290b3acbf7ec66cfb7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

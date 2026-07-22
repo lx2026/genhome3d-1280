@@ -1,0 +1,54 @@
+{
+  "id": "KST-0020",
+  "slug": "kst-0020-brutalist-cork-and-steel-six-fin-storage-rack",
+  "title": "Brutalist Cork-and-Steel Six-Fin Storage Rack",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "sculptural-specialty",
+    "six cork-lined bays",
+    "seven steel fins",
+    "thick cork cap",
+    "two folded floor rails"
+  ],
+  "dimensions_m": {
+    "width": 0.96,
+    "depth": 0.38,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2880,
+    "triangles": 5696,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0020-brutalist-cork-and-steel-six-fin-storage-rack.usdz",
+  "preview": "previews/kids/storage/kst-0020-brutalist-cork-and-steel-six-fin-storage-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0020-brutalist-cork-and-steel-six-fin-storage-rack.usdz",
+  "file_size_bytes": 513103,
+  "sha256": "5b25aba064a362a9a20f5df3ae1ba5e2e32a3399f08b96ac6742abc947d7e8ff",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CUT-0008",
+  "slug": "cut-0008-gold-two-tine-carving-fork",
+  "title": "Gold Two-Tine Carving Fork",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "dining-forks",
+    "one complete standalone carving fork",
+    "exactly two long curved tines",
+    "exactly one open tine gap",
+    "one weighted oval handle"
+  ],
+  "dimensions_m": {
+    "width": 0.034,
+    "depth": 0.225,
+    "height": 0.015
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 480,
+    "triangles": 944,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.usdz",
+  "file_size_bytes": 436142,
+  "sha256": "45c1aa37eee4d3f55433a5e9f387a705c1f96e8769f1aef36f001d9b5bb0bfbe",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

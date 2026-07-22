@@ -1,0 +1,57 @@
+{
+  "id": "ART-0010",
+  "slug": "art-0010-dark-walnut-abstract-horse-sculpture",
+  "title": "Dark-Walnut Abstract Horse Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "figurative-natural-motifs",
+    "one complete freestanding decorative art-object assembly",
+    "one arched horse body",
+    "exactly four separated legs",
+    "one raised neck",
+    "one angular horse head",
+    "one curved tail",
+    "one long low walnut plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.22,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1988,
+    "triangles": 3844,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.usdz",
+  "file_size_bytes": 517619,
+  "sha256": "5a6ae69c4deea7a6f89930ef3e64498b31324a9fd0396eea98c670da1e5a767e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0009",
+  "slug": "sof-0009-italian-channel-velvet-sofa",
+  "title": "Italian Channel Velvet Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "classic-upholstered",
+    "italian",
+    "channel",
+    "velvet",
+    "curved-arms"
+  ],
+  "dimensions_m": {
+    "width": 2.1,
+    "depth": 0.9,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 7056,
+    "triangles": 14040,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0009-italian-channel-velvet-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0009-italian-channel-velvet-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0009-italian-channel-velvet-sofa.usdz",
+  "file_size_bytes": 523791,
+  "sha256": "eec3d25fbedd94879a744e6b19f45952e6fbd121efebdeba9643e8ae0c510057",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

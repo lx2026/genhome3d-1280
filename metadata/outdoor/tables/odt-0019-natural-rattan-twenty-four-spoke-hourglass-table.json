@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0019",
+  "slug": "odt-0019-natural-rattan-twenty-four-spoke-hourglass-table",
+  "title": "Natural-Rattan Twenty-Four-Spoke Hourglass Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "architectural-specialty",
+    "one round outdoor garden table",
+    "one clear-glass top",
+    "twenty-four rattan spokes",
+    "two circular rings",
+    "one recessed foot"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 1.02,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 7568,
+    "triangles": 13880,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0019-natural-rattan-twenty-four-spoke-hourglass-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0019-natural-rattan-twenty-four-spoke-hourglass-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0019-natural-rattan-twenty-four-spoke-hourglass-table.usdz",
+  "file_size_bytes": 1185721,
+  "sha256": "18b62dfd90f204b38a7656f6d676be8f588736175c721a6217c84de64cd18502",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

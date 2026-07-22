@@ -1,0 +1,54 @@
+{
+  "id": "SID-0010",
+  "slug": "sid-0010-clear-acrylic-waterfall-magazine-side-table",
+  "title": "Clear-Acrylic Waterfall Magazine Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "modern-residential",
+    "clear-acrylic",
+    "waterfall",
+    "magazine-sling",
+    "transparent"
+  ],
+  "dimensions_m": {
+    "width": 0.45,
+    "depth": 0.35,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1448,
+    "triangles": 2776,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0010-clear-acrylic-waterfall-magazine-side-table.usdz",
+  "preview": "previews/tables/side/sid-0010-clear-acrylic-waterfall-magazine-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0010-clear-acrylic-waterfall-magazine-side-table.usdz",
+  "file_size_bytes": 292774,
+  "sha256": "695be67866306737664546cade7e8d5cd4a6344a5998d01ecc8d30dcc1da8131",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

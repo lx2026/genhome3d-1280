@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0014",
+  "slug": "ktb-0014-flat-pack-birch-two-panel-slot-join-table",
+  "title": "Flat-Pack Birch Two-Panel Slot-Join Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "compact-adaptive",
+    "flat-pack table",
+    "two interlocking slab leg panels",
+    "six exposed locking tabs",
+    "hardware-free joinery"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.5,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 920,
+    "triangles": 1804,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0014-flat-pack-birch-two-panel-slot-join-table.usdz",
+  "preview": "previews/kids/tables/ktb-0014-flat-pack-birch-two-panel-slot-join-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0014-flat-pack-birch-two-panel-slot-join-table.usdz",
+  "file_size_bytes": 446121,
+  "sha256": "91c45ec580c82200a23f0e667464639af30bce2a4e110425e68d07ed48c566b6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

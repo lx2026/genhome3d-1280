@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0020",
+  "slug": "ktl-0020-blackened-three-band-campfire-kettle",
+  "title": "Blackened Three-Band Campfire Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "traditional-and-serving-kettles",
+    "one complete standalone kettle assembly",
+    "one round blackened-steel body",
+    "exactly three exterior reinforcing bands",
+    "exactly one folding galvanized bail handle",
+    "exactly one short open spout"
+  ],
+  "dimensions_m": {
+    "width": 0.235,
+    "depth": 0.19,
+    "height": 0.23
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 5892,
+    "triangles": 11716,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.usdz",
+  "file_size_bytes": 932786,
+  "sha256": "656b8059630ee4ff37bfaf390f9053fdff854010b37257305a315a6d17ce76c8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "OST-0009",
+  "slug": "ost-0009-pale-gray-fiberstone-monolithic-parcel-vault",
+  "title": "Pale-Gray Fiberstone Monolithic Parcel Vault",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "contemporary-weatherproof",
+    "one parcel vault",
+    "one top deposit hatch",
+    "one lower retrieval door",
+    "four corner reveals",
+    "one recessed pedestal foot"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.6,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 920,
+    "triangles": 1808,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0009-pale-gray-fiberstone-monolithic-parcel-vault.usdz",
+  "preview": "previews/outdoor/storage/ost-0009-pale-gray-fiberstone-monolithic-parcel-vault.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0009-pale-gray-fiberstone-monolithic-parcel-vault.usdz",
+  "file_size_bytes": 504562,
+  "sha256": "d4a5c5b0fcf6da763544dd9443780acc5372cde9c1bde4132e4dbf5e1a5cb350",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

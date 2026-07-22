@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0012",
+  "slug": "map-0012-white-front-load-washer",
+  "title": "White Front-Load Washer",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "dish-and-laundry",
+    "one complete standalone major appliance",
+    "one white front-load washer with one circular glass door, one detergent drawer, one rotary dial, one display, and four leveling feet."
+  ],
+  "dimensions_m": {
+    "width": 0.69,
+    "depth": 0.8,
+    "height": 0.98
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 3288,
+    "triangles": 6536,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0012-white-front-load-washer.usdz",
+  "preview": "previews/appliances/major-appliances/map-0012-white-front-load-washer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0012-white-front-load-washer.usdz",
+  "file_size_bytes": 904981,
+  "sha256": "3feceda4a4a01beb7bff7ca485d6044f1e061a231e18294596585911283188a0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0020",
+  "slug": "ktn-0020-stone-mortar-and-beech-pestle-set",
+  "title": "Stone Mortar and Beech Pestle Set",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "opening-finishing-tools",
+    "one complete paired kitchen tool set",
+    "one deep open mortar cavity",
+    "one formed pouring notch",
+    "one complete beech pestle beside mortar"
+  ],
+  "dimensions_m": {
+    "width": 0.220001,
+    "depth": 0.16,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 4545,
+    "triangles": 9070,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0020-stone-mortar-and-beech-pestle-set.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0020-stone-mortar-and-beech-pestle-set.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0020-stone-mortar-and-beech-pestle-set.usdz",
+  "file_size_bytes": 803170,
+  "sha256": "d90b792aac1eb57acdc4e4ce9ec06877624a79884fb0204b9860b5ab51fbb853",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

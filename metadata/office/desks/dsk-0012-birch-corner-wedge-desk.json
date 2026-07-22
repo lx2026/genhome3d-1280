@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0012",
+  "slug": "dsk-0012-birch-corner-wedge-desk",
+  "title": "Birch Corner-Wedge Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "compact-adaptive",
+    "corner wedge",
+    "triangular top",
+    "one drawer",
+    "three feet"
+  ],
+  "dimensions_m": {
+    "width": 1.049597,
+    "depth": 0.852886,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 656,
+    "triangles": 1276,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0012-birch-corner-wedge-desk.usdz",
+  "preview": "previews/office/desks/dsk-0012-birch-corner-wedge-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0012-birch-corner-wedge-desk.usdz",
+  "file_size_bytes": 514697,
+  "sha256": "021d6c667748dab03def7e7e5aebcecbf2380d13584af227af2b1c0bf493c7e3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

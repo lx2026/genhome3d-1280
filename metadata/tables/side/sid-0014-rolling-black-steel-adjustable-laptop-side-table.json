@@ -1,0 +1,54 @@
+{
+  "id": "SID-0014",
+  "slug": "sid-0014-rolling-black-steel-adjustable-laptop-side-table",
+  "title": "Rolling Black-Steel Adjustable Laptop Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "functional-storage",
+    "rolling",
+    "adjustable",
+    "laptop-table",
+    "casters"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.36,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1496,
+    "triangles": 2948,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0014-rolling-black-steel-adjustable-laptop-side-table.usdz",
+  "preview": "previews/tables/side/sid-0014-rolling-black-steel-adjustable-laptop-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0014-rolling-black-steel-adjustable-laptop-side-table.usdz",
+  "file_size_bytes": 192396,
+  "sha256": "513b6b2a44222982a824576ad7b29cbf0cc83a91d63dc45483d207e543861d3a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

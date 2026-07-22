@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0006",
+  "slug": "plt-0006-matte-charcoal-cylindrical-reveal-band-planter",
+  "title": "Matte-Charcoal Cylindrical Reveal-Band Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "modern-architectural",
+    "one cylindrical vessel",
+    "one rolled rim",
+    "three horizontal reveal bands",
+    "one recessed drum plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.62,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 3584,
+    "triangles": 7164,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0006-matte-charcoal-cylindrical-reveal-band-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0006-matte-charcoal-cylindrical-reveal-band-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0006-matte-charcoal-cylindrical-reveal-band-planter.usdz",
+  "file_size_bytes": 261478,
+  "sha256": "05c93cef1874e2abf72c743a039dc7b199e31e5a977af72add03de130db3da3a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

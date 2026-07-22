@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0014",
+  "slug": "umb-0014-olive-canvas-eight-pocket-folding-umbrella-organizer",
+  "title": "Olive-Canvas Eight-Pocket Folding Umbrella Organizer",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella organizer",
+    "compact-adaptive",
+    "eight waterproof pockets",
+    "four by two array",
+    "two folding x frames",
+    "four rubber feet"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.36,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 3664,
+    "triangles": 7036,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0014-olive-canvas-eight-pocket-folding-umbrella-organizer.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0014-olive-canvas-eight-pocket-folding-umbrella-organizer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0014-olive-canvas-eight-pocket-folding-umbrella-organizer.usdz",
+  "file_size_bytes": 777662,
+  "sha256": "7b1ed29270ca915040d7c82157e78f01a071ea55a2c1282d6fb8830eab230bfa",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0019",
+  "slug": "cab-0019-color-block-recycled-plastic-modular-cabinet",
+  "title": "Color-Block Recycled-Plastic Modular Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "sculptural-specialty",
+    "color block",
+    "seven modules",
+    "five doors",
+    "two open cubbies"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.4,
+    "height": 1.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 45,
+    "vertices": 4960,
+    "triangles": 9740,
+    "material_slots": 7
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0019-color-block-recycled-plastic-modular-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0019-color-block-recycled-plastic-modular-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0019-color-block-recycled-plastic-modular-cabinet.usdz",
+  "file_size_bytes": 2792526,
+  "sha256": "3a01b3287e758e16d46b50c18526048efae19cd14a889c78b41645cb7b9a65ac",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

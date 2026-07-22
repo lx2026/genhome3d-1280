@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0014",
+  "slug": "cwr-0014-navy-domed-lid-shallow-braiser",
+  "title": "Navy Domed-Lid Shallow Braiser",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "dutch-ovens-and-braisers",
+    "one complete standalone cookware assembly",
+    "one shallow round braiser",
+    "exactly two opposed loop handles",
+    "exactly one domed lid",
+    "exactly one centered lid knob"
+  ],
+  "dimensions_m": {
+    "width": 0.44,
+    "depth": 0.34,
+    "height": 0.17
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 3667,
+    "triangles": 7218,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.usdz",
+  "file_size_bytes": 1011189,
+  "sha256": "0cfd6bba9d996b1e6f07bf1f063b6a944117195ba71e513c36ca0bfc309c9919",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

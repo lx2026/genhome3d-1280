@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="GenHome3D-1280 is an open collection of 1,280 validated USDZ household assets across 64 categories."
+    />
+    <meta name="theme-color" content="#17352e" />
+    <meta property="og:title" content="GenHome3D-1280" />
+    <meta
+      property="og:description"
+      content="1,280 validated USDZ assets for spatial prototyping, simulation, and research."
+    />
+    <meta property="og:type" content="website" />
+    <title>GenHome3D-1280 — Open USDZ Asset Collection</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#library">Skip to asset library</a>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="GenHome3D home">
+        <span class="brand-mark" aria-hidden="true">
+          <i></i><i></i><i></i>
+        </span>
+        <span>GenHome3D</span>
+        <small>1280</small>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#library">Library</a>
+        <a href="#method">Method</a>
+        <a href="https://github.com/lx2026/genhome3d-1280">GitHub</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> Open 3D asset collection · v1.0</p>
+          <h1 id="hero-title">
+            Built for rooms.<br />
+            <em>Ready for spaces.</em>
+          </h1>
+          <p class="hero-intro">
+            A carefully structured collection of 1,280 household objects in USDZ—each
+            generated, packaged, and reviewed through the same reproducible pipeline.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#library">Explore the collection</a>
+            <a class="button button-secondary" href="./catalog.json" download>
+              Download catalog
+            </a>
+          </div>
+          <p class="hero-note">
+            CC BY 4.0 · Metric scale · Self-contained textures · RealityKit-oriented
+          </p>
+        </div>
+
+        <div class="hero-gallery" aria-label="Selected objects from the collection">
+          <article class="hero-tile hero-tile-main" data-showcase="0">
+            <div class="tile-image"></div>
+            <span class="tile-index">01</span>
+            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
+          </article>
+          <article class="hero-tile hero-tile-top" data-showcase="1">
+            <div class="tile-image"></div>
+            <span class="tile-index">02</span>
+            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
+          </article>
+          <article class="hero-tile hero-tile-bottom" data-showcase="2">
+            <div class="tile-image"></div>
+            <span class="tile-index">03</span>
+            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="Dataset summary">
+        <div><strong data-stat="assets">1,280</strong><span>validated assets</span></div>
+        <div><strong data-stat="categories">64</strong><span>focused categories</span></div>
+        <div><strong>20</strong><span>assets per category</span></div>
+        <div><strong>USDZ</strong><span>portable delivery format</span></div>
+      </section>
+
+      <section class="library" id="library" aria-labelledby="library-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow"><span></span> The library</p>
+            <h2 id="library-title">Find the piece your space needs.</h2>
+          </div>
+          <p>
+            Search by name or asset ID, narrow by category, and download any object
+            directly from GitHub.
+          </p>
+        </div>
+
+        <div class="catalog-toolbar">
+          <label class="search-field">
+            <span class="visually-hidden">Search assets</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="11" cy="11" r="6.5"></circle>
+              <path d="m16 16 4 4"></path>
+            </svg>
+            <input id="search" type="search" placeholder="Search lamp, oak, MXB-0014…" />
+          </label>
+          <label class="select-field">
+            <span class="visually-hidden">Filter by category</span>
+            <select id="category-filter">
+              <option value="all">All 64 categories</option>
+            </select>
+          </label>
+          <p class="result-count" aria-live="polite"><strong id="result-count">1,280</strong> objects</p>
+        </div>
+
+        <div id="asset-grid" class="asset-grid" aria-live="polite"></div>
+        <div class="catalog-footer">
+          <button class="button button-secondary" id="load-more" type="button">Load more objects</button>
+          <p id="shown-count">Showing the first 24 objects</p>
+        </div>
+      </section>
+
+      <section class="method" id="method" aria-labelledby="method-title">
+        <div class="method-lead">
+          <p class="eyebrow light"><span></span> One shared contract</p>
+          <h2 id="method-title">A dataset is only useful when its rules are visible.</h2>
+          <p>
+            Every asset follows a fixed production path—from authored dimensions and a
+            generated design reference to Blender construction, USDZ sealing, and
+            evidence-bound review.
+          </p>
+          <a href="https://github.com/lx2026/genhome3d-1280/blob/main/VALIDATION.md">
+            Read the validation notes <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+        <ol class="method-steps">
+          <li><span>01</span><div><strong>Specify</strong><p>Stable IDs, metric dimensions, topology constraints, and category coverage.</p></div></li>
+          <li><span>02</span><div><strong>Generate</strong><p>AI-assisted references and procedural Blender construction with authored materials.</p></div></li>
+          <li><span>03</span><div><strong>Package</strong><p>Self-contained USDZ delivery with texture, stage, bounds, and archive checks.</p></div></li>
+          <li><span>04</span><div><strong>Review</strong><p>Seven visual criteria, technical evidence seals, and collection-level regression tests.</p></div></li>
+        </ol>
+      </section>
+
+      <section class="license-band" aria-label="License and compatibility information">
+        <div>
+          <p class="eyebrow"><span></span> Use it well</p>
+          <h2>Open enough to build on.<br />Documented enough to trust.</h2>
+        </div>
+        <div class="license-copy">
+          <p>
+            Assets are available under CC BY 4.0. Credit “GenHome3D-1280 contributors”
+            and link to the repository when you redistribute or adapt them.
+          </p>
+          <p>
+            Packages are structurally validated for USDZ workflows. Apple Vision Pro
+            on-device review remains pending and is not implied by this release.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <a class="brand footer-brand" href="#top">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>GenHome3D</span>
+      </a>
+      <p>1,280 generated objects for spatial work.</p>
+      <div>
+        <a href="https://github.com/lx2026/genhome3d-1280">Repository</a>
+        <a href="https://github.com/lx2026/genhome3d-1280/releases">Releases</a>
+        <a href="https://creativecommons.org/licenses/by/4.0/">License</a>
+      </div>
+    </footer>
+
+    <template id="asset-card-template">
+      <article class="asset-card">
+        <a class="asset-image" rel="ar">
+          <img alt="" loading="lazy" decoding="async" />
+          <span class="asset-format">USDZ</span>
+          <span class="asset-download" aria-hidden="true">↓</span>
+        </a>
+        <div class="asset-body">
+          <p class="asset-category"></p>
+          <h3></h3>
+          <div class="asset-meta"><span class="asset-id"></span><span class="asset-size"></span></div>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+{
+  "id": "CSH-0015",
+  "slug": "csh-0015-slate-five-channel-half-moon-lumbar-cushion",
+  "title": "Slate Five-Channel Half-Moon Lumbar Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "bolster-round",
+    "one complete standalone cushion assembly",
+    "one upright half-moon cushion",
+    "exactly five stitched channels",
+    "one continuous curved piping edge"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.2,
+    "height": 0.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1500,
+    "triangles": 2976,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0015-slate-five-channel-half-moon-lumbar-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0015-slate-five-channel-half-moon-lumbar-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0015-slate-five-channel-half-moon-lumbar-cushion.usdz",
+  "file_size_bytes": 583160,
+  "sha256": "fe7fb75f71421020961c2dedca2a0b11a1311634328d6ef6235f065d0f32bfa3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

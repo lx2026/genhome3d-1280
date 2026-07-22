@@ -1,0 +1,57 @@
+{
+  "id": "BST-0001",
+  "slug": "bst-0001-white-shaker-double-door-linen-cabinet",
+  "title": "White-Shaker Double-Door Linen Cabinet",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "linen-cabinets/towers",
+    "one complete freestanding bathroom-storage assembly",
+    "one tall rectangular cabinet body",
+    "exactly two full-height shaker doors",
+    "exactly two lower drawers",
+    "exactly four dark round knobs",
+    "one stepped crown",
+    "one recessed floor plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.42,
+    "height": 1.85
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 2856,
+    "triangles": 5584,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.usdz",
+  "preview": "previews/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.usdz",
+  "file_size_bytes": 429619,
+  "sha256": "93547c07ae5c0502fe53e4de6225798e5a5101b2a336df86984a3bfd4f337534",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

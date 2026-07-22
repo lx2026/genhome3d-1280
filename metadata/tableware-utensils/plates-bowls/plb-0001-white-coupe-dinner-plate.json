@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0001",
+  "slug": "plb-0001-white-coupe-dinner-plate",
+  "title": "White Coupe Dinner Plate",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "dinner-charger-plates",
+    "one complete standalone plate",
+    "one continuous raised rim",
+    "one broad shallow well",
+    "white porcelain"
+  ],
+  "dimensions_m": {
+    "width": 0.28,
+    "depth": 0.28,
+    "height": 0.028
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 1513,
+    "triangles": 3022,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0001-white-coupe-dinner-plate.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0001-white-coupe-dinner-plate.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0001-white-coupe-dinner-plate.usdz",
+  "file_size_bytes": 291231,
+  "sha256": "8432b21241ab002ce984cffbc1123ce8b5df282a558e00d5409a7e37783b01bc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

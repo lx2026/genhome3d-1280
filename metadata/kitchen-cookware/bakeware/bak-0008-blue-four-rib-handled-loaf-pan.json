@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0008",
+  "slug": "bak-0008-blue-four-rib-handled-loaf-pan",
+  "title": "Blue Four-Rib Handled Loaf Pan",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "cake-loaf-and-tart-molds",
+    "one complete standalone bakeware assembly",
+    "one rectangular loaf pan",
+    "exactly four side reinforcing ribs per long wall",
+    "exactly two side handles",
+    "one continuous rolled rim"
+  ],
+  "dimensions_m": {
+    "width": 0.33,
+    "depth": 0.16,
+    "height": 0.09
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 2648,
+    "triangles": 5152,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.usdz",
+  "file_size_bytes": 486176,
+  "sha256": "55a1976d46553ccba129b1afcfd1a7be56f1a6fcc92514690e49639ffdece75b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

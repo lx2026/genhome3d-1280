@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0012",
+  "slug": "tlp-0012-sage-ceramic-twelve-flute-shell-table-lamp",
+  "title": "Sage-Ceramic Twelve-Flute Shell Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "compact-residential",
+    "one complete freestanding tabletop lamp assembly",
+    "one low rectangular base",
+    "one short support stem",
+    "one ceramic half-shell shade",
+    "exactly twelve radial flutes",
+    "one rolled lip and diffuser"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.24,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 3108,
+    "triangles": 6148,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0012-sage-ceramic-twelve-flute-shell-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0012-sage-ceramic-twelve-flute-shell-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0012-sage-ceramic-twelve-flute-shell-table-lamp.usdz",
+  "file_size_bytes": 481251,
+  "sha256": "13cbc79dd191db00be55e4d515aee33b8e2d9b02ad7165755153c7baebacb3ff",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0014",
+  "slug": "knv-0014-eight-tooth-tomato-knife",
+  "title": "Eight-Tooth Tomato Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "utility-paring-knives",
+    "one complete standalone knife",
+    "one fork-tip tomato blade",
+    "exactly eight scalloped teeth",
+    "one yellow handle"
+  ],
+  "dimensions_m": {
+    "width": 0.23,
+    "depth": 0.032,
+    "height": 0.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1260,
+    "triangles": 2472,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.usdz",
+  "file_size_bytes": 724665,
+  "sha256": "9dd3f10878705304f23f1c5d1e781f233fa486ee29b5872763c7f7b8f19914f7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

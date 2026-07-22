@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0007",
+  "slug": "sof-0007-english-lawson-linen-sofa",
+  "title": "English Lawson Linen Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "classic-upholstered",
+    "english",
+    "lawson",
+    "linen",
+    "loose-cushions"
+  ],
+  "dimensions_m": {
+    "width": 2.05,
+    "depth": 0.92,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 3520,
+    "triangles": 6988,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0007-english-lawson-linen-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0007-english-lawson-linen-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0007-english-lawson-linen-sofa.usdz",
+  "file_size_bytes": 978876,
+  "sha256": "f371325f7a764f75d9c3610fa7080b66ad8f33f3db14c3a3e0cab03711fdc4e0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0003",
+  "slug": "shs-0003-campaign-teak-six-drawer-shoe-chest",
+  "title": "Campaign Teak Six-Drawer Shoe Chest",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "classic-bench",
+    "six drawers",
+    "three by two grid",
+    "twelve brass straps",
+    "four block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.44,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 66,
+    "vertices": 5080,
+    "triangles": 9896,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0003-campaign-teak-six-drawer-shoe-chest.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0003-campaign-teak-six-drawer-shoe-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0003-campaign-teak-six-drawer-shoe-chest.usdz",
+  "file_size_bytes": 970231,
+  "sha256": "472ff00cfff21be4f200caf92c2ba44afabf685db212cc76059038b3d5b4a3f6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

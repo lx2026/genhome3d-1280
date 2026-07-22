@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0017",
+  "slug": "crb-0017-brass-oval-canopy-crib",
+  "title": "Brass Oval Canopy Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "sculptural-specialty",
+    "brass",
+    "oval",
+    "canopy-ring",
+    "four-post"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 0.86,
+    "height": 1.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 40,
+    "vertices": 22112,
+    "triangles": 44076,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0017-brass-oval-canopy-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0017-brass-oval-canopy-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0017-brass-oval-canopy-crib.usdz",
+  "file_size_bytes": 1835097,
+  "sha256": "bfe5d61daa4c29ba8e0b9125b359545272badd3a02f998a99d30163696229e1b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

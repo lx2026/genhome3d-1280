@@ -1,0 +1,56 @@
+{
+  "id": "MIR-0017",
+  "slug": "mir-0017-matte-black-shelf-and-two-peg-mirror",
+  "title": "Matte-Black Shelf-and-Two-Peg Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "architectural-utility-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one rounded-rectangle mirror panel",
+    "one black perimeter frame",
+    "one integrated lower shelf",
+    "exactly two cylindrical hanging pegs",
+    "one rear wall plate"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.18,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1408,
+    "triangles": 2792,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.usdz",
+  "file_size_bytes": 419320,
+  "sha256": "8d4ab5c33fd55f7e06c142b534dfaddf5625cfd318d161f1c40c859a8c790bbf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

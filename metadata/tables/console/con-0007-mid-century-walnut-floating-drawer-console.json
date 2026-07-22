@@ -1,0 +1,54 @@
+{
+  "id": "CON-0007",
+  "slug": "con-0007-mid-century-walnut-floating-drawer-console",
+  "title": "Mid-Century Walnut Floating-Drawer Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "modern-residential",
+    "mid-century",
+    "floating-drawer",
+    "splayed-legs",
+    "brass-pulls"
+  ],
+  "dimensions_m": {
+    "width": 1.3,
+    "depth": 0.35,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1128,
+    "triangles": 2212,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0007-mid-century-walnut-floating-drawer-console.usdz",
+  "preview": "previews/tables/console/con-0007-mid-century-walnut-floating-drawer-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0007-mid-century-walnut-floating-drawer-console.usdz",
+  "file_size_bytes": 918765,
+  "sha256": "75cc55b5b5b0d3a2d7c584fc116a67c9dc85168434e8970fd500a73844c036d0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

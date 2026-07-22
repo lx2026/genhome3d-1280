@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0015",
+  "slug": "knv-0015-blue-sheep-foot-peeling-knife",
+  "title": "Blue Sheep-Foot Peeling Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "utility-paring-knives",
+    "one complete standalone knife",
+    "one short sheep-foot blade",
+    "one straight cutting edge",
+    "one blue handle"
+  ],
+  "dimensions_m": {
+    "width": 0.175,
+    "depth": 0.03,
+    "height": 0.019
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 488,
+    "triangles": 960,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0015-blue-sheep-foot-peeling-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0015-blue-sheep-foot-peeling-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0015-blue-sheep-foot-peeling-knife.usdz",
+  "file_size_bytes": 544029,
+  "sha256": "058db40b9c4ad9a0e9e92043bfe15b72a00e212da802a5059c659c3b53f017e4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

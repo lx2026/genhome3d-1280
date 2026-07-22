@@ -1,0 +1,55 @@
+{
+  "id": "KTB-0009",
+  "slug": "ktb-0009-graphite-steel-four-post-height-adjustable-maker-table",
+  "title": "Graphite-Steel Four-Post Height-Adjustable Maker Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "modern-learning",
+    "height-adjustable maker table",
+    "four telescoping posts",
+    "eight index holes",
+    "four collar blocks",
+    "one side crank"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.62,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 3736,
+    "triangles": 7376,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0009-graphite-steel-four-post-height-adjustable-maker-table.usdz",
+  "preview": "previews/kids/tables/ktb-0009-graphite-steel-four-post-height-adjustable-maker-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0009-graphite-steel-four-post-height-adjustable-maker-table.usdz",
+  "file_size_bytes": 841268,
+  "sha256": "707528aa85ac55b1e106e1382858eca76732c4e9e1e7253cf14bc593964fcda8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

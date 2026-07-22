@@ -1,0 +1,56 @@
+{
+  "id": "GRL-0003",
+  "slug": "grl-0003-mid-century-enamel-kettle-three-leg-grill",
+  "title": "Mid-Century Enamel Kettle Three-Leg Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "heritage-charcoal",
+    "spherical kettle bowl",
+    "one domed lid",
+    "three splayed legs",
+    "two wheels",
+    "one triangular wire shelf",
+    "two vent discs"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.659999,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 3904,
+    "triangles": 7716,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0003-mid-century-enamel-kettle-three-leg-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0003-mid-century-enamel-kettle-three-leg-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0003-mid-century-enamel-kettle-three-leg-grill.usdz",
+  "file_size_bytes": 510494,
+  "sha256": "060d2389ec88a136f83f4de597c570cec23add003a22116d3acfffede5c4ded9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

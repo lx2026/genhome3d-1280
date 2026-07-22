@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0015",
+  "slug": "dsk-0015-sage-rolling-height-adjustable-desk",
+  "title": "Sage Rolling Height-Adjustable Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "compact-adaptive",
+    "height adjustable",
+    "one drawer",
+    "two telescoping columns",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.65,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 2144,
+    "triangles": 4208,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0015-sage-rolling-height-adjustable-desk.usdz",
+  "preview": "previews/office/desks/dsk-0015-sage-rolling-height-adjustable-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0015-sage-rolling-height-adjustable-desk.usdz",
+  "file_size_bytes": 550954,
+  "sha256": "90ff039a6fa46d82752052abb26561d3415bb2f14a60f9141d91063b33eaec8e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

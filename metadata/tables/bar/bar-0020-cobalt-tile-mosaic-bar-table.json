@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0020",
+  "slug": "bar-0020-cobalt-tile-mosaic-bar-table",
+  "title": "Cobalt Tile Mosaic Bar Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "outdoor-architectural",
+    "mosaic",
+    "cobalt",
+    "rounded-rectangle",
+    "block-piers"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.65,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 31,
+    "vertices": 2384,
+    "triangles": 4644,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0020-cobalt-tile-mosaic-bar-table.usdz",
+  "preview": "previews/tables/bar/bar-0020-cobalt-tile-mosaic-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0020-cobalt-tile-mosaic-bar-table.usdz",
+  "file_size_bytes": 237576,
+  "sha256": "415ccce1edaf245abe1ed517b58e14b9997f3e578a22d4bc727264a38d1feb07",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

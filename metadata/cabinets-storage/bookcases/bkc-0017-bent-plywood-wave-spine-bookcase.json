@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0017",
+  "slug": "bkc-0017-bent-plywood-wave-spine-bookcase",
+  "title": "Bent-Plywood Wave-Spine Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "sculptural-specialty",
+    "bent plywood",
+    "wave spine",
+    "six shelves",
+    "two feet"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.4,
+    "height": 1.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1200,
+    "triangles": 2364,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0017-bent-plywood-wave-spine-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0017-bent-plywood-wave-spine-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0017-bent-plywood-wave-spine-bookcase.usdz",
+  "file_size_bytes": 453816,
+  "sha256": "141c0d12493ec6c0847d1277f31ae0af5722559f006a7957e7a1caf382a70c81",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

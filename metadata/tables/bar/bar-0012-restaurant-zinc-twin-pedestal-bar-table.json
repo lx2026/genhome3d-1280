@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0012",
+  "slug": "bar-0012-restaurant-zinc-twin-pedestal-bar-table",
+  "title": "Restaurant Zinc Twin-Pedestal Bar Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "commercial-communal",
+    "restaurant",
+    "zinc",
+    "twin-pedestal",
+    "rounded-rectangle"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.6,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2280,
+    "triangles": 4424,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0012-restaurant-zinc-twin-pedestal-bar-table.usdz",
+  "preview": "previews/tables/bar/bar-0012-restaurant-zinc-twin-pedestal-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0012-restaurant-zinc-twin-pedestal-bar-table.usdz",
+  "file_size_bytes": 614316,
+  "sha256": "6c3e29f81097adb0687efe79542e4e1ed33e758b3d0e572022a4d13c3a190325",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

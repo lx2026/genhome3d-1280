@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0017",
+  "slug": "shs-0017-ivory-plaster-seven-wave-shelf-shoe-rack",
+  "title": "Ivory-Plaster Seven-Wave-Shelf Shoe Rack",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "sculptural-specialty",
+    "seven wave shelves",
+    "two sculpted ends",
+    "concealed rear spine",
+    "alternating profile"
+  ],
+  "dimensions_m": {
+    "width": 1.04,
+    "depth": 0.42,
+    "height": 0.96
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2576,
+    "triangles": 5112,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0017-ivory-plaster-seven-wave-shelf-shoe-rack.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0017-ivory-plaster-seven-wave-shelf-shoe-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0017-ivory-plaster-seven-wave-shelf-shoe-rack.usdz",
+  "file_size_bytes": 652412,
+  "sha256": "c40babaf0ecc7ef8e8983e3b03271bbf2276722acac5b2f5a6e7d10d6976b884",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

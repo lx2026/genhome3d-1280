@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0019",
+  "slug": "ben-0019-travertine-serpentine-bench",
+  "title": "Travertine Serpentine Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "architectural-outdoor",
+    "sculptural",
+    "travertine",
+    "serpentine",
+    "drum-support"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.55,
+    "height": 0.5
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1600,
+    "triangles": 3184,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0019-travertine-serpentine-bench.usdz",
+  "preview": "previews/seating/benches/ben-0019-travertine-serpentine-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0019-travertine-serpentine-bench.usdz",
+  "file_size_bytes": 547000,
+  "sha256": "3042c1198f40fd687f4f812db0a0ddafd210c9de9fe68dade22732b634651834",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

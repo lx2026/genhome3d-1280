@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0004",
+  "slug": "scn-0004-verdigris-brass-five-leaf-uplight-sconce",
+  "title": "Verdigris-Brass Five-Leaf Uplight Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "heritage-ornamental",
+    "one complete wall-mounted sconce light assembly",
+    "one arched wall plate",
+    "one half-bowl uplight",
+    "exactly five embossed leaves",
+    "one concealed light core",
+    "one bottom bud"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.18,
+    "height": 0.440002
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 3348,
+    "triangles": 6396,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.usdz",
+  "file_size_bytes": 745057,
+  "sha256": "b45a3c236118b753b25ec64c53f4a033d2de7fd4d3496e5618551868316b3f8a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

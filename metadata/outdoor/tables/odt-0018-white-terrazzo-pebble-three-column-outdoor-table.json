@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0018",
+  "slug": "odt-0018-white-terrazzo-pebble-three-column-outdoor-table",
+  "title": "White-Terrazzo Pebble Three-Column Outdoor Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "architectural-specialty",
+    "one asymmetric pebble outdoor table",
+    "one terrazzo top",
+    "three cylindrical support columns",
+    "three different column diameters",
+    "three recessed floor pads"
+  ],
+  "dimensions_m": {
+    "width": 1.62,
+    "depth": 0.92,
+    "height": 0.74
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2944,
+    "triangles": 5860,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0018-white-terrazzo-pebble-three-column-outdoor-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0018-white-terrazzo-pebble-three-column-outdoor-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0018-white-terrazzo-pebble-three-column-outdoor-table.usdz",
+  "file_size_bytes": 685175,
+  "sha256": "a5be4ab079e7ad845e8b0acaf1160b33b5574c9cfc55673e00c148753b65a1d5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

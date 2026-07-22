@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0017",
+  "slug": "sap-0017-mint-seven-port-handheld-garment-steamer",
+  "title": "Mint Seven-Port Handheld Garment Steamer",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "home care and climate",
+    "one complete standalone small appliance",
+    "one mint handheld steamer with one removable water tank, one upper steam head with exactly seven outlet ports, one trigger, and one level base."
+  ],
+  "dimensions_m": {
+    "width": 0.13,
+    "depth": 0.1,
+    "height": 0.26
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3000,
+    "triangles": 5952,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.usdz",
+  "file_size_bytes": 721914,
+  "sha256": "8274ac60334e22aad9974ba2c873be4d5a9e21eefbceff2d229a24845843eac4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

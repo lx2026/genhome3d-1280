@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0018",
+  "slug": "grl-0018-warm-terrazzo-cone-hood-fireplace-grill",
+  "title": "Warm-Terrazzo Cone-Hood Fireplace Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "architectural-specialty",
+    "one suspended conical smoke hood",
+    "one circular grill tray",
+    "one cylindrical terrazzo pedestal",
+    "three arched vent openings",
+    "one circular foot"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.78,
+    "height": 1.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 4020,
+    "triangles": 7892,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0018-warm-terrazzo-cone-hood-fireplace-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0018-warm-terrazzo-cone-hood-fireplace-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0018-warm-terrazzo-cone-hood-fireplace-grill.usdz",
+  "file_size_bytes": 491005,
+  "sha256": "559c39464238f1b55c9bb4fcddd7ce64e28517cb5eb61f25f931581efab1df8c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

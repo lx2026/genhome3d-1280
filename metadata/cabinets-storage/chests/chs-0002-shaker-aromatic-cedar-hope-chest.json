@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0002",
+  "slug": "chs-0002-shaker-aromatic-cedar-hope-chest",
+  "title": "Shaker Aromatic-Cedar Hope Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "classic-heritage",
+    "shaker",
+    "waterfall lid",
+    "two front panels",
+    "recessed plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.52,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 1288,
+    "triangles": 2512,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0002-shaker-aromatic-cedar-hope-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0002-shaker-aromatic-cedar-hope-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0002-shaker-aromatic-cedar-hope-chest.usdz",
+  "file_size_bytes": 555441,
+  "sha256": "f51b9aafba3a540b06febbaee44ffa6df4fde696c2280767b6724cb38a0c7e8b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

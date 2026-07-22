@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0001",
+  "slug": "mir-0001-thin-brass-round-halo-mirror",
+  "title": "Thin-Brass Round Halo Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "framed-geometric-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one circular mirror panel",
+    "one thin brass perimeter ring",
+    "one recessed dark backing disc",
+    "exactly three concealed rear spacers"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.06,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1952,
+    "triangles": 3884,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.usdz",
+  "file_size_bytes": 715549,
+  "sha256": "3b062b5eab8bbb4d38114f2ad33d1c4393900f26cad151d5de6e9b69b0097f20",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

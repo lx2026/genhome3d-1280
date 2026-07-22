@@ -1,0 +1,57 @@
+{
+  "id": "ART-0015",
+  "slug": "art-0015-opalescent-acrylic-six-vane-spiral-column",
+  "title": "Opalescent-Acrylic Six-Vane Spiral Column",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "geometric-kinetic-objects",
+    "one complete freestanding decorative art-object assembly",
+    "one central aluminum rod",
+    "exactly six translucent helical vanes",
+    "one circular metal base",
+    "one circular metal top cap",
+    "six evenly spaced radial vane starts",
+    "one continuous rising spiral composition"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.32,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1640,
+    "triangles": 3244,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0015-opalescent-acrylic-six-vane-spiral-column.usdz",
+  "preview": "previews/decor/art-objects/art-0015-opalescent-acrylic-six-vane-spiral-column.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0015-opalescent-acrylic-six-vane-spiral-column.usdz",
+  "file_size_bytes": 731720,
+  "sha256": "beeaaac624f89bf893acd7498d0d5ddd917720302e8efa01e9ea93987ad8d4ef",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

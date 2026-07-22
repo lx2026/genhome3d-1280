@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0008",
+  "slug": "crb-0008-black-steel-tubular-crib",
+  "title": "Black-Steel Tubular Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "modern-convertible",
+    "black-steel",
+    "tubular",
+    "vertical-rods",
+    "oak-deck"
+  ],
+  "dimensions_m": {
+    "width": 1.44,
+    "depth": 0.78,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 66,
+    "vertices": 10752,
+    "triangles": 21240,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0008-black-steel-tubular-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0008-black-steel-tubular-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0008-black-steel-tubular-crib.usdz",
+  "file_size_bytes": 1053571,
+  "sha256": "8ce9fbbfce2d4c4b3781aea7ae3f1ceed7ecf83077c6adbe910da3e28b94a07a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

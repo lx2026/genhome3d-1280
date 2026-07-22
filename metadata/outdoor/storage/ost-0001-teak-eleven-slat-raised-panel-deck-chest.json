@@ -1,0 +1,55 @@
+{
+  "id": "OST-0001",
+  "slug": "ost-0001-teak-eleven-slat-raised-panel-deck-chest",
+  "title": "Teak Eleven-Slat Raised-Panel Deck Chest",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "heritage-utility",
+    "one deck chest",
+    "eleven lid slats",
+    "three raised front panels",
+    "two side handles",
+    "four block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.28,
+    "depth": 0.62,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 3368,
+    "triangles": 6636,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0001-teak-eleven-slat-raised-panel-deck-chest.usdz",
+  "preview": "previews/outdoor/storage/ost-0001-teak-eleven-slat-raised-panel-deck-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0001-teak-eleven-slat-raised-panel-deck-chest.usdz",
+  "file_size_bytes": 518978,
+  "sha256": "2e28ee3f82c73da0ed8b28a0aac431cc812dfdc011786b26e9ccd2a36e3bc527",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

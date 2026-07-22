@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0015",
+  "slug": "vny-0015-white-oak-lift-top-console-vanity",
+  "title": "White-Oak Lift-Top Console Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "compact-adaptive",
+    "lift top",
+    "organizer bays",
+    "mirror lid"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.45,
+    "height": 1.22
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1488,
+    "triangles": 2920,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0015-white-oak-lift-top-console-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0015-white-oak-lift-top-console-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0015-white-oak-lift-top-console-vanity.usdz",
+  "file_size_bytes": 752562,
+  "sha256": "26af00c8a6b989c41f70f0a566c96d870896a1731f07a830f8a4231a91f78fc6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

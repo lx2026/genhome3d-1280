@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0004",
+  "slug": "ktb-0004-french-provincial-painted-ash-oval-play-table",
+  "title": "French Provincial Painted-Ash Oval Play Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "classic-playroom",
+    "oval play top",
+    "scalloped apron",
+    "four cabriole legs",
+    "four porcelain rosettes"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.58,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 12628,
+    "triangles": 24868,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0004-french-provincial-painted-ash-oval-play-table.usdz",
+  "preview": "previews/kids/tables/ktb-0004-french-provincial-painted-ash-oval-play-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0004-french-provincial-painted-ash-oval-play-table.usdz",
+  "file_size_bytes": 1385656,
+  "sha256": "d13e202d2c329f12044b448f10d4e96298b4a1f39686fcb2bb546d0471607c05",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0020",
+  "slug": "plt-0020-brutalist-concrete-six-fin-sled-base-trough-planter",
+  "title": "Brutalist Concrete Six-Fin Sled-Base Trough Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "sculptural-specialty",
+    "one long asymmetric trough",
+    "six external vertical fins",
+    "one continuous planting cavity",
+    "one recessed steel sled base"
+  ],
+  "dimensions_m": {
+    "width": 1.42,
+    "depth": 0.62,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 912,
+    "triangles": 1784,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0020-brutalist-concrete-six-fin-sled-base-trough-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0020-brutalist-concrete-six-fin-sled-base-trough-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0020-brutalist-concrete-six-fin-sled-base-trough-planter.usdz",
+  "file_size_bytes": 135360,
+  "sha256": "9055d00fa340d335f74b1c8388c4d2aa2964b9ce7338d96fe877e8c918b4442b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

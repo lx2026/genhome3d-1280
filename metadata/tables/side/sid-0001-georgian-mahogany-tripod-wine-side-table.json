@@ -1,0 +1,54 @@
+{
+  "id": "SID-0001",
+  "slug": "sid-0001-georgian-mahogany-tripod-wine-side-table",
+  "title": "Georgian Mahogany Tripod Wine Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "heritage-craft",
+    "georgian",
+    "tripod",
+    "piecrust",
+    "turned-pedestal"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.48,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 2188,
+    "triangles": 4212,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0001-georgian-mahogany-tripod-wine-side-table.usdz",
+  "preview": "previews/tables/side/sid-0001-georgian-mahogany-tripod-wine-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0001-georgian-mahogany-tripod-wine-side-table.usdz",
+  "file_size_bytes": 520008,
+  "sha256": "ff6e16906e13793c18fde0921b18d41c0087eee31d49aedb7cb956d18f5cb434",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

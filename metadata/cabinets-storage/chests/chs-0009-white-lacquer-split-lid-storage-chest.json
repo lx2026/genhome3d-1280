@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0009",
+  "slug": "chs-0009-white-lacquer-split-lid-storage-chest",
+  "title": "White-Lacquer Split-Lid Storage Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "modern-utility",
+    "split lid",
+    "two lift panels",
+    "center seam",
+    "recessed plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.3,
+    "depth": 0.52,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 792,
+    "triangles": 1560,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0009-white-lacquer-split-lid-storage-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0009-white-lacquer-split-lid-storage-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0009-white-lacquer-split-lid-storage-chest.usdz",
+  "file_size_bytes": 300923,
+  "sha256": "a5892424154423a088a6f553bf4beedfdbee399f248241155aa54dc871d8b0df",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

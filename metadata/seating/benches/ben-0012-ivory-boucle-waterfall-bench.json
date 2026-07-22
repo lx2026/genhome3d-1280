@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0012",
+  "slug": "ben-0012-ivory-boucle-waterfall-bench",
+  "title": "Ivory Boucl\u00e9 Waterfall Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "upholstered",
+    "contemporary",
+    "boucle",
+    "waterfall",
+    "fully-upholstered"
+  ],
+  "dimensions_m": {
+    "width": 1.3,
+    "depth": 0.5,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1464,
+    "triangles": 2916,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0012-ivory-boucle-waterfall-bench.usdz",
+  "preview": "previews/seating/benches/ben-0012-ivory-boucle-waterfall-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0012-ivory-boucle-waterfall-bench.usdz",
+  "file_size_bytes": 749991,
+  "sha256": "d25abef790f0af06f9194e8f26d0894757e826cb08d2563cff79377b9332d4bd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

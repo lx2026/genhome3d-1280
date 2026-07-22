@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0020",
+  "slug": "ben-0020-aluminum-ribbon-bench",
+  "title": "Aluminum Ribbon Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "architectural-outdoor",
+    "contemporary",
+    "aluminum",
+    "perforated",
+    "folded-ribbon"
+  ],
+  "dimensions_m": {
+    "width": 2.0,
+    "depth": 0.58,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 140,
+    "vertices": 22384,
+    "triangles": 44208,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0020-aluminum-ribbon-bench.usdz",
+  "preview": "previews/seating/benches/ben-0020-aluminum-ribbon-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0020-aluminum-ribbon-bench.usdz",
+  "file_size_bytes": 617418,
+  "sha256": "2ad35be96f3a24863f4427cdd7c608658972c5871a4fab5c8779bf85cfd7f2c6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

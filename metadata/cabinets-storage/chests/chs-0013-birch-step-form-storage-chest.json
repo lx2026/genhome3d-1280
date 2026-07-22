@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0013",
+  "slug": "chs-0013-birch-step-form-storage-chest",
+  "title": "Birch Step-Form Storage Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "compact-adaptive",
+    "step form",
+    "three connected boxes",
+    "three lift lids",
+    "integrated base"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.5,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 960,
+    "triangles": 1880,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0013-birch-step-form-storage-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0013-birch-step-form-storage-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0013-birch-step-form-storage-chest.usdz",
+  "file_size_bytes": 517054,
+  "sha256": "b3f1281c4c8be948fd6f9dddd74a4c6b8721da48bb8aff13f9a406ee1bf8609a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

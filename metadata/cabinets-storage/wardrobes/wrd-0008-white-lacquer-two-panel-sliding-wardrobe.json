@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0008",
+  "slug": "wrd-0008-white-lacquer-two-panel-sliding-wardrobe",
+  "title": "White-Lacquer Two-Panel Sliding Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "modern-utility",
+    "white lacquer",
+    "two sliding panels",
+    "two tracks",
+    "sled base"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.58,
+    "height": 1.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 784,
+    "triangles": 1540,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0008-white-lacquer-two-panel-sliding-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0008-white-lacquer-two-panel-sliding-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0008-white-lacquer-two-panel-sliding-wardrobe.usdz",
+  "file_size_bytes": 288005,
+  "sha256": "063a9f9ddc62480698a44395d1960eaf84bc4b2cb14bbe05d60e025016999a31",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

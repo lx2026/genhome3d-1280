@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0018",
+  "slug": "dsk-0018-natural-rattan-wave-desk",
+  "title": "Natural-Rattan Wave Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "sculptural-specialty",
+    "rattan wave",
+    "three drawers",
+    "four sphere feet",
+    "woven fascia"
+  ],
+  "dimensions_m": {
+    "width": 1.38,
+    "depth": 0.68,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 6188,
+    "triangles": 12288,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0018-natural-rattan-wave-desk.usdz",
+  "preview": "previews/office/desks/dsk-0018-natural-rattan-wave-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0018-natural-rattan-wave-desk.usdz",
+  "file_size_bytes": 1255335,
+  "sha256": "d22214c1dfd1be9c32c77fab37cc6996c4f5fe029342f7f97a9765467badf63f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

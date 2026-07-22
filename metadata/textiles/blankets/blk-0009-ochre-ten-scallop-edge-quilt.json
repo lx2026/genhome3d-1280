@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0009",
+  "slug": "blk-0009-ochre-ten-scallop-edge-quilt",
+  "title": "Ochre Ten-Scallop-Edge Quilt",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "quilted-patchwork-blankets",
+    "one complete standalone folded quilt",
+    "exactly two folded layers",
+    "exactly ten visible front-edge scallops",
+    "one repeated fan-stitch field"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.54,
+    "height": 0.16
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 36,
+    "vertices": 3692,
+    "triangles": 6088,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0009-ochre-ten-scallop-edge-quilt.usdz",
+  "preview": "previews/textiles/blankets/blk-0009-ochre-ten-scallop-edge-quilt.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0009-ochre-ten-scallop-edge-quilt.usdz",
+  "file_size_bytes": 916370,
+  "sha256": "5f44fcd6791702147414674dbdb2801f673163e6e2f36af58cf551c87a76f54f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

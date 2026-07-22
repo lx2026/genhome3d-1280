@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0010",
+  "slug": "shs-0010-color-blocked-six-crate-mobile-shoe-cart",
+  "title": "Color-Blocked Six-Crate Mobile Shoe Cart",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "modern-cabinet",
+    "six pull-out crates",
+    "three by two grid",
+    "one side handle",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.44,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 57,
+    "vertices": 5056,
+    "triangles": 9884,
+    "material_slots": 7
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0010-color-blocked-six-crate-mobile-shoe-cart.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0010-color-blocked-six-crate-mobile-shoe-cart.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0010-color-blocked-six-crate-mobile-shoe-cart.usdz",
+  "file_size_bytes": 1398133,
+  "sha256": "99ccb7127ad35ec8d1e0aeda9393663f55b2e2f607022950198f831dbe08c079",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

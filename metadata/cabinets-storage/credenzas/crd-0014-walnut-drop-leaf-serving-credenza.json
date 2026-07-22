@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0014",
+  "slug": "crd-0014-walnut-drop-leaf-serving-credenza",
+  "title": "Walnut Drop-Leaf Serving Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "compact-adaptive",
+    "serving",
+    "two drop leaves",
+    "two center doors",
+    "two gate supports"
+  ],
+  "dimensions_m": {
+    "width": 1.200151,
+    "depth": 0.45,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2088,
+    "triangles": 4112,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0014-walnut-drop-leaf-serving-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0014-walnut-drop-leaf-serving-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0014-walnut-drop-leaf-serving-credenza.usdz",
+  "file_size_bytes": 884931,
+  "sha256": "d23dad99b498cca7f985effa7e62b73761ce0a97c58a20f0aad2a717ddea7719",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

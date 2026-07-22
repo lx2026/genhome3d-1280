@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0002",
+  "slug": "umb-0002-french-provincial-painted-ash-six-bay-scalloped-umbrella-stand",
+  "title": "French Provincial Painted-Ash Six-Bay Scalloped Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "classic-basin",
+    "six bays",
+    "arched dividers",
+    "zinc catch basin",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.42,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 22332,
+    "triangles": 44248,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0002-french-provincial-painted-ash-six-bay-scalloped-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0002-french-provincial-painted-ash-six-bay-scalloped-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0002-french-provincial-painted-ash-six-bay-scalloped-umbrella-stand.usdz",
+  "file_size_bytes": 2179795,
+  "sha256": "09208cb253cedf6dc891b2b7b64d28cb48aab5a8b9e88857b1b0a191a9c4d778",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

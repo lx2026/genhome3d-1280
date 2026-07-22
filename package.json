@@ -1,0 +1,13 @@
+{
+  "name": "genhome3d-1280-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page and browser checks for GenHome3D-1280",
+  "scripts": {
+    "build:site": "./tools/build_site.sh",
+    "test:site": "playwright test tests/site.spec.js --reporter=line"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1"
+  }
+}

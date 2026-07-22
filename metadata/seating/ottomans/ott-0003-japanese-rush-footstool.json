@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0003",
+  "slug": "ott-0003-japanese-rush-footstool",
+  "title": "Japanese Rush Footstool",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "compact-footstool",
+    "japanese",
+    "rush",
+    "ash",
+    "joinery"
+  ],
+  "dimensions_m": {
+    "width": 0.55,
+    "depth": 0.42,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 2592,
+    "triangles": 5076,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0003-japanese-rush-footstool.usdz",
+  "preview": "previews/seating/ottomans/ott-0003-japanese-rush-footstool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0003-japanese-rush-footstool.usdz",
+  "file_size_bytes": 1450775,
+  "sha256": "f8d8a02c2876f249ba8b4f68e1b07ad7f6b5c313b0ac8fe1369fbdfb4fc70e4d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

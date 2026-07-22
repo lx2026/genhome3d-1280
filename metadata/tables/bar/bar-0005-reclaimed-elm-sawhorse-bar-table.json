@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0005",
+  "slug": "bar-0005-reclaimed-elm-sawhorse-bar-table",
+  "title": "Reclaimed Elm Sawhorse Bar Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "pub-traditional",
+    "rustic",
+    "elm",
+    "sawhorse",
+    "long-stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.25,
+    "depth": 0.6,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1408,
+    "triangles": 2768,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0005-reclaimed-elm-sawhorse-bar-table.usdz",
+  "preview": "previews/tables/bar/bar-0005-reclaimed-elm-sawhorse-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0005-reclaimed-elm-sawhorse-bar-table.usdz",
+  "file_size_bytes": 575975,
+  "sha256": "918516eb40a4c7b6ed94f724a4cb7c8becd8a66b77fa3dfefa13a62ef40d65cf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

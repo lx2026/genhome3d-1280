@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0015",
+  "slug": "drs-0015-olive-canvas-folding-campaign-dresser",
+  "title": "Olive-Canvas Folding Campaign Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "compact-adaptive",
+    "folding campaign",
+    "five canvas drawers",
+    "two x frames",
+    "tray top"
+  ],
+  "dimensions_m": {
+    "width": 0.82,
+    "depth": 0.45,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 29,
+    "vertices": 3408,
+    "triangles": 6700,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0015-olive-canvas-folding-campaign-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0015-olive-canvas-folding-campaign-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0015-olive-canvas-folding-campaign-dresser.usdz",
+  "file_size_bytes": 575546,
+  "sha256": "9ca70f02478526346faa4fad4e57024b003801d2bb669c663cf5e7f864766bf9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

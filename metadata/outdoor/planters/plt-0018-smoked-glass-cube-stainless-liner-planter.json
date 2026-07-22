@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0018",
+  "slug": "plt-0018-smoked-glass-cube-stainless-liner-planter",
+  "title": "Smoked-Glass Cube Stainless-Liner Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "sculptural-specialty",
+    "one smoked-glass outer cube",
+    "one stainless cylindrical liner",
+    "one X base frame",
+    "four corner posts"
+  ],
+  "dimensions_m": {
+    "width": 0.66,
+    "depth": 0.66,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1984,
+    "triangles": 3928,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0018-smoked-glass-cube-stainless-liner-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0018-smoked-glass-cube-stainless-liner-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0018-smoked-glass-cube-stainless-liner-planter.usdz",
+  "file_size_bytes": 372623,
+  "sha256": "adb7eb89fc4d7da060b20474cf04499355bb440d9d4c78cf007d4c6e5d12a410",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0010",
+  "slug": "plt-0010-black-aluminum-triple-bay-sled-planter",
+  "title": "Black-Aluminum Triple-Bay Sled Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "modern-architectural",
+    "one long modular body",
+    "three planting bays",
+    "two divider walls",
+    "two continuous sled runners"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.54,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 1528,
+    "triangles": 2992,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0010-black-aluminum-triple-bay-sled-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0010-black-aluminum-triple-bay-sled-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0010-black-aluminum-triple-bay-sled-planter.usdz",
+  "file_size_bytes": 89436,
+  "sha256": "278e0ed00221864a98d0fdbe4724d0b1ddb6f377b4666469767de22cfa68a019",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

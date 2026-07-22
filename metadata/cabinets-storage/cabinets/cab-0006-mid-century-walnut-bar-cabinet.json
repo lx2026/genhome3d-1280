@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0006",
+  "slug": "cab-0006-mid-century-walnut-bar-cabinet",
+  "title": "Mid-Century Walnut Bar Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "modern-utility",
+    "mid century",
+    "two upper doors",
+    "drop front",
+    "two lower doors"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.46,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 2264,
+    "triangles": 4452,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.usdz",
+  "file_size_bytes": 866791,
+  "sha256": "2296652f9cc12d3cb0371b30d7bcfca422f907e2ad700ad9de4c4547371c5a95",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

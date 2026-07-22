@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0019",
+  "slug": "svw-0019-white-footed-gravy-boat",
+  "title": "White Footed Gravy Boat",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "tiered-and-formal-servers",
+    "one complete standalone serving product",
+    "one open white gravy boat with one formed pouring spout, one true open loop handle, and one oval pedestal foot."
+  ],
+  "dimensions_m": {
+    "width": 0.25,
+    "depth": 0.11,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2747,
+    "triangles": 5382,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0019-white-footed-gravy-boat.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0019-white-footed-gravy-boat.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0019-white-footed-gravy-boat.usdz",
+  "file_size_bytes": 375820,
+  "sha256": "237ce2608e6d5afa1fddc07e7e84e4738eff2db840657e1088efbca0fa415367",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

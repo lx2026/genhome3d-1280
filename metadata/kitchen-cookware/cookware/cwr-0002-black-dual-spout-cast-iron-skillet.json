@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0002",
+  "slug": "cwr-0002-black-dual-spout-cast-iron-skillet",
+  "title": "Black Dual-Spout Cast-Iron Skillet",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "frying-and-saute-pans",
+    "one complete standalone cookware assembly",
+    "one round cast-iron skillet",
+    "exactly two opposed pour spouts",
+    "exactly one long handle",
+    "exactly one helper loop"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.33,
+    "height": 0.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2873,
+    "triangles": 5622,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.usdz",
+  "file_size_bytes": 374595,
+  "sha256": "c54026d03e1f786581d1b1988e036102c2ab6d3102b92b192d9525fecc7057c6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

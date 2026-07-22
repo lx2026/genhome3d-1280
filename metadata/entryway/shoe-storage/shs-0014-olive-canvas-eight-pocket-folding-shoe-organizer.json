@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0014",
+  "slug": "shs-0014-olive-canvas-eight-pocket-folding-shoe-organizer",
+  "title": "Olive-Canvas Eight-Pocket Folding Shoe Organizer",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "compact-adaptive",
+    "eight canvas pockets",
+    "two by four array",
+    "two folding x frames",
+    "four rubber feet"
+  ],
+  "dimensions_m": {
+    "width": 0.74,
+    "depth": 0.42,
+    "height": 1.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 3648,
+    "triangles": 7168,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0014-olive-canvas-eight-pocket-folding-shoe-organizer.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0014-olive-canvas-eight-pocket-folding-shoe-organizer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0014-olive-canvas-eight-pocket-folding-shoe-organizer.usdz",
+  "file_size_bytes": 748205,
+  "sha256": "8891081a92e7f9a535a69712bf29900238385b19dd864aeb7ddf173b41d37f1f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

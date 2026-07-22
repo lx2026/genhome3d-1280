@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0009",
+  "slug": "umb-0009-walnut-black-steel-five-bay-slat-umbrella-stand",
+  "title": "Walnut-and-Black-Steel Five-Bay Slat Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "modern-drainage",
+    "five bays",
+    "five walnut slats",
+    "pull-out tray",
+    "two sled feet"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.34,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 2400,
+    "triangles": 4732,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0009-walnut-black-steel-five-bay-slat-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0009-walnut-black-steel-five-bay-slat-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0009-walnut-black-steel-five-bay-slat-umbrella-stand.usdz",
+  "file_size_bytes": 653918,
+  "sha256": "741053c7cb0c2d9abbc7c03c51b2f81274972e68e5360710f8f3f4476f96a4b7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

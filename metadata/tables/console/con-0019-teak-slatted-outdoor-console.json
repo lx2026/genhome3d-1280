@@ -1,0 +1,54 @@
+{
+  "id": "CON-0019",
+  "slug": "con-0019-teak-slatted-outdoor-console",
+  "title": "Teak Slatted Outdoor Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "sculptural-outdoor",
+    "teak",
+    "slatted-top",
+    "slatted-shelf",
+    "braced-frame"
+  ],
+  "dimensions_m": {
+    "width": 1.25,
+    "depth": 0.42,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 1504,
+    "triangles": 2912,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0019-teak-slatted-outdoor-console.usdz",
+  "preview": "previews/tables/console/con-0019-teak-slatted-outdoor-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0019-teak-slatted-outdoor-console.usdz",
+  "file_size_bytes": 436392,
+  "sha256": "4a3a19e557df425fcabb0c9b62d84bbb5d8caed9be7a8a8ddc4fd0f5d10285b2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

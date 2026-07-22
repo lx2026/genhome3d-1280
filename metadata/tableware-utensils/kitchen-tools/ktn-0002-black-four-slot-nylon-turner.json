@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0002",
+  "slug": "ktn-0002-black-four-slot-nylon-turner",
+  "title": "Black Four-Slot Nylon Turner",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "cooking-turning-tools",
+    "one complete standalone kitchen tool",
+    "exactly four open head slots",
+    "one beveled leading edge",
+    "one red hanging handle"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.09,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 2,
+    "vertices": 1874,
+    "triangles": 3760,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0002-black-four-slot-nylon-turner.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0002-black-four-slot-nylon-turner.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0002-black-four-slot-nylon-turner.usdz",
+  "file_size_bytes": 351615,
+  "sha256": "491e47e08b0b5ce5c89922256db64ef418ce818f7298c454cfb341e89b5f9e8e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

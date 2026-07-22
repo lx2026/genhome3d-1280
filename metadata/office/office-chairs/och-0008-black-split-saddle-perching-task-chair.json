@@ -1,0 +1,56 @@
+{
+  "id": "OCH-0008",
+  "slug": "och-0008-black-split-saddle-perching-task-chair",
+  "title": "Black Split-Saddle Perching Task Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "ergonomic-task",
+    "perching",
+    "two saddle pads",
+    "one lumbar pad",
+    "one foot ring",
+    "five spokes",
+    "five casters"
+  ],
+  "dimensions_m": {
+    "width": 0.560003,
+    "depth": 0.62,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 7704,
+    "triangles": 15324,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.usdz",
+  "file_size_bytes": 1085280,
+  "sha256": "8d065c5e4baf2003ab9882ce576c73c4c69e9b08c84ec17cbc1b4d33355f7d29",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

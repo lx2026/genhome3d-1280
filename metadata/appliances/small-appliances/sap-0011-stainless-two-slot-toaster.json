@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0011",
+  "slug": "sap-0011-stainless-two-slot-toaster",
+  "title": "Stainless Two-Slot Toaster",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "countertop cooking",
+    "one complete standalone small appliance",
+    "one stainless toaster with exactly two top bread slots, one side lever, one browning dial, and three side buttons."
+  ],
+  "dimensions_m": {
+    "width": 0.28,
+    "depth": 0.18,
+    "height": 0.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1752,
+    "triangles": 3472,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0011-stainless-two-slot-toaster.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0011-stainless-two-slot-toaster.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0011-stainless-two-slot-toaster.usdz",
+  "file_size_bytes": 572207,
+  "sha256": "871d434bdd630c5dceefba0c0bbd44e375471d12dd1ef1bf542d1d6cc1aa37ea",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

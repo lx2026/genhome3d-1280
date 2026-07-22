@@ -1,0 +1,57 @@
+{
+  "id": "ART-0008",
+  "slug": "art-0008-white-porcelain-embracing-figures-sculpture",
+  "title": "White-Porcelain Embracing-Figures Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "figurative-natural-motifs",
+    "one complete freestanding decorative art-object assembly",
+    "exactly two abstract human figures",
+    "exactly two round heads",
+    "exactly two tapered torsos",
+    "exactly two outer arm curves meeting as one embrace",
+    "one shared oval porcelain plinth",
+    "one clear heart-like central negative space"
+  ],
+  "dimensions_m": {
+    "width": 0.4,
+    "depth": 0.26,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 3456,
+    "triangles": 6788,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.usdz",
+  "file_size_bytes": 366849,
+  "sha256": "fdd88f962e60b925869a0e296982d43bb0200e908205f8e0a24336bdc03f251f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

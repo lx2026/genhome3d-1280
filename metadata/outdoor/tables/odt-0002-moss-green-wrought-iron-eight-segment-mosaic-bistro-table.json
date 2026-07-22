@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0002",
+  "slug": "odt-0002-moss-green-wrought-iron-eight-segment-mosaic-bistro-table",
+  "title": "Moss-Green Wrought-Iron Eight-Segment Mosaic Bistro Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "heritage-garden",
+    "one round bistro table",
+    "eight radial mosaic top segments",
+    "three scroll legs",
+    "one center collar",
+    "three round feet"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.78,
+    "height": 0.74
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 3940,
+    "triangles": 7676,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0002-moss-green-wrought-iron-eight-segment-mosaic-bistro-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0002-moss-green-wrought-iron-eight-segment-mosaic-bistro-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0002-moss-green-wrought-iron-eight-segment-mosaic-bistro-table.usdz",
+  "file_size_bytes": 1036843,
+  "sha256": "ef10abc011ca58075d1e53ea14f4e8c29221d964365f5a4f6e4d094b6bf3902e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

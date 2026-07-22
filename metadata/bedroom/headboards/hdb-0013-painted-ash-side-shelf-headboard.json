@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0013",
+  "slug": "hdb-0013-painted-ash-side-shelf-headboard",
+  "title": "Painted-Ash Side-Shelf Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "storage-integrated",
+    "painted-ash",
+    "side-shelves",
+    "grooved-panel",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.92,
+    "depth": 0.23,
+    "height": 1.22
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 53,
+    "vertices": 3408,
+    "triangles": 6604,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0013-painted-ash-side-shelf-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0013-painted-ash-side-shelf-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0013-painted-ash-side-shelf-headboard.usdz",
+  "file_size_bytes": 505444,
+  "sha256": "aeffef257af6ffab0b6d5da974b5cdd0b283932a082560b5d9a50e109788511e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

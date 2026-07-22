@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0017",
+  "slug": "sof-0017-teak-rope-outdoor-sofa",
+  "title": "Teak Rope Outdoor Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "architectural-outdoor",
+    "teak",
+    "rope",
+    "woven",
+    "outdoor"
+  ],
+  "dimensions_m": {
+    "width": 2.1,
+    "depth": 0.92,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 62,
+    "vertices": 8624,
+    "triangles": 17000,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0017-teak-rope-outdoor-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0017-teak-rope-outdoor-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0017-teak-rope-outdoor-sofa.usdz",
+  "file_size_bytes": 1343823,
+  "sha256": "142890c0bdbf985e96104eb441777008f9e8061a63a263ed8cbe1ee0014eae7d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

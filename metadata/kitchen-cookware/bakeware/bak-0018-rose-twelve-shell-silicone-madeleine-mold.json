@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0018",
+  "slug": "bak-0018-rose-twelve-shell-silicone-madeleine-mold",
+  "title": "Rose Twelve-Shell Silicone Madeleine Mold",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "specialty-bakeware",
+    "one complete standalone bakeware assembly",
+    "one rectangular silicone madeleine mold",
+    "exactly twelve shell-shaped cavities",
+    "one 3 by 4 cavity field",
+    "one continuous flexible perimeter flange"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.23,
+    "height": 0.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 74,
+    "vertices": 10968,
+    "triangles": 21644,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0018-rose-twelve-shell-silicone-madeleine-mold.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0018-rose-twelve-shell-silicone-madeleine-mold.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0018-rose-twelve-shell-silicone-madeleine-mold.usdz",
+  "file_size_bytes": 504654,
+  "sha256": "2e75ae7538e0c7c20450b2a37b366863d9c24f9c3225c51c222936920b350651",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

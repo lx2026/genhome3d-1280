@@ -1,0 +1,55 @@
+{
+  "id": "PND-0002",
+  "slug": "pnd-0002-blackened-iron-six-panel-lantern-pendant",
+  "title": "Blackened-Iron Six-Panel Lantern Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "heritage-ornamental",
+    "one complete ceiling-mounted pendant light assembly",
+    "one round canopy and one rigid stem",
+    "exactly six cage posts",
+    "six clear glass panels",
+    "one central candle lamp"
+  ],
+  "dimensions_m": {
+    "width": 0.380069,
+    "depth": 0.38,
+    "height": 0.91999
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 29,
+    "vertices": 4452,
+    "triangles": 8788,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0002-blackened-iron-six-panel-lantern-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0002-blackened-iron-six-panel-lantern-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0002-blackened-iron-six-panel-lantern-pendant.usdz",
+  "file_size_bytes": 673739,
+  "sha256": "d5d53f75a4131d7ef98af7d85d4858aff0d49ca4d48dc422a29d0e291f33e297",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

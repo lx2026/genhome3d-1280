@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0012",
+  "slug": "hdb-0012-walnut-three-cubby-bookcase-headboard",
+  "title": "Walnut Three-Cubby Bookcase Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "storage-integrated",
+    "walnut",
+    "three-cubbies",
+    "bookcase",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.16,
+    "depth": 0.3,
+    "height": 1.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 864,
+    "triangles": 1692,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.usdz",
+  "file_size_bytes": 537139,
+  "sha256": "75ff86aaea28a30db29cdbd82c05756ffa7b34ce5bfea665955bc468ff8be317",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

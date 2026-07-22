@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0007",
+  "slug": "mat-0007-queen-copper-gel-memory-foam-mattress",
+  "title": "Queen Copper-Gel Memory-Foam Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foam-hybrid",
+    "queen",
+    "three-layer cutaway"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 2.03,
+    "height": 0.27
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 3448,
+    "triangles": 6876,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.usdz",
+  "file_size_bytes": 1777873,
+  "sha256": "00b41287911afff55ce95ea33c94604cd89455c64fc1dac1ed2f49af1c543dec",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

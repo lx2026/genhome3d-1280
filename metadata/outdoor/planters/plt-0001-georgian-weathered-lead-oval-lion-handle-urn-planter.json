@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0001",
+  "slug": "plt-0001-georgian-weathered-lead-oval-lion-handle-urn-planter",
+  "title": "Georgian Weathered-Lead Oval Lion-Handle Urn Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "heritage-craft",
+    "one oval urn body",
+    "one flared rim",
+    "two lion-ring handles",
+    "one stepped pedestal foot"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.6,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 5192,
+    "triangles": 10348,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0001-georgian-weathered-lead-oval-lion-handle-urn-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0001-georgian-weathered-lead-oval-lion-handle-urn-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0001-georgian-weathered-lead-oval-lion-handle-urn-planter.usdz",
+  "file_size_bytes": 511352,
+  "sha256": "b6021283adae991b199376e2c992be21f1c26d32aea3c66d3392ae54f23c0ac9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

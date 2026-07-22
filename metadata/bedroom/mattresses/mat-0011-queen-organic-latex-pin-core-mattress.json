@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0011",
+  "slug": "mat-0011-queen-organic-latex-pin-core-mattress",
+  "title": "Queen Organic Latex Pin-Core Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "natural-low-profile",
+    "queen",
+    "pin core"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 2.03,
+    "height": 0.24
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 167,
+    "vertices": 24400,
+    "triangles": 48132,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0011-queen-organic-latex-pin-core-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0011-queen-organic-latex-pin-core-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0011-queen-organic-latex-pin-core-mattress.usdz",
+  "file_size_bytes": 1122306,
+  "sha256": "1b7280ec7192f5bcceca74139cda6def046d77c5b5432de15650ba50ffd3f1bc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

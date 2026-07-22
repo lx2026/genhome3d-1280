@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0005",
+  "slug": "mxb-0005-cream-two-band-enamel-mixing-bowl",
+  "title": "Cream Two-Band Enamel Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "metal-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one cream-enamel body",
+    "exactly two red exterior accent bands",
+    "exactly one black rim",
+    "one fully open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.32,
+    "height": 0.145
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 4753,
+    "triangles": 9498,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0005-cream-two-band-enamel-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0005-cream-two-band-enamel-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0005-cream-two-band-enamel-mixing-bowl.usdz",
+  "file_size_bytes": 1190472,
+  "sha256": "99b9b49d46327f018c275a683ff9421f0e5a8a199c0d16c69e7c7e6b0e839e43",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

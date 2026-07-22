@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0015",
+  "slug": "odt-0015-cobalt-three-piece-nesting-patio-table-set",
+  "title": "Cobalt Three-Piece Nesting Patio Table Set",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "compact-portable",
+    "one coordinated nesting patio-table assembly",
+    "three stepped tables",
+    "three thin tops",
+    "six continuous U legs",
+    "six floor bars"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.48,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 3288,
+    "triangles": 6492,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0015-cobalt-three-piece-nesting-patio-table-set.usdz",
+  "preview": "previews/outdoor/tables/odt-0015-cobalt-three-piece-nesting-patio-table-set.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0015-cobalt-three-piece-nesting-patio-table-set.usdz",
+  "file_size_bytes": 431927,
+  "sha256": "a9611c5e1e8c73df0e54f8c55773eaa193f70b3a39fd3ee35fe6d8d10cd04dab",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

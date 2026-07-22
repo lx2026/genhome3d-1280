@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0006",
+  "slug": "blk-0006-ivory-eight-channel-folded-quilt",
+  "title": "Ivory Eight-Channel Folded Quilt",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "quilted-patchwork-blankets",
+    "one complete standalone folded quilt",
+    "exactly three folded layers",
+    "exactly eight raised parallel quilt channels",
+    "one continuous bound edge"
+  ],
+  "dimensions_m": {
+    "width": 0.75,
+    "depth": 0.55,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3144,
+    "triangles": 6244,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0006-ivory-eight-channel-folded-quilt.usdz",
+  "preview": "previews/textiles/blankets/blk-0006-ivory-eight-channel-folded-quilt.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0006-ivory-eight-channel-folded-quilt.usdz",
+  "file_size_bytes": 450998,
+  "sha256": "b19287abd13269c45b6b052114815dc340304c1e7750b6324bbab3bdcb810e35",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

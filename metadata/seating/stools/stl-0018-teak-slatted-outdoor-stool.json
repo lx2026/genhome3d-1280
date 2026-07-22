@@ -1,0 +1,54 @@
+{
+  "id": "STL-0018",
+  "slug": "stl-0018-teak-slatted-outdoor-stool",
+  "title": "Teak Slatted Outdoor Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "architectural-outdoor",
+    "teak",
+    "slatted-seat",
+    "a-frame",
+    "draining"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.42,
+    "height": 0.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1248,
+    "triangles": 2444,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0018-teak-slatted-outdoor-stool.usdz",
+  "preview": "previews/seating/stools/stl-0018-teak-slatted-outdoor-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0018-teak-slatted-outdoor-stool.usdz",
+  "file_size_bytes": 456775,
+  "sha256": "06ff8dc12a8a5901569147a91d492c03e1954a0a6b9e45897fef1a7c2459d261",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

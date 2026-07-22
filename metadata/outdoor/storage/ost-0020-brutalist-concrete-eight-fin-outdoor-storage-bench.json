@@ -1,0 +1,55 @@
+{
+  "id": "OST-0020",
+  "slug": "ost-0020-brutalist-concrete-eight-fin-outdoor-storage-bench",
+  "title": "Brutalist Concrete Eight-Fin Outdoor Storage Bench",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "architectural-specialty",
+    "one outdoor storage bench",
+    "one lift-up slab lid",
+    "one continuous storage cavity",
+    "eight transverse fins",
+    "two recessed base rails"
+  ],
+  "dimensions_m": {
+    "width": 1.68,
+    "depth": 0.62,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1528,
+    "triangles": 3004,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0020-brutalist-concrete-eight-fin-outdoor-storage-bench.usdz",
+  "preview": "previews/outdoor/storage/ost-0020-brutalist-concrete-eight-fin-outdoor-storage-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0020-brutalist-concrete-eight-fin-outdoor-storage-bench.usdz",
+  "file_size_bytes": 584506,
+  "sha256": "5accc2cbae88d49191a97bdf2d3f499a04b4e25b60f215ad92712102b2a0d0d4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

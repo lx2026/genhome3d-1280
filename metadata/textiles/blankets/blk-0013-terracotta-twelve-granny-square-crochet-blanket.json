@@ -1,0 +1,55 @@
+{
+  "id": "BLK-0013",
+  "slug": "blk-0013-terracotta-twelve-granny-square-crochet-blanket",
+  "title": "Terracotta Twelve-Granny-Square Crochet Blanket",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "knit-crochet-blankets",
+    "one complete standalone crochet blanket",
+    "exactly twelve crochet squares",
+    "three by four square grid",
+    "one central opening per square",
+    "one continuous joined border"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.58,
+    "height": 0.14
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 38,
+    "vertices": 8664,
+    "triangles": 17228,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0013-terracotta-twelve-granny-square-crochet-blanket.usdz",
+  "preview": "previews/textiles/blankets/blk-0013-terracotta-twelve-granny-square-crochet-blanket.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0013-terracotta-twelve-granny-square-crochet-blanket.usdz",
+  "file_size_bytes": 473692,
+  "sha256": "a67adc3aac0ddf49e378c4eae9bd2433f3f46abc00f4a667187d213fbe92c757",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

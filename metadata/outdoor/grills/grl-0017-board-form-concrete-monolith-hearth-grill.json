@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0017",
+  "slug": "grl-0017-board-form-concrete-monolith-hearth-grill",
+  "title": "Board-Form Concrete Monolith Hearth Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "architectural-specialty",
+    "one concrete monolith",
+    "one rectangular steel firebox aperture",
+    "one narrow chimney slot",
+    "two lower open bays",
+    "one recessed plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.68,
+    "height": 1.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 944,
+    "triangles": 1832,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0017-board-form-concrete-monolith-hearth-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0017-board-form-concrete-monolith-hearth-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0017-board-form-concrete-monolith-hearth-grill.usdz",
+  "file_size_bytes": 176712,
+  "sha256": "0ccb4cc30936a3abbbc359064cf961d532ab23cf504abf7c58b9e1e616377759",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0018",
+  "slug": "ods-0018-corten-quarter-circle-six-fin-curved-bench",
+  "title": "Corten Quarter-Circle Six-Fin Curved Bench",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "architectural-specialty",
+    "one quarter-circle bench",
+    "one continuous curved seat",
+    "one curved back rail",
+    "six radial support fins",
+    "one recessed arc foot"
+  ],
+  "dimensions_m": {
+    "width": 2.2,
+    "depth": 1.2,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 6168,
+    "triangles": 12204,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0018-corten-quarter-circle-six-fin-curved-bench.usdz",
+  "preview": "previews/outdoor/seating/ods-0018-corten-quarter-circle-six-fin-curved-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0018-corten-quarter-circle-six-fin-curved-bench.usdz",
+  "file_size_bytes": 496969,
+  "sha256": "69c7dec67870fd831ba2b2f0aaa13cc40e9e8521413bf0945128fefd318c227d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BST-0007",
+  "slug": "bst-0007-walnut-twin-slat-door-vanity-base",
+  "title": "Walnut Twin-Slat-Door Vanity Base",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "vanity-base-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one wide walnut cabinet body",
+    "exactly two vertically slatted doors",
+    "one full-width upper drawer",
+    "exactly three slim brass pulls",
+    "exactly four short block legs",
+    "one pale stone top slab"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.52,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 45,
+    "vertices": 3128,
+    "triangles": 6076,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0007-walnut-twin-slat-door-vanity-base.usdz",
+  "preview": "previews/bathroom/storage/bst-0007-walnut-twin-slat-door-vanity-base.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0007-walnut-twin-slat-door-vanity-base.usdz",
+  "file_size_bytes": 1382772,
+  "sha256": "2bce18feb85b24a6260d43fd6a8cbbc73362334faf1a6bf49f6a488804ea1b7a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

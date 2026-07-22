@@ -1,0 +1,54 @@
+{
+  "id": "STL-0007",
+  "slug": "stl-0007-bauhaus-chrome-cantilever-bar-stool",
+  "title": "Bauhaus Chrome Cantilever Bar Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "counter-bar",
+    "bauhaus",
+    "chrome",
+    "cantilever",
+    "leather"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.5,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1336,
+    "triangles": 2556,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0007-bauhaus-chrome-cantilever-bar-stool.usdz",
+  "preview": "previews/seating/stools/stl-0007-bauhaus-chrome-cantilever-bar-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0007-bauhaus-chrome-cantilever-bar-stool.usdz",
+  "file_size_bytes": 859454,
+  "sha256": "a12c301d08b46fb850e868c1179f6d5962d9b6ade370729de3fd86a031baf446",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

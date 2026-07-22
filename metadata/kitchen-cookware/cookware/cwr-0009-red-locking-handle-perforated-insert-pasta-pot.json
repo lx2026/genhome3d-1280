@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0009",
+  "slug": "cwr-0009-red-locking-handle-perforated-insert-pasta-pot",
+  "title": "Red Locking-Handle Perforated-Insert Pasta Pot",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "saucepans-and-stockpots",
+    "one complete standalone cookware assembly",
+    "one base stockpot",
+    "exactly one removable perforated insert",
+    "exactly one fitted glass lid",
+    "exactly two opposed locking handle pairs"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.32,
+    "height": 0.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 79,
+    "vertices": 9942,
+    "triangles": 19332,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0009-red-locking-handle-perforated-insert-pasta-pot.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0009-red-locking-handle-perforated-insert-pasta-pot.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0009-red-locking-handle-perforated-insert-pasta-pot.usdz",
+  "file_size_bytes": 1341130,
+  "sha256": "86196b40ee6bb023f157463baaa7d2b1095e5da412ae6f33c7ac7acdecb5237a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

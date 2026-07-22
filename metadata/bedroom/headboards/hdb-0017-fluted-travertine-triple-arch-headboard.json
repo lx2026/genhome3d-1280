@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0017",
+  "slug": "hdb-0017-fluted-travertine-triple-arch-headboard",
+  "title": "Fluted Travertine Triple-Arch Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "sculptural-specialty",
+    "travertine",
+    "triple-arch",
+    "fluted",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.14,
+    "depth": 0.2,
+    "height": 1.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 54,
+    "vertices": 5904,
+    "triangles": 11592,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0017-fluted-travertine-triple-arch-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0017-fluted-travertine-triple-arch-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0017-fluted-travertine-triple-arch-headboard.usdz",
+  "file_size_bytes": 706548,
+  "sha256": "887f4f9c3391ca5d104d00c932edf630594a5cec98529efbfb6c4c0432515371",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

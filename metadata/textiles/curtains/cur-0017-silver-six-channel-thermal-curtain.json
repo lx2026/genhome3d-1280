@@ -1,0 +1,54 @@
+{
+  "id": "CUR-0017",
+  "slug": "cur-0017-silver-six-channel-thermal-curtain",
+  "title": "Silver Six-Channel Thermal Curtain",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "functional-specialty-curtains",
+    "one complete standalone curtain assembly",
+    "one complete insulated curtain panel",
+    "exactly six raised thermal channels",
+    "one continuous bound perimeter"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.18,
+    "height": 2.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2410,
+    "triangles": 4788,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.usdz",
+  "preview": "previews/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.usdz",
+  "file_size_bytes": 545146,
+  "sha256": "fd65ca770bb19e05537c98440ec9b879fcdb60a7c7fa64ff1ad26bdbc7a8613b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0013",
+  "slug": "plt-0013-galvanized-zinc-four-caster-square-planter",
+  "title": "Galvanized-Zinc Four-Caster Square Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "compact-raised",
+    "one square zinc vessel",
+    "two side handles",
+    "four locking casters",
+    "one lower drainage tray"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.58,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2784,
+    "triangles": 5412,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0013-galvanized-zinc-four-caster-square-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0013-galvanized-zinc-four-caster-square-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0013-galvanized-zinc-four-caster-square-planter.usdz",
+  "file_size_bytes": 346596,
+  "sha256": "1a18871c30057dd8e1acc11c65d513b84e0da7a28b7775a005825f2c86fec2ac",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "KST-0006",
+  "slug": "kst-0006-scandinavian-birch-twelve-cubby-classroom-organizer",
+  "title": "Scandinavian Birch Twelve-Cubby Classroom Organizer",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "modern-learning",
+    "twelve open cubbies",
+    "four-by-three grid",
+    "pale plywood carcass",
+    "recessed dark plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.34,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 952,
+    "triangles": 1860,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0006-scandinavian-birch-twelve-cubby-classroom-organizer.usdz",
+  "preview": "previews/kids/storage/kst-0006-scandinavian-birch-twelve-cubby-classroom-organizer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0006-scandinavian-birch-twelve-cubby-classroom-organizer.usdz",
+  "file_size_bytes": 517801,
+  "sha256": "41fcc9900c03d2b8a033a0a1cad23b3b227f2d83c661a63905361f63fb9b57a8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

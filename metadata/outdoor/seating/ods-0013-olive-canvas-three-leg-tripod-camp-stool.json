@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0013",
+  "slug": "ods-0013-olive-canvas-three-leg-tripod-camp-stool",
+  "title": "Olive-Canvas Three-Leg Tripod Camp Stool",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "compact-portable",
+    "one folding camp stool",
+    "one triangular canvas sling",
+    "three crossed legs",
+    "three broad feet",
+    "one central pivot bolt"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.481445,
+    "height": 0.54
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1960,
+    "triangles": 3888,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0013-olive-canvas-three-leg-tripod-camp-stool.usdz",
+  "preview": "previews/outdoor/seating/ods-0013-olive-canvas-three-leg-tripod-camp-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0013-olive-canvas-three-leg-tripod-camp-stool.usdz",
+  "file_size_bytes": 487256,
+  "sha256": "00da731f434bc639fa2fd1bc961fd82090cc90269f4b9e503c4020c1ee8982e2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

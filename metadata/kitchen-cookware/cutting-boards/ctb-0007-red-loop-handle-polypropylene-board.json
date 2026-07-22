@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0007",
+  "slug": "ctb-0007-red-loop-handle-polypropylene-board",
+  "title": "Red Loop-Handle Polypropylene Board",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "synthetic-and-composite-boards",
+    "one complete standalone cutting-board assembly",
+    "one red polypropylene board",
+    "exactly one integrated loop handle",
+    "exactly two black end grip strips",
+    "exactly four clipped corners"
+  ],
+  "dimensions_m": {
+    "width": 0.43,
+    "depth": 0.28,
+    "height": 0.018
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 768,
+    "triangles": 1528,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.usdz",
+  "file_size_bytes": 250060,
+  "sha256": "c047fc936e1216304eb3b04a816072183841f547458a57aedc866dc34677e001",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

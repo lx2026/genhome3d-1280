@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0004",
+  "slug": "knv-0004-three-rivet-vegetable-cleaver",
+  "title": "Three-Rivet Vegetable Cleaver",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "chef-prep-knives",
+    "one complete standalone knife",
+    "one rectangular vegetable-cleaver blade",
+    "one dark rosewood handle",
+    "exactly three rivets"
+  ],
+  "dimensions_m": {
+    "width": 0.315,
+    "depth": 0.1,
+    "height": 0.028
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1360,
+    "triangles": 2692,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0004-three-rivet-vegetable-cleaver.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0004-three-rivet-vegetable-cleaver.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0004-three-rivet-vegetable-cleaver.usdz",
+  "file_size_bytes": 1004734,
+  "sha256": "6b2c72b2354bb98763a08990cdae867072cd2a678adf46764789d99947d9bcca",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

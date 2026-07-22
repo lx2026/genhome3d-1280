@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0006",
+  "slug": "flr-0006-matte-black-long-arc-dome-floor-lamp",
+  "title": "Matte-Black Long-Arc Dome Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "contemporary-geometric",
+    "one complete freestanding floor lamp assembly",
+    "one offset weighted base",
+    "one three-segment arc",
+    "one large dome shade",
+    "one hanging socket",
+    "no extra arm"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.48,
+    "height": 1.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1842,
+    "triangles": 3516,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.usdz",
+  "file_size_bytes": 444867,
+  "sha256": "78013d89f775d33d20f0c55b903654939abe8e1f9ef6a5c33d9305eba6fa74d6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0020",
+  "slug": "vny-0020-brutalist-concrete-slot-bronze-mirror-vanity",
+  "title": "Brutalist Concrete Slot Bronze-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "sculptural-specialty",
+    "brutalist",
+    "one drawer",
+    "bronze mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.52,
+    "height": 1.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1544,
+    "triangles": 3052,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0020-brutalist-concrete-slot-bronze-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0020-brutalist-concrete-slot-bronze-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0020-brutalist-concrete-slot-bronze-mirror-vanity.usdz",
+  "file_size_bytes": 1090359,
+  "sha256": "0d10ae113f506a64adb3901da7df98f145ddd624be5b8c6e3fa195ae87959f99",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

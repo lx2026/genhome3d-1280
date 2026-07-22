@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0009",
+  "slug": "scn-0009-board-formed-concrete-four-slot-sconce",
+  "title": "Board-Formed-Concrete Four-Slot Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "contemporary-geometric",
+    "one complete wall-mounted sconce light assembly",
+    "one concealed wall plate",
+    "one rounded concrete block",
+    "exactly four vertical light slots",
+    "one top aperture",
+    "one bottom aperture"
+  ],
+  "dimensions_m": {
+    "width": 0.2,
+    "depth": 0.14,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1344,
+    "triangles": 2656,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.usdz",
+  "file_size_bytes": 633408,
+  "sha256": "99bcf8b23d0f238c55d43723e470d158918d3c036da3b2cd95121d04b75156bb",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

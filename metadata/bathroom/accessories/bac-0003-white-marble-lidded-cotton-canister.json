@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0003",
+  "slug": "bac-0003-white-marble-lidded-cotton-canister",
+  "title": "White-Marble Lidded Cotton Canister",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "vanity-vessels",
+    "one complete freestanding bathroom-accessory assembly",
+    "one cylindrical canister body",
+    "one removable-looking flat lid",
+    "one spherical brass knob",
+    "one recessed base ring",
+    "one interior lip"
+  ],
+  "dimensions_m": {
+    "width": 0.14,
+    "depth": 0.14,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1930,
+    "triangles": 3848,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.usdz",
+  "preview": "previews/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.usdz",
+  "file_size_bytes": 1014401,
+  "sha256": "f0e16051e12ea65a8a085d15eb7b6a449ebde903dd720899ea1eb10f4c81f693",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

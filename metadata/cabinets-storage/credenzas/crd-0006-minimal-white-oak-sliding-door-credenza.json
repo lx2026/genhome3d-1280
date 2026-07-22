@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0006",
+  "slug": "crd-0006-minimal-white-oak-sliding-door-credenza",
+  "title": "Minimal White-Oak Sliding-Door Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "modern-utility",
+    "minimal",
+    "two sliding doors",
+    "finger channels",
+    "black plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.42,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 592,
+    "triangles": 1160,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0006-minimal-white-oak-sliding-door-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0006-minimal-white-oak-sliding-door-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0006-minimal-white-oak-sliding-door-credenza.usdz",
+  "file_size_bytes": 560124,
+  "sha256": "8f6ff3c480543941fe7ef6dfbaaa24f7ee903b6b3a67a68e79366846a0529b6e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

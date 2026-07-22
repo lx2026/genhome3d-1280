@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0006",
+  "slug": "bar-0006-scandinavian-ash-standing-table",
+  "title": "Scandinavian Ash Standing Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "modern-residential",
+    "scandinavian",
+    "rounded-rectangle",
+    "inverted-u-frames",
+    "black-foot-rail"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.55,
+    "height": 1.01
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1608,
+    "triangles": 3104,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0006-scandinavian-ash-standing-table.usdz",
+  "preview": "previews/tables/bar/bar-0006-scandinavian-ash-standing-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0006-scandinavian-ash-standing-table.usdz",
+  "file_size_bytes": 586247,
+  "sha256": "aa4bec1bd7e2a17a6a906b60652fb71cc632e160dd5ff6eff9e978c9a5012ef9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

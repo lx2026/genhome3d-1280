@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0012",
+  "slug": "arm-0012-danish-cord-wing-armchair",
+  "title": "Danish Cord Wing Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "lounge",
+    "danish",
+    "oak",
+    "paper-cord",
+    "wing-back"
+  ],
+  "dimensions_m": {
+    "width": 0.820042,
+    "depth": 0.919972,
+    "height": 1.010002
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1232,
+    "triangles": 2420,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0012-danish-cord-wing-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0012-danish-cord-wing-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0012-danish-cord-wing-armchair.usdz",
+  "file_size_bytes": 1346821,
+  "sha256": "c9197c5613243347854d5c4460bc5f01b219e7b2bcaa727977fe345ddd5d9030",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0013",
+  "slug": "crb-0013-plywood-compact-crib-changer-combo",
+  "title": "Plywood Compact Crib-Changer Combo",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "compact-mobile",
+    "plywood",
+    "changer-combo",
+    "open-cubbies",
+    "mini-crib"
+  ],
+  "dimensions_m": {
+    "width": 1.55,
+    "depth": 0.72,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 47,
+    "vertices": 4824,
+    "triangles": 9460,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0013-plywood-compact-crib-changer-combo.usdz",
+  "preview": "previews/bedroom/cribs/crb-0013-plywood-compact-crib-changer-combo.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0013-plywood-compact-crib-changer-combo.usdz",
+  "file_size_bytes": 743103,
+  "sha256": "0a2e52ed5aa967df59cd1dc4c0e95cf89919357e31b2455bfaf6aaffee96c5b1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

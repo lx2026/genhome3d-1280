@@ -1,0 +1,54 @@
+{
+  "id": "CSH-0011",
+  "slug": "csh-0011-cream-three-band-cylindrical-bolster",
+  "title": "Cream Three-Band Cylindrical Bolster",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "bolster-round",
+    "one complete standalone cushion assembly",
+    "one horizontal cylindrical bolster",
+    "exactly three encircling bands",
+    "exactly two end buttons"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.28,
+    "height": 0.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 2356,
+    "triangles": 4700,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.usdz",
+  "preview": "previews/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.usdz",
+  "file_size_bytes": 959897,
+  "sha256": "3eb0ed1729f9540d16263fc08d202d82b4cf1ea89081180af199e98cf99d8a6d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

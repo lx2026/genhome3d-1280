@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0014",
+  "slug": "chd-0014-black-steel-four-bar-eight-pin-grid-chandelier",
+  "title": "Black-Steel Four-Bar Eight-Pin Grid Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "compact-residential",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly four parallel bars",
+    "eight downward pin lamps",
+    "two cross rails",
+    "two suspension rods",
+    "one rectangular canopy"
+  ],
+  "dimensions_m": {
+    "width": 0.86,
+    "depth": 0.56,
+    "height": 0.54
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 4296,
+    "triangles": 8492,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.usdz",
+  "file_size_bytes": 392012,
+  "sha256": "1c0876758ab3ef7927c23e9bb16fddc5d026ba09bb2f35f8c9c2b34047cb7763",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

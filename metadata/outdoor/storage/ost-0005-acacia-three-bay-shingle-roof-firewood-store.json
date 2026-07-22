@@ -1,0 +1,55 @@
+{
+  "id": "OST-0005",
+  "slug": "ost-0005-acacia-three-bay-shingle-roof-firewood-store",
+  "title": "Acacia Three-Bay Shingle-Roof Firewood Store",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "heritage-utility",
+    "one firewood store",
+    "three storage bays",
+    "two vertical dividers",
+    "one slatted raised floor",
+    "one shingled lean-to roof"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 0.58,
+    "height": 1.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 37,
+    "vertices": 3032,
+    "triangles": 5916,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0005-acacia-three-bay-shingle-roof-firewood-store.usdz",
+  "preview": "previews/outdoor/storage/ost-0005-acacia-three-bay-shingle-roof-firewood-store.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0005-acacia-three-bay-shingle-roof-firewood-store.usdz",
+  "file_size_bytes": 493761,
+  "sha256": "c824446c8ba301812cfc424d530f236822cdff8a5541b80fef3b7e0f7de2a4e3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

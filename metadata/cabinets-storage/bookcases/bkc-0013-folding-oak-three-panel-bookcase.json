@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0013",
+  "slug": "bkc-0013-folding-oak-three-panel-bookcase",
+  "title": "Folding Oak Three-Panel Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "compact-adaptive",
+    "folding",
+    "three panels",
+    "nine shelves",
+    "zigzag"
+  ],
+  "dimensions_m": {
+    "width": 1.349995,
+    "depth": 0.320039,
+    "height": 1.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1456,
+    "triangles": 2844,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0013-folding-oak-three-panel-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0013-folding-oak-three-panel-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0013-folding-oak-three-panel-bookcase.usdz",
+  "file_size_bytes": 870140,
+  "sha256": "a137ed3cb8b576894dd1828074ce5097a6eccd1e5b8dfa6f934a3cb67547508c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

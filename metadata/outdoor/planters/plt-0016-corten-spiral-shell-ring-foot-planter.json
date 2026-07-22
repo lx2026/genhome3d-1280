@@ -1,0 +1,55 @@
+{
+  "id": "PLT-0016",
+  "slug": "plt-0016-corten-spiral-shell-ring-foot-planter",
+  "title": "Corten Spiral-Shell Ring-Foot Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "sculptural-specialty",
+    "one spiral-shell body",
+    "one circular planting opening",
+    "one inner spiral reveal",
+    "one cylindrical plinth",
+    "one foot ring"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.66,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 15624,
+    "triangles": 31136,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0016-corten-spiral-shell-ring-foot-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0016-corten-spiral-shell-ring-foot-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0016-corten-spiral-shell-ring-foot-planter.usdz",
+  "file_size_bytes": 1100803,
+  "sha256": "f79b0d44d9fa517b860f4920a7c4a0b2ca6f1fac3a255dceb90f217725a389aa",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BST-0017",
+  "slug": "bst-0017-white-lacquer-three-bin-laundry-sorter-cabinet",
+  "title": "White-Lacquer Three-Bin Laundry Sorter Cabinet",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "laundry/mobile-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one wide rectangular sorter cabinet",
+    "exactly three equal tilt-out bin fronts",
+    "exactly three recessed finger pulls",
+    "one continuous pale wood top",
+    "one recessed floor plinth",
+    "exactly two vertical front dividers"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.5,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1488,
+    "triangles": 2916,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0017-white-lacquer-three-bin-laundry-sorter-cabinet.usdz",
+  "preview": "previews/bathroom/storage/bst-0017-white-lacquer-three-bin-laundry-sorter-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0017-white-lacquer-three-bin-laundry-sorter-cabinet.usdz",
+  "file_size_bytes": 708474,
+  "sha256": "423afd9576dde408eae82a5754de22f44b92bff6a42318c920c95e68662fa848",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

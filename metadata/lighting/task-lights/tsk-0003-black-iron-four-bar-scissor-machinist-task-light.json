@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0003",
+  "slug": "tsk-0003-black-iron-four-bar-scissor-machinist-task-light",
+  "title": "Black-Iron Four-Bar Scissor Machinist Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "heritage-industrial",
+    "one complete freestanding desktop task-light assembly",
+    "one square weighted base",
+    "exactly four crossed linkage bars forming one paired X stage",
+    "exactly five pivot discs",
+    "one cylindrical socket",
+    "one shallow dome shade"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.22,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 3194,
+    "triangles": 6340,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0003-black-iron-four-bar-scissor-machinist-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0003-black-iron-four-bar-scissor-machinist-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0003-black-iron-four-bar-scissor-machinist-task-light.usdz",
+  "file_size_bytes": 488750,
+  "sha256": "ef8c39edc45ca6f3e612b0779d9ad97e3914fefd0f28fcae8a66be2dc5240d2f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

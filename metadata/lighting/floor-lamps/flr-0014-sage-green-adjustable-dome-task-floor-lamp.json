@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0014",
+  "slug": "flr-0014-sage-green-adjustable-dome-task-floor-lamp",
+  "title": "Sage-Green Adjustable-Dome Task Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "compact-residential",
+    "one complete freestanding floor lamp assembly",
+    "one round base",
+    "one two-part adjustable pole",
+    "two pivot joints",
+    "one angled arm",
+    "one dome shade"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.42,
+    "height": 1.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1934,
+    "triangles": 3744,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0014-sage-green-adjustable-dome-task-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0014-sage-green-adjustable-dome-task-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0014-sage-green-adjustable-dome-task-floor-lamp.usdz",
+  "file_size_bytes": 842823,
+  "sha256": "53ac7abfbf2a57a737148d67363b80efdbc122258b0726b66d5ae6b72aeca0fc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

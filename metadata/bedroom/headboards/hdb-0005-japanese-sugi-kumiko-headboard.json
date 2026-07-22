@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0005",
+  "slug": "hdb-0005-japanese-sugi-kumiko-headboard",
+  "title": "Japanese Sugi Kumiko Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "traditional-craft",
+    "japanese",
+    "sugi",
+    "kumiko",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.1,
+    "height": 1.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 152,
+    "vertices": 14592,
+    "triangles": 28576,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.usdz",
+  "file_size_bytes": 601227,
+  "sha256": "76f21b2bf19a8ed3160f57b44e4e6de7e97c027e242f5f151468dd67d24e1d36",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

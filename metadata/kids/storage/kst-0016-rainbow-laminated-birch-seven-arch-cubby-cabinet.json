@@ -1,0 +1,54 @@
+{
+  "id": "KST-0016",
+  "slug": "kst-0016-rainbow-laminated-birch-seven-arch-cubby-cabinet",
+  "title": "Rainbow Laminated-Birch Seven-Arch Cubby Cabinet",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "sculptural-specialty",
+    "seven arched cubbies",
+    "seven color-banded fascias",
+    "continuous birch base",
+    "two broad end supports"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.36,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 11500,
+    "triangles": 22564,
+    "material_slots": 8
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0016-rainbow-laminated-birch-seven-arch-cubby-cabinet.usdz",
+  "preview": "previews/kids/storage/kst-0016-rainbow-laminated-birch-seven-arch-cubby-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0016-rainbow-laminated-birch-seven-arch-cubby-cabinet.usdz",
+  "file_size_bytes": 2073042,
+  "sha256": "bdfd6b8d009f2462cc5b6216dbc9048f2c8d00b3b81bd051e9885b4b78e8c8c6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

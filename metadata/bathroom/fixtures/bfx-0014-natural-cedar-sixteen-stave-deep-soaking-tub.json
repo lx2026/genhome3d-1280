@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0014",
+  "slug": "bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub",
+  "title": "Natural-Cedar Sixteen-Stave Deep Soaking Tub",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "baths-soaking",
+    "one complete freestanding bathroom-fixture assembly",
+    "one deep faceted-oval soaking vessel",
+    "exactly sixteen broad vertical staves",
+    "exactly two dark metal bands",
+    "one inset interior seat",
+    "one recessed floor plinth",
+    "one round drain recess"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.9,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 15322,
+    "triangles": 30564,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.usdz",
+  "file_size_bytes": 1686821,
+  "sha256": "db9069b4110fb50601ab31331124fd66786af5b2ddbc720282e542a6919e3a51",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BST-0010",
+  "slug": "bst-0010-black-steel-sliding-door-vanity-console",
+  "title": "Black-Steel Sliding-Door Vanity Console",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "vanity-base-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one rectangular steel console frame",
+    "exactly two smoked-oak sliding doors",
+    "one exposed center cubby",
+    "one continuous lower shelf",
+    "exactly four square steel legs",
+    "one thin charcoal top slab"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.5,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 856,
+    "triangles": 1668,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.usdz",
+  "preview": "previews/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.usdz",
+  "file_size_bytes": 435445,
+  "sha256": "55703433d3836b98635c4940e705f02157cc01edb3dd343089946b380ab73a9e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

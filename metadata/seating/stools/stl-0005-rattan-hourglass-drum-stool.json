@@ -1,0 +1,54 @@
+{
+  "id": "STL-0005",
+  "slug": "stl-0005-rattan-hourglass-drum-stool",
+  "title": "Rattan Hourglass Drum Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "compact-utility",
+    "rattan",
+    "woven",
+    "hourglass",
+    "drum"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.42,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 40,
+    "vertices": 15632,
+    "triangles": 29388,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0005-rattan-hourglass-drum-stool.usdz",
+  "preview": "previews/seating/stools/stl-0005-rattan-hourglass-drum-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0005-rattan-hourglass-drum-stool.usdz",
+  "file_size_bytes": 1443311,
+  "sha256": "206c55ba33cfd43665f805a5cf32d57a394f3341882744e930d6060965a4e155",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

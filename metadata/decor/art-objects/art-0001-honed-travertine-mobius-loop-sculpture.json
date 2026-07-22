@@ -1,0 +1,57 @@
+{
+  "id": "ART-0001",
+  "slug": "art-0001-honed-travertine-mobius-loop-sculpture",
+  "title": "Honed-Travertine Mobius Loop Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "abstract-forms",
+    "one complete freestanding decorative art-object assembly",
+    "one continuous loop band",
+    "one oval stone plinth",
+    "one concealed central mounting stem",
+    "exactly two open lobes",
+    "exactly two crossing shoulders",
+    "no loose or detached components"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.2,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 9728,
+    "triangles": 19448,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.usdz",
+  "file_size_bytes": 1158125,
+  "sha256": "d8403cd4a0ca3d6b56bc6b8e070976ff6b643221275ec8e78cc8c00cf0f7910c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

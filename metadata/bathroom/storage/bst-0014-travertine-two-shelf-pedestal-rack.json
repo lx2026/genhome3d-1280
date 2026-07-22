@@ -1,0 +1,57 @@
+{
+  "id": "BST-0014",
+  "slug": "bst-0014-travertine-two-shelf-pedestal-rack",
+  "title": "Travertine Two-Shelf Pedestal Rack",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "open-shelving/etageres",
+    "one complete freestanding bathroom-storage assembly",
+    "exactly two thick travertine shelves",
+    "exactly three cylindrical stone posts",
+    "one inset lower plinth",
+    "one rounded shelf end",
+    "one square shelf end",
+    "one open central storage bay"
+  ],
+  "dimensions_m": {
+    "width": 0.66,
+    "depth": 0.36,
+    "height": 0.95
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1424,
+    "triangles": 2824,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.usdz",
+  "preview": "previews/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.usdz",
+  "file_size_bytes": 539770,
+  "sha256": "70896c0f7830e61e62b7a52c51e15fe36f15b70338a5c3e2c8df83ed10937589",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

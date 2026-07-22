@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0016",
+  "slug": "scn-0016-black-steel-twin-blade-vertical-sconce",
+  "title": "Black-Steel Twin-Blade Vertical Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "architectural-statement",
+    "one complete wall-mounted sconce light assembly",
+    "one vertical wall spine",
+    "exactly two parallel opal blades",
+    "two upper caps",
+    "two lower caps",
+    "one concealed driver box"
+  ],
+  "dimensions_m": {
+    "width": 0.18,
+    "depth": 0.1,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1408,
+    "triangles": 2784,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.usdz",
+  "file_size_bytes": 388073,
+  "sha256": "ceff69221c1a37020d17ae03b6411136adfe7ab151c7340d3c4891d92ddf8e45",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

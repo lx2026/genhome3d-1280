@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0020",
+  "slug": "flr-0020-walnut-twelve-rib-sculptural-lattice-floor-lamp",
+  "title": "Walnut Twelve-Rib Sculptural Lattice Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "architectural-statement",
+    "one complete freestanding floor lamp assembly",
+    "one round plinth",
+    "exactly twelve bowed walnut ribs",
+    "three circular collars",
+    "one central linen diffuser",
+    "one top cap"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.68,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 6192,
+    "triangles": 11748,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0020-walnut-twelve-rib-sculptural-lattice-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0020-walnut-twelve-rib-sculptural-lattice-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0020-walnut-twelve-rib-sculptural-lattice-floor-lamp.usdz",
+  "file_size_bytes": 969735,
+  "sha256": "c7f885cc45c0edb0742c3e07e83996c8449fdfe7b07836a399c6d29882d5bff1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

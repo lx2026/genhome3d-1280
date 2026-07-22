@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0018",
+  "slug": "ben-0018-coastal-teak-rope-bench",
+  "title": "Coastal Teak Rope Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "architectural-outdoor",
+    "coastal",
+    "teak",
+    "rope-back",
+    "a-frame"
+  ],
+  "dimensions_m": {
+    "width": 1.599995,
+    "depth": 0.600018,
+    "height": 0.779999
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 42,
+    "vertices": 9672,
+    "triangles": 19176,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0018-coastal-teak-rope-bench.usdz",
+  "preview": "previews/seating/benches/ben-0018-coastal-teak-rope-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0018-coastal-teak-rope-bench.usdz",
+  "file_size_bytes": 1455035,
+  "sha256": "e96d15a2b18dbd4c0a8ab9fe00f237403bac7712debe503eca7fa58f30c136ee",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

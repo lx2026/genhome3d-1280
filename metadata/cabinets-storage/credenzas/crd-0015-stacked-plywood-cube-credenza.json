@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0015",
+  "slug": "crd-0015-stacked-plywood-cube-credenza",
+  "title": "Stacked Plywood Cube Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "compact-adaptive",
+    "stacked",
+    "four cubes",
+    "two doors",
+    "two open cubbies"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.4,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 688,
+    "triangles": 1344,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0015-stacked-plywood-cube-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0015-stacked-plywood-cube-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0015-stacked-plywood-cube-credenza.usdz",
+  "file_size_bytes": 511955,
+  "sha256": "ea6a4793689643a2a341dbf03394b3dc3df7b3d5e52c473d0013e5eff8f1fd6c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0004",
+  "slug": "chd-0004-antique-silver-nine-strand-crystal-basket-chandelier",
+  "title": "Antique-Silver Nine-Strand Crystal-Basket Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "heritage-ornamental",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly nine beaded crystal strands",
+    "one faceted lower bowl",
+    "six internal candle lamps",
+    "one crown ring",
+    "one chain and one canopy"
+  ],
+  "dimensions_m": {
+    "width": 0.88,
+    "depth": 0.88,
+    "height": 1.28
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 95,
+    "vertices": 27886,
+    "triangles": 54916,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.usdz",
+  "file_size_bytes": 1386907,
+  "sha256": "8cc2e84bca31ea2f936bd36733aabdc98f7e5cc48bb71dc00d7f945f6c35e248",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

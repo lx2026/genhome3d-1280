@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0008",
+  "slug": "odt-0008-teak-black-steel-sixteen-slat-square-fire-table",
+  "title": "Teak Black-Steel Sixteen-Slat Square Fire Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "contemporary-entertaining",
+    "one square outdoor fire table",
+    "one empty central burner tray",
+    "sixteen perimeter slats",
+    "four black-steel legs",
+    "one lower support ring"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 1.18,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 2576,
+    "triangles": 5068,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0008-teak-black-steel-sixteen-slat-square-fire-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0008-teak-black-steel-sixteen-slat-square-fire-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0008-teak-black-steel-sixteen-slat-square-fire-table.usdz",
+  "file_size_bytes": 600428,
+  "sha256": "f1bd5635f4e4f0cec3784e00914c7c8ea9e880a3f0db53e128360aff63514852",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

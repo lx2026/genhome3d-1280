@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0005",
+  "slug": "arm-0005-art-deco-fan-velvet-armchair",
+  "title": "Art Deco Fan Velvet Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "compact",
+    "art-deco",
+    "velvet",
+    "fan-back",
+    "brass"
+  ],
+  "dimensions_m": {
+    "width": 0.73,
+    "depth": 0.77,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3544,
+    "triangles": 7040,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0005-art-deco-fan-velvet-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0005-art-deco-fan-velvet-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0005-art-deco-fan-velvet-armchair.usdz",
+  "file_size_bytes": 754916,
+  "sha256": "95163068e859116033ba75b8ad42a1b74d6900d77b286eb8faa26b0a97b30c60",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

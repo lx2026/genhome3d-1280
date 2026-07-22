@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0020",
+  "slug": "dsk-0020-brutalist-concrete-cantilever-desk",
+  "title": "Brutalist Concrete Cantilever Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "sculptural-specialty",
+    "brutalist",
+    "cantilever slab",
+    "two drawers",
+    "counterweight volume"
+  ],
+  "dimensions_m": {
+    "width": 1.55,
+    "depth": 0.78,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 864,
+    "triangles": 1692,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0020-brutalist-concrete-cantilever-desk.usdz",
+  "preview": "previews/office/desks/dsk-0020-brutalist-concrete-cantilever-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0020-brutalist-concrete-cantilever-desk.usdz",
+  "file_size_bytes": 506666,
+  "sha256": "0c4159739e51c43979535f6e031c6235e9aa00261a562954957c101f2559a380",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

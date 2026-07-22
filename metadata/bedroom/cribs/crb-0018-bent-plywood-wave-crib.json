@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0018",
+  "slug": "crb-0018-bent-plywood-wave-crib",
+  "title": "Bent-Plywood Wave Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "sculptural-specialty",
+    "bent-plywood",
+    "wave-ends",
+    "birch-slats",
+    "sled-feet"
+  ],
+  "dimensions_m": {
+    "width": 1.48,
+    "depth": 0.82,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 39,
+    "vertices": 4408,
+    "triangles": 8564,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0018-bent-plywood-wave-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0018-bent-plywood-wave-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0018-bent-plywood-wave-crib.usdz",
+  "file_size_bytes": 970473,
+  "sha256": "70b23b90cb2833924b545aa04c5d1ee0c1168393ddba300a9854d7a753b89d42",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

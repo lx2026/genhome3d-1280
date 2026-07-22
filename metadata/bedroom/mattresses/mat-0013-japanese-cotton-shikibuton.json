@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0013",
+  "slug": "mat-0013-japanese-cotton-shikibuton",
+  "title": "Japanese Cotton Shikibuton",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "natural-low-profile",
+    "single",
+    "twelve tie tufts"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 2.0,
+    "height": 0.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 4736,
+    "triangles": 9420,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.usdz",
+  "file_size_bytes": 803822,
+  "sha256": "3345d13f0543f3471545f5870309d0d9eacdc4bd3c373a5077f840d4b6b1cc8c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

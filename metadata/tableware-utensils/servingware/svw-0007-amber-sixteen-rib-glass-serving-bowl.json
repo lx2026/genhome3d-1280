@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0007",
+  "slug": "svw-0007-amber-sixteen-rib-glass-serving-bowl",
+  "title": "Amber Sixteen-Rib Glass Serving Bowl",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "serving-bowls-and-dishes",
+    "one complete standalone serving product",
+    "one open amber-glass serving bowl with exactly sixteen raised exterior ribs and one circular foot."
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.32,
+    "height": 0.135
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 5809,
+    "triangles": 10778,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0007-amber-sixteen-rib-glass-serving-bowl.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0007-amber-sixteen-rib-glass-serving-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0007-amber-sixteen-rib-glass-serving-bowl.usdz",
+  "file_size_bytes": 506839,
+  "sha256": "8608e6fb8ccf6a190f4ba7443c87f033a7cda41d8d3f50ba733eff7d55ccd33f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

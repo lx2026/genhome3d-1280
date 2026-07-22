@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0003",
+  "slug": "hdb-0003-french-provincial-cane-medallion-headboard",
+  "title": "French Provincial Cane Medallion Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "traditional-craft",
+    "french-provincial",
+    "limed-oak",
+    "cane-medallion",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 0.14,
+    "height": 1.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 10820,
+    "triangles": 21476,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0003-french-provincial-cane-medallion-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0003-french-provincial-cane-medallion-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0003-french-provincial-cane-medallion-headboard.usdz",
+  "file_size_bytes": 1674934,
+  "sha256": "3d7f212e54d71d237673b4e7c50972775435b0702cf122d3ee88e70af8b6dd10",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

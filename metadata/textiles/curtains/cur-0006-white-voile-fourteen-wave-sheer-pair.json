@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0006",
+  "slug": "cur-0006-white-voile-fourteen-wave-sheer-pair",
+  "title": "White-Voile Fourteen-Wave Sheer Pair",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "layered-sheer-curtains",
+    "one complete standalone curtain assembly",
+    "exactly two translucent sheer panels",
+    "exactly fourteen wave folds total",
+    "exactly seven wave folds per panel",
+    "one concealed-track header"
+  ],
+  "dimensions_m": {
+    "width": 2.0,
+    "depth": 0.14,
+    "height": 2.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 6332,
+    "triangles": 11924,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.usdz",
+  "preview": "previews/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.usdz",
+  "file_size_bytes": 1101828,
+  "sha256": "5dc993031774d477e908a1f7a44e82725e066423bed16c39b322128aaf3b1d23",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

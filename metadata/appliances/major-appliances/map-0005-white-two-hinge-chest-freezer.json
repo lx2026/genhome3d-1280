@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0005",
+  "slug": "map-0005-white-two-hinge-chest-freezer",
+  "title": "White Two-Hinge Chest Freezer",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "refrigeration-and-freezing",
+    "one complete standalone major appliance",
+    "one broad white chest freezer with one top-opening lid, exactly two visible rear hinges, one front pull handle, and one lower drain plug."
+  ],
+  "dimensions_m": {
+    "width": 1.25,
+    "depth": 0.72,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1288,
+    "triangles": 2544,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0005-white-two-hinge-chest-freezer.usdz",
+  "preview": "previews/appliances/major-appliances/map-0005-white-two-hinge-chest-freezer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0005-white-two-hinge-chest-freezer.usdz",
+  "file_size_bytes": 751390,
+  "sha256": "df0d6d651a1b9e6b8e2cf9181a4cc2b49dc823f890c0c2cec722d083781de387",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

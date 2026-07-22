@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0019",
+  "slug": "sof-0019-perforated-aluminum-ribbon-sofa",
+  "title": "Perforated Aluminum Ribbon Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "architectural-outdoor",
+    "aluminum",
+    "perforated",
+    "ribbon",
+    "outdoor"
+  ],
+  "dimensions_m": {
+    "width": 2.2,
+    "depth": 0.88,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 142,
+    "vertices": 17544,
+    "triangles": 34520,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.usdz",
+  "file_size_bytes": 906510,
+  "sha256": "a3986a803d67b704e73930a43f1162f10f8cd7b1b26b9ee23860f414f4566b8c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

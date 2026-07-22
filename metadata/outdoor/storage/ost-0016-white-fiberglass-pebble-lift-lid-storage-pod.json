@@ -1,0 +1,55 @@
+{
+  "id": "OST-0016",
+  "slug": "ost-0016-white-fiberglass-pebble-lift-lid-storage-pod",
+  "title": "White Fiberglass Pebble Lift-Lid Storage Pod",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "architectural-specialty",
+    "one storage pod",
+    "one continuous lift lid",
+    "three hinge knuckles",
+    "one finger pull",
+    "one recessed oval foot"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.83986,
+    "height": 0.680267
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 4440,
+    "triangles": 8604,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.usdz",
+  "preview": "previews/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.usdz",
+  "file_size_bytes": 875481,
+  "sha256": "74bee6f04b560cd4b54062bcb67ccb0debac338310ea7222bdaecc1a5d05423f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

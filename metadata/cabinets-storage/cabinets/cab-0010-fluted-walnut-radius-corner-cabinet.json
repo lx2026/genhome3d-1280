@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0010",
+  "slug": "cab-0010-fluted-walnut-radius-corner-cabinet",
+  "title": "Fluted Walnut Radius-Corner Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "modern-utility",
+    "radius corners",
+    "two fluted doors",
+    "contrasting top",
+    "four feet"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.46,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 34,
+    "vertices": 4296,
+    "triangles": 8456,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0010-fluted-walnut-radius-corner-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0010-fluted-walnut-radius-corner-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0010-fluted-walnut-radius-corner-cabinet.usdz",
+  "file_size_bytes": 573732,
+  "sha256": "ea99006ffe4b15427c75b203155564da6e7c6dfc33beb26d126ea5199a5ff341",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

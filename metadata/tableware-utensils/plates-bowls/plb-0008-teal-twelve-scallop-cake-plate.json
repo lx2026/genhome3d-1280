@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0008",
+  "slug": "plb-0008-teal-twelve-scallop-cake-plate",
+  "title": "Teal Twelve-Scallop Cake Plate",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "side-dessert-plates",
+    "one complete standalone plate",
+    "exactly twelve edge scallops",
+    "one round center well",
+    "teal ceramic"
+  ],
+  "dimensions_m": {
+    "width": 0.225,
+    "depth": 0.225,
+    "height": 0.028
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 2857,
+    "triangles": 5710,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0008-teal-twelve-scallop-cake-plate.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0008-teal-twelve-scallop-cake-plate.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0008-teal-twelve-scallop-cake-plate.usdz",
+  "file_size_bytes": 262137,
+  "sha256": "84b07a852851178aa853c4bd2969ec4cc81641d34e0abed3b3bcba4274eadf6f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

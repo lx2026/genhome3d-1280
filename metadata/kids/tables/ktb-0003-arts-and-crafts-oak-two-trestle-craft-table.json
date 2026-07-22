@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0003",
+  "slug": "ktb-0003-arts-and-crafts-oak-two-trestle-craft-table",
+  "title": "Arts-and-Crafts Oak Two-Trestle Craft Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "classic-playroom",
+    "two end tool wells",
+    "two slab trestles",
+    "through-tenoned stretcher",
+    "rectangular craft top"
+  ],
+  "dimensions_m": {
+    "width": 0.92,
+    "depth": 0.58,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 2088,
+    "triangles": 4120,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0003-arts-and-crafts-oak-two-trestle-craft-table.usdz",
+  "preview": "previews/kids/tables/ktb-0003-arts-and-crafts-oak-two-trestle-craft-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0003-arts-and-crafts-oak-two-trestle-craft-table.usdz",
+  "file_size_bytes": 612492,
+  "sha256": "7fdfef10bd5959e23818fe23b2858598f83ba788d7cb0b5783464365f69a5614",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

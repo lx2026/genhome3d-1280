@@ -1,0 +1,55 @@
+{
+  "id": "FLC-0001",
+  "slug": "flc-0001-georgian-mahogany-four-drawer-lateral-file",
+  "title": "Georgian Mahogany Four-Drawer Lateral File",
+  "category": "office",
+  "subcategory": "filing-cabinets",
+  "category_path": "office/filing-cabinets",
+  "category_label": "Office / Filing Cabinets",
+  "tags": [
+    "filing cabinet",
+    "classic-heritage",
+    "georgian",
+    "four drawers",
+    "four bail pulls",
+    "four card frames",
+    "four bracket feet"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.48,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 3648,
+    "triangles": 6984,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/filing-cabinets/flc-0001-georgian-mahogany-four-drawer-lateral-file.usdz",
+  "preview": "previews/office/filing-cabinets/flc-0001-georgian-mahogany-four-drawer-lateral-file.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/filing-cabinets/flc-0001-georgian-mahogany-four-drawer-lateral-file.usdz",
+  "file_size_bytes": 912165,
+  "sha256": "10a9f8b8fb3c4db1de41c7c8509806f87d05d4ed4858f638ca697b76965bf505",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

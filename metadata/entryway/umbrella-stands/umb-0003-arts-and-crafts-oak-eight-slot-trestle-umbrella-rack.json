@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0003",
+  "slug": "umb-0003-arts-and-crafts-oak-eight-slot-trestle-umbrella-rack",
+  "title": "Arts-and-Crafts Oak Eight-Slot Trestle Umbrella Rack",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella rack",
+    "classic-basin",
+    "eight slots",
+    "four by two lattice",
+    "copper drip pan",
+    "trestle ends"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.4,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 2144,
+    "triangles": 4176,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0003-arts-and-crafts-oak-eight-slot-trestle-umbrella-rack.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0003-arts-and-crafts-oak-eight-slot-trestle-umbrella-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0003-arts-and-crafts-oak-eight-slot-trestle-umbrella-rack.usdz",
+  "file_size_bytes": 912355,
+  "sha256": "0e27f77486008b460a53f1afe38debbd4de762d3e3c9cc1f695c2bb490f6b9d8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

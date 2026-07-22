@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0003",
+  "slug": "cab-0003-arts-and-crafts-oak-linen-cabinet",
+  "title": "Arts-and-Crafts Oak Linen Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "classic-architectural",
+    "arts and crafts",
+    "two tall doors",
+    "two drawers",
+    "slatted sides"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.46,
+    "height": 1.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 2936,
+    "triangles": 5760,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0003-arts-and-crafts-oak-linen-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0003-arts-and-crafts-oak-linen-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0003-arts-and-crafts-oak-linen-cabinet.usdz",
+  "file_size_bytes": 613086,
+  "sha256": "e003d7045ab060dd884403c54e2551b0fa99b749d2af424928a83c4afdcab4d6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

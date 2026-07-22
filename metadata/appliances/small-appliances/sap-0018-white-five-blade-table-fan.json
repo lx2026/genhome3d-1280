@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0018",
+  "slug": "sap-0018-white-five-blade-table-fan",
+  "title": "White Five-Blade Table Fan",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "home care and climate",
+    "one complete standalone small appliance",
+    "one table fan with exactly five blades inside one circular safety grille, one neck, one broad base, and exactly three control buttons."
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.24,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 3936,
+    "triangles": 7780,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0018-white-five-blade-table-fan.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0018-white-five-blade-table-fan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0018-white-five-blade-table-fan.usdz",
+  "file_size_bytes": 866210,
+  "sha256": "d6cef70b30d96d8bfaed0780cad638cb48e6d9ad1391cd447b67ad3fc231608f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

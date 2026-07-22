@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0002",
+  "slug": "tlp-0002-antique-bronze-twelve-panel-tiffany-dome-table-lamp",
+  "title": "Antique-Bronze Twelve-Panel Tiffany-Dome Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "heritage-ornamental",
+    "one complete freestanding tabletop lamp assembly",
+    "one round foot",
+    "one turned column",
+    "exactly twelve stained-glass shade panels",
+    "one shade cap",
+    "one top finial"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.38,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2978,
+    "triangles": 5892,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0002-antique-bronze-twelve-panel-tiffany-dome-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0002-antique-bronze-twelve-panel-tiffany-dome-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0002-antique-bronze-twelve-panel-tiffany-dome-table-lamp.usdz",
+  "file_size_bytes": 816825,
+  "sha256": "15c07cf72854a7028adf0ad49e343050f4b657b4cb8d6ad72a93416661be653d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

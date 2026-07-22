@@ -1,0 +1,54 @@
+{
+  "id": "COF-0011",
+  "slug": "cof-0011-oak-slide-open-storage-table",
+  "title": "Oak Slide-Open Storage Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "functional-storage",
+    "storage",
+    "sliding-top",
+    "divided-top",
+    "box-base"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.65,
+    "height": 0.43
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 936,
+    "triangles": 1828,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0011-oak-slide-open-storage-table.usdz",
+  "preview": "previews/tables/coffee/cof-0011-oak-slide-open-storage-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0011-oak-slide-open-storage-table.usdz",
+  "file_size_bytes": 508907,
+  "sha256": "5b2b99de708407249c81a88ff12569a539307c411e15ed7681f722ddb7e13224",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

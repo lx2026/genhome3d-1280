@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0019",
+  "slug": "bak-0019-burgundy-twenty-four-flute-deep-pie-pan",
+  "title": "Burgundy Twenty-Four-Flute Deep Pie Pan",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "specialty-bakeware",
+    "one complete standalone bakeware assembly",
+    "one round deep pie pan",
+    "exactly twenty-four broad rim flutes",
+    "one deep continuous basin",
+    "one continuous circular foot ring"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 0.055
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 6288,
+    "triangles": 12472,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0019-burgundy-twenty-four-flute-deep-pie-pan.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0019-burgundy-twenty-four-flute-deep-pie-pan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0019-burgundy-twenty-four-flute-deep-pie-pan.usdz",
+  "file_size_bytes": 445543,
+  "sha256": "b258610cc78c025b99a3edb5b4c0931917191475c8ecd56f19c8002d7c607fe6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BST-0013",
+  "slug": "bst-0013-aged-brass-three-tier-glass-rolling-cart",
+  "title": "Aged-Brass Three-Tier Glass Rolling Cart",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "open-shelving/etageres",
+    "one complete freestanding bathroom-storage assembly",
+    "one rounded rectangular brass frame",
+    "exactly three clear glass shelves",
+    "exactly four vertical corner posts",
+    "one raised push handle",
+    "exactly four small caster wheels",
+    "exactly three shelf guard rails"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.4,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 3820,
+    "triangles": 7528,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0013-aged-brass-three-tier-glass-rolling-cart.usdz",
+  "preview": "previews/bathroom/storage/bst-0013-aged-brass-three-tier-glass-rolling-cart.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0013-aged-brass-three-tier-glass-rolling-cart.usdz",
+  "file_size_bytes": 808526,
+  "sha256": "4976122fa42150ec40d6ed67f4c7a174bb97b027e4c1055c023ed3e2b81b1a93",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

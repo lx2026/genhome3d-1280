@@ -1,0 +1,54 @@
+{
+  "id": "SID-0006",
+  "slug": "sid-0006-mid-century-walnut-triangular-hairpin-side-table",
+  "title": "Mid-Century Walnut Triangular-Hairpin Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "modern-residential",
+    "mid-century",
+    "triangular-top",
+    "hairpin-legs",
+    "three-leg"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.48,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1044,
+    "triangles": 1928,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0006-mid-century-walnut-triangular-hairpin-side-table.usdz",
+  "preview": "previews/tables/side/sid-0006-mid-century-walnut-triangular-hairpin-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0006-mid-century-walnut-triangular-hairpin-side-table.usdz",
+  "file_size_bytes": 601577,
+  "sha256": "5d14ad36e59518550f087263a593fc8afd8cc8b5f9711952a256bfd42d6d5cc8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

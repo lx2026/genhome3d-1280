@@ -1,0 +1,55 @@
+{
+  "id": "OCH-0002",
+  "slug": "och-0002-french-provincial-painted-ash-cane-back-desk-chair",
+  "title": "French Provincial Painted-Ash Cane-Back Desk Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "classic-executive",
+    "french provincial",
+    "oval cane back",
+    "two shaped arms",
+    "four cabriole legs",
+    "scalloped rail"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.68,
+    "height": 0.98
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3036,
+    "triangles": 5976,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0002-french-provincial-painted-ash-cane-back-desk-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0002-french-provincial-painted-ash-cane-back-desk-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0002-french-provincial-painted-ash-cane-back-desk-chair.usdz",
+  "file_size_bytes": 1464652,
+  "sha256": "9347fcecae15eacb195be0af7b5a80c0b3051b09c55a2cf1d54b0f117bd598ba",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

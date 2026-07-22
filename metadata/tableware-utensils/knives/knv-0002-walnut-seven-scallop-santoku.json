@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0002",
+  "slug": "knv-0002-walnut-seven-scallop-santoku",
+  "title": "Walnut Seven-Scallop Santoku",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "chef-prep-knives",
+    "one complete standalone knife",
+    "one sheep-foot santoku blade",
+    "exactly seven oval scallops",
+    "one walnut handle"
+  ],
+  "dimensions_m": {
+    "width": 0.305,
+    "depth": 0.052,
+    "height": 0.024
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1013,
+    "triangles": 2010,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0002-walnut-seven-scallop-santoku.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0002-walnut-seven-scallop-santoku.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0002-walnut-seven-scallop-santoku.usdz",
+  "file_size_bytes": 1008333,
+  "sha256": "035aca8982f5ce9c0ad4fcd510cbebb6d66b9cd101b3e4079caedf51809a4428",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

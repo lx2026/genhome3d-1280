@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0016",
+  "slug": "sap-0016-white-water-window-steam-iron",
+  "title": "White Water-Window Steam Iron",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "home care and climate",
+    "one complete standalone small appliance",
+    "one white steam iron with one pointed soleplate, one true-open handle, one blue water window, one temperature dial, and one spray nozzle."
+  ],
+  "dimensions_m": {
+    "width": 0.29,
+    "depth": 0.13,
+    "height": 0.15
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1060,
+    "triangles": 2048,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0016-white-water-window-steam-iron.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0016-white-water-window-steam-iron.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0016-white-water-window-steam-iron.usdz",
+  "file_size_bytes": 826298,
+  "sha256": "9f6c59dd12adad2a7dd348f5060b92c511f6318571961e438f8acde6aa6d8dfa",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

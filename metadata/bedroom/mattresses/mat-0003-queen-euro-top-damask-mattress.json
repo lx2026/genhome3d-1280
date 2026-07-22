@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0003",
+  "slug": "mat-0003-queen-euro-top-damask-mattress",
+  "title": "Queen Euro-Top Damask Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "traditional-spring",
+    "queen",
+    "four handles"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 2.03,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 7548,
+    "triangles": 14708,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.usdz",
+  "file_size_bytes": 1030432,
+  "sha256": "18c683c7e6b92981f11eb51e4530afc2b25bcb88a7a87d07298251dc15e2f0bb",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

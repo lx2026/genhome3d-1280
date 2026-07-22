@@ -1,0 +1,54 @@
+{
+  "id": "KST-0013",
+  "slug": "kst-0013-triangular-cork-six-cubby-corner-tower",
+  "title": "Triangular Cork Six-Cubby Corner Tower",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "compact-adaptive",
+    "six square cubbies",
+    "three cubbies per face",
+    "two perpendicular faces",
+    "triangular corner footprint"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.52,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1464,
+    "triangles": 2872,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0013-triangular-cork-six-cubby-corner-tower.usdz",
+  "preview": "previews/kids/storage/kst-0013-triangular-cork-six-cubby-corner-tower.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0013-triangular-cork-six-cubby-corner-tower.usdz",
+  "file_size_bytes": 401453,
+  "sha256": "fdf0157001254da34d4bcabdfdc3710d4fe1d0c8e094c08429740c84ebcb1892",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

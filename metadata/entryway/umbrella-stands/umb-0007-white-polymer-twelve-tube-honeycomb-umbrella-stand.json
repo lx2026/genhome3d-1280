@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0007",
+  "slug": "umb-0007-white-polymer-twelve-tube-honeycomb-umbrella-stand",
+  "title": "White-Polymer Twelve-Tube Honeycomb Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "modern-drainage",
+    "twelve tubes",
+    "honeycomb array",
+    "shared drainage plinth",
+    "six drain slots"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.42,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 31,
+    "vertices": 4512,
+    "triangles": 8948,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0007-white-polymer-twelve-tube-honeycomb-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0007-white-polymer-twelve-tube-honeycomb-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0007-white-polymer-twelve-tube-honeycomb-umbrella-stand.usdz",
+  "file_size_bytes": 267494,
+  "sha256": "da8988ef4016e960c8e479bcbc21a97738b8f32c69a737f4a8ef9b864619e29f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

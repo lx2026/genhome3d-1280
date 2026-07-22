@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0007",
+  "slug": "map-0007-black-four-zone-induction-range",
+  "title": "Black Four-Zone Induction Range",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "cooking",
+    "one complete standalone major appliance",
+    "one black range with exactly four flush circular cooking zones, one rear control bridge, one oven door, one window, and one horizontal handle."
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.7,
+    "height": 0.94
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3856,
+    "triangles": 7680,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0007-black-four-zone-induction-range.usdz",
+  "preview": "previews/appliances/major-appliances/map-0007-black-four-zone-induction-range.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0007-black-four-zone-induction-range.usdz",
+  "file_size_bytes": 555297,
+  "sha256": "b4403be2d76c80153461796d80e13b78ab49977bb93d32536e9cb27afa300086",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

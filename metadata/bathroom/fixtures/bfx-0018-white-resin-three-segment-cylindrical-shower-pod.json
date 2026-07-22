@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0018",
+  "slug": "bfx-0018-white-resin-three-segment-cylindrical-shower-pod",
+  "title": "White-Resin Three-Segment Cylindrical Shower Pod",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "showers-enclosures",
+    "one complete freestanding bathroom-fixture assembly",
+    "one circular shower tray",
+    "exactly three curved enclosure segments",
+    "one sliding center door",
+    "one rear control column",
+    "one overhead shower disc",
+    "one vertical door handle"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 1.0,
+    "height": 2.15
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 4176,
+    "triangles": 8304,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.usdz",
+  "file_size_bytes": 1051237,
+  "sha256": "61b954688f614cfc90c8bed529162757ab52edd8b96152fd476f11431dced096",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

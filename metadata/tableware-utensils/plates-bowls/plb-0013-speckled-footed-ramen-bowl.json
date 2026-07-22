@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0013",
+  "slug": "plb-0013-speckled-footed-ramen-bowl",
+  "title": "Speckled Footed Ramen Bowl",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "dining-bowls",
+    "one complete standalone bowl",
+    "one dark rim band",
+    "one deep open cavity",
+    "one raised circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.22,
+    "height": 0.105
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 3025,
+    "triangles": 6042,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0013-speckled-footed-ramen-bowl.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0013-speckled-footed-ramen-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0013-speckled-footed-ramen-bowl.usdz",
+  "file_size_bytes": 665213,
+  "sha256": "a240d2c82f4645b4f24347dfe4d04ef1cd77697b0232d40e3ac1a529eb2d4735",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

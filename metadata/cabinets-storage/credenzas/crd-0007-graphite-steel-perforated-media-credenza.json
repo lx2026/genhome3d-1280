@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0007",
+  "slug": "crd-0007-graphite-steel-perforated-media-credenza",
+  "title": "Graphite-Steel Perforated Media Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "modern-utility",
+    "media",
+    "three perforated doors",
+    "cable slot",
+    "two sled supports"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.45,
+    "height": 0.64
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 101,
+    "vertices": 21464,
+    "triangles": 42524,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0007-graphite-steel-perforated-media-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0007-graphite-steel-perforated-media-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0007-graphite-steel-perforated-media-credenza.usdz",
+  "file_size_bytes": 463233,
+  "sha256": "d9e55876c5fe450d5d00c18361cb19b962397241073be9d388d7ab6ef6b06143",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

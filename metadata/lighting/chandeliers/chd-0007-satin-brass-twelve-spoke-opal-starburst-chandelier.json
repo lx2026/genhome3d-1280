@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0007",
+  "slug": "chd-0007-satin-brass-twelve-spoke-opal-starburst-chandelier",
+  "title": "Satin-Brass Twelve-Spoke Opal Starburst Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "contemporary-geometric",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly twelve radial spokes",
+    "twelve opal globes",
+    "one spherical hub",
+    "one rigid downrod",
+    "one round canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 1.08,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 5714,
+    "triangles": 11320,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0007-satin-brass-twelve-spoke-opal-starburst-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0007-satin-brass-twelve-spoke-opal-starburst-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0007-satin-brass-twelve-spoke-opal-starburst-chandelier.usdz",
+  "file_size_bytes": 828645,
+  "sha256": "cafe8bf88a2d1eaadbfa7d33fe91a8e9df0bf7ea5c08294ad3d9c0497b9c3e8d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

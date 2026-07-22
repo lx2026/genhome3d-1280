@@ -1,0 +1,54 @@
+{
+  "id": "CON-0010",
+  "slug": "con-0010-smoked-glass-bent-waterfall-console",
+  "title": "Smoked-Glass Bent Waterfall Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "modern-residential",
+    "smoked-glass",
+    "bent-glass",
+    "waterfall",
+    "monolithic"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.35,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1464,
+    "triangles": 2916,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0010-smoked-glass-bent-waterfall-console.usdz",
+  "preview": "previews/tables/console/con-0010-smoked-glass-bent-waterfall-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0010-smoked-glass-bent-waterfall-console.usdz",
+  "file_size_bytes": 143728,
+  "sha256": "3ce45f8db3760b11cc004d4c7f22899094e18b9a349d951dda2419c6295806a1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

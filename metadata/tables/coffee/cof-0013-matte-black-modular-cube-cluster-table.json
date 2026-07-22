@@ -1,0 +1,54 @@
+{
+  "id": "COF-0013",
+  "slug": "cof-0013-matte-black-modular-cube-cluster-table",
+  "title": "Matte-Black Modular Cube Cluster Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "functional-storage",
+    "modular",
+    "cube-cluster",
+    "offset",
+    "multi-level"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.75,
+    "height": 0.39
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 576,
+    "triangles": 1128,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0013-matte-black-modular-cube-cluster-table.usdz",
+  "preview": "previews/tables/coffee/cof-0013-matte-black-modular-cube-cluster-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0013-matte-black-modular-cube-cluster-table.usdz",
+  "file_size_bytes": 158311,
+  "sha256": "6924eda78b678f8559e971650a6345caccaee9d41fdcb971919c195bc03b9837",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0010",
+  "slug": "sap-0010-black-compact-capsule-coffee-maker",
+  "title": "Black Compact Capsule Coffee Maker",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "beverage preparation",
+    "one complete standalone small appliance",
+    "one narrow black capsule brewer with one closed brew head, one top lever, one outlet nozzle, one removable drip tray, one rear tank, and exactly two buttons."
+  ],
+  "dimensions_m": {
+    "width": 0.14,
+    "depth": 0.32,
+    "height": 0.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2424,
+    "triangles": 4816,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.usdz",
+  "file_size_bytes": 844195,
+  "sha256": "0454371f8180b1a41cc6cc1ac13e8c85ae841c547ba9b7f9f8f05e01c6018b4d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0014",
+  "slug": "drs-0014-birch-step-form-four-drawer-dresser",
+  "title": "Birch Step-Form Four-Drawer Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "compact-adaptive",
+    "step form",
+    "four drawers",
+    "ascending boxes",
+    "stepped base"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.46,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1248,
+    "triangles": 2444,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0014-birch-step-form-four-drawer-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0014-birch-step-form-four-drawer-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0014-birch-step-form-four-drawer-dresser.usdz",
+  "file_size_bytes": 540573,
+  "sha256": "3869cb4fc034c156902656c6de363699c80909700ffa77904008c7c8ef8c9f12",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

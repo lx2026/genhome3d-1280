@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0014",
+  "slug": "bkc-0014-rolling-sage-library-cart-bookcase",
+  "title": "Rolling Sage Library-Cart Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "compact-adaptive",
+    "library cart",
+    "three tilted shelves",
+    "four casters",
+    "handle"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.48,
+    "height": 1.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 2540,
+    "triangles": 4952,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0014-rolling-sage-library-cart-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0014-rolling-sage-library-cart-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0014-rolling-sage-library-cart-bookcase.usdz",
+  "file_size_bytes": 530559,
+  "sha256": "2a523a0da34e4088ff253b1662e968eee64028c46c2a1fa85c9ade7a5e1fb621",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

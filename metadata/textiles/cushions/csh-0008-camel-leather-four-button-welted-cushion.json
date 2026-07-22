@@ -1,0 +1,55 @@
+{
+  "id": "CSH-0008",
+  "slug": "csh-0008-camel-leather-four-button-welted-cushion",
+  "title": "Camel-Leather Four-Button Welted Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "boxed-tufted",
+    "one complete standalone cushion assembly",
+    "exactly four buttons",
+    "one 2 by 2 button field",
+    "one continuous welt",
+    "one boxed side gusset"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.18,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2228,
+    "triangles": 4308,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.usdz",
+  "file_size_bytes": 1089679,
+  "sha256": "7ac43e1d3a33df675f84194114a1eda55b2bc501a73bc82b1590cf82b75732d4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

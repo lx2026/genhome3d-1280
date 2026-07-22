@@ -1,0 +1,57 @@
+{
+  "id": "ART-0011",
+  "slug": "art-0011-brass-five-arm-counterbalanced-mobile",
+  "title": "Brass Five-Arm Counterbalanced Mobile",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "geometric-kinetic-objects",
+    "one complete freestanding decorative art-object assembly",
+    "one vertical black mast",
+    "exactly five pivot arms",
+    "exactly five thin hanging brass discs",
+    "exactly five spherical counterweights",
+    "one round weighted base",
+    "five staggered horizontal levels"
+  ],
+  "dimensions_m": {
+    "width": 0.74,
+    "depth": 0.38,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 5682,
+    "triangles": 11276,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.usdz",
+  "preview": "previews/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.usdz",
+  "file_size_bytes": 718623,
+  "sha256": "2edee2378b574f2a0da9579605d909b25969aa0fd4de244511f7c5dac798884e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SID-0004",
+  "slug": "sid-0004-louis-xv-oak-marble-one-drawer-side-table",
+  "title": "Louis XV Oak-Marble One-Drawer Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "heritage-craft",
+    "louis-xv",
+    "marble-top",
+    "one-drawer",
+    "cabriole-legs"
+  ],
+  "dimensions_m": {
+    "width": 0.45,
+    "depth": 0.38,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2200,
+    "triangles": 4176,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0004-louis-xv-oak-marble-one-drawer-side-table.usdz",
+  "preview": "previews/tables/side/sid-0004-louis-xv-oak-marble-one-drawer-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0004-louis-xv-oak-marble-one-drawer-side-table.usdz",
+  "file_size_bytes": 1432095,
+  "sha256": "41af90298d4b2d9b4e0e436f1356945fd0537260c579b54909b7e6ffff7142c4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

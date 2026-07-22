@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0001",
+  "slug": "tlp-0001-aged-brass-green-glass-banker-table-lamp",
+  "title": "Aged-Brass Green-Glass Banker Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "heritage-ornamental",
+    "one complete freestanding tabletop lamp assembly",
+    "one oval stepped base",
+    "one turned stem",
+    "exactly two shade support arms",
+    "one green barrel shade",
+    "one pull-chain finial"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.24,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 3172,
+    "triangles": 6204,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.usdz",
+  "file_size_bytes": 821059,
+  "sha256": "17cfddf8893650806da03de0b487857d35d8161e04c333b2e321a0054918e862",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

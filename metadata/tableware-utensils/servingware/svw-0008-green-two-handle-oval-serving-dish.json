@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0008",
+  "slug": "svw-0008-green-two-handle-oval-serving-dish",
+  "title": "Green Two-Handle Oval Serving Dish",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "serving-bowls-and-dishes",
+    "one complete standalone serving product",
+    "one open oval green serving dish with exactly two solid opposed handles and one oval foot."
+  ],
+  "dimensions_m": {
+    "width": 0.4,
+    "depth": 0.24,
+    "height": 0.105
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2593,
+    "triangles": 5170,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0008-green-two-handle-oval-serving-dish.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0008-green-two-handle-oval-serving-dish.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0008-green-two-handle-oval-serving-dish.usdz",
+  "file_size_bytes": 518139,
+  "sha256": "d7f2e4bde5b94e54b38fb3b552d2f2cb4b5a8de4a89ec6180997a5bd565e06f3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

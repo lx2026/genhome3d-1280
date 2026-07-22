@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0009",
+  "slug": "bac-0009-graphite-twelve-tick-analog-bathroom-scale",
+  "title": "Graphite Twelve-Tick Analog Bathroom Scale",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "sanitary-utility",
+    "one complete freestanding bathroom-accessory assembly",
+    "one low round scale body",
+    "one textured standing pad",
+    "one semicircular dial window",
+    "exactly twelve major dial ticks",
+    "exactly four rubber feet"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 3530,
+    "triangles": 6976,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.usdz",
+  "preview": "previews/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.usdz",
+  "file_size_bytes": 1099350,
+  "sha256": "3615b73d4f35e2b27b4bfdedad3a125e46576b5cc662bf4e36802d4d05362317",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

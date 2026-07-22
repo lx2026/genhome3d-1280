@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0002",
+  "slug": "ktl-0002-cream-black-rim-enamel-kettle",
+  "title": "Cream Black-Rim Enamel Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "whistling-stovetop-kettles",
+    "one complete standalone kettle assembly",
+    "one conical cream-enamel body",
+    "exactly one black rim band",
+    "exactly one folding black top handle",
+    "exactly one flip whistle cap"
+  ],
+  "dimensions_m": {
+    "width": 0.245,
+    "depth": 0.2,
+    "height": 0.25
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 5926,
+    "triangles": 11772,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.usdz",
+  "file_size_bytes": 942245,
+  "sha256": "70e6e7f3fc116b3653510559bfcd48ee2286bddf28fe13536dda6f0057b7b287",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0017",
+  "slug": "vny-0017-natural-rattan-arch-cane-drawer-vanity",
+  "title": "Natural-Rattan Arch Cane-Drawer Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "sculptural-specialty",
+    "rattan arch",
+    "two cane drawers",
+    "four legs"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.48,
+    "height": 1.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 6556,
+    "triangles": 12176,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0017-natural-rattan-arch-cane-drawer-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0017-natural-rattan-arch-cane-drawer-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0017-natural-rattan-arch-cane-drawer-vanity.usdz",
+  "file_size_bytes": 1605972,
+  "sha256": "c44f6ea9ec2d3ff73f87ed5a0785d2de83a91fa392b18f13638429ee0823ac46",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0003",
+  "slug": "vny-0003-arts-and-crafts-oak-slat-frame-vanity",
+  "title": "Arts-and-Crafts Oak Slat-Frame Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "heritage-dressing",
+    "arts and crafts",
+    "six drawers",
+    "slat mirror frame"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.52,
+    "height": 1.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 3440,
+    "triangles": 6492,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0003-arts-and-crafts-oak-slat-frame-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0003-arts-and-crafts-oak-slat-frame-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0003-arts-and-crafts-oak-slat-frame-vanity.usdz",
+  "file_size_bytes": 909497,
+  "sha256": "5aa756c2f9a908471c6e57a4932b0b43266eeaec09cc95132b9009f144c99ed6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

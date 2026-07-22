@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0019",
+  "slug": "bkc-0019-color-block-recycled-plastic-cube-bookcase",
+  "title": "Color-Block Recycled-Plastic Cube Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "sculptural-specialty",
+    "color block",
+    "seven cubes",
+    "five cubbies",
+    "two doors"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.36,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 39,
+    "vertices": 3832,
+    "triangles": 7508,
+    "material_slots": 7
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0019-color-block-recycled-plastic-cube-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0019-color-block-recycled-plastic-cube-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0019-color-block-recycled-plastic-cube-bookcase.usdz",
+  "file_size_bytes": 2790479,
+  "sha256": "98d0d79e4c8f4ee0fd85ac3cbbccc3ce7eb35eec5da461b5f092c9c883247428",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

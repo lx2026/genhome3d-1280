@@ -1,0 +1,54 @@
+{
+  "id": "COF-0007",
+  "slug": "cof-0007-mid-century-walnut-boomerang-table",
+  "title": "Mid-Century Walnut Boomerang Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "modern-residential",
+    "mid-century",
+    "boomerang-top",
+    "asymmetric",
+    "three-leg"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.72,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 576,
+    "triangles": 1136,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.usdz",
+  "preview": "previews/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.usdz",
+  "file_size_bytes": 549201,
+  "sha256": "e5f0f4084b308c300a5835891fdeda0b3c3651ecc1da5d3000b64d7650e67219",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0016",
+  "slug": "odt-0016-corten-quarter-circle-seven-fin-outdoor-bar-table",
+  "title": "Corten Quarter-Circle Seven-Fin Outdoor Bar Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "architectural-specialty",
+    "one quarter-circle outdoor bar table",
+    "one curved slab top",
+    "seven radial support fins",
+    "one arc foot rail",
+    "one recessed arc base"
+  ],
+  "dimensions_m": {
+    "width": 1.54,
+    "depth": 0.92,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 5848,
+    "triangles": 11560,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0016-corten-quarter-circle-seven-fin-outdoor-bar-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0016-corten-quarter-circle-seven-fin-outdoor-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0016-corten-quarter-circle-seven-fin-outdoor-bar-table.usdz",
+  "file_size_bytes": 466471,
+  "sha256": "733c3c7e96a9c382ad026f16c0389fe922b695ab307ebb7e78100646bea4dbaf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0018",
+  "slug": "map-0018-stainless-pull-out-trash-compactor",
+  "title": "Stainless Pull-Out Trash Compactor",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "utility-and-specialty-appliances",
+    "one complete standalone major appliance",
+    "one narrow trash compactor with one full-height pull-out front, one horizontal handle, one lower foot pedal, and one recessed toe panel."
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.61,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1088,
+    "triangles": 2148,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.usdz",
+  "preview": "previews/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.usdz",
+  "file_size_bytes": 579726,
+  "sha256": "ab9834e3b8aa6530fdf4a67416cf6e0e06c030604919adea0ba44b3abee5bfe7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

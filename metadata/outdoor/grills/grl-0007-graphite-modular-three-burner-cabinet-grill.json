@@ -1,0 +1,56 @@
+{
+  "id": "GRL-0007",
+  "slug": "grl-0007-graphite-modular-three-burner-cabinet-grill",
+  "title": "Graphite Modular Three-Burner Cabinet Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "contemporary-modular",
+    "one angular grill hood",
+    "three control knobs",
+    "one lidded side burner",
+    "two lower drawers",
+    "one cabinet door",
+    "four leveling feet"
+  ],
+  "dimensions_m": {
+    "width": 1.28,
+    "depth": 0.64,
+    "height": 1.17
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 2624,
+    "triangles": 5176,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0007-graphite-modular-three-burner-cabinet-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0007-graphite-modular-three-burner-cabinet-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0007-graphite-modular-three-burner-cabinet-grill.usdz",
+  "file_size_bytes": 671674,
+  "sha256": "10fc17ab8a5eaee218f04d37237af8faae7b98c76b34a4ba57fef1a98b3d3bb9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

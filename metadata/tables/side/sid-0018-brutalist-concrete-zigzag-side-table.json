@@ -1,0 +1,54 @@
+{
+  "id": "SID-0018",
+  "slug": "sid-0018-brutalist-concrete-zigzag-side-table",
+  "title": "Brutalist Concrete Zigzag Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "sculptural-outdoor",
+    "brutalist",
+    "concrete",
+    "zigzag",
+    "folded-slab"
+  ],
+  "dimensions_m": {
+    "width": 0.45,
+    "depth": 0.4,
+    "height": 0.5
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 456,
+    "triangles": 908,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0018-brutalist-concrete-zigzag-side-table.usdz",
+  "preview": "previews/tables/side/sid-0018-brutalist-concrete-zigzag-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0018-brutalist-concrete-zigzag-side-table.usdz",
+  "file_size_bytes": 410830,
+  "sha256": "8ec53b3c3da31957590487ed41e9af7a4e91f12262cf52606e9bdae544eda607",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

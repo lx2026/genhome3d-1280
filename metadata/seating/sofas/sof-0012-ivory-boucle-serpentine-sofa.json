@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0012",
+  "slug": "sof-0012-ivory-boucle-serpentine-sofa",
+  "title": "Ivory Boucl\u00e9 Serpentine Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "modular-lounge",
+    "boucle",
+    "serpentine",
+    "curved",
+    "hidden-base"
+  ],
+  "dimensions_m": {
+    "width": 2.3,
+    "depth": 1.05,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 2160,
+    "triangles": 4308,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0012-ivory-boucle-serpentine-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0012-ivory-boucle-serpentine-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0012-ivory-boucle-serpentine-sofa.usdz",
+  "file_size_bytes": 940765,
+  "sha256": "b9d2589a6a564e7d9fe9ed26abd3805d80776c2f7ac870eabd13fd161e0c041e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

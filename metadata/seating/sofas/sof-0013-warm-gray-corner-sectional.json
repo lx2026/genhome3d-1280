@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0013",
+  "slug": "sof-0013-warm-gray-corner-sectional",
+  "title": "Warm-Gray Corner Sectional",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "modular-lounge",
+    "sectional",
+    "corner",
+    "l-shaped",
+    "five-module"
+  ],
+  "dimensions_m": {
+    "width": 2.6,
+    "depth": 2.1,
+    "height": 0.74
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 3256,
+    "triangles": 6448,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0013-warm-gray-corner-sectional.usdz",
+  "preview": "previews/seating/sofas/sof-0013-warm-gray-corner-sectional.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0013-warm-gray-corner-sectional.usdz",
+  "file_size_bytes": 525398,
+  "sha256": "deb6a2c27efc7865dcb48d4ea0e7675c3580488c5847eb55859368ddcfa8b6a3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

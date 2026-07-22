@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0019",
+  "slug": "cwr-0019-terracotta-single-vent-conical-tagine",
+  "title": "Terracotta Single-Vent Conical Tagine",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "specialty-cookware",
+    "one complete standalone cookware assembly",
+    "one shallow round tagine base",
+    "exactly one fitted conical lid",
+    "exactly one steam vent",
+    "exactly one top grip collar"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.36,
+    "height": 0.31
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2247,
+    "triangles": 4482,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.usdz",
+  "file_size_bytes": 590067,
+  "sha256": "d975fd7fe873da6f22ef7078804f7310f2a1497ec457210c87506cd6090263b5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0019",
+  "slug": "mat-0019-queen-articulated-adjustable-mattress",
+  "title": "Queen Articulated Adjustable Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foldable-alternative",
+    "queen",
+    "articulated"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 1.88,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 3320,
+    "triangles": 5540,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.usdz",
+  "file_size_bytes": 727799,
+  "sha256": "561aeaa0bcd5dda476abe3fbee90d10bde15f0f756a39226266017cd78d3e7ce",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

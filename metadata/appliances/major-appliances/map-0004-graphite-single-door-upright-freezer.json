@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0004",
+  "slug": "map-0004-graphite-single-door-upright-freezer",
+  "title": "Graphite Single-Door Upright Freezer",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "refrigeration-and-freezing",
+    "one complete standalone major appliance",
+    "one graphite upright freezer with one tall flush door, one vertical handle, one top digital panel, and one recessed lower toe vent."
+  ],
+  "dimensions_m": {
+    "width": 0.71,
+    "depth": 0.74,
+    "height": 1.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1600,
+    "triangles": 3148,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.usdz",
+  "preview": "previews/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.usdz",
+  "file_size_bytes": 503605,
+  "sha256": "012abc513886e59a867a4206e76491eab603ff40379ee538d1df38c59ce939fe",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

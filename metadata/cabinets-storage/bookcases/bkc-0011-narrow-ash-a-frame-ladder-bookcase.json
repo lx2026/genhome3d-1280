@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0011",
+  "slug": "bkc-0011-narrow-ash-a-frame-ladder-bookcase",
+  "title": "Narrow Ash A-Frame Ladder Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "compact-adaptive",
+    "a-frame",
+    "five shelves",
+    "folding",
+    "narrow"
+  ],
+  "dimensions_m": {
+    "width": 0.719965,
+    "depth": 0.420088,
+    "height": 1.819995
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1120,
+    "triangles": 2200,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0011-narrow-ash-a-frame-ladder-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0011-narrow-ash-a-frame-ladder-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0011-narrow-ash-a-frame-ladder-bookcase.usdz",
+  "file_size_bytes": 871347,
+  "sha256": "3a9cd72d66ae7f96e5f9af0766a96ba61b9e6a8ad7f0caf70397aa077bab4369",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

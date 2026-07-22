@@ -1,0 +1,53 @@
+{
+  "id": "CUT-0013",
+  "slug": "cut-0013-black-long-iced-tea-spoon",
+  "title": "Black Long Iced-Tea Spoon",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "dining-serving-spoons",
+    "one complete standalone iced-tea spoon",
+    "one small oval spoon bowl",
+    "one extra-long square-ended handle"
+  ],
+  "dimensions_m": {
+    "width": 0.034,
+    "depth": 0.23,
+    "height": 0.015
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 866,
+    "triangles": 1720,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0013-black-long-iced-tea-spoon.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0013-black-long-iced-tea-spoon.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0013-black-long-iced-tea-spoon.usdz",
+  "file_size_bytes": 181265,
+  "sha256": "86348ab1d2abbb55d53277b4c560925fcab25acde04fd72add9220c475cedbc0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

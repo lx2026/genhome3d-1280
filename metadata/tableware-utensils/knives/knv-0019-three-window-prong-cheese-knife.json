@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0019",
+  "slug": "knv-0019-three-window-prong-cheese-knife",
+  "title": "Three-Window Prong Cheese Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "specialty-knives",
+    "one complete standalone knife",
+    "exactly three open blade windows",
+    "exactly two tip prongs",
+    "one cream handle"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.055,
+    "height": 0.022
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1356,
+    "triangles": 2708,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0019-three-window-prong-cheese-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0019-three-window-prong-cheese-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0019-three-window-prong-cheese-knife.usdz",
+  "file_size_bytes": 784173,
+  "sha256": "fe4205d0e856957cdec6d0b62510048c186d350d6808822c9f211e5939ba7ebe",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

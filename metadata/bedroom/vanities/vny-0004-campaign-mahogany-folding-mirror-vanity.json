@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0004",
+  "slug": "vny-0004-campaign-mahogany-folding-mirror-vanity",
+  "title": "Campaign Mahogany Folding-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "heritage-dressing",
+    "campaign",
+    "three drawers",
+    "folding mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.5,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 1936,
+    "triangles": 3792,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0004-campaign-mahogany-folding-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0004-campaign-mahogany-folding-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0004-campaign-mahogany-folding-mirror-vanity.usdz",
+  "file_size_bytes": 1057191,
+  "sha256": "bb421cd95822bfa696e9a004a7522a8006cfa41f5f60bb2b35f530d11ef3b8ad",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

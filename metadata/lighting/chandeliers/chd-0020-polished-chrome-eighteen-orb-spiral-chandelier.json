@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0020",
+  "slug": "chd-0020-polished-chrome-eighteen-orb-spiral-chandelier",
+  "title": "Polished-Chrome Eighteen-Orb Spiral Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "architectural-statement",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly eighteen glass orbs",
+    "eighteen descending stems",
+    "one three-turn spiral carrier",
+    "six ceiling cables",
+    "one round canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 1.1,
+    "height": 1.68
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 44,
+    "vertices": 15576,
+    "triangles": 30928,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.usdz",
+  "file_size_bytes": 1406365,
+  "sha256": "5757bfe56b316042bcddd73e8f81e0cbd020132a85eb361934ceaef2492df48e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

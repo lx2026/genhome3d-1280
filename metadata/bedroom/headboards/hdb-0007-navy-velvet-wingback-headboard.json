@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0007",
+  "slug": "hdb-0007-navy-velvet-wingback-headboard",
+  "title": "Navy Velvet Wingback Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "modern-upholstered",
+    "velvet",
+    "wingback",
+    "button-tufting",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.12,
+    "depth": 0.24,
+    "height": 1.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 94,
+    "vertices": 21144,
+    "triangles": 41912,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.usdz",
+  "file_size_bytes": 451151,
+  "sha256": "34120ccad669bcdf67eba0b8481dab87a1a2603d882fbf7fdf3407c0883b2b2f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

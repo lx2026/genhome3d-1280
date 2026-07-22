@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0001",
+  "slug": "shs-0001-georgian-mahogany-twelve-cubby-shoe-bench",
+  "title": "Georgian Mahogany Twelve-Cubby Shoe Bench",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "classic-bench",
+    "twelve cubbies",
+    "four by three grid",
+    "buttoned leather seat",
+    "four bracket feet"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.42,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 3832,
+    "triangles": 7524,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0001-georgian-mahogany-twelve-cubby-shoe-bench.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0001-georgian-mahogany-twelve-cubby-shoe-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0001-georgian-mahogany-twelve-cubby-shoe-bench.usdz",
+  "file_size_bytes": 1285187,
+  "sha256": "e85394d507c43f507246ba631f74c11568ecb3221f6c18af39a841365149c56d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

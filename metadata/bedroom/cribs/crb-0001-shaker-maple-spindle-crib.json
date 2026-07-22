@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0001",
+  "slug": "crb-0001-shaker-maple-spindle-crib",
+  "title": "Shaker Maple Spindle Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "traditional-craft",
+    "shaker",
+    "maple",
+    "spindle-rails",
+    "four-post"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.78,
+    "height": 1.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 61,
+    "vertices": 9184,
+    "triangles": 18124,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.usdz",
+  "file_size_bytes": 775994,
+  "sha256": "3a9ca596e4eb271bc923d75fadf830107107fa047bd7f32d9e68a02a8b74a445",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

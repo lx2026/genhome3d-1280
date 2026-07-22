@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0009",
+  "slug": "arm-0009-ivory-boucle-barrel-armchair",
+  "title": "Ivory Boucl\u00e9 Barrel Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "standard",
+    "barrel",
+    "boucle",
+    "swivel-base",
+    "curved-shell"
+  ],
+  "dimensions_m": {
+    "width": 0.79,
+    "depth": 0.8,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 3048,
+    "triangles": 6068,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.usdz",
+  "file_size_bytes": 1109655,
+  "sha256": "a450463205d5353af30f3b57082bb9b846a77a4adada9a7c673cc1ada3240f48",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

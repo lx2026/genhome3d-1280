@@ -1,0 +1,55 @@
+{
+  "id": "OST-0017",
+  "slug": "ost-0017-smoked-glass-hexagonal-pool-towel-storage-tower",
+  "title": "Smoked-Glass Hexagonal Pool-Towel Storage Tower",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "architectural-specialty",
+    "one storage tower",
+    "six smoked-glass wall panels",
+    "three circular shelves",
+    "one framed door",
+    "one stainless ring base"
+  ],
+  "dimensions_m": {
+    "width": 0.82,
+    "depth": 0.74,
+    "height": 1.54
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 2856,
+    "triangles": 5632,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0017-smoked-glass-hexagonal-pool-towel-storage-tower.usdz",
+  "preview": "previews/outdoor/storage/ost-0017-smoked-glass-hexagonal-pool-towel-storage-tower.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0017-smoked-glass-hexagonal-pool-towel-storage-tower.usdz",
+  "file_size_bytes": 584223,
+  "sha256": "c7e83fa0b829930bbb7c4ec76b11f4a04d0a38da0613a8474bf8207b1d14dbdc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

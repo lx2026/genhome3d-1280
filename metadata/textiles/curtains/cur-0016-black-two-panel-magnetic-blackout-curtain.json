@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0016",
+  "slug": "cur-0016-black-two-panel-magnetic-blackout-curtain",
+  "title": "Black Two-Panel Magnetic Blackout Curtain",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "functional-specialty-curtains",
+    "one complete standalone curtain assembly",
+    "exactly two opaque blackout panels",
+    "exactly six magnetic closures",
+    "exactly three opposed magnetic pairs",
+    "one straight pelmet"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.2,
+    "height": 2.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 3068,
+    "triangles": 6100,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0016-black-two-panel-magnetic-blackout-curtain.usdz",
+  "preview": "previews/textiles/curtains/cur-0016-black-two-panel-magnetic-blackout-curtain.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0016-black-two-panel-magnetic-blackout-curtain.usdz",
+  "file_size_bytes": 550444,
+  "sha256": "673cba5627f1a6ffdebf430394f976e8df6effaa69985eb2f08b45c673537324",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0020",
+  "slug": "tlp-0020-polished-chrome-two-turn-ribbon-table-lamp",
+  "title": "Polished-Chrome Two-Turn Ribbon Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "architectural-statement",
+    "one complete freestanding tabletop lamp assembly",
+    "one round weighted base",
+    "one vertical opal light bar",
+    "one continuous chrome ribbon",
+    "exactly two complete turns",
+    "two terminal caps"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.28,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 2800,
+    "triangles": 5580,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.usdz",
+  "file_size_bytes": 810387,
+  "sha256": "87f7c5ac0277572359dcc6c5ddec2472a321af01e4373063b5d55f0770c8727f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0001",
+  "slug": "umb-0001-georgian-mahogany-twelve-spindle-umbrella-stand",
+  "title": "Georgian Mahogany Twelve-Spindle Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "classic-basin",
+    "twelve spindles",
+    "brass top rail",
+    "removable drip tray",
+    "four bracket feet"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.38,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 4928,
+    "triangles": 9756,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0001-georgian-mahogany-twelve-spindle-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0001-georgian-mahogany-twelve-spindle-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0001-georgian-mahogany-twelve-spindle-umbrella-stand.usdz",
+  "file_size_bytes": 841018,
+  "sha256": "0b3f82e318aa92f511888e172060b2d58c34c4f3a6d3aed72a14e3207fa0edf5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

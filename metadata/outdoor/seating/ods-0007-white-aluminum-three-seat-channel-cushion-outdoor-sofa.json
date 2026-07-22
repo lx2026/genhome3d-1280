@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0007",
+  "slug": "ods-0007-white-aluminum-three-seat-channel-cushion-outdoor-sofa",
+  "title": "White-Aluminum Three-Seat Channel-Cushion Outdoor Sofa",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "contemporary-lounge",
+    "one three-seat sofa",
+    "three seat cushions",
+    "three channel back cushions",
+    "two slab arms",
+    "one recessed sled plinth"
+  ],
+  "dimensions_m": {
+    "width": 2.1,
+    "depth": 0.82,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 2888,
+    "triangles": 5700,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0007-white-aluminum-three-seat-channel-cushion-outdoor-sofa.usdz",
+  "preview": "previews/outdoor/seating/ods-0007-white-aluminum-three-seat-channel-cushion-outdoor-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0007-white-aluminum-three-seat-channel-cushion-outdoor-sofa.usdz",
+  "file_size_bytes": 890901,
+  "sha256": "6c8549020c1f4bc7cb83c39ca46a1a26ccd8f883aedbacc395150e54055dfd5f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

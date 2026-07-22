@@ -1,0 +1,54 @@
+{
+  "id": "CON-0004",
+  "slug": "con-0004-ming-elm-altar-console",
+  "title": "Ming Elm Altar Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "heritage-craft",
+    "ming",
+    "altar-table",
+    "everted-flanges",
+    "cloud-spandrels"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.38,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2000,
+    "triangles": 3680,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0004-ming-elm-altar-console.usdz",
+  "preview": "previews/tables/console/con-0004-ming-elm-altar-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0004-ming-elm-altar-console.usdz",
+  "file_size_bytes": 540121,
+  "sha256": "ec415b70f565b3bc0a4383580714c9a67b3247ee547b0a572584067f5a6e6ed7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0001",
+  "slug": "bkc-0001-georgian-mahogany-breakfront-library-bookcase",
+  "title": "Georgian Mahogany Breakfront Library Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "classic-architectural",
+    "georgian",
+    "three bays",
+    "twelve compartments",
+    "three doors"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.42,
+    "height": 2.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 2352,
+    "triangles": 4612,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0001-georgian-mahogany-breakfront-library-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0001-georgian-mahogany-breakfront-library-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0001-georgian-mahogany-breakfront-library-bookcase.usdz",
+  "file_size_bytes": 842140,
+  "sha256": "f27133a6e157b791b9428192d376147bafa0db8e02ae841504814f2ef3977fc1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0009",
+  "slug": "cab-0009-travertine-monolith-cabinet",
+  "title": "Travertine Monolith Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "modern-utility",
+    "monolith",
+    "two slab doors",
+    "recessed pulls",
+    "stone plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.48,
+    "height": 1.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1088,
+    "triangles": 2132,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0009-travertine-monolith-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0009-travertine-monolith-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0009-travertine-monolith-cabinet.usdz",
+  "file_size_bytes": 545909,
+  "sha256": "254d7a768bd8cd5c9636ecb2df97db1e1ff35fb558c4ea9f0bb99a5ae3bfb092",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

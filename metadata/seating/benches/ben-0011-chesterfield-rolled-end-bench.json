@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0011",
+  "slug": "ben-0011-chesterfield-rolled-end-bench",
+  "title": "Chesterfield Rolled-End Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "upholstered",
+    "chesterfield",
+    "leather",
+    "button-tufted",
+    "rolled-end"
+  ],
+  "dimensions_m": {
+    "width": 1.55,
+    "depth": 0.58,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 33,
+    "vertices": 5920,
+    "triangles": 11708,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0011-chesterfield-rolled-end-bench.usdz",
+  "preview": "previews/seating/benches/ben-0011-chesterfield-rolled-end-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0011-chesterfield-rolled-end-bench.usdz",
+  "file_size_bytes": 1050576,
+  "sha256": "9ec54358edc6198adb3da6bda955519630f14713584048781a8886a8a64a6135",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

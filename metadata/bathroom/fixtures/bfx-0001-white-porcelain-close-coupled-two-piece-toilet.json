@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0001",
+  "slug": "bfx-0001-white-porcelain-close-coupled-two-piece-toilet",
+  "title": "White-Porcelain Close-Coupled Two-Piece Toilet",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "sanitary-toilets",
+    "one complete freestanding bathroom-fixture assembly",
+    "one floor-mounted bowl",
+    "one rectangular rear tank",
+    "one oval seat",
+    "one matching seat lid",
+    "one raised tank lid",
+    "one side flush lever"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.72,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 9654,
+    "triangles": 19272,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.usdz",
+  "file_size_bytes": 1277008,
+  "sha256": "c61043e24c954e29e3578ded4c46aa444575b22a08282aa0d0cc789cc7357f4b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

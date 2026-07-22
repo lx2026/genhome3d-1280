@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0004",
+  "slug": "sap-0004-stainless-two-beater-hand-mixer",
+  "title": "Stainless Two-Beater Hand Mixer",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "food preparation",
+    "one complete standalone small appliance",
+    "one compact hand mixer with one open top handle, exactly two detachable wire beaters, one speed slider, and one eject button."
+  ],
+  "dimensions_m": {
+    "width": 0.19,
+    "depth": 0.09,
+    "height": 0.15
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2092,
+    "triangles": 4112,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.usdz",
+  "file_size_bytes": 616960,
+  "sha256": "8a2522a3dc60b544f5592d2b80fc6180766574f1afaa8cd9a6c0da7ec346de5c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

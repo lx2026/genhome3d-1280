@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0014",
+  "slug": "mir-0014-rose-gold-triple-arch-mirror",
+  "title": "Rose-Gold Triple-Arch Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "decorative-ornamental-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "exactly three adjacent arched mirror panels",
+    "exactly three rose-gold outline frames",
+    "exactly two narrow vertical joins",
+    "one shared lower rail"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.08,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2112,
+    "triangles": 4184,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.usdz",
+  "file_size_bytes": 702628,
+  "sha256": "fa1c918e22d5a04ba27b8a469564e213bc8b42d385645ac3228dce0a822da036",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

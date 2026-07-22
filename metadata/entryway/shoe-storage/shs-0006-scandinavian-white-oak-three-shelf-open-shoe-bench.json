@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0006",
+  "slug": "shs-0006-scandinavian-white-oak-three-shelf-open-shoe-bench",
+  "title": "Scandinavian White-Oak Three-Shelf Open Shoe Bench",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "modern-cabinet",
+    "three slatted shelves",
+    "plain bench top",
+    "open frame",
+    "four splayed legs"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.38,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 2208,
+    "triangles": 4324,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0006-scandinavian-white-oak-three-shelf-open-shoe-bench.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0006-scandinavian-white-oak-three-shelf-open-shoe-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0006-scandinavian-white-oak-three-shelf-open-shoe-bench.usdz",
+  "file_size_bytes": 489121,
+  "sha256": "09bce0bb3b56e666645b98ca847f48f33dde15235dc1fd2a814e207acb50171b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

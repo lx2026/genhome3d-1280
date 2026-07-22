@@ -1,0 +1,55 @@
+{
+  "id": "OCH-0020",
+  "slug": "och-0020-brutalist-cork-steel-cantilever-office-chair",
+  "title": "Brutalist Cork-and-Steel Cantilever Office Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "sculptural-specialty",
+    "brutalist",
+    "two cork slabs",
+    "two folded side plates",
+    "integrated arms and legs",
+    "one rear stretcher"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.76,
+    "height": 0.98
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 856,
+    "triangles": 1692,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0020-brutalist-cork-steel-cantilever-office-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0020-brutalist-cork-steel-cantilever-office-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0020-brutalist-cork-steel-cantilever-office-chair.usdz",
+  "file_size_bytes": 471632,
+  "sha256": "b7f87e6bb9d80d52cabaab4bfdca4ebef11073f769e57ed91e86542cb2776794",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

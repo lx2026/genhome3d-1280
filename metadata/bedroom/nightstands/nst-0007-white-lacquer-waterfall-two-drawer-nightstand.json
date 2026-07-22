@@ -1,0 +1,53 @@
+{
+  "id": "NST-0007",
+  "slug": "nst-0007-white-lacquer-waterfall-two-drawer-nightstand",
+  "title": "White-Lacquer Waterfall Two-Drawer Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "modern-minimal",
+    "waterfall shell",
+    "two drawers",
+    "handleless"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.4,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1176,
+    "triangles": 2328,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0007-white-lacquer-waterfall-two-drawer-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0007-white-lacquer-waterfall-two-drawer-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0007-white-lacquer-waterfall-two-drawer-nightstand.usdz",
+  "file_size_bytes": 308363,
+  "sha256": "de3f9529bd0b92f8bb96384a27cad1cf187f24b1e76b63e8c1ac9d4e27f93d92",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

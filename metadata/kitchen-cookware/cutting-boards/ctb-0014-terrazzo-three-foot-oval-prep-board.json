@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0014",
+  "slug": "ctb-0014-terrazzo-three-foot-oval-prep-board",
+  "title": "Terrazzo Three-Foot Oval Prep Board",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "stone-and-mineral-boards",
+    "one complete standalone cutting-board assembly",
+    "one oval terrazzo board",
+    "exactly three brass support feet",
+    "exactly two opposed grip recesses",
+    "one continuous bullnose edge"
+  ],
+  "dimensions_m": {
+    "width": 0.44,
+    "depth": 0.3,
+    "height": 0.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2092,
+    "triangles": 4176,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0014-terrazzo-three-foot-oval-prep-board.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0014-terrazzo-three-foot-oval-prep-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0014-terrazzo-three-foot-oval-prep-board.usdz",
+  "file_size_bytes": 959190,
+  "sha256": "2758e4d4f0ed2c703b9f23de94546a014db4dfbdd774bbebf4254de15f1531f7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

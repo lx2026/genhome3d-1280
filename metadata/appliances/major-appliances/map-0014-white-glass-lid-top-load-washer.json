@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0014",
+  "slug": "map-0014-white-glass-lid-top-load-washer",
+  "title": "White Glass-Lid Top-Load Washer",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "dish-and-laundry",
+    "one complete standalone major appliance",
+    "one white top-load washer with one inset glass lid, one rear control console, exactly three control elements, and four leveling feet."
+  ],
+  "dimensions_m": {
+    "width": 0.69,
+    "depth": 0.72,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2272,
+    "triangles": 4500,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.usdz",
+  "preview": "previews/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.usdz",
+  "file_size_bytes": 399313,
+  "sha256": "0fbbbd6e238b2eaa6ba00f14e4209c3c5b6b56cf181dd3add6db4212848f46b5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

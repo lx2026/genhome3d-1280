@@ -1,0 +1,54 @@
+{
+  "id": "SID-0009",
+  "slug": "sid-0009-terrazzo-mushroom-pedestal-side-table",
+  "title": "Terrazzo Mushroom-Pedestal Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "modern-residential",
+    "terrazzo",
+    "mushroom",
+    "pedestal",
+    "round-top"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.46,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 648,
+    "triangles": 1292,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0009-terrazzo-mushroom-pedestal-side-table.usdz",
+  "preview": "previews/tables/side/sid-0009-terrazzo-mushroom-pedestal-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0009-terrazzo-mushroom-pedestal-side-table.usdz",
+  "file_size_bytes": 502008,
+  "sha256": "96520ee477c94677c62126c10f6e671eaf0da63eb0c2f5c5f12821d607641e4a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

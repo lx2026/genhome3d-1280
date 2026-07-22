@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0020",
+  "slug": "sap-0020-black-two-brush-robot-vacuum",
+  "title": "Black Two-Brush Robot Vacuum",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "home care and climate",
+    "one complete standalone small appliance",
+    "one low round robot vacuum with one lidar turret, one front bumper seam, exactly two side brushes, three top buttons, and two drive wheels."
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.095
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 4208,
+    "triangles": 8356,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.usdz",
+  "file_size_bytes": 614147,
+  "sha256": "4bcef8d1c296cf123c8fedc37c950cc38704049bf4d64f77e7c4b9f137e8f353",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0010",
+  "slug": "bac-0010-brushed-nickel-floor-squeegee-and-drip-stand",
+  "title": "Brushed-Nickel Floor Squeegee-and-Drip Stand",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "sanitary-utility",
+    "one complete freestanding bathroom-accessory assembly",
+    "one oval weighted base",
+    "one vertical squeegee handle",
+    "one T-shaped blade head",
+    "one lower drip cup",
+    "one side retention clip"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.18,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1634,
+    "triangles": 3240,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0010-brushed-nickel-floor-squeegee-and-drip-stand.usdz",
+  "preview": "previews/bathroom/accessories/bac-0010-brushed-nickel-floor-squeegee-and-drip-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0010-brushed-nickel-floor-squeegee-and-drip-stand.usdz",
+  "file_size_bytes": 638302,
+  "sha256": "2c358847857865977fb9843615ad3eaf2d13d9c90e260e7df51f2e42c0c3c14d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

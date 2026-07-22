@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0004",
+  "slug": "rug-0004-sage-eight-chevron-flatweave-runner",
+  "title": "Sage Eight-Chevron Flatweave Runner",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "flatweave-geometric-rugs",
+    "one complete standalone rug assembly",
+    "one long rectangular runner",
+    "exactly eight chevron motifs",
+    "exactly two end bands",
+    "exactly sixteen fringe bundles total"
+  ],
+  "dimensions_m": {
+    "width": 2.4,
+    "depth": 0.75,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 1896,
+    "triangles": 2532,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.usdz",
+  "preview": "previews/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.usdz",
+  "file_size_bytes": 714983,
+  "sha256": "74bb7b039cf3cb221992e13f9e292b0cf681532b02beb8b2f6405cb75ce50320",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

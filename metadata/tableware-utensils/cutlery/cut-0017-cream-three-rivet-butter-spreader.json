@@ -1,0 +1,54 @@
+{
+  "id": "CUT-0017",
+  "slug": "cut-0017-cream-three-rivet-butter-spreader",
+  "title": "Cream Three-Rivet Butter Spreader",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "table-knives-spreaders",
+    "one complete standalone butter spreader",
+    "one rounded blunt blade",
+    "one cream composite handle",
+    "exactly three brass rivets"
+  ],
+  "dimensions_m": {
+    "width": 0.03,
+    "depth": 0.18,
+    "height": 0.016
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1104,
+    "triangles": 2188,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0017-cream-three-rivet-butter-spreader.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0017-cream-three-rivet-butter-spreader.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0017-cream-three-rivet-butter-spreader.usdz",
+  "file_size_bytes": 1086378,
+  "sha256": "26dd16fdae8314f8cf58d50633d36d335698647f6f7687eca70ae072cf19a139",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

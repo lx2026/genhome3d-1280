@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0004",
+  "slug": "odt-0004-limestone-four-lobe-quatrefoil-pedestal-garden-table",
+  "title": "Limestone Four-Lobe Quatrefoil Pedestal Garden Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "heritage-garden",
+    "one carved garden table",
+    "one four-lobe quatrefoil top",
+    "one urn pedestal",
+    "four spreading feet",
+    "one raised collar ring"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 1.05,
+    "height": 0.740002
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2360,
+    "triangles": 4696,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0004-limestone-four-lobe-quatrefoil-pedestal-garden-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0004-limestone-four-lobe-quatrefoil-pedestal-garden-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0004-limestone-four-lobe-quatrefoil-pedestal-garden-table.usdz",
+  "file_size_bytes": 618184,
+  "sha256": "bc0d4c052cf62325b41667ce795676f9e2ea7da1b2d028517406e5828567230a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

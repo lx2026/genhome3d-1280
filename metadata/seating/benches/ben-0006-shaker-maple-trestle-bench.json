@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0006",
+  "slug": "ben-0006-shaker-maple-trestle-bench",
+  "title": "Shaker Maple Trestle Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "dining",
+    "shaker",
+    "maple",
+    "trestle",
+    "wedged-stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.38,
+    "height": 0.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 904,
+    "triangles": 1776,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0006-shaker-maple-trestle-bench.usdz",
+  "preview": "previews/seating/benches/ben-0006-shaker-maple-trestle-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0006-shaker-maple-trestle-bench.usdz",
+  "file_size_bytes": 677290,
+  "sha256": "d1e23af5805ac8ac35e2a7f93ef4179d9301f722f13d9d634ba3b2099c7cfb50",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

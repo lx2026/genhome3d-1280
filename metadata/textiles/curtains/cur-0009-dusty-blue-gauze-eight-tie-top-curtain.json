@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0009",
+  "slug": "cur-0009-dusty-blue-gauze-eight-tie-top-curtain",
+  "title": "Dusty-Blue Gauze Eight-Tie-Top Curtain",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "layered-sheer-curtains",
+    "one complete standalone curtain assembly",
+    "one complete single gauze panel",
+    "exactly eight tied header loops",
+    "one round rod",
+    "one continuous lower hem"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.16,
+    "height": 2.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 6162,
+    "triangles": 12280,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0009-dusty-blue-gauze-eight-tie-top-curtain.usdz",
+  "preview": "previews/textiles/curtains/cur-0009-dusty-blue-gauze-eight-tie-top-curtain.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0009-dusty-blue-gauze-eight-tie-top-curtain.usdz",
+  "file_size_bytes": 1136123,
+  "sha256": "1f25b47623681e286034805e66edd02d6b32ec104d76b9af3aeadacef701fc69",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

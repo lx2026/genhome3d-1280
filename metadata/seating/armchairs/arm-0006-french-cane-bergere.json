@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0006",
+  "slug": "arm-0006-french-cane-bergere",
+  "title": "French Cane Berg\u00e8re",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "standard",
+    "french",
+    "bergere",
+    "cane",
+    "limed-oak"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.819996,
+    "height": 0.93
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 38,
+    "vertices": 10068,
+    "triangles": 19840,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0006-french-cane-bergere.usdz",
+  "preview": "previews/seating/armchairs/arm-0006-french-cane-bergere.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0006-french-cane-bergere.usdz",
+  "file_size_bytes": 1527758,
+  "sha256": "8878d7f54a114bda926976fc08626f5569a6dadff671c63fe572b58699646f2c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

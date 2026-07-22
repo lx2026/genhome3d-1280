@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0002",
+  "slug": "rug-0002-terracotta-and-cream-twelve-diamond-flatweave-rug",
+  "title": "Terracotta-and-Cream Twelve-Diamond Flatweave Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "flatweave-geometric-rugs",
+    "one complete standalone rug assembly",
+    "one rectangular flatweave rug",
+    "exactly twelve diamond insets",
+    "one 3 by 4 diamond field",
+    "one continuous double-line border"
+  ],
+  "dimensions_m": {
+    "width": 2.0,
+    "depth": 1.4,
+    "height": 0.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1944,
+    "triangles": 3836,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0002-terracotta-and-cream-twelve-diamond-flatweave-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0002-terracotta-and-cream-twelve-diamond-flatweave-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0002-terracotta-and-cream-twelve-diamond-flatweave-rug.usdz",
+  "file_size_bytes": 746945,
+  "sha256": "d71f4e7a614c19216f83469a950de864250c98046fd0ea2b9919211b4e7fe0ff",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

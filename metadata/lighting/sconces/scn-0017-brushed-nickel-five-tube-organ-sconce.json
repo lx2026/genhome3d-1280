@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0017",
+  "slug": "scn-0017-brushed-nickel-five-tube-organ-sconce",
+  "title": "Brushed-Nickel Five-Tube Organ Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "architectural-statement",
+    "one complete wall-mounted sconce light assembly",
+    "one rectangular wall plate",
+    "exactly five vertical light tubes",
+    "exactly five collars",
+    "three stepped tube lengths",
+    "five lower caps"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.12,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 3736,
+    "triangles": 7408,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.usdz",
+  "file_size_bytes": 705616,
+  "sha256": "568f1c0a97d5efbc08ee4d8dbb7a743d57ea764b178a5115b13af7094d792a32",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

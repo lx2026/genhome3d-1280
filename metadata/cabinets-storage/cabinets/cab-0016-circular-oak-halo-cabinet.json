@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0016",
+  "slug": "cab-0016-circular-oak-halo-cabinet",
+  "title": "Circular Oak Halo Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "sculptural-specialty",
+    "circular halo",
+    "three cabinet boxes",
+    "central spine",
+    "pedestal"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.43,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 7752,
+    "triangles": 15460,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0016-circular-oak-halo-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0016-circular-oak-halo-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0016-circular-oak-halo-cabinet.usdz",
+  "file_size_bytes": 1001565,
+  "sha256": "af0356162376e7c6b5177959d4ef0cac97273ed22976ec00dd11645f50b7e7dc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

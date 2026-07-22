@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0020",
+  "slug": "ods-0020-brutalist-board-form-concrete-eight-fin-high-back-bench",
+  "title": "Brutalist Board-Form Concrete Eight-Fin High-Back Bench",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "architectural-specialty",
+    "one high-back concrete bench",
+    "one cantilevered seat",
+    "one continuous back",
+    "eight transverse fins",
+    "two recessed base rails"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 0.68,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1376,
+    "triangles": 2704,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0020-brutalist-board-form-concrete-eight-fin-high-back-bench.usdz",
+  "preview": "previews/outdoor/seating/ods-0020-brutalist-board-form-concrete-eight-fin-high-back-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0020-brutalist-board-form-concrete-eight-fin-high-back-bench.usdz",
+  "file_size_bytes": 565022,
+  "sha256": "bf6eeefc4553f64bd87674425361b35c827cf83e747b963fcf4712a8358d8e12",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

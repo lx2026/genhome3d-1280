@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0004",
+  "slug": "bac-0004-smoked-glass-ten-rib-tissue-box-cover",
+  "title": "Smoked-Glass Ten-Rib Tissue-Box Cover",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "vanity-vessels",
+    "one complete freestanding bathroom-accessory assembly",
+    "one rectangular cover shell",
+    "exactly ten broad vertical ribs across the front face",
+    "one oval top dispensing slot",
+    "one black lower frame",
+    "four softened corners"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.14,
+    "height": 0.13
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 6960,
+    "triangles": 13856,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0004-smoked-glass-ten-rib-tissue-box-cover.usdz",
+  "preview": "previews/bathroom/accessories/bac-0004-smoked-glass-ten-rib-tissue-box-cover.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0004-smoked-glass-ten-rib-tissue-box-cover.usdz",
+  "file_size_bytes": 641196,
+  "sha256": "e786b6599e1cbc4cd6faca96f8e9089e5536f3924e50c47d7bb0acdbd873a50e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

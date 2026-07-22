@@ -1,0 +1,57 @@
+{
+  "id": "CUT-0002",
+  "slug": "cut-0002-polished-four-piece-arc-handle-place-setting",
+  "title": "Polished Four-Piece Arc-Handle Place Setting",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "complete-place-settings",
+    "one intentionally aligned place setting",
+    "exactly four pieces",
+    "one dinner fork",
+    "one dinner knife",
+    "one tablespoon",
+    "one teaspoon",
+    "arched handle ends"
+  ],
+  "dimensions_m": {
+    "width": 0.18,
+    "depth": 0.26,
+    "height": 0.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 2556,
+    "triangles": 5056,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0002-polished-four-piece-arc-handle-place-setting.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0002-polished-four-piece-arc-handle-place-setting.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0002-polished-four-piece-arc-handle-place-setting.usdz",
+  "file_size_bytes": 629506,
+  "sha256": "4cd2522b66ff7fcc1c5d4dd7e7d83612486782a64c2e65303ee596854a606180",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

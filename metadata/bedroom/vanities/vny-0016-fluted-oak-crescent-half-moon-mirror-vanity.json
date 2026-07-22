@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0016",
+  "slug": "vny-0016-fluted-oak-crescent-half-moon-mirror-vanity",
+  "title": "Fluted-Oak Crescent Half-Moon-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "sculptural-specialty",
+    "crescent",
+    "three drawers",
+    "half moon mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.52,
+    "height": 1.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 44,
+    "vertices": 7632,
+    "triangles": 15088,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0016-fluted-oak-crescent-half-moon-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0016-fluted-oak-crescent-half-moon-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0016-fluted-oak-crescent-half-moon-mirror-vanity.usdz",
+  "file_size_bytes": 1257946,
+  "sha256": "62170d888f3acb60100a375252caa10365ac53d8d4db780d29267b0c2a645b48",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

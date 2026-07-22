@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0005",
+  "slug": "knv-0005-blue-six-scallop-nakiri",
+  "title": "Blue Six-Scallop Nakiri",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "chef-prep-knives",
+    "one complete standalone knife",
+    "one squared nakiri blade",
+    "exactly six oval scallops",
+    "one blue resin handle"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.065,
+    "height": 0.024
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 904,
+    "triangles": 1792,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.usdz",
+  "file_size_bytes": 575419,
+  "sha256": "824b1f89531b18baa1d185c532197fe9efa8ea80e44d250ac37e21e220c0f22d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0014",
+  "slug": "bak-0014-clear-glass-two-handle-lidded-square-casserole",
+  "title": "Clear-Glass Two-Handle Lidded Square Casserole",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "baking-dishes-and-roasters",
+    "one complete standalone bakeware assembly",
+    "one square lidded casserole",
+    "exactly two integrated side handles",
+    "exactly one fitted glass lid",
+    "exactly one rectangular lid grip"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.28,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2128,
+    "triangles": 4136,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0014-clear-glass-two-handle-lidded-square-casserole.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0014-clear-glass-two-handle-lidded-square-casserole.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0014-clear-glass-two-handle-lidded-square-casserole.usdz",
+  "file_size_bytes": 536099,
+  "sha256": "0ea6afcec959946723bd9702e58cd1273f0e01bc123035cf062d3f35f34b1197",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

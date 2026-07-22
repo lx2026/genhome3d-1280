@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0020",
+  "slug": "bfx-0020-frosted-glass-two-panel-walk-in-shower-station",
+  "title": "Frosted-Glass Two-Panel Walk-In Shower Station",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "showers-enclosures",
+    "one complete freestanding bathroom-fixture assembly",
+    "one rectangular low shower tray",
+    "exactly two fixed glass panels",
+    "one open entry gap",
+    "one floor-mounted shower tower",
+    "one overhead blade shower head",
+    "one brass top stabilizer bar"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.9,
+    "height": 2.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2136,
+    "triangles": 4232,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.usdz",
+  "file_size_bytes": 1319680,
+  "sha256": "1e98246f7dcc66e15f28b0f82b7727733e4b6ed32441f0b0cf25f0a33e38d6ed",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

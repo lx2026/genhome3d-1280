@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0017",
+  "slug": "crd-0017-ribbed-travertine-monolith-credenza",
+  "title": "Ribbed Travertine Monolith Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "sculptural-specialty",
+    "travertine",
+    "four ribbed doors",
+    "slab top",
+    "two block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.5,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 37,
+    "vertices": 3608,
+    "triangles": 7068,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0017-ribbed-travertine-monolith-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0017-ribbed-travertine-monolith-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0017-ribbed-travertine-monolith-credenza.usdz",
+  "file_size_bytes": 617081,
+  "sha256": "646b2daf8dc7e1dd61a5810fb9ce194a3ce4b5aae0c1e12598f696feea7d2a61",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

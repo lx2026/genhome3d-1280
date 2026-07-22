@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0004",
+  "slug": "bkc-0004-french-provincial-limed-oak-arched-bookcase",
+  "title": "French Provincial Limed-Oak Arched Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "classic-architectural",
+    "french-provincial",
+    "arched",
+    "four shelves",
+    "two doors"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.4,
+    "height": 2.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 5288,
+    "triangles": 10396,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0004-french-provincial-limed-oak-arched-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0004-french-provincial-limed-oak-arched-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0004-french-provincial-limed-oak-arched-bookcase.usdz",
+  "file_size_bytes": 1158651,
+  "sha256": "dfc597f50a3e546a9a3cfc766e1152ad21b3920e3a6bdcf8e8f65df132f75a4a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

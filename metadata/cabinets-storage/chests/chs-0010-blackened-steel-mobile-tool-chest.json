@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0010",
+  "slug": "chs-0010-blackened-steel-mobile-tool-chest",
+  "title": "Blackened-Steel Mobile Tool Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "modern-utility",
+    "tool storage",
+    "five drawers",
+    "two side handles",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.52,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 2912,
+    "triangles": 5644,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0010-blackened-steel-mobile-tool-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0010-blackened-steel-mobile-tool-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0010-blackened-steel-mobile-tool-chest.usdz",
+  "file_size_bytes": 513395,
+  "sha256": "6038916e1dc692725c90c29ade2a824fc5744ca8c4246d011fc2ecc0bb2ffc2d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

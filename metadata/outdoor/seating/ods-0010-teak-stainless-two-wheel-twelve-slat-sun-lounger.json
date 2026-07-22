@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0010",
+  "slug": "ods-0010-teak-stainless-two-wheel-twelve-slat-sun-lounger",
+  "title": "Teak Stainless Two-Wheel Twelve-Slat Sun Lounger",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "contemporary-lounge",
+    "one adjustable sun lounger",
+    "twelve timber deck slats",
+    "one raised backrest",
+    "two stainless U legs",
+    "two rear wheels"
+  ],
+  "dimensions_m": {
+    "width": 2.019999,
+    "depth": 0.72,
+    "height": 0.880001
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 4552,
+    "triangles": 8916,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0010-teak-stainless-two-wheel-twelve-slat-sun-lounger.usdz",
+  "preview": "previews/outdoor/seating/ods-0010-teak-stainless-two-wheel-twelve-slat-sun-lounger.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0010-teak-stainless-two-wheel-twelve-slat-sun-lounger.usdz",
+  "file_size_bytes": 1019130,
+  "sha256": "7cc3c21e7e26bc56f629238659c3b3eec9eb9b60cf03a4f421401a7f7cffe4b7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

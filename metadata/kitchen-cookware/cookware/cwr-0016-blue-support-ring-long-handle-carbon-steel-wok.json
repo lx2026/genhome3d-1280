@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0016",
+  "slug": "cwr-0016-blue-support-ring-long-handle-carbon-steel-wok",
+  "title": "Blue Support-Ring Long-Handle Carbon-Steel Wok",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "specialty-cookware",
+    "one complete standalone cookware assembly",
+    "one round-bottom wok",
+    "exactly one circular support ring",
+    "exactly one long wood handle",
+    "exactly one helper loop"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.38,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 3369,
+    "triangles": 6610,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0016-blue-support-ring-long-handle-carbon-steel-wok.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0016-blue-support-ring-long-handle-carbon-steel-wok.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0016-blue-support-ring-long-handle-carbon-steel-wok.usdz",
+  "file_size_bytes": 1054995,
+  "sha256": "42df63d00dba056c10df8d96026410b44367d5df9c6b40697e5ffc857187c763",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0005",
+  "slug": "cab-0005-campaign-mahogany-stacking-cabinet",
+  "title": "Campaign Mahogany Stacking Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "classic-architectural",
+    "campaign",
+    "three stacked cases",
+    "six doors",
+    "brass bound"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.45,
+    "height": 1.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 34,
+    "vertices": 3432,
+    "triangles": 6728,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0005-campaign-mahogany-stacking-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0005-campaign-mahogany-stacking-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0005-campaign-mahogany-stacking-cabinet.usdz",
+  "file_size_bytes": 820925,
+  "sha256": "12239dd02dd4c21849d992e3a49159b0783d8a241e90620c387720b53e4543ae",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

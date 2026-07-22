@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0006",
+  "slug": "tsk-0006-matte-black-triple-pivot-linear-bar-task-light",
+  "title": "Matte-Black Triple-Pivot Linear-Bar Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "articulated-mechanical",
+    "one complete freestanding desktop task-light assembly",
+    "one rectangular base",
+    "exactly two slender arm segments",
+    "exactly three circular pivots",
+    "one horizontal opal light bar",
+    "one rear grip"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.2,
+    "height": 0.54
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1686,
+    "triangles": 3340,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.usdz",
+  "file_size_bytes": 415682,
+  "sha256": "c44bcb499ceb87a2065e9e57f2fca81544cc98235d30defb526971c1413cd008",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

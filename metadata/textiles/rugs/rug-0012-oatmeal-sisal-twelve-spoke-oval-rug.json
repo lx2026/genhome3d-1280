@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0012",
+  "slug": "rug-0012-oatmeal-sisal-twelve-spoke-oval-rug",
+  "title": "Oatmeal-Sisal Twelve-Spoke Oval Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "natural-fiber-braided-rugs",
+    "one complete standalone rug assembly",
+    "one oval natural-fiber rug",
+    "exactly twelve radial spoke seams",
+    "exactly one central oval field",
+    "one continuous braided outer edge"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 1.2,
+    "height": 0.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1920,
+    "triangles": 3208,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0012-oatmeal-sisal-twelve-spoke-oval-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0012-oatmeal-sisal-twelve-spoke-oval-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0012-oatmeal-sisal-twelve-spoke-oval-rug.usdz",
+  "file_size_bytes": 1152216,
+  "sha256": "e64bea40bd73693a28360fa5fe51e429f5a5efd4956b43af97061fffc13ee377",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0014",
+  "slug": "svw-0014-white-gold-band-ceramic-teapot",
+  "title": "White Gold-Band Ceramic Teapot",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "beverage-service",
+    "one complete standalone serving product",
+    "one white teapot with one open loop handle, one formed spout, one seated lid, and exactly one gold body band."
+  ],
+  "dimensions_m": {
+    "width": 0.300001,
+    "depth": 0.18,
+    "height": 0.21
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 5238,
+    "triangles": 10400,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0014-white-gold-band-ceramic-teapot.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0014-white-gold-band-ceramic-teapot.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0014-white-gold-band-ceramic-teapot.usdz",
+  "file_size_bytes": 996049,
+  "sha256": "238c8597ae58dca3594ee0fae4c6af892afbb8c608c60a494ba56202f9e335ce",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

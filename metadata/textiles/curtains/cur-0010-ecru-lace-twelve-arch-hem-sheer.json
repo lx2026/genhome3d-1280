@@ -1,0 +1,54 @@
+{
+  "id": "CUR-0010",
+  "slug": "cur-0010-ecru-lace-twelve-arch-hem-sheer",
+  "title": "Ecru-Lace Twelve-Arch-Hem Sheer",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "layered-sheer-curtains",
+    "one complete standalone curtain assembly",
+    "one complete single lace sheer",
+    "exactly twelve arched openings",
+    "one continuous scalloped hem band"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.12,
+    "height": 2.25
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 15850,
+    "triangles": 30968,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.usdz",
+  "preview": "previews/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.usdz",
+  "file_size_bytes": 1590774,
+  "sha256": "c7171708e480aa38d7b1fad12ac9dab733e6e60dd189ef2926340f597c8643f6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

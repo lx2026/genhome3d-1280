@@ -1,0 +1,53 @@
+{
+  "id": "CRK-0008",
+  "slug": "crk-0008-graphite-perforated-spine-ten-peg-coat-stand",
+  "title": "Graphite Perforated-Spine Ten-Peg Coat Stand",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "modern-rail",
+    "perforated spine",
+    "ten alternating pegs",
+    "square weighted base"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.46,
+    "height": 1.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 6456,
+    "triangles": 12808,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0008-graphite-perforated-spine-ten-peg-coat-stand.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0008-graphite-perforated-spine-ten-peg-coat-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0008-graphite-perforated-spine-ten-peg-coat-stand.usdz",
+  "file_size_bytes": 492973,
+  "sha256": "c9f875591b10cb6967ddb178defc6adf7011ed77c8bfc7169944f3412cdf8808",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

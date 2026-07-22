@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0006",
+  "slug": "bac-0006-matte-black-domed-lid-toilet-brush-holder",
+  "title": "Matte-Black Domed-Lid Toilet-Brush Holder",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "sanitary-utility",
+    "one complete freestanding bathroom-accessory assembly",
+    "one weighted cylindrical holder cup",
+    "one vertical brush stem",
+    "one domed splash lid",
+    "one concealed brush head",
+    "one D-shaped grip"
+  ],
+  "dimensions_m": {
+    "width": 0.16,
+    "depth": 0.16,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1502,
+    "triangles": 2936,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0006-matte-black-domed-lid-toilet-brush-holder.usdz",
+  "preview": "previews/bathroom/accessories/bac-0006-matte-black-domed-lid-toilet-brush-holder.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0006-matte-black-domed-lid-toilet-brush-holder.usdz",
+  "file_size_bytes": 264484,
+  "sha256": "a9aaf98cd26aca93c95b11e738effcbd2f7119d1aa803326e776933cbbee7137",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

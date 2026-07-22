@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0019",
+  "slug": "map-0019-white-cylindrical-storage-water-heater",
+  "title": "White Cylindrical Storage Water Heater",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "utility-and-specialty-appliances",
+    "one complete standalone major appliance",
+    "one floor-standing cylindrical water heater with exactly two top pipe stubs, one front access panel, one lower drain valve, and one circular base ring."
+  ],
+  "dimensions_m": {
+    "width": 0.56,
+    "depth": 0.56,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2568,
+    "triangles": 5112,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.usdz",
+  "preview": "previews/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.usdz",
+  "file_size_bytes": 776723,
+  "sha256": "85aeee96449a979f50a1118ad125590c90e8c4fe1aad35a205bb9ecc5bb4ddab",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

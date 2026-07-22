@@ -1,0 +1,54 @@
+{
+  "id": "CON-0013",
+  "slug": "con-0013-rattan-cane-front-drawer-console",
+  "title": "Rattan Cane-Front Drawer Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "entryway-storage",
+    "rattan",
+    "cane-front",
+    "three-drawers",
+    "lower-shelf"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.4,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 37,
+    "vertices": 3436,
+    "triangles": 6580,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0013-rattan-cane-front-drawer-console.usdz",
+  "preview": "previews/tables/console/con-0013-rattan-cane-front-drawer-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0013-rattan-cane-front-drawer-console.usdz",
+  "file_size_bytes": 1567821,
+  "sha256": "c81d13e389a58e921ebad7bb7ee2b5c67086496e24336c14f054bdb4f90fd955",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

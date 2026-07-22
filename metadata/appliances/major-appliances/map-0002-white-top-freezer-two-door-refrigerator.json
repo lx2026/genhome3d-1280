@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0002",
+  "slug": "map-0002-white-top-freezer-two-door-refrigerator",
+  "title": "White Top-Freezer Two-Door Refrigerator",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "refrigeration-and-freezing",
+    "one complete standalone major appliance",
+    "one white refrigerator with exactly two stacked doors, two vertical handles, one upper freezer panel, and one larger lower fresh-food panel."
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.75,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2008,
+    "triangles": 3952,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0002-white-top-freezer-two-door-refrigerator.usdz",
+  "preview": "previews/appliances/major-appliances/map-0002-white-top-freezer-two-door-refrigerator.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0002-white-top-freezer-two-door-refrigerator.usdz",
+  "file_size_bytes": 334099,
+  "sha256": "0fc61b043f8177e4408dd013479227e9954896e03bf9cdcdbfce85361ba856a7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

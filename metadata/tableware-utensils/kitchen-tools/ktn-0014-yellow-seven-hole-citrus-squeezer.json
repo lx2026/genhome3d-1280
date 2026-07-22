@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0014",
+  "slug": "ktn-0014-yellow-seven-hole-citrus-squeezer",
+  "title": "Yellow Seven-Hole Citrus Squeezer",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "peeling-pressing-tools",
+    "one complete standalone kitchen tool",
+    "exactly two hinged handles",
+    "one domed press and receiving cup",
+    "exactly seven open drain holes"
+  ],
+  "dimensions_m": {
+    "width": 0.23,
+    "depth": 0.09,
+    "height": 0.07
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 3086,
+    "triangles": 6176,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0014-yellow-seven-hole-citrus-squeezer.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0014-yellow-seven-hole-citrus-squeezer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0014-yellow-seven-hole-citrus-squeezer.usdz",
+  "file_size_bytes": 1079475,
+  "sha256": "ebd89145d2ab71b3e1c2cf819ad21b26fe796be844b89c8c92bf2604c8f6beff",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

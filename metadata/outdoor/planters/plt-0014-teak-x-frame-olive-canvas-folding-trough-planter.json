@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0014",
+  "slug": "plt-0014-teak-x-frame-olive-canvas-folding-trough-planter",
+  "title": "Teak X-Frame Olive-Canvas Folding Trough Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "compact-raised",
+    "one rectangular canvas liner",
+    "two timber top rails",
+    "two folding X frames",
+    "two pivot discs"
+  ],
+  "dimensions_m": {
+    "width": 0.86,
+    "depth": 0.460062,
+    "height": 0.73998
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1392,
+    "triangles": 2752,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0014-teak-x-frame-olive-canvas-folding-trough-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0014-teak-x-frame-olive-canvas-folding-trough-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0014-teak-x-frame-olive-canvas-folding-trough-planter.usdz",
+  "file_size_bytes": 759686,
+  "sha256": "74d70693d8410564e2041f7a12d81bc92942d762807cedf76f5fdcfc5b3472d0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0019",
+  "slug": "crb-0019-japanese-sugi-kumiko-end-panel-crib",
+  "title": "Japanese Sugi Kumiko End-Panel Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "sculptural-specialty",
+    "japanese",
+    "sugi",
+    "kumiko-end-panels",
+    "joinery"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.8,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 129,
+    "vertices": 14688,
+    "triangles": 28860,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.usdz",
+  "file_size_bytes": 973896,
+  "sha256": "595c2e21d20e340200f452868b4083fff18ac864c800409ce6311d7849f991a9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

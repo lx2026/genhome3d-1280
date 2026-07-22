@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0006",
+  "slug": "dsk-0006-scandinavian-white-oak-two-drawer-desk",
+  "title": "Scandinavian White-Oak Two-Drawer Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "modern-utility",
+    "scandinavian",
+    "two drawers",
+    "one cable slot",
+    "four splayed legs"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.65,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1456,
+    "triangles": 2872,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.usdz",
+  "preview": "previews/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.usdz",
+  "file_size_bytes": 582803,
+  "sha256": "61735ccc5cc71c6ae77cb39b70f676fe7b2741ab7675b905bfbca85ea0a7329c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

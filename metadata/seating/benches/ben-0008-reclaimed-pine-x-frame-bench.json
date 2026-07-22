@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0008",
+  "slug": "ben-0008-reclaimed-pine-x-frame-bench",
+  "title": "Reclaimed Pine X-Frame Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "dining",
+    "farmhouse",
+    "reclaimed-pine",
+    "x-frame",
+    "plank-seat"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.42,
+    "height": 0.460054
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 760,
+    "triangles": 1480,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.usdz",
+  "preview": "previews/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.usdz",
+  "file_size_bytes": 667093,
+  "sha256": "076deeea02951ef6eea2a35bca0c1803ef4fd435dd64b4934aeb4c17a0a7a155",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

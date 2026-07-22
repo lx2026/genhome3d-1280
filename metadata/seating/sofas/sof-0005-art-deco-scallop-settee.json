@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0005",
+  "slug": "sof-0005-art-deco-scallop-settee",
+  "title": "Art Deco Scallop Settee",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "compact-loveseat",
+    "art-deco",
+    "scallop",
+    "velvet",
+    "brass"
+  ],
+  "dimensions_m": {
+    "width": 1.65,
+    "depth": 0.8,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 3576,
+    "triangles": 7116,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0005-art-deco-scallop-settee.usdz",
+  "preview": "previews/seating/sofas/sof-0005-art-deco-scallop-settee.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0005-art-deco-scallop-settee.usdz",
+  "file_size_bytes": 947582,
+  "sha256": "b6410f397f4838d2c7800d6212e0d9b0c050416cf58b3cf811467983454211fc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0001",
+  "slug": "ott-0001-scandinavian-wool-round-pouf",
+  "title": "Scandinavian Wool Round Pouf",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "compact-footstool",
+    "scandinavian",
+    "round",
+    "wool",
+    "oak"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.48,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 800,
+    "triangles": 1584,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.usdz",
+  "preview": "previews/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.usdz",
+  "file_size_bytes": 830624,
+  "sha256": "2bb778f03ffc843034af021d53030b942ab824de1a9609f0b21fb30b55259393",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0007",
+  "slug": "cwr-0007-cream-two-spout-wood-handle-butter-warmer",
+  "title": "Cream Two-Spout Wood-Handle Butter Warmer",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "saucepans-and-stockpots",
+    "one complete standalone cookware assembly",
+    "one compact butter warmer",
+    "exactly two opposed pour lips",
+    "exactly one wood long handle",
+    "one continuous support disc"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.16,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 2581,
+    "triangles": 5090,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0007-cream-two-spout-wood-handle-butter-warmer.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0007-cream-two-spout-wood-handle-butter-warmer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0007-cream-two-spout-wood-handle-butter-warmer.usdz",
+  "file_size_bytes": 1384593,
+  "sha256": "0c2bc81877e7c3b24d2584d01d33e28e6a1f5a8da50b682aef8e8882474bdb7b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

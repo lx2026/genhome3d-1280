@@ -1,0 +1,57 @@
+{
+  "id": "BST-0019",
+  "slug": "bst-0019-natural-cedar-louvered-lid-laundry-chest",
+  "title": "Natural-Cedar Louvered-Lid Laundry Chest",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "laundry/mobile-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one rectangular cedar chest body",
+    "one hinged slatted top lid",
+    "exactly two louvered front panels",
+    "exactly two side carry handles",
+    "exactly four low block feet",
+    "one dark recessed base rail"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.48,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 54,
+    "vertices": 3920,
+    "triangles": 7528,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0019-natural-cedar-louvered-lid-laundry-chest.usdz",
+  "preview": "previews/bathroom/storage/bst-0019-natural-cedar-louvered-lid-laundry-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0019-natural-cedar-louvered-lid-laundry-chest.usdz",
+  "file_size_bytes": 723120,
+  "sha256": "2e99a10fa4a8521f2bfc9015522332b58f2128304a66e396b7635d613da8d3c6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0019",
+  "slug": "dsk-0019-smoked-acrylic-staggered-drawer-desk",
+  "title": "Smoked-Acrylic Staggered-Drawer Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "sculptural-specialty",
+    "smoked acrylic",
+    "three drawer boxes",
+    "clear spine",
+    "bridge plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.7,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1944,
+    "triangles": 3828,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0019-smoked-acrylic-staggered-drawer-desk.usdz",
+  "preview": "previews/office/desks/dsk-0019-smoked-acrylic-staggered-drawer-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0019-smoked-acrylic-staggered-drawer-desk.usdz",
+  "file_size_bytes": 393751,
+  "sha256": "e8795d89741d0aeb4ae4ef33e198f5d7012da042381480332480373c019baa83",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

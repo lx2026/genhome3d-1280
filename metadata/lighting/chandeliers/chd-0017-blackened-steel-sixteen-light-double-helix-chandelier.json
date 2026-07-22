@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0017",
+  "slug": "chd-0017-blackened-steel-sixteen-light-double-helix-chandelier",
+  "title": "Blackened-Steel Sixteen-Light Double-Helix Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "architectural-statement",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly sixteen opal lamps",
+    "two intertwined helical rails",
+    "eight lamps per helix",
+    "one vertical core",
+    "one round canopy"
+  ],
+  "dimensions_m": {
+    "width": 0.92,
+    "depth": 0.92,
+    "height": 1.76
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 14072,
+    "triangles": 27968,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.usdz",
+  "file_size_bytes": 1033624,
+  "sha256": "e4d5a684e1a092ecbf5a6fd8d0ae2a57b440659d601e0ad6452c51620467d7d2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

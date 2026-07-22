@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0005",
+  "slug": "mat-0005-california-king-hand-tufted-horsehair-mattress",
+  "title": "California King Hand-Tufted Horsehair Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "traditional-spring",
+    "california king",
+    "hand tufted"
+  ],
+  "dimensions_m": {
+    "width": 1.83,
+    "depth": 2.13,
+    "height": 0.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 86,
+    "vertices": 12116,
+    "triangles": 22112,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.usdz",
+  "file_size_bytes": 911032,
+  "sha256": "ffdbfd8153bbf29a0251debe2a0dc403bdb9e567caba8f7878a0237c142ef4bd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0019",
+  "slug": "ctb-0019-white-three-tray-sorting-prep-board",
+  "title": "White Three-Tray Sorting Prep Board",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "specialty-prep-boards",
+    "one complete standalone cutting-board assembly",
+    "one rectangular white prep board",
+    "exactly three removable green sorting trays",
+    "exactly three aligned tray bays",
+    "exactly one perimeter juice groove"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.36,
+    "height": 0.075
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2392,
+    "triangles": 4744,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0019-white-three-tray-sorting-prep-board.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0019-white-three-tray-sorting-prep-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0019-white-three-tray-sorting-prep-board.usdz",
+  "file_size_bytes": 326439,
+  "sha256": "f45d183391e3361750b41dd05286dd6c29487c954716d1d616f21e20047170e4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

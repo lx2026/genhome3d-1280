@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0007",
+  "slug": "cur-0007-blush-organza-three-layer-waterfall-curtain",
+  "title": "Blush-Organza Three-Layer Waterfall Curtain",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "layered-sheer-curtains",
+    "one complete standalone curtain assembly",
+    "exactly three overlapping sheer panels",
+    "exactly six lower drape arcs",
+    "exactly two drape arcs per layer",
+    "one slim top rail"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.22,
+    "height": 2.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 8814,
+    "triangles": 17300,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0007-blush-organza-three-layer-waterfall-curtain.usdz",
+  "preview": "previews/textiles/curtains/cur-0007-blush-organza-three-layer-waterfall-curtain.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0007-blush-organza-three-layer-waterfall-curtain.usdz",
+  "file_size_bytes": 1245203,
+  "sha256": "6bda385b6565853e53e0104ee7f6e4fd67b36b5d9b3d0db74c0f637ce960aa83",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

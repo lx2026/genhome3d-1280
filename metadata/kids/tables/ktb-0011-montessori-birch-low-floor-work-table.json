@@ -1,0 +1,55 @@
+{
+  "id": "KTB-0011",
+  "slug": "ktb-0011-montessori-birch-low-floor-work-table",
+  "title": "Montessori Birch Low Floor Work Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "compact-adaptive",
+    "low floor work table",
+    "shallow tray top",
+    "three raised retaining edges",
+    "one open learner edge",
+    "four short round legs"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.48,
+    "height": 0.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1592,
+    "triangles": 3152,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0011-montessori-birch-low-floor-work-table.usdz",
+  "preview": "previews/kids/tables/ktb-0011-montessori-birch-low-floor-work-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0011-montessori-birch-low-floor-work-table.usdz",
+  "file_size_bytes": 463428,
+  "sha256": "6c05327beaf3e388c7b44fb37de1a82bbf891a17ba256a1d649f5996ef356aa7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

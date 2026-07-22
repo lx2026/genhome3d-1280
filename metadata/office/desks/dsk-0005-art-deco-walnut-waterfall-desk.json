@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0005",
+  "slug": "dsk-0005-art-deco-walnut-waterfall-desk",
+  "title": "Art Deco Walnut Waterfall Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "classic-heritage",
+    "art deco",
+    "waterfall shell",
+    "three drawers",
+    "two plinths"
+  ],
+  "dimensions_m": {
+    "width": 1.48,
+    "depth": 0.68,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1624,
+    "triangles": 3204,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0005-art-deco-walnut-waterfall-desk.usdz",
+  "preview": "previews/office/desks/dsk-0005-art-deco-walnut-waterfall-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0005-art-deco-walnut-waterfall-desk.usdz",
+  "file_size_bytes": 960529,
+  "sha256": "5bed4b59a820888a7109876b8851f4dddae6faa57638ec93a750815631b96952",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0011",
+  "slug": "scn-0011-opal-glass-globe-pin-sconce",
+  "title": "Opal-Glass Globe-Pin Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "compact-residential",
+    "one complete wall-mounted sconce light assembly",
+    "one small round wall plate",
+    "one short horizontal pin",
+    "one brass collar",
+    "one opal globe",
+    "no external shade"
+  ],
+  "dimensions_m": {
+    "width": 0.2,
+    "depth": 0.18,
+    "height": 0.24
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 820,
+    "triangles": 1624,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.usdz",
+  "file_size_bytes": 653298,
+  "sha256": "b4588078c106a02cd6b1c0bb5b24aa33e0dc33ceb00ea9a5ef4d5cd74bc27a56",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

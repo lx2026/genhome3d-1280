@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0009",
+  "slug": "chd-0009-white-oak-eight-light-linear-branch-chandelier",
+  "title": "White-Oak Eight-Light Linear Branch Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "contemporary-geometric",
+    "one complete ceiling-mounted chandelier assembly",
+    "one long timber beam",
+    "exactly eight downward cylinders",
+    "eight short lamp stems",
+    "two suspension cables",
+    "one rectangular canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.42,
+    "depth": 0.46,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 5136,
+    "triangles": 10160,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.usdz",
+  "file_size_bytes": 841258,
+  "sha256": "ebe06c60f81501f5c9dcbe14a44119d0d364c6b64be4f6b9c83267de6186771b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

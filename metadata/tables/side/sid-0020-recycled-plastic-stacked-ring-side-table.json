@@ -1,0 +1,54 @@
+{
+  "id": "SID-0020",
+  "slug": "sid-0020-recycled-plastic-stacked-ring-side-table",
+  "title": "Recycled-Plastic Stacked-Ring Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "sculptural-outdoor",
+    "recycled-plastic",
+    "stacked-rings",
+    "multicolor",
+    "drum"
+  ],
+  "dimensions_m": {
+    "width": 0.44,
+    "depth": 0.44,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 10752,
+    "triangles": 21468,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0020-recycled-plastic-stacked-ring-side-table.usdz",
+  "preview": "previews/tables/side/sid-0020-recycled-plastic-stacked-ring-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0020-recycled-plastic-stacked-ring-side-table.usdz",
+  "file_size_bytes": 2637699,
+  "sha256": "e757cff54e8e9905b14dcd184796ab58c6473a1e4e4a77a9d5a8d4bb2b5c3c9f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

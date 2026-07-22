@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0016",
+  "slug": "tsk-0016-black-steel-twin-tower-bridge-task-light",
+  "title": "Black-Steel Twin-Tower Bridge Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "architectural-studio",
+    "one complete freestanding desktop task-light assembly",
+    "one long rectangular base",
+    "exactly two vertical towers",
+    "one upper bridge beam",
+    "one downward opal light bar",
+    "exactly two lower collars"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.22,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1464,
+    "triangles": 2900,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.usdz",
+  "file_size_bytes": 411355,
+  "sha256": "7e106a526dc2e3369c1121bbe36dfc7264e2a190bab6fc4bb87e9e73ad69986d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

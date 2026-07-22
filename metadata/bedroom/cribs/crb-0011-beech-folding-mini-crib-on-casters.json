@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0011",
+  "slug": "crb-0011-beech-folding-mini-crib-on-casters",
+  "title": "Beech Folding Mini Crib on Casters",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "compact-mobile",
+    "mini-crib",
+    "beech",
+    "folding-frame",
+    "four-casters"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.66,
+    "height": 0.96
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 63,
+    "vertices": 9088,
+    "triangles": 17924,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0011-beech-folding-mini-crib-on-casters.usdz",
+  "preview": "previews/bedroom/cribs/crb-0011-beech-folding-mini-crib-on-casters.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0011-beech-folding-mini-crib-on-casters.usdz",
+  "file_size_bytes": 890043,
+  "sha256": "30ccc4a981224670d7c1b62a6f0303701b3f5e1b5bdc06337c7d5f3aee1ea1f0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

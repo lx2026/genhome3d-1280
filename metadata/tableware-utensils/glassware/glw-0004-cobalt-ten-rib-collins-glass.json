@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0004",
+  "slug": "glw-0004-cobalt-ten-rib-collins-glass",
+  "title": "Cobalt Ten-Rib Collins Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "tumblers-highballs",
+    "one complete standalone open vessel",
+    "exactly ten vertical exterior ribs",
+    "one clear foot band",
+    "one open round rim"
+  ],
+  "dimensions_m": {
+    "width": 0.07,
+    "depth": 0.07,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 5177,
+    "triangles": 9830,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0004-cobalt-ten-rib-collins-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0004-cobalt-ten-rib-collins-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0004-cobalt-ten-rib-collins-glass.usdz",
+  "file_size_bytes": 614426,
+  "sha256": "98a10b441099c24b5a9aad61f6b1bc63482edfbbcefd494dc57cdb0e622e68de",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

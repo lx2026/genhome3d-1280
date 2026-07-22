@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0007",
+  "slug": "mxb-0007-white-two-handle-porcelain-mixing-bowl",
+  "title": "White Two-Handle Porcelain Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "glass-and-ceramic-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one white porcelain body",
+    "exactly two opposed integral grip handles",
+    "exactly one cobalt rim band",
+    "one fully open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.3,
+    "height": 0.145
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 3865,
+    "triangles": 7618,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0007-white-two-handle-porcelain-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0007-white-two-handle-porcelain-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0007-white-two-handle-porcelain-mixing-bowl.usdz",
+  "file_size_bytes": 431700,
+  "sha256": "2db3d0b8424eafe7f8b4e7f8ccf81addbf80f7f12da363388719a83e7e86a7a7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0003",
+  "slug": "map-0003-mint-retro-bottom-freezer-refrigerator",
+  "title": "Mint Retro Bottom-Freezer Refrigerator",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "refrigeration-and-freezing",
+    "one complete standalone major appliance",
+    "one rounded mint refrigerator with one upper swing door, one lower pull-out freezer drawer, and exactly two chrome handles."
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.72,
+    "height": 1.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1704,
+    "triangles": 3368,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.usdz",
+  "preview": "previews/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.usdz",
+  "file_size_bytes": 758082,
+  "sha256": "ea6f28e28a537b57f2feb36b5cce1d5636eed998fedab08dfca1a0cb0cff92b9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

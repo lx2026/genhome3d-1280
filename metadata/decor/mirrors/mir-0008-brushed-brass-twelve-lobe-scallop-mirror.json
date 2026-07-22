@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0008",
+  "slug": "mir-0008-brushed-brass-twelve-lobe-scallop-mirror",
+  "title": "Brushed-Brass Twelve-Lobe Scallop Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "organic-sculptural-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one circular mirror panel",
+    "exactly twelve rounded brass perimeter lobes",
+    "exactly twelve recessed seams",
+    "one circular rear backing plate"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.08,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 7744,
+    "triangles": 15384,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.usdz",
+  "file_size_bytes": 816038,
+  "sha256": "d982e768eb7f7fffa33b78173eb30c0b500ba2aa1bb7b599699ea64e44bb9d6e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0017",
+  "slug": "rug-0017-white-nine-lobe-cloud-boucle-rug",
+  "title": "White Nine-Lobe Cloud Boucle Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "shaped-decorative-rugs",
+    "one complete standalone rug assembly",
+    "one cloud-shaped boucle rug",
+    "exactly five upper lobes",
+    "exactly four lower scallops",
+    "one continuous cloud edge seam"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 1.1,
+    "height": 0.065
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 4056,
+    "triangles": 8072,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.usdz",
+  "file_size_bytes": 1397440,
+  "sha256": "ca82905e3dcf613f10dd7145de012b10bdd5f79da148c07878b8512ab84c272a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

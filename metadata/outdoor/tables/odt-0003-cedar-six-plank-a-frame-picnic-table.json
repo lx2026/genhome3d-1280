@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0003",
+  "slug": "odt-0003-cedar-six-plank-a-frame-picnic-table",
+  "title": "Cedar Six-Plank A-Frame Picnic Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "heritage-garden",
+    "one picnic-table assembly",
+    "six tabletop planks",
+    "two integrated benches",
+    "two A-frame end supports",
+    "one longitudinal stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 1.48,
+    "height": 0.759998
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1752,
+    "triangles": 3444,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.usdz",
+  "file_size_bytes": 485412,
+  "sha256": "28dbb8d4f13e02993da44ed51343ca500008695d1888d07ddaac68b72d37842f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

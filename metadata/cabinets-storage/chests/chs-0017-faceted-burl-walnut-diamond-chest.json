@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0017",
+  "slug": "chs-0017-faceted-burl-walnut-diamond-chest",
+  "title": "Faceted Burl-Walnut Diamond Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "sculptural-specialty",
+    "faceted",
+    "two opposing lids",
+    "center ridge",
+    "diamond base"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.55,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 512,
+    "triangles": 1004,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0017-faceted-burl-walnut-diamond-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0017-faceted-burl-walnut-diamond-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0017-faceted-burl-walnut-diamond-chest.usdz",
+  "file_size_bytes": 523773,
+  "sha256": "a55cdde47a9de6fa79aefdf207f30a8f97ed482d5ce19ae08f9ebbeb6edb3107",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

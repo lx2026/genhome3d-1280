@@ -1,0 +1,54 @@
+{
+  "id": "COF-0002",
+  "slug": "cof-0002-french-oak-parquetry-drawer-table",
+  "title": "French Oak Parquetry Drawer Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "heritage-craft",
+    "french",
+    "parquetry",
+    "drawer",
+    "cabriole-legs"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.7,
+    "height": 0.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 53,
+    "vertices": 4320,
+    "triangles": 8236,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.usdz",
+  "preview": "previews/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.usdz",
+  "file_size_bytes": 1627646,
+  "sha256": "ce7ca1c990adccb8632b6f90bc64c0365565144618b7065b43ffb44c645eb404",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

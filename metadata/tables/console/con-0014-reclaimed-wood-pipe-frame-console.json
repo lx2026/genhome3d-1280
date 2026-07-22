@@ -1,0 +1,54 @@
+{
+  "id": "CON-0014",
+  "slug": "con-0014-reclaimed-wood-pipe-frame-console",
+  "title": "Reclaimed-Wood Pipe-Frame Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "entryway-storage",
+    "reclaimed-wood",
+    "pipe-frame",
+    "x-brace",
+    "lower-shelf"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.4,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2112,
+    "triangles": 4176,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0014-reclaimed-wood-pipe-frame-console.usdz",
+  "preview": "previews/tables/console/con-0014-reclaimed-wood-pipe-frame-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0014-reclaimed-wood-pipe-frame-console.usdz",
+  "file_size_bytes": 699640,
+  "sha256": "03b540a414f4cd3f70285c0d01183eb6e8954ba0ed51854e7ae6c437e987fe94",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

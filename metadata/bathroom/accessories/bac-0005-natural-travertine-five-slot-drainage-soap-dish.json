@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0005",
+  "slug": "bac-0005-natural-travertine-five-slot-drainage-soap-dish",
+  "title": "Natural-Travertine Five-Slot Drainage Soap Dish",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "vanity-vessels",
+    "one complete freestanding bathroom-accessory assembly",
+    "one oval dish body",
+    "exactly five parallel drainage slots",
+    "one continuous raised rim",
+    "exactly four low feet",
+    "one shallow soap recess"
+  ],
+  "dimensions_m": {
+    "width": 0.18,
+    "depth": 0.12,
+    "height": 0.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 7184,
+    "triangles": 14324,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0005-natural-travertine-five-slot-drainage-soap-dish.usdz",
+  "preview": "previews/bathroom/accessories/bac-0005-natural-travertine-five-slot-drainage-soap-dish.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0005-natural-travertine-five-slot-drainage-soap-dish.usdz",
+  "file_size_bytes": 928210,
+  "sha256": "00732e72ccf4d5dfd2da7887f24004a856603d9bca6cd8eb067296d6030f6af5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

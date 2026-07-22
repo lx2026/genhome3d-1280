@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0005",
+  "slug": "mir-0005-smoked-chrome-three-panel-triptych-mirror",
+  "title": "Smoked-Chrome Three-Panel Triptych Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "framed-geometric-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "exactly three vertical mirror panels",
+    "exactly three slim smoked-chrome frames",
+    "exactly two visible paired hinge lines",
+    "one continuous rear cleat"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.08,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2592,
+    "triangles": 5140,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.usdz",
+  "file_size_bytes": 709730,
+  "sha256": "005b4160ef17f0571ae778f654e303985dbf2c0bd1841e28308c5da3a353d8b2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

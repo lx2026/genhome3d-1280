@@ -1,0 +1,54 @@
+{
+  "id": "ODS-0002",
+  "slug": "ods-0002-victorian-green-cast-iron-twelve-slat-park-bench",
+  "title": "Victorian Green Cast-Iron Twelve-Slat Park Bench",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "heritage-garden",
+    "one park bench",
+    "twelve timber slats",
+    "two cast-iron side frames",
+    "one lower stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.56,
+    "depth": 0.66,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 4056,
+    "triangles": 7748,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0002-victorian-green-cast-iron-twelve-slat-park-bench.usdz",
+  "preview": "previews/outdoor/seating/ods-0002-victorian-green-cast-iron-twelve-slat-park-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0002-victorian-green-cast-iron-twelve-slat-park-bench.usdz",
+  "file_size_bytes": 934964,
+  "sha256": "6fde145d877c26f4cb76129ab1c76bc01b6a34d439b98a9a2bacde0f532022a1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0009",
+  "slug": "svw-0009-cream-triple-bowl-condiment-server",
+  "title": "Cream Triple-Bowl Condiment Server",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "serving-bowls-and-dishes",
+    "one complete standalone serving product",
+    "one connected rectangular server carrying exactly three separately open round condiment bowls."
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.14,
+    "height": 0.09
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 5043,
+    "triangles": 10070,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0009-cream-triple-bowl-condiment-server.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0009-cream-triple-bowl-condiment-server.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0009-cream-triple-bowl-condiment-server.usdz",
+  "file_size_bytes": 539688,
+  "sha256": "b5b5aca02dc4984409b48046c8eb07763c78d2091475810dca4f4bd7f5551e18",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

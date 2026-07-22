@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0003",
+  "slug": "wrd-0003-arts-and-crafts-quarter-sawn-oak-wardrobe",
+  "title": "Arts-and-Crafts Quarter-Sawn-Oak Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "classic-heritage",
+    "arts and crafts",
+    "two doors",
+    "two drawers",
+    "pegged frame"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.58,
+    "height": 1.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 29,
+    "vertices": 3384,
+    "triangles": 6652,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0003-arts-and-crafts-quarter-sawn-oak-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0003-arts-and-crafts-quarter-sawn-oak-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0003-arts-and-crafts-quarter-sawn-oak-wardrobe.usdz",
+  "file_size_bytes": 602152,
+  "sha256": "98b90761c40600bf4bb8d247590fa6586b915fa9f03e48ea8d0bf6ce357277b7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

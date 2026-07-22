@@ -1,0 +1,56 @@
+{
+  "id": "MIR-0020",
+  "slug": "mir-0020-backlit-double-ring-arch-mirror",
+  "title": "Backlit Double-Ring Arch Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "architectural-utility-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one arched mirror panel",
+    "exactly two nested rear halo light strips",
+    "one slim black lower rail",
+    "exactly two rear mounting bosses",
+    "no exposed bulb"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.08,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1768,
+    "triangles": 3516,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.usdz",
+  "file_size_bytes": 647853,
+  "sha256": "699fe2132a596ffe0d96ca34adbd4d60237c4835beb950a897d1e4e1e0c4780a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

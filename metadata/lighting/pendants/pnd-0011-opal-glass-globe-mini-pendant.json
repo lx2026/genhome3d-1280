@@ -1,0 +1,56 @@
+{
+  "id": "PND-0011",
+  "slug": "pnd-0011-opal-glass-globe-mini-pendant",
+  "title": "Opal-Glass Globe Mini Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "compact-residential",
+    "one complete ceiling-mounted pendant light assembly",
+    "one small round canopy",
+    "one fabric cord",
+    "one brass collar",
+    "one opal globe",
+    "no external shade"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.26,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1066,
+    "triangles": 2116,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.usdz",
+  "file_size_bytes": 793277,
+  "sha256": "2cf6e31b004f17764c3365b7c80c505435ee92dd8a8c28ba2c71f7f2cded3e12",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

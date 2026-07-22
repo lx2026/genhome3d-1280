@@ -1,0 +1,56 @@
+{
+  "id": "GRL-0005",
+  "slug": "grl-0005-argentine-black-steel-crank-lift-parrilla",
+  "title": "Argentine Black-Steel Crank-Lift Parrilla",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "heritage-charcoal",
+    "rectangular charcoal firebox",
+    "one overhead lift frame",
+    "one adjustable grill grate",
+    "one crank wheel",
+    "two chain runs",
+    "four square legs"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.66,
+    "height": 1.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 33,
+    "vertices": 3216,
+    "triangles": 6208,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0005-argentine-black-steel-crank-lift-parrilla.usdz",
+  "preview": "previews/outdoor/grills/grl-0005-argentine-black-steel-crank-lift-parrilla.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0005-argentine-black-steel-crank-lift-parrilla.usdz",
+  "file_size_bytes": 217521,
+  "sha256": "8aaa8f4011f2aa1fe6fbe5062d9bcd7faa2a77acbfda771d9942189ad61ca6ca",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0005",
+  "slug": "crd-0005-danish-teak-tambour-credenza",
+  "title": "Danish Teak Tambour Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "classic-heritage",
+    "danish-modern",
+    "two tambour bays",
+    "three center drawers",
+    "four tapered legs"
+  ],
+  "dimensions_m": {
+    "width": 1.65,
+    "depth": 0.45,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 45,
+    "vertices": 4376,
+    "triangles": 8572,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0005-danish-teak-tambour-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0005-danish-teak-tambour-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0005-danish-teak-tambour-credenza.usdz",
+  "file_size_bytes": 561995,
+  "sha256": "a1df330ab5fdac75c08204cb930cbcad39692fa590dd92ff402577aebc1e51e5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

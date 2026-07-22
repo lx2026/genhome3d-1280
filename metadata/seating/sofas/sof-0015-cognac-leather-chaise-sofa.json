@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0015",
+  "slug": "sof-0015-cognac-leather-chaise-sofa",
+  "title": "Cognac Leather Chaise Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "modular-lounge",
+    "leather",
+    "chaise",
+    "headrests",
+    "cognac"
+  ],
+  "dimensions_m": {
+    "width": 2.35,
+    "depth": 1.0,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 3792,
+    "triangles": 7520,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0015-cognac-leather-chaise-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0015-cognac-leather-chaise-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0015-cognac-leather-chaise-sofa.usdz",
+  "file_size_bytes": 847026,
+  "sha256": "cb04cddece6600493657ef5b6145e6321d11e926e4c82a81b13d130c63d3d742",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

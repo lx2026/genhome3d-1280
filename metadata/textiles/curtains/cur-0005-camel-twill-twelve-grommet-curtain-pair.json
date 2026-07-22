@@ -1,0 +1,56 @@
+{
+  "id": "CUR-0005",
+  "slug": "cur-0005-camel-twill-twelve-grommet-curtain-pair",
+  "title": "Camel-Twill Twelve-Grommet Curtain Pair",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "pleated-structured-drapery",
+    "one complete standalone curtain assembly",
+    "exactly two curtain panels",
+    "exactly twelve metal grommets total",
+    "exactly six grommets per panel",
+    "one exposed rod",
+    "exactly two end caps"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.18,
+    "height": 2.35
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 7092,
+    "triangles": 14164,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.usdz",
+  "preview": "previews/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.usdz",
+  "file_size_bytes": 806277,
+  "sha256": "74624204776087af0a7717f3916e86afe5b20b8860fe3c6abd00fd196347078b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

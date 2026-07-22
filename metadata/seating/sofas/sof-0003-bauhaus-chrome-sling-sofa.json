@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0003",
+  "slug": "sof-0003-bauhaus-chrome-sling-sofa",
+  "title": "Bauhaus Chrome Sling Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "compact-loveseat",
+    "bauhaus",
+    "chrome",
+    "leather",
+    "sling"
+  ],
+  "dimensions_m": {
+    "width": 1.85,
+    "depth": 0.82,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 2560,
+    "triangles": 5076,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.usdz",
+  "file_size_bytes": 1015619,
+  "sha256": "9f7e2aaffc441bca8a26e9264e40c6ca6815334ab2ef2d6cf3cbf3e0fbdcc4bc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

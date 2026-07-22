@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0010",
+  "slug": "chd-0010-white-aluminum-five-ribbon-sculptural-chandelier",
+  "title": "White-Aluminum Five-Ribbon Sculptural Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "contemporary-geometric",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly five looping light ribbons",
+    "five ribbon-to-hub connectors",
+    "one center hub",
+    "one rigid stem",
+    "one shallow disc canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.22,
+    "depth": 1.22,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 13034,
+    "triangles": 26036,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0010-white-aluminum-five-ribbon-sculptural-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0010-white-aluminum-five-ribbon-sculptural-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0010-white-aluminum-five-ribbon-sculptural-chandelier.usdz",
+  "file_size_bytes": 1427849,
+  "sha256": "c5a11a1d03f72552027662cb71a8f355473fc76f56cbf974128cb4de2754a9f3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

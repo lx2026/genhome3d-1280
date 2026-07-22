@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0019",
+  "slug": "plt-0019-pebble-terrazzo-three-vessel-cluster-planter",
+  "title": "Pebble-Terrazzo Three-Vessel Cluster Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "sculptural-specialty",
+    "three round planter vessels",
+    "three distinct vessel sizes",
+    "three circular openings",
+    "one shared low plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.12,
+    "depth": 0.74,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2832,
+    "triangles": 5660,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0019-pebble-terrazzo-three-vessel-cluster-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0019-pebble-terrazzo-three-vessel-cluster-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0019-pebble-terrazzo-three-vessel-cluster-planter.usdz",
+  "file_size_bytes": 373327,
+  "sha256": "1bb66d049fb1f85115ebcb8ca19337b8d346c860c2926fe6295e7a7701105681",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

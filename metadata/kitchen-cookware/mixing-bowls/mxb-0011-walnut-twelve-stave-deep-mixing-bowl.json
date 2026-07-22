@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0011",
+  "slug": "mxb-0011-walnut-twelve-stave-deep-mixing-bowl",
+  "title": "Walnut Twelve-Stave Deep Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "wood-and-stone-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one deep walnut bowl",
+    "exactly twelve visible vertical staves",
+    "exactly one dark foot ring",
+    "one continuous open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.31,
+    "depth": 0.31,
+    "height": 0.165
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 5761,
+    "triangles": 10890,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0011-walnut-twelve-stave-deep-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0011-walnut-twelve-stave-deep-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0011-walnut-twelve-stave-deep-mixing-bowl.usdz",
+  "file_size_bytes": 1021639,
+  "sha256": "f26cc4043f125bee6a70f61252ba4c26f0b8cec2deee0e9430de63684b1c7723",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

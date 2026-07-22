@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0001",
+  "slug": "wrd-0001-georgian-mahogany-double-door-wardrobe",
+  "title": "Georgian Mahogany Double-Door Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "classic-heritage",
+    "georgian",
+    "two doors",
+    "one drawer",
+    "four bracket feet"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.58,
+    "height": 1.95
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 2272,
+    "triangles": 4456,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0001-georgian-mahogany-double-door-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0001-georgian-mahogany-double-door-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0001-georgian-mahogany-double-door-wardrobe.usdz",
+  "file_size_bytes": 851865,
+  "sha256": "5b895322e83c2a19c39f459f962c5e2ad56bc04c105a12534f9d2257b3108f07",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

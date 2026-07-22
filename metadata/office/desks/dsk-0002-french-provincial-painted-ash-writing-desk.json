@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0002",
+  "slug": "dsk-0002-french-provincial-painted-ash-writing-desk",
+  "title": "French Provincial Painted-Ash Writing Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "classic-heritage",
+    "french provincial",
+    "three drawers",
+    "scalloped apron",
+    "four cabriole legs"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.6,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 4604,
+    "triangles": 9112,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0002-french-provincial-painted-ash-writing-desk.usdz",
+  "preview": "previews/office/desks/dsk-0002-french-provincial-painted-ash-writing-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0002-french-provincial-painted-ash-writing-desk.usdz",
+  "file_size_bytes": 1071344,
+  "sha256": "3af6f2f796dec7e30a0f394d4ca5276f7bb56238b2d79986c718e0dabb5e363d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

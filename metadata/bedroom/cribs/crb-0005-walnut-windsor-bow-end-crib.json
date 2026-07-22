@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0005",
+  "slug": "crb-0005-walnut-windsor-bow-end-crib",
+  "title": "Walnut Windsor Bow-End Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "traditional-craft",
+    "windsor",
+    "walnut",
+    "bow-ends",
+    "turned-spindles"
+  ],
+  "dimensions_m": {
+    "width": 1.47,
+    "depth": 0.8,
+    "height": 1.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 65,
+    "vertices": 10088,
+    "triangles": 19820,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.usdz",
+  "file_size_bytes": 969006,
+  "sha256": "ca6602e193903c797609cf5f052e05afd777db3d1175ef22491b10fb7b4ac4bf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

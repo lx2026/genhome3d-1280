@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0002",
+  "slug": "mir-0002-matte-black-capsule-mirror",
+  "title": "Matte-Black Capsule Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "framed-geometric-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one vertical capsule mirror panel",
+    "one continuous matte-black capsule frame",
+    "exactly two rear mounting rails",
+    "no shelf or peg"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.07,
+    "height": 0.96
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1536,
+    "triangles": 3056,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0002-matte-black-capsule-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0002-matte-black-capsule-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0002-matte-black-capsule-mirror.usdz",
+  "file_size_bytes": 430224,
+  "sha256": "cc68495ca49e287ec6e512c8c76c7d0c7e23cff0a53396e857e791bf6b4cbe78",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

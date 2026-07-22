@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0005",
+  "slug": "ods-0005-edwardian-teak-blue-canvas-folding-deck-chair",
+  "title": "Edwardian Teak Blue-Canvas Folding Deck Chair",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "heritage-garden",
+    "one folding deck chair",
+    "one striped canvas sling",
+    "two timber X side frames",
+    "four pivot discs",
+    "one rear locking bar"
+  ],
+  "dimensions_m": {
+    "width": 0.66,
+    "depth": 1.02,
+    "height": 0.920705
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2896,
+    "triangles": 5748,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0005-edwardian-teak-blue-canvas-folding-deck-chair.usdz",
+  "preview": "previews/outdoor/seating/ods-0005-edwardian-teak-blue-canvas-folding-deck-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0005-edwardian-teak-blue-canvas-folding-deck-chair.usdz",
+  "file_size_bytes": 1121743,
+  "sha256": "1ffa2a78c56d6d7e571e00f968d59a62ca014876a29793e4ae8b387906b10c3f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

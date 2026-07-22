@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0019",
+  "slug": "vny-0019-color-block-recycled-plastic-oval-mirror-vanity",
+  "title": "Color-Block Recycled-Plastic Oval-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "sculptural-specialty",
+    "color block",
+    "five blocks",
+    "oval mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.48,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 3344,
+    "triangles": 6644,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0019-color-block-recycled-plastic-oval-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0019-color-block-recycled-plastic-oval-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0019-color-block-recycled-plastic-oval-mirror-vanity.usdz",
+  "file_size_bytes": 2443206,
+  "sha256": "65161459fff93195f80d046a89877c3b654e9086b341a0abea981b470dd462df",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

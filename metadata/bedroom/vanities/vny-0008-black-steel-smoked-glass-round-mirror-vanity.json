@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0008",
+  "slug": "vny-0008-black-steel-smoked-glass-round-mirror-vanity",
+  "title": "Black-Steel Smoked-Glass Round-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "modern-integrated",
+    "black steel",
+    "one drawer",
+    "round mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.48,
+    "height": 1.57
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2208,
+    "triangles": 4356,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0008-black-steel-smoked-glass-round-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0008-black-steel-smoked-glass-round-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0008-black-steel-smoked-glass-round-mirror-vanity.usdz",
+  "file_size_bytes": 969082,
+  "sha256": "aa4ea7782e6c94e9a96d8530861ca2d40cd5ace45b3c65cd719ce1fae0c1cd38",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

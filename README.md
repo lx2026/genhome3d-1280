@@ -1,0 +1,104 @@
+# GenHome3D-1280
+
+**1,280 validated household and spatial-design assets in USDZ format, organized
+across 64 categories.**
+
+[Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
+[Download release archives](https://github.com/lx2026/genhome3d-1280/releases) ·
+[Read the validation contract](VALIDATION.md)
+
+<table>
+  <tr>
+    <td><img src="previews/seating/armchairs/arm-0001-scandinavian-oak-open-armchair.jpg" alt="Scandinavian oak armchair" /></td>
+    <td><img src="previews/lighting/pendants/pnd-0010-satin-brass-thin-disc-pendant.jpg" alt="Satin brass pendant" /></td>
+    <td><img src="previews/kitchen-cookware/mixing-bowls/mxb-0014-white-marble-brass-foot-mixing-bowl.jpg" alt="Marble mixing bowl" /></td>
+  </tr>
+</table>
+
+## At a glance
+
+| | |
+|---|---:|
+| Assets | 1,280 |
+| Categories | 64 |
+| Assets per category | 20 |
+| Runtime format | USDZ |
+| Units | Meters |
+| Asset license | CC BY 4.0 |
+| Technical validation | 1,280/1,280 pass |
+| Visual review | 1,280/1,280 pass |
+| Vision Pro device review | Pending |
+
+GenHome3D-1280 covers seating, tables, bedroom furnishings, cabinetry,
+office, entryway, kids, outdoor, lighting, bathroom, decor, textiles,
+cookware, tableware, and appliances. Each category contains exactly 20 assets
+with stable IDs, authored dimensions, searchable metadata, a preview, and a
+self-contained USDZ package.
+
+## Download
+
+Download individual assets directly from [`assets/`](assets), or use the
+complete archive attached to the latest GitHub release.
+
+```bash
+# Clone the full collection (approximately 1.2 GB including previews)
+git clone --depth 1 https://github.com/lx2026/genhome3d-1280.git
+
+# Verify every USDZ package
+cd genhome3d-1280
+sha256sum --check checksums.sha256
+```
+
+The compact [`catalog.json`](catalog.json) and [`catalog.csv`](catalog.csv)
+indexes contain IDs, titles, category paths, dimensions, geometry counts,
+download URLs, file sizes, checksums, and validation results.
+
+## Repository layout
+
+```text
+assets/<group>/<category>/<slug>.usdz       Runtime packages
+metadata/<group>/<category>/<slug>.json     Per-asset records
+previews/<group>/<category>/<slug>.jpg      Optimized hero previews
+catalog.json                                Complete machine-readable catalog
+catalog.csv                                 Flat analysis-friendly catalog
+checksums.sha256                            USDZ integrity manifest
+reports/publication-audit.json              Publication gate result
+site/                                       GitHub Pages source
+tools/build_publication.py                  Reproducible export script
+```
+
+## RealityKit and visionOS
+
+The USDZ packages are self-contained, meter-authored, and checked for stage
+integrity, archive safety, texture resolution, bounds, and placement. They are
+suited to RealityKit-oriented prototyping and asset-pipeline research.
+
+This release does **not** claim Apple Vision Pro device certification. The
+asset-local production records mark on-device Vision Pro review as pending.
+Always test the objects you ship in Reality Composer Pro and on your target
+hardware.
+
+## Attribution
+
+When redistributing or adapting the assets, credit:
+
+> GenHome3D-1280 contributors — https://github.com/lx2026/genhome3d-1280
+
+See [`LICENSE-ASSETS`](LICENSE-ASSETS) for the asset license and
+[`LICENSE`](LICENSE) for the software and site license.
+
+## Provenance and limitations
+
+The collection was created through an OpenAI Codex-assisted design,
+specification, procedural Blender construction, packaging, and QA workflow.
+Generated design references guided production but are not distributed in this
+public runtime dataset. See [`PROVENANCE.md`](PROVENANCE.md) and
+[`VALIDATION.md`](VALIDATION.md) for the precise scope of the claims.
+
+The assets are generated designs, may not be unique, and should not be treated
+as scans or authoritative replicas of real products. Review trademark, trade
+dress, safety, accessibility, and regulatory requirements for your use case.
+
+## Citation
+
+Citation metadata is available in [`CITATION.cff`](CITATION.cff).

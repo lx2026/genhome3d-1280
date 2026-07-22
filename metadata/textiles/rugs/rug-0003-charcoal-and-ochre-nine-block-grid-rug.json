@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0003",
+  "slug": "rug-0003-charcoal-and-ochre-nine-block-grid-rug",
+  "title": "Charcoal-and-Ochre Nine-Block Grid Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "flatweave-geometric-rugs",
+    "one complete standalone rug assembly",
+    "one rectangular grid rug",
+    "exactly nine color blocks",
+    "one 3 by 3 block field",
+    "one continuous charcoal frame"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 1.2,
+    "height": 0.028
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2448,
+    "triangles": 4856,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0003-charcoal-and-ochre-nine-block-grid-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0003-charcoal-and-ochre-nine-block-grid-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0003-charcoal-and-ochre-nine-block-grid-rug.usdz",
+  "file_size_bytes": 507625,
+  "sha256": "60dffc76110f469323642e5b2fd8143d6b6ddc0ff4380de3fa3974d4d5498ae3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

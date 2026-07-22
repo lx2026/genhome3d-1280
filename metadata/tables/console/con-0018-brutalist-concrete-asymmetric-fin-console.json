@@ -1,0 +1,54 @@
+{
+  "id": "CON-0018",
+  "slug": "con-0018-brutalist-concrete-asymmetric-fin-console",
+  "title": "Brutalist Concrete Asymmetric-Fin Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "sculptural-outdoor",
+    "brutalist",
+    "concrete",
+    "asymmetric-fins",
+    "slab-top"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.4,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 384,
+    "triangles": 752,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0018-brutalist-concrete-asymmetric-fin-console.usdz",
+  "preview": "previews/tables/console/con-0018-brutalist-concrete-asymmetric-fin-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0018-brutalist-concrete-asymmetric-fin-console.usdz",
+  "file_size_bytes": 406925,
+  "sha256": "ce7625fc0103ace8914e1bfd751a91e96b0936a0ca1d656190ae98277d41b571",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0006",
+  "slug": "ktl-0006-steel-single-thermometer-gooseneck-kettle",
+  "title": "Steel Single-Thermometer Gooseneck Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "gooseneck-pour-over-kettles",
+    "one complete standalone kettle assembly",
+    "one cylindrical steel body",
+    "exactly one long gooseneck spout",
+    "exactly one round lid thermometer",
+    "exactly one open rear handle"
+  ],
+  "dimensions_m": {
+    "width": 0.245,
+    "depth": 0.17,
+    "height": 0.235
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 4862,
+    "triangles": 9592,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.usdz",
+  "file_size_bytes": 1272985,
+  "sha256": "280a2e2bbda80700a0f42730b1bfee5ce27ef4af07c1816d412d95d4b083c96e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

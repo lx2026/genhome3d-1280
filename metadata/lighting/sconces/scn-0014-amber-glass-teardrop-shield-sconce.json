@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0014",
+  "slug": "scn-0014-amber-glass-teardrop-shield-sconce",
+  "title": "Amber-Glass Teardrop-Shield Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "compact-residential",
+    "one complete wall-mounted sconce light assembly",
+    "one rounded-rectangle wall shield",
+    "one amber teardrop envelope",
+    "one opal inner globe",
+    "one neck cap",
+    "one lower point"
+  ],
+  "dimensions_m": {
+    "width": 0.2,
+    "depth": 0.15,
+    "height": 0.36
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1172,
+    "triangles": 2324,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.usdz",
+  "file_size_bytes": 796033,
+  "sha256": "3d866eecabef7eeb8b0468ca70fe9ad7eb3802e0157a574263a2bbdf74c82734",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

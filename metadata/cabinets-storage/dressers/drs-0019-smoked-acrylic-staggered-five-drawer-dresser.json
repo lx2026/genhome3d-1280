@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0019",
+  "slug": "drs-0019-smoked-acrylic-staggered-five-drawer-dresser",
+  "title": "Smoked-Acrylic Staggered Five-Drawer Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "sculptural-specialty",
+    "smoked acrylic",
+    "five drawers",
+    "staggered stack",
+    "clear spine"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.46,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 2328,
+    "triangles": 4580,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0019-smoked-acrylic-staggered-five-drawer-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0019-smoked-acrylic-staggered-five-drawer-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0019-smoked-acrylic-staggered-five-drawer-dresser.usdz",
+  "file_size_bytes": 312947,
+  "sha256": "8cafad83ecb3c19c3b4a651d1f8740535c2a534a68c7fb79e55fc848a8ab4ac0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

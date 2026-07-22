@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0010",
+  "slug": "arm-0010-italian-chrome-leather-armchair",
+  "title": "Italian Chrome Leather Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "standard",
+    "italian-modern",
+    "chrome",
+    "black-leather",
+    "strapped"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.83,
+    "height": 0.77
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2856,
+    "triangles": 5576,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0010-italian-chrome-leather-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0010-italian-chrome-leather-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0010-italian-chrome-leather-armchair.usdz",
+  "file_size_bytes": 912294,
+  "sha256": "e18f727d2f58218a17df519a8e70dfa5655c5c7856549d9d6641c86f33480b4b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

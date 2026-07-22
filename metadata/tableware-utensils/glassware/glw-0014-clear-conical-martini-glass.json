@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0014",
+  "slug": "glw-0014-clear-conical-martini-glass",
+  "title": "Clear Conical Martini Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "beer-cocktail-glassware",
+    "one complete standalone open vessel",
+    "one conical bowl",
+    "one straight stem",
+    "one circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.12,
+    "depth": 0.12,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2561,
+    "triangles": 5110,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.usdz",
+  "file_size_bytes": 334371,
+  "sha256": "84dea6bfd7f7a3253485cd47f3443c692db4632acbf574631037ee6d52ff76e1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

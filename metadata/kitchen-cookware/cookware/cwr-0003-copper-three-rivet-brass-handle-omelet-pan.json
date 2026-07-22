@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0003",
+  "slug": "cwr-0003-copper-three-rivet-brass-handle-omelet-pan",
+  "title": "Copper Three-Rivet Brass-Handle Omelet Pan",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "frying-and-saute-pans",
+    "one complete standalone cookware assembly",
+    "one shallow slope-sided omelet pan",
+    "exactly one brass long handle",
+    "exactly three exposed handle rivets",
+    "one continuous rolled lip"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.24,
+    "height": 0.075
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 3587,
+    "triangles": 7098,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0003-copper-three-rivet-brass-handle-omelet-pan.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0003-copper-three-rivet-brass-handle-omelet-pan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0003-copper-three-rivet-brass-handle-omelet-pan.usdz",
+  "file_size_bytes": 1399291,
+  "sha256": "53347b7b69a4885c6345f6ba702be83af496653eab7d4e4436635a7fa98a1e31",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

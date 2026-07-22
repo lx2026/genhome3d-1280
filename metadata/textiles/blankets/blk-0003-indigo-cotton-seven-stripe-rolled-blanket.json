@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0003",
+  "slug": "blk-0003-indigo-cotton-seven-stripe-rolled-blanket",
+  "title": "Indigo-Cotton Seven-Stripe Rolled Blanket",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "woven-natural-fiber-throws",
+    "one complete standalone rolled blanket",
+    "one complete cylindrical textile roll",
+    "exactly seven contrast stripes",
+    "exactly two securing ties"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.24,
+    "height": 0.24
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 5984,
+    "triangles": 11964,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.usdz",
+  "preview": "previews/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.usdz",
+  "file_size_bytes": 713756,
+  "sha256": "6fcb57cd971dcc10f1add27ac76487e6e5939a7d6427c04c4903d884d455c99d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

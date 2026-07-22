@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0008",
+  "slug": "ktn-0008-locking-scallop-kitchen-tongs",
+  "title": "Locking Scallop Kitchen Tongs",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "mixing-draining-tools",
+    "one complete standalone kitchen tool",
+    "exactly two spring tong arms",
+    "two scalloped gripping ends",
+    "one pivot loop and black locking tab"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.065,
+    "height": 0.035
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1848,
+    "triangles": 3676,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0008-locking-scallop-kitchen-tongs.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0008-locking-scallop-kitchen-tongs.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0008-locking-scallop-kitchen-tongs.usdz",
+  "file_size_bytes": 593537,
+  "sha256": "e4f982ba1cabe63e63a120a5bd806b7348ed0a8cd18c6589dbe3f2394c766009",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

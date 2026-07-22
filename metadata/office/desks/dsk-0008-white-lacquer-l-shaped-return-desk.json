@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0008",
+  "slug": "dsk-0008-white-lacquer-l-shaped-return-desk",
+  "title": "White-Lacquer L-Shaped Return Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "modern-utility",
+    "L shaped",
+    "return pedestal",
+    "two drawers",
+    "two sled supports"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 1.2,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1056,
+    "triangles": 2072,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.usdz",
+  "preview": "previews/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.usdz",
+  "file_size_bytes": 305714,
+  "sha256": "8d1b40e4b17eb7abb46920607d9ec86edf128a440f15f58eb85fabb0d482ceb1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

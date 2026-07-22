@@ -1,0 +1,55 @@
+{
+  "id": "OST-0019",
+  "slug": "ost-0019-corten-quarter-circle-five-door-equipment-cabinet",
+  "title": "Corten Quarter-Circle Five-Door Equipment Cabinet",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "architectural-specialty",
+    "one equipment cabinet",
+    "one quarter-circle body",
+    "five radial doors",
+    "five fin pulls",
+    "one recessed arc base"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 1.02,
+    "height": 1.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 5540,
+    "triangles": 10984,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0019-corten-quarter-circle-five-door-equipment-cabinet.usdz",
+  "preview": "previews/outdoor/storage/ost-0019-corten-quarter-circle-five-door-equipment-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0019-corten-quarter-circle-five-door-equipment-cabinet.usdz",
+  "file_size_bytes": 423737,
+  "sha256": "1c64b3be5680473cd732bbf61b4516b92e2c8063886cef80dde85f1d53dbe402",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

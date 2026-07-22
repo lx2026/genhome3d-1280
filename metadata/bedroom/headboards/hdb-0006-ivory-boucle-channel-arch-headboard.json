@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0006",
+  "slug": "hdb-0006-ivory-boucle-channel-arch-headboard",
+  "title": "Ivory Boucle Channel-Arch Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "modern-upholstered",
+    "boucle",
+    "channel-tufting",
+    "arch",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.78,
+    "depth": 0.18,
+    "height": 1.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2456,
+    "triangles": 4864,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0006-ivory-boucle-channel-arch-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0006-ivory-boucle-channel-arch-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0006-ivory-boucle-channel-arch-headboard.usdz",
+  "file_size_bytes": 915162,
+  "sha256": "82296c6e668cfc67519f76bc9ca7120ef42dbe3addd25dcc2b096226b7c277b3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

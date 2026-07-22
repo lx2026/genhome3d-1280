@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0001",
+  "slug": "svw-0001-white-oval-coupe-serving-platter",
+  "title": "White Oval Coupe Serving Platter",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "platters-and-trays",
+    "one complete standalone serving product",
+    "one broad oval porcelain platter with one continuous coupe rim and one recessed oval serving well."
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.26,
+    "height": 0.045
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 1513,
+    "triangles": 3022,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0001-white-oval-coupe-serving-platter.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0001-white-oval-coupe-serving-platter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0001-white-oval-coupe-serving-platter.usdz",
+  "file_size_bytes": 291330,
+  "sha256": "2bab98b953d9bed14d4a89643f3c9c41885f2f7a98ea9b140cc26a18c50eb579",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

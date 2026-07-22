@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0013",
+  "slug": "arm-0013-coastal-rattan-peacock-armchair",
+  "title": "Coastal Rattan Peacock Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "lounge",
+    "coastal",
+    "rattan",
+    "peacock-back",
+    "woven"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.9,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 6336,
+    "triangles": 12208,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.usdz",
+  "file_size_bytes": 1643747,
+  "sha256": "447df3e84292ebfe03cb27087d792e60af7024711f72efab2dcd678a7aa75a05",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

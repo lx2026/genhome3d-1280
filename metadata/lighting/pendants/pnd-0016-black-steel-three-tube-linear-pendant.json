@@ -1,0 +1,56 @@
+{
+  "id": "PND-0016",
+  "slug": "pnd-0016-black-steel-three-tube-linear-pendant",
+  "title": "Black-Steel Three-Tube Linear Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "architectural-statement",
+    "one complete ceiling-mounted pendant light assembly",
+    "one rectangular canopy",
+    "exactly two support cables",
+    "one narrow carrier beam",
+    "exactly three downward light tubes",
+    "three lower collars"
+  ],
+  "dimensions_m": {
+    "width": 1.16,
+    "depth": 0.22,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2320,
+    "triangles": 4600,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0016-black-steel-three-tube-linear-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0016-black-steel-three-tube-linear-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0016-black-steel-three-tube-linear-pendant.usdz",
+  "file_size_bytes": 406381,
+  "sha256": "ec3b03e208f9d67757e80b7d92433d7061121e0edc06f4ef911357e972f28718",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

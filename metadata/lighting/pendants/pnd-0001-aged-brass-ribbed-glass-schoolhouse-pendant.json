@@ -1,0 +1,56 @@
+{
+  "id": "PND-0001",
+  "slug": "pnd-0001-aged-brass-ribbed-glass-schoolhouse-pendant",
+  "title": "Aged-Brass Ribbed-Glass Schoolhouse Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "heritage-ornamental",
+    "one complete ceiling-mounted pendant light assembly",
+    "one round canopy",
+    "exactly three chain links",
+    "one socket cup",
+    "one ribbed schoolhouse globe",
+    "one lower finial"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.42,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 18420,
+    "triangles": 35572,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0001-aged-brass-ribbed-glass-schoolhouse-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0001-aged-brass-ribbed-glass-schoolhouse-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0001-aged-brass-ribbed-glass-schoolhouse-pendant.usdz",
+  "file_size_bytes": 1860997,
+  "sha256": "18a47bfa88acbf6cdbc207abf734185ff605cf8350a928210d36fb2a88341994",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

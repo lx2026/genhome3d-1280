@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0004",
+  "slug": "mxb-0004-steel-three-bowl-nested-mixing-set",
+  "title": "Steel Three-Bowl Nested Mixing Set",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "metal-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "exactly three concentric nested stainless bowls",
+    "exactly three visible rolled rims",
+    "exactly three stepped open interiors",
+    "no detached pieces"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.17
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 7707,
+    "triangles": 15398,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.usdz",
+  "file_size_bytes": 925657,
+  "sha256": "9b2892b4da3b05d0632917509f15180e61d285fd60a39fc3286a613ab15b5e5a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

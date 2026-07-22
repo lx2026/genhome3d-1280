@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0017",
+  "slug": "odt-0017-travertine-ring-pedestal-glass-top-garden-table",
+  "title": "Travertine Ring-Pedestal Glass-Top Garden Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "architectural-specialty",
+    "one circular outdoor garden table",
+    "one clear-glass disc",
+    "one travertine ring pedestal",
+    "one central void",
+    "one circular shadow plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.28,
+    "depth": 1.28,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1664,
+    "triangles": 3320,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0017-travertine-ring-pedestal-glass-top-garden-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0017-travertine-ring-pedestal-glass-top-garden-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0017-travertine-ring-pedestal-glass-top-garden-table.usdz",
+  "file_size_bytes": 844705,
+  "sha256": "17b417d23f883d8e1cd9b294d77cc61ecc3fb83d6397196232d23be6f57bdf52",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

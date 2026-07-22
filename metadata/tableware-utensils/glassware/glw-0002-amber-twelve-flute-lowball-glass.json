@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0002",
+  "slug": "glw-0002-amber-twelve-flute-lowball-glass",
+  "title": "Amber Twelve-Flute Lowball Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "tumblers-highballs",
+    "one complete standalone open vessel",
+    "exactly twelve raised exterior flutes",
+    "one heavy base",
+    "one open round rim"
+  ],
+  "dimensions_m": {
+    "width": 0.09,
+    "depth": 0.09,
+    "height": 0.095
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 5137,
+    "triangles": 9646,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0002-amber-twelve-flute-lowball-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0002-amber-twelve-flute-lowball-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0002-amber-twelve-flute-lowball-glass.usdz",
+  "file_size_bytes": 426496,
+  "sha256": "aaee1dd8bf255cd732e1b4a7e8bc36376b74e8f5dfa9a4fe27a635a0114e7dba",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

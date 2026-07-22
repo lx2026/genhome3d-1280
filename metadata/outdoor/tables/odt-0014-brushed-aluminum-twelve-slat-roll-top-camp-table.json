@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0014",
+  "slug": "odt-0014-brushed-aluminum-twelve-slat-roll-top-camp-table",
+  "title": "Brushed-Aluminum Twelve-Slat Roll-Top Camp Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "compact-portable",
+    "one portable outdoor camp table",
+    "twelve roll-top slats",
+    "two scissor end frames",
+    "four pivot discs",
+    "four capped feet"
+  ],
+  "dimensions_m": {
+    "width": 0.96,
+    "depth": 0.64,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 4096,
+    "triangles": 8096,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0014-brushed-aluminum-twelve-slat-roll-top-camp-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0014-brushed-aluminum-twelve-slat-roll-top-camp-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0014-brushed-aluminum-twelve-slat-roll-top-camp-table.usdz",
+  "file_size_bytes": 528905,
+  "sha256": "c0506062fb505e3a5f93fc4277856c9a81e82d837a2044592ed845d36fcbe41d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

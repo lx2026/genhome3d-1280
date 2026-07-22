@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0017",
+  "slug": "bfx-0017-black-framed-three-panel-corner-shower",
+  "title": "Black-Framed Three-Panel Corner Shower",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "showers-enclosures",
+    "one complete freestanding bathroom-fixture assembly",
+    "one pentagonal shower tray",
+    "exactly three vertical glass panels",
+    "one hinged entry panel",
+    "one vertical pull handle",
+    "one continuous top frame",
+    "exactly two rear corner uprights"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 1.0,
+    "height": 2.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2524,
+    "triangles": 4956,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0017-black-framed-three-panel-corner-shower.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0017-black-framed-three-panel-corner-shower.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0017-black-framed-three-panel-corner-shower.usdz",
+  "file_size_bytes": 1078838,
+  "sha256": "9de14c9bd2c95c9b02d8005339be68deb3194fc4ef30350ba4a33558fc3fffaa",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

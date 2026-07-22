@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0017",
+  "slug": "ott-0017-travertine-fluted-drum-ottoman",
+  "title": "Travertine Fluted Drum Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "modular-architectural",
+    "travertine",
+    "fluted",
+    "drum",
+    "leather-pad"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.78,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 6016,
+    "triangles": 11928,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0017-travertine-fluted-drum-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0017-travertine-fluted-drum-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0017-travertine-fluted-drum-ottoman.usdz",
+  "file_size_bytes": 1372988,
+  "sha256": "001d8d850df6200a84b98c623510d4e652f0480ea4d6eb1d5e82b996aacd87d8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

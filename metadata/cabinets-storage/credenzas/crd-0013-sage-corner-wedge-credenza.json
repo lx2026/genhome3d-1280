@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0013",
+  "slug": "crd-0013-sage-corner-wedge-credenza",
+  "title": "Sage Corner Wedge Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "compact-adaptive",
+    "corner",
+    "wedge carcass",
+    "two angled doors",
+    "three feet"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.7,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1024,
+    "triangles": 2012,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0013-sage-corner-wedge-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0013-sage-corner-wedge-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0013-sage-corner-wedge-credenza.usdz",
+  "file_size_bytes": 500705,
+  "sha256": "e92967371b6826f93c84729142ce93c1d420daaf6d08034183d9cd77cfd872f3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

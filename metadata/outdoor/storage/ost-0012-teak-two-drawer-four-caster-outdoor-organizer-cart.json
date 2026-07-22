@@ -1,0 +1,55 @@
+{
+  "id": "OST-0012",
+  "slug": "ost-0012-teak-two-drawer-four-caster-outdoor-organizer-cart",
+  "title": "Teak Two-Drawer Four-Caster Outdoor Organizer Cart",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "compact-mobile",
+    "one outdoor organizer cart",
+    "two drawers",
+    "one slatted lower shelf",
+    "one push handle",
+    "four locking casters"
+  ],
+  "dimensions_m": {
+    "width": 0.86,
+    "depth": 0.48,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 2636,
+    "triangles": 5132,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0012-teak-two-drawer-four-caster-outdoor-organizer-cart.usdz",
+  "preview": "previews/outdoor/storage/ost-0012-teak-two-drawer-four-caster-outdoor-organizer-cart.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0012-teak-two-drawer-four-caster-outdoor-organizer-cart.usdz",
+  "file_size_bytes": 607952,
+  "sha256": "4e32f959340420b6e905e420c26b63267b5e0a44b20a65436eccfc5786bd5170",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

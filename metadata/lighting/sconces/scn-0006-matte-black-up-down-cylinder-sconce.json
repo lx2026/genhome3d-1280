@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0006",
+  "slug": "scn-0006-matte-black-up-down-cylinder-sconce",
+  "title": "Matte-Black Up-Down Cylinder Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "contemporary-geometric",
+    "one complete wall-mounted sconce light assembly",
+    "one rectangular wall plate",
+    "one vertical cylinder",
+    "exactly two light apertures",
+    "two recessed opal lenses",
+    "no exposed bulb"
+  ],
+  "dimensions_m": {
+    "width": 0.16,
+    "depth": 0.14,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1368,
+    "triangles": 2720,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.usdz",
+  "file_size_bytes": 402798,
+  "sha256": "96096ab37a95c383c9474321492f17bd2bf3dfd004e7a9a9af55dd6dea7d4ee0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "PND-0015",
+  "slug": "pnd-0015-fluted-travertine-sixteen-groove-cylinder-pendant",
+  "title": "Fluted-Travertine Sixteen-Groove Cylinder Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "compact-residential",
+    "one complete ceiling-mounted pendant light assembly",
+    "one stone canopy and one short brass rod",
+    "one travertine cylinder",
+    "exactly sixteen vertical grooves",
+    "one recessed opal bottom",
+    "one top cap"
+  ],
+  "dimensions_m": {
+    "width": 0.24,
+    "depth": 0.24,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 3856,
+    "triangles": 7632,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0015-fluted-travertine-sixteen-groove-cylinder-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0015-fluted-travertine-sixteen-groove-cylinder-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0015-fluted-travertine-sixteen-groove-cylinder-pendant.usdz",
+  "file_size_bytes": 1216366,
+  "sha256": "422942a1dc7d0139afcd5b2a2151d3787d7aa79becd613c22008fe012a14a1dd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

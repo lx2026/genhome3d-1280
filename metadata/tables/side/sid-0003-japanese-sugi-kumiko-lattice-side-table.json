@@ -1,0 +1,54 @@
+{
+  "id": "SID-0003",
+  "slug": "sid-0003-japanese-sugi-kumiko-lattice-side-table",
+  "title": "Japanese Sugi Kumiko-Lattice Side Table",
+  "category": "tables",
+  "subcategory": "side",
+  "category_path": "tables/side",
+  "category_label": "Tables / Side",
+  "tags": [
+    "side-table",
+    "heritage-craft",
+    "japanese",
+    "kumiko",
+    "lattice",
+    "slatted-shelf"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.42,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 1592,
+    "triangles": 3096,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.usdz",
+  "preview": "previews/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.usdz",
+  "file_size_bytes": 449770,
+  "sha256": "a886ea39dd710617fc7ccbda95db27b8b0538857fb291ad9a1c8d66d1734e201",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "NST-0015",
+  "slug": "nst-0015-stackable-birch-open-cube-nightstand",
+  "title": "Stackable Birch Open-Cube Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "compact-mobile",
+    "stackable",
+    "two cubes",
+    "opposite niches"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.38,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1768,
+    "triangles": 3484,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.usdz",
+  "file_size_bytes": 525407,
+  "sha256": "d0ebe2d56960ab1905fb513f18dec365893523fe31193613ae636c9371ead7de",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

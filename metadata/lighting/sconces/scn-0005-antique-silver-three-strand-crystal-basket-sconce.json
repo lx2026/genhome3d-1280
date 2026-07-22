@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0005",
+  "slug": "scn-0005-antique-silver-three-strand-crystal-basket-sconce",
+  "title": "Antique-Silver Three-Strand Crystal-Basket Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "heritage-ornamental",
+    "one complete wall-mounted sconce light assembly",
+    "one round wall plate",
+    "exactly two candle arms",
+    "exactly three crystal swag strands",
+    "one lower crystal drop",
+    "one scroll crown"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.2,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 33,
+    "vertices": 14994,
+    "triangles": 29568,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.usdz",
+  "file_size_bytes": 1475576,
+  "sha256": "f3d671c826e0d36f2dda879b62db3cdb70358f42fe7f03f785afc35b979c5783",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

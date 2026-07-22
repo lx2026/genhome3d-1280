@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0009",
+  "slug": "mat-0009-king-five-zone-grid-hybrid-mattress",
+  "title": "King Five-Zone Grid Hybrid Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foam-hybrid",
+    "king",
+    "five zones"
+  ],
+  "dimensions_m": {
+    "width": 1.93,
+    "depth": 2.03,
+    "height": 0.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 43,
+    "vertices": 5872,
+    "triangles": 9844,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.usdz",
+  "file_size_bytes": 1178302,
+  "sha256": "d007b6f1d8ebfb843a9397afb6e796bd89cc5ee85402b15f2742eb8f62a508c3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

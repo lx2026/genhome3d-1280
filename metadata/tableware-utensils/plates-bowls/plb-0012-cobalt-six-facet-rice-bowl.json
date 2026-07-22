@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0012",
+  "slug": "plb-0012-cobalt-six-facet-rice-bowl",
+  "title": "Cobalt Six-Facet Rice Bowl",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "dining-bowls",
+    "one complete standalone bowl",
+    "exactly six broad exterior facets",
+    "one open cavity",
+    "one hexagonal foot"
+  ],
+  "dimensions_m": {
+    "width": 0.16,
+    "depth": 0.16,
+    "height": 0.085
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 2,
+    "vertices": 577,
+    "triangles": 1146,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0012-cobalt-six-facet-rice-bowl.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0012-cobalt-six-facet-rice-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0012-cobalt-six-facet-rice-bowl.usdz",
+  "file_size_bytes": 121240,
+  "sha256": "041043f92530a3587105ad0014c5e94ecff1c649f2a8d48ceb0058018c9f3968",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

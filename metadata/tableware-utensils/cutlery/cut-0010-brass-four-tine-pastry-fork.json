@@ -1,0 +1,55 @@
+{
+  "id": "CUT-0010",
+  "slug": "cut-0010-brass-four-tine-pastry-fork",
+  "title": "Brass Four-Tine Pastry Fork",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "dining-forks",
+    "one complete standalone pastry fork",
+    "exactly four tines",
+    "one broadened outer tine",
+    "exactly three open tine gaps",
+    "one rounded handle"
+  ],
+  "dimensions_m": {
+    "width": 0.034,
+    "depth": 0.17,
+    "height": 0.01
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 624,
+    "triangles": 1224,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0010-brass-four-tine-pastry-fork.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0010-brass-four-tine-pastry-fork.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0010-brass-four-tine-pastry-fork.usdz",
+  "file_size_bytes": 428983,
+  "sha256": "aff899b5e2dae56f8f44e20bdf6b430da4aef8ac800df9c0930d5de9c3a5995b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

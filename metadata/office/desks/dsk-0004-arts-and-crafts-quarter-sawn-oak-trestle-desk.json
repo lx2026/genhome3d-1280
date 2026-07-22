@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0004",
+  "slug": "dsk-0004-arts-and-crafts-quarter-sawn-oak-trestle-desk",
+  "title": "Arts-and-Crafts Quarter-Sawn-Oak Trestle Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "classic-heritage",
+    "arts and crafts",
+    "three drawers",
+    "two trestle frames",
+    "one stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.72,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 2128,
+    "triangles": 4176,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0004-arts-and-crafts-quarter-sawn-oak-trestle-desk.usdz",
+  "preview": "previews/office/desks/dsk-0004-arts-and-crafts-quarter-sawn-oak-trestle-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0004-arts-and-crafts-quarter-sawn-oak-trestle-desk.usdz",
+  "file_size_bytes": 588399,
+  "sha256": "cdf8869266184bd0169bc7f6cfb9e2c4c7262e00f9b2f0ba164ae24c7e8cd487",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

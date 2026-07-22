@@ -1,0 +1,54 @@
+{
+  "id": "CON-0002",
+  "slug": "con-0002-louis-xv-oak-marble-demilune-console",
+  "title": "Louis XV Oak-Marble Demilune Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "heritage-craft",
+    "louis-xv",
+    "demilune",
+    "marble-top",
+    "cabriole-legs"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.42,
+    "height": 0.83
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2088,
+    "triangles": 3948,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0002-louis-xv-oak-marble-demilune-console.usdz",
+  "preview": "previews/tables/console/con-0002-louis-xv-oak-marble-demilune-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0002-louis-xv-oak-marble-demilune-console.usdz",
+  "file_size_bytes": 1496047,
+  "sha256": "84e5d99d64e38e327bea2e3e1e8f153e000155fed6e502b2a6070c75f67451fc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

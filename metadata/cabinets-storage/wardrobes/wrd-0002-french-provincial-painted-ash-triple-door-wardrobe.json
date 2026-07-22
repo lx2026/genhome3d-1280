@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0002",
+  "slug": "wrd-0002-french-provincial-painted-ash-triple-door-wardrobe",
+  "title": "French Provincial Painted-Ash Triple-Door Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "classic-heritage",
+    "french provincial",
+    "three doors",
+    "two drawers",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 1.65,
+    "depth": 0.6,
+    "height": 1.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 6268,
+    "triangles": 12376,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0002-french-provincial-painted-ash-triple-door-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0002-french-provincial-painted-ash-triple-door-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0002-french-provincial-painted-ash-triple-door-wardrobe.usdz",
+  "file_size_bytes": 1147055,
+  "sha256": "7169439a5278b8b3f617267b826269a14ae9b62e22083bdc7e6db4822bc40cba",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

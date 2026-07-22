@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0011",
+  "slug": "bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub",
+  "title": "White-Cast-Iron Four-Clawfoot Roll-Top Tub",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "baths-soaking",
+    "one complete freestanding bathroom-fixture assembly",
+    "one deep oval tub shell",
+    "one continuous rolled rim",
+    "exactly four claw feet",
+    "one end-mounted bridge faucet",
+    "exactly two cross handles",
+    "one overflow plate"
+  ],
+  "dimensions_m": {
+    "width": 1.65,
+    "depth": 0.78,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 10308,
+    "triangles": 20516,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.usdz",
+  "file_size_bytes": 1507821,
+  "sha256": "ea48a50dce958ad9fb52d032c1aece1c3802aecd9277c369d6e5cff283716959",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

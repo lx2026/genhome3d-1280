@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0009",
+  "slug": "wrd-0009-walnut-black-steel-asymmetric-wardrobe",
+  "title": "Walnut-Black-Steel Asymmetric Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "modern-utility",
+    "asymmetric",
+    "one door",
+    "three drawers",
+    "open hanging bay"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.6,
+    "height": 1.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1664,
+    "triangles": 3260,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0009-walnut-black-steel-asymmetric-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0009-walnut-black-steel-asymmetric-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0009-walnut-black-steel-asymmetric-wardrobe.usdz",
+  "file_size_bytes": 545830,
+  "sha256": "223dbcb84c90c5724c6f1f8bf40fbcb00fcf4440a4b5995c52819bbb3b970dbd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

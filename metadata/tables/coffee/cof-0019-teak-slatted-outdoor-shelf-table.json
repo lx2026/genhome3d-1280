@@ -1,0 +1,54 @@
+{
+  "id": "COF-0019",
+  "slug": "cof-0019-teak-slatted-outdoor-shelf-table",
+  "title": "Teak Slatted Outdoor Shelf Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "sculptural-outdoor",
+    "outdoor",
+    "teak",
+    "slatted-top",
+    "lower-shelf"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.7,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 1888,
+    "triangles": 3664,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0019-teak-slatted-outdoor-shelf-table.usdz",
+  "preview": "previews/tables/coffee/cof-0019-teak-slatted-outdoor-shelf-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0019-teak-slatted-outdoor-shelf-table.usdz",
+  "file_size_bytes": 439597,
+  "sha256": "81ce3d323568bc4f642d0a9652685dabd3835af3a6604ffe3b46fe1b0dbfcee1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

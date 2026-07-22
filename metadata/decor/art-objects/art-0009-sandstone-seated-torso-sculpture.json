@@ -1,0 +1,57 @@
+{
+  "id": "ART-0009",
+  "slug": "art-0009-sandstone-seated-torso-sculpture",
+  "title": "Sandstone Seated-Torso Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "figurative-natural-motifs",
+    "one complete freestanding decorative art-object assembly",
+    "one headless torso",
+    "exactly two bent legs",
+    "exactly two folded arms",
+    "one rectangular sandstone plinth",
+    "one forward shoulder lean",
+    "one clearly seated human silhouette"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.3,
+    "height": 0.64
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1702,
+    "triangles": 3280,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.usdz",
+  "file_size_bytes": 580708,
+  "sha256": "821f82da92f5663c4886b6d43f4055fc4e1ca5e274f5a841e07e2d410bf66dde",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

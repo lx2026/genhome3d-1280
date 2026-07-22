@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0009",
+  "slug": "sap-0009-white-reamer-bowl-citrus-juicer",
+  "title": "White Reamer-Bowl Citrus Juicer",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "beverage preparation",
+    "one complete standalone small appliance",
+    "one white citrus juicer with one raised reamer cone, one open strainer bowl, one clear juice carafe, one pouring lip, and four anti-slip feet."
+  ],
+  "dimensions_m": {
+    "width": 0.2,
+    "depth": 0.2,
+    "height": 0.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2688,
+    "triangles": 5344,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0009-white-reamer-bowl-citrus-juicer.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0009-white-reamer-bowl-citrus-juicer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0009-white-reamer-bowl-citrus-juicer.usdz",
+  "file_size_bytes": 546765,
+  "sha256": "9f135e2baa82826d55f81f58369d4fa49753d790d7836741dd1cfe6f1ade3df6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

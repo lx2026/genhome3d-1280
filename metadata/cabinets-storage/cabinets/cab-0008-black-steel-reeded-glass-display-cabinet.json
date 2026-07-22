@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0008",
+  "slug": "cab-0008-black-steel-reeded-glass-display-cabinet",
+  "title": "Black-Steel Reeded-Glass Display Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "modern-utility",
+    "reeded glass",
+    "two doors",
+    "three glass shelves",
+    "rear x brace"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.42,
+    "height": 1.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 3168,
+    "triangles": 6196,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0008-black-steel-reeded-glass-display-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0008-black-steel-reeded-glass-display-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0008-black-steel-reeded-glass-display-cabinet.usdz",
+  "file_size_bytes": 296676,
+  "sha256": "b1eb496507897051121b657bfa62609cc0233ea05cdd5cc723969e3305837f82",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

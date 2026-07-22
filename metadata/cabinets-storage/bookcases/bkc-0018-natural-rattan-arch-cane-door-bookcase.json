@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0018",
+  "slug": "bkc-0018-natural-rattan-arch-cane-door-bookcase",
+  "title": "Natural-Rattan Arch Cane-Door Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "sculptural-specialty",
+    "rattan arch",
+    "four shelves",
+    "two cane doors",
+    "wrapped feet"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.4,
+    "height": 1.95
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 5068,
+    "triangles": 9992,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0018-natural-rattan-arch-cane-door-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0018-natural-rattan-arch-cane-door-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0018-natural-rattan-arch-cane-door-bookcase.usdz",
+  "file_size_bytes": 1281857,
+  "sha256": "8345a3f738ab874e363c8a60758142ae2e666ceaa541d5bf0fdd6c50da706b43",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

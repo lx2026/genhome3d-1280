@@ -1,0 +1,53 @@
+{
+  "id": "NST-0010",
+  "slug": "nst-0010-smoked-acrylic-c-pedestal-nightstand",
+  "title": "Smoked-Acrylic C-Pedestal Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "modern-minimal",
+    "smoked acrylic",
+    "c profile",
+    "clear shelf"
+  ],
+  "dimensions_m": {
+    "width": 0.4,
+    "depth": 0.38,
+    "height": 0.57
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1040,
+    "triangles": 2064,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0010-smoked-acrylic-c-pedestal-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0010-smoked-acrylic-c-pedestal-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0010-smoked-acrylic-c-pedestal-nightstand.usdz",
+  "file_size_bytes": 318909,
+  "sha256": "0077d9be9a986457b527f6cfcc0971464a013ba016d8c2d55b459b01ed8d8c82",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

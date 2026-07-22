@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0010",
+  "slug": "mir-0010-blackened-steel-teardrop-mirror",
+  "title": "Blackened-Steel Teardrop Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "organic-sculptural-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one teardrop mirror panel",
+    "one continuous blackened-steel rim",
+    "one pointed lower tip and one rounded crown",
+    "exactly two rear keyhole mounts"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.07,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1344,
+    "triangles": 2672,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.usdz",
+  "file_size_bytes": 411961,
+  "sha256": "d69048217794c0128ab79a444272c74ee6141f018df340fed46422a39dc24cf7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

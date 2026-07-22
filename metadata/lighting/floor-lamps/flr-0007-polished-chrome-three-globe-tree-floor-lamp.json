@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0007",
+  "slug": "flr-0007-polished-chrome-three-globe-tree-floor-lamp",
+  "title": "Polished-Chrome Three-Globe Tree Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "contemporary-geometric",
+    "one complete freestanding floor lamp assembly",
+    "one round base",
+    "one central pole",
+    "exactly three angled branches",
+    "three opal globes",
+    "three socket collars"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.58,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2478,
+    "triangles": 4912,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.usdz",
+  "file_size_bytes": 773552,
+  "sha256": "c8a04d9b12b66f3af95370a48be67917fe70b9f745112a7d73b96ff803d50211",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

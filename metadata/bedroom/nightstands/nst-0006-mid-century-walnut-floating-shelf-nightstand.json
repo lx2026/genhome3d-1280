@@ -1,0 +1,53 @@
+{
+  "id": "NST-0006",
+  "slug": "nst-0006-mid-century-walnut-floating-shelf-nightstand",
+  "title": "Mid-Century Walnut Floating-Shelf Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "modern-minimal",
+    "mid century",
+    "one drawer",
+    "splayed legs"
+  ],
+  "dimensions_m": {
+    "width": 0.499997,
+    "depth": 0.400002,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 984,
+    "triangles": 1936,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0006-mid-century-walnut-floating-shelf-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0006-mid-century-walnut-floating-shelf-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0006-mid-century-walnut-floating-shelf-nightstand.usdz",
+  "file_size_bytes": 538689,
+  "sha256": "2b9640bf7fdeadd3797544491b8bbbb28899fcd53af0a29029969f0ea37faa57",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

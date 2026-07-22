@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0014",
+  "slug": "dsk-0014-olive-canvas-folding-field-desk",
+  "title": "Olive-Canvas Folding Field Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "compact-adaptive",
+    "field desk",
+    "two canvas drawers",
+    "two X frames",
+    "two rear braces"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.58,
+    "height": 0.75006
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1584,
+    "triangles": 3112,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0014-olive-canvas-folding-field-desk.usdz",
+  "preview": "previews/office/desks/dsk-0014-olive-canvas-folding-field-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0014-olive-canvas-folding-field-desk.usdz",
+  "file_size_bytes": 553087,
+  "sha256": "d11b3c69720ed2ab9a9ccfd2d31e5d989886b7d495ee15025bd6f18b6c8e3b3f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

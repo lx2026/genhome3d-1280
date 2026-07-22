@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0004",
+  "slug": "chs-0004-korean-elm-bandaji-chest",
+  "title": "Korean Elm Bandaji Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "classic-heritage",
+    "bandaji",
+    "one drop front",
+    "two butterfly hinges",
+    "four bracket feet"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.5,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 2496,
+    "triangles": 4920,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0004-korean-elm-bandaji-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0004-korean-elm-bandaji-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0004-korean-elm-bandaji-chest.usdz",
+  "file_size_bytes": 725049,
+  "sha256": "06ca07833c2b3f12889f2256ad402b3ccf83586cf371784b2b6aac8bfd99a759",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0006",
+  "slug": "odt-0006-charcoal-aluminum-six-slat-butterfly-leaf-dining-table",
+  "title": "Charcoal Aluminum Six-Slat Butterfly-Leaf Dining Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "contemporary-entertaining",
+    "one extendable outdoor dining table",
+    "six fixed top slats",
+    "one centered butterfly leaf",
+    "two sled end frames",
+    "one recessed stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.98,
+    "depth": 0.94,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1472,
+    "triangles": 2808,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0006-charcoal-aluminum-six-slat-butterfly-leaf-dining-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0006-charcoal-aluminum-six-slat-butterfly-leaf-dining-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0006-charcoal-aluminum-six-slat-butterfly-leaf-dining-table.usdz",
+  "file_size_bytes": 220544,
+  "sha256": "036fcf92b5b45c73808c191032a26dafcf345de7b7ec8f2312a873fd43ae8bf4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

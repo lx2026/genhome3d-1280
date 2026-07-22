@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0008",
+  "slug": "chd-0008-smoked-glass-seven-globe-molecular-chandelier",
+  "title": "Smoked-Glass Seven-Globe Molecular Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "contemporary-geometric",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly seven unequal globes",
+    "seven short branch stems",
+    "one asymmetric spine",
+    "three suspension cables",
+    "one oblong canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.76,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 3950,
+    "triangles": 7816,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.usdz",
+  "file_size_bytes": 422469,
+  "sha256": "8bf43198fe487af1e35642d97e173d24e0be597bbe6d910b7de8891a4357b37c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

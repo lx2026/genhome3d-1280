@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0010",
+  "slug": "cwr-0010-bronze-two-tier-wood-handle-steamer-pot",
+  "title": "Bronze Two-Tier Wood-Handle Steamer Pot",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "saucepans-and-stockpots",
+    "one complete standalone cookware assembly",
+    "one base pot",
+    "exactly two stacked perforated steamer tiers",
+    "exactly one domed lid",
+    "exactly two opposed wood-wrapped side handles"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.32,
+    "height": 0.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 95,
+    "vertices": 11301,
+    "triangles": 22126,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.usdz",
+  "file_size_bytes": 1204902,
+  "sha256": "efd805e164a002db0ef7195aecdca2b198b896396e0a918f262f89c5035858ad",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

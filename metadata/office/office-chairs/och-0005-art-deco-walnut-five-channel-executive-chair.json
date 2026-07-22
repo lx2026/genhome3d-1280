@@ -1,0 +1,56 @@
+{
+  "id": "OCH-0005",
+  "slug": "och-0005-art-deco-walnut-five-channel-executive-chair",
+  "title": "Art Deco Walnut Five-Channel Executive Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "classic-executive",
+    "art deco",
+    "five back channels",
+    "two enclosed arms",
+    "pedestal",
+    "five black spokes",
+    "five casters"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.8,
+    "height": 1.16
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 5552,
+    "triangles": 11004,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0005-art-deco-walnut-five-channel-executive-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0005-art-deco-walnut-five-channel-executive-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0005-art-deco-walnut-five-channel-executive-chair.usdz",
+  "file_size_bytes": 925184,
+  "sha256": "a8f9cddea7cf1a79a2f2ba0fe86dcb72a191351e99c932b0a5074ce938e91b41",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

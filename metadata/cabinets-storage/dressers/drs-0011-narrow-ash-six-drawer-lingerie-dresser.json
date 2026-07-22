@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0011",
+  "slug": "drs-0011-narrow-ash-six-drawer-lingerie-dresser",
+  "title": "Narrow Ash Six-Drawer Lingerie Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "compact-adaptive",
+    "lingerie tower",
+    "six drawers",
+    "graduated drawers",
+    "four tapered legs"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.43,
+    "height": 1.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1688,
+    "triangles": 3308,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0011-narrow-ash-six-drawer-lingerie-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0011-narrow-ash-six-drawer-lingerie-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0011-narrow-ash-six-drawer-lingerie-dresser.usdz",
+  "file_size_bytes": 560680,
+  "sha256": "7fccf794be535b70314093f37c24dd1f462943f6e39de0111b095511cdab2395",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "NST-0018",
+  "slug": "nst-0018-walnut-tambour-capsule-nightstand",
+  "title": "Walnut Tambour Capsule Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "sculptural-specialty",
+    "capsule",
+    "tambour front",
+    "oval plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.44,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 4256,
+    "triangles": 8404,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0018-walnut-tambour-capsule-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0018-walnut-tambour-capsule-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0018-walnut-tambour-capsule-nightstand.usdz",
+  "file_size_bytes": 646925,
+  "sha256": "fb0d44cd41db9fc6c2802d6ce79d53e0d0a6443109134ca98a8dcfdd45423179",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

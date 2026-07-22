@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0016",
+  "slug": "ktn-0016-chrome-geared-can-opener",
+  "title": "Chrome Geared Can Opener",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "opening-finishing-tools",
+    "one complete standalone kitchen tool",
+    "exactly two soft-grip hinged arms",
+    "one toothed drive wheel and one cutting wheel",
+    "one readable turning knob"
+  ],
+  "dimensions_m": {
+    "width": 0.21,
+    "depth": 0.075,
+    "height": 0.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 5640,
+    "triangles": 11188,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0016-chrome-geared-can-opener.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0016-chrome-geared-can-opener.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0016-chrome-geared-can-opener.usdz",
+  "file_size_bytes": 808346,
+  "sha256": "82f3360c9d736607bd33a5dfe35b19ed4275415f4654ba70140e8512e3e50a0f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

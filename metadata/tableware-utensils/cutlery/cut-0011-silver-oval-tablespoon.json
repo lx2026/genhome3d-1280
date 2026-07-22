@@ -1,0 +1,53 @@
+{
+  "id": "CUT-0011",
+  "slug": "cut-0011-silver-oval-tablespoon",
+  "title": "Silver Oval Tablespoon",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "dining-serving-spoons",
+    "one complete standalone tablespoon",
+    "one deep oval spoon bowl",
+    "one tapered teardrop handle"
+  ],
+  "dimensions_m": {
+    "width": 0.045,
+    "depth": 0.205,
+    "height": 0.018
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 866,
+    "triangles": 1720,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.usdz",
+  "file_size_bytes": 523982,
+  "sha256": "859c96e85b75b64478819ce9b2f9928189b6109ba501ce2165bfcab7dac8c867",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

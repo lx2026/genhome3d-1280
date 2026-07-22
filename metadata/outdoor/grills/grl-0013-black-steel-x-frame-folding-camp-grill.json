@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0013",
+  "slug": "grl-0013-black-steel-x-frame-folding-camp-grill",
+  "title": "Black-Steel X-Frame Folding Camp Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "compact-portable",
+    "one shallow rectangular firebox",
+    "two folding X frames",
+    "two visible pivot discs",
+    "one lower wire rack",
+    "two carry grips"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.44,
+    "height": 0.820011
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 3008,
+    "triangles": 5792,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0013-black-steel-x-frame-folding-camp-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0013-black-steel-x-frame-folding-camp-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0013-black-steel-x-frame-folding-camp-grill.usdz",
+  "file_size_bytes": 173334,
+  "sha256": "563629d98358de156a64b75dd1227888a14ffdc6230fff627c5be132a7ee2902",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

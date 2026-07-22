@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0017",
+  "slug": "tsk-0017-satin-brass-arc-and-needle-spot-task-light",
+  "title": "Satin-Brass Arc-and-Needle Spot Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "architectural-studio",
+    "one complete freestanding desktop task-light assembly",
+    "one narrow weighted base",
+    "one tall arc",
+    "one adjustable cylindrical spotlight",
+    "one rear needle counterweight",
+    "exactly two pivot joints"
+  ],
+  "dimensions_m": {
+    "width": 0.460007,
+    "depth": 0.22,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2016,
+    "triangles": 3956,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.usdz",
+  "file_size_bytes": 734339,
+  "sha256": "ab1de24b07e3114147a5f89cc9295285f1ae8835f063faff00abdf4c3736e486",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

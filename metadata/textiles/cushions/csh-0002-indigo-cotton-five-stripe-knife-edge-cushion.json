@@ -1,0 +1,54 @@
+{
+  "id": "CSH-0002",
+  "slug": "csh-0002-indigo-cotton-five-stripe-knife-edge-cushion",
+  "title": "Indigo-Cotton Five-Stripe Knife-Edge Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "tailored-knife-edge",
+    "one complete standalone cushion assembly",
+    "one rectangular cushion",
+    "exactly five contrasting vertical stripes",
+    "one continuous piped edge"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.15,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2016,
+    "triangles": 3932,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0002-indigo-cotton-five-stripe-knife-edge-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0002-indigo-cotton-five-stripe-knife-edge-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0002-indigo-cotton-five-stripe-knife-edge-cushion.usdz",
+  "file_size_bytes": 664161,
+  "sha256": "f51a6ee50fda28fd47e650c22a671b07e82b3fb352c724d169d4fc37fc1bbacf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

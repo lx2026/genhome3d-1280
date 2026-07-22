@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0016",
+  "slug": "mxb-0016-red-three-fold-collapsible-silicone-bowl",
+  "title": "Red Three-Fold Collapsible Silicone Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "synthetic-and-specialty-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one red silicone body",
+    "exactly three accordion wall folds",
+    "exactly one rigid black rim",
+    "exactly one flat circular base"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 0.125
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 5401,
+    "triangles": 10794,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0016-red-three-fold-collapsible-silicone-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0016-red-three-fold-collapsible-silicone-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0016-red-three-fold-collapsible-silicone-bowl.usdz",
+  "file_size_bytes": 551559,
+  "sha256": "70eba3129a165145ae6ef7e26b2ae9323e1a78583938156459e2174d2680d1d4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

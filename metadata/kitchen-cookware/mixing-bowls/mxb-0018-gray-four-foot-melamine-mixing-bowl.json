@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0018",
+  "slug": "mxb-0018-gray-four-foot-melamine-mixing-bowl",
+  "title": "Gray Four-Foot Melamine Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "synthetic-and-specialty-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one gray melamine body",
+    "exactly four orange nonslip feet",
+    "exactly one black rim band",
+    "one continuous open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.32,
+    "height": 0.145
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 3473,
+    "triangles": 6926,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0018-gray-four-foot-melamine-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0018-gray-four-foot-melamine-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0018-gray-four-foot-melamine-mixing-bowl.usdz",
+  "file_size_bytes": 466453,
+  "sha256": "cf3b6b4c929c42acb26292311561ace22621629c9abc20dc7476786d5e887689",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

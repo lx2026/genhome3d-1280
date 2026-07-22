@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0005",
+  "slug": "ktn-0005-steel-ladle-with-blue-handle",
+  "title": "Steel Ladle with Blue Handle",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "cooking-turning-tools",
+    "one complete standalone kitchen tool",
+    "one deep open ladle bowl",
+    "one curved steel shank",
+    "one blue grip with hanging eye"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.1,
+    "height": 0.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1854,
+    "triangles": 3648,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.usdz",
+  "file_size_bytes": 631063,
+  "sha256": "9d9499c16a3b4c9dfe31e9eb967fa87882ae70d47fa05fc8540680405d040007",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

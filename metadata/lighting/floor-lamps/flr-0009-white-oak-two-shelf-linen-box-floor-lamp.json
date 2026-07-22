@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0009",
+  "slug": "flr-0009-white-oak-two-shelf-linen-box-floor-lamp",
+  "title": "White-Oak Two-Shelf Linen-Box Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "contemporary-geometric",
+    "one complete freestanding floor lamp assembly",
+    "four vertical posts",
+    "exactly two square shelves",
+    "one square linen box shade",
+    "one top frame",
+    "one floor plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.44,
+    "depth": 0.44,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1314,
+    "triangles": 2576,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0009-white-oak-two-shelf-linen-box-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0009-white-oak-two-shelf-linen-box-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0009-white-oak-two-shelf-linen-box-floor-lamp.usdz",
+  "file_size_bytes": 913698,
+  "sha256": "db532d981a0171e836b5a35e24165928d4950fecd4a3cd2501bc23712a586d67",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

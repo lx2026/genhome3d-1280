@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0018",
+  "slug": "glw-0018-clear-double-wall-espresso-glass",
+  "title": "Clear Double-Wall Espresso Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "specialty-serving-glassware",
+    "one complete standalone open vessel",
+    "exactly two separately readable concentric walls",
+    "one open rim",
+    "one sealed annular base join"
+  ],
+  "dimensions_m": {
+    "width": 0.075,
+    "depth": 0.075,
+    "height": 0.085
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 4674,
+    "triangles": 9340,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.usdz",
+  "file_size_bytes": 456342,
+  "sha256": "c83f321e8ab85e791db7e9a99e494b84f137b71d3429bd3d01d6b89da008cae3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

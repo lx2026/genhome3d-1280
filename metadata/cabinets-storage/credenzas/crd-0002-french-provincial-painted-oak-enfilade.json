@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0002",
+  "slug": "crd-0002-french-provincial-painted-oak-enfilade",
+  "title": "French Provincial Painted-Oak Enfilade",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "classic-heritage",
+    "french-provincial",
+    "four paneled doors",
+    "scalloped apron",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.5,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 3944,
+    "triangles": 7748,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0002-french-provincial-painted-oak-enfilade.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0002-french-provincial-painted-oak-enfilade.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0002-french-provincial-painted-oak-enfilade.usdz",
+  "file_size_bytes": 676103,
+  "sha256": "9a5fe870d8ce61f2b53f3536627fb06719dbff7096aed599b55f684ab2c16fd7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GRL-0002",
+  "slug": "grl-0002-arts-and-crafts-firebrick-twin-door-hearth-grill",
+  "title": "Arts-and-Crafts Firebrick Twin-Door Hearth Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "heritage-charcoal",
+    "rectangular steel firebox",
+    "one broad vented hood",
+    "two firebrick base piers",
+    "two vented lower doors"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.62,
+    "height": 1.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 36,
+    "vertices": 2352,
+    "triangles": 4560,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0002-arts-and-crafts-firebrick-twin-door-hearth-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0002-arts-and-crafts-firebrick-twin-door-hearth-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0002-arts-and-crafts-firebrick-twin-door-hearth-grill.usdz",
+  "file_size_bytes": 255953,
+  "sha256": "1b71fd7f6fbeffcf9edcb0da9880406ba7a8585d9c418eaa73a978ee5c8aadf1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0015",
+  "slug": "rug-0015-brown-four-loop-braided-oval-doormat",
+  "title": "Brown Four-Loop Braided Oval Doormat",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "natural-fiber-braided-rugs",
+    "one complete standalone rug assembly",
+    "one oval braided doormat",
+    "exactly four nested oval braid loops",
+    "exactly one central woven insert",
+    "no loose braid end"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.65,
+    "height": 0.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 3072,
+    "triangles": 6136,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.usdz",
+  "preview": "previews/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.usdz",
+  "file_size_bytes": 1170379,
+  "sha256": "c4f9ed6434087bed74a649f9c160a30252038ecd2f182407eb8e69a5765896a1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

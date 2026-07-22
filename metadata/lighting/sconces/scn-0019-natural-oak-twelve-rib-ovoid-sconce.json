@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0019",
+  "slug": "scn-0019-natural-oak-twelve-rib-ovoid-sconce",
+  "title": "Natural-Oak Twelve-Rib Ovoid Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "architectural-statement",
+    "one complete wall-mounted sconce light assembly",
+    "one concealed wall plate",
+    "exactly twelve bowed oak ribs",
+    "exactly three horizontal hoops",
+    "one linen half-cylinder diffuser",
+    "one crown hub"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.2,
+    "height": 0.54
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 11846,
+    "triangles": 22900,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.usdz",
+  "file_size_bytes": 1510989,
+  "sha256": "214b3731a5ac786b296dd7e82f4f9d745618b23e466c6a77daefa765254cbc7b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

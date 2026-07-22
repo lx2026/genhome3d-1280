@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0011",
+  "slug": "wrd-0011-narrow-ash-single-door-wardrobe",
+  "title": "Narrow Ash Single-Door Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "compact-adaptive",
+    "narrow",
+    "one door",
+    "two drawers",
+    "four tapered legs"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.52,
+    "height": 1.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1112,
+    "triangles": 2180,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.usdz",
+  "file_size_bytes": 539434,
+  "sha256": "944d186d7da7c135845c29e9247630f8877b00cb50f6e05225ce457fa53cd8d3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

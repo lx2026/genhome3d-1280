@@ -1,0 +1,54 @@
+{
+  "id": "CUR-0012",
+  "slug": "cur-0012-ochre-nine-scallop-cafe-curtain-pair",
+  "title": "Ochre Nine-Scallop Caf\u00e9 Curtain Pair",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "decorative-valance-curtains",
+    "one complete standalone curtain assembly",
+    "exactly two half-height cafe panels",
+    "exactly nine lower-edge scallops total",
+    "exactly two small tiebacks"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.16,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 10900,
+    "triangles": 21208,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0012-ochre-nine-scallop-cafe-curtain-pair.usdz",
+  "preview": "previews/textiles/curtains/cur-0012-ochre-nine-scallop-cafe-curtain-pair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0012-ochre-nine-scallop-cafe-curtain-pair.usdz",
+  "file_size_bytes": 1292931,
+  "sha256": "1f1284aa0ce91092904f80aa76234e8af95eaa8fb2909209f06e94b4b6926488",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

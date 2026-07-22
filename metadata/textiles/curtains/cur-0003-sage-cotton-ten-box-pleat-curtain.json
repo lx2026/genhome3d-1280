@@ -1,0 +1,54 @@
+{
+  "id": "CUR-0003",
+  "slug": "cur-0003-sage-cotton-ten-box-pleat-curtain",
+  "title": "Sage-Cotton Ten-Box-Pleat Curtain",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "pleated-structured-drapery",
+    "one complete standalone curtain assembly",
+    "one complete single curtain panel",
+    "exactly ten box pleats",
+    "one continuous weighted lower hem"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.16,
+    "height": 2.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 4666,
+    "triangles": 9280,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0003-sage-cotton-ten-box-pleat-curtain.usdz",
+  "preview": "previews/textiles/curtains/cur-0003-sage-cotton-ten-box-pleat-curtain.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0003-sage-cotton-ten-box-pleat-curtain.usdz",
+  "file_size_bytes": 997887,
+  "sha256": "9867a27dd4d6ec37937d394e466fb4a0eacd99fee651b88e246de84cc7866b7d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

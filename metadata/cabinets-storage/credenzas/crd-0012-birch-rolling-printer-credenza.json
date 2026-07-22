@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0012",
+  "slug": "crd-0012-birch-rolling-printer-credenza",
+  "title": "Birch Rolling Printer Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "compact-adaptive",
+    "printer",
+    "pull-out shelf",
+    "two doors",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.5,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1744,
+    "triangles": 3436,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0012-birch-rolling-printer-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0012-birch-rolling-printer-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0012-birch-rolling-printer-credenza.usdz",
+  "file_size_bytes": 539263,
+  "sha256": "ab4873238f64360ec9044eb382b37501ea6b930318d851b45255fa4d964233ba",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

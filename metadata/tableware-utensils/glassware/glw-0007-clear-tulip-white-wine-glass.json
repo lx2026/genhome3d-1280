@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0007",
+  "slug": "glw-0007-clear-tulip-white-wine-glass",
+  "title": "Clear Tulip White-Wine Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "stemmed-wine-glasses",
+    "one complete standalone open vessel",
+    "one tulip bowl",
+    "one medium stem",
+    "one circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.085,
+    "depth": 0.085,
+    "height": 0.215
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 3393,
+    "triangles": 6774,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0007-clear-tulip-white-wine-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0007-clear-tulip-white-wine-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0007-clear-tulip-white-wine-glass.usdz",
+  "file_size_bytes": 386496,
+  "sha256": "7b515e3e7a58268d52e243b985de40722642198fce785dd974a793e167dcd107",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

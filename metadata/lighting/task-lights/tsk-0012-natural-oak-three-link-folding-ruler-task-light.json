@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0012",
+  "slug": "tsk-0012-natural-oak-three-link-folding-ruler-task-light",
+  "title": "Natural-Oak Three-Link Folding-Ruler Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "compact-residential",
+    "one complete freestanding desktop task-light assembly",
+    "one round oak base",
+    "exactly three oak links",
+    "exactly three brass knuckles",
+    "one opal capsule head",
+    "one foot collar"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.2,
+    "height": 0.44
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2382,
+    "triangles": 4728,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0012-natural-oak-three-link-folding-ruler-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0012-natural-oak-three-link-folding-ruler-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0012-natural-oak-three-link-folding-ruler-task-light.usdz",
+  "file_size_bytes": 1224374,
+  "sha256": "5af10cd68e2664f2d84be086b92e9b15a77cc5032651b9470e1cbaefeb5a5027",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

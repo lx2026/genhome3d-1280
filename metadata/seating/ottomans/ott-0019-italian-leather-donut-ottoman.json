@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0019",
+  "slug": "ott-0019-italian-leather-donut-ottoman",
+  "title": "Italian Leather Donut Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "modular-architectural",
+    "italian",
+    "donut",
+    "segmented",
+    "leather"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 1.1,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 3200,
+    "triangles": 6332,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0019-italian-leather-donut-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0019-italian-leather-donut-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0019-italian-leather-donut-ottoman.usdz",
+  "file_size_bytes": 841204,
+  "sha256": "edadc135c97797a12f8a114d001f6263ea67e186a8f76229b04b0a295e0a0e69",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

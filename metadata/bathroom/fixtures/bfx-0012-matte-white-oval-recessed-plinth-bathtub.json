@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0012",
+  "slug": "bfx-0012-matte-white-oval-recessed-plinth-bathtub",
+  "title": "Matte-White Oval Recessed-Plinth Bathtub",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "baths-soaking",
+    "one complete freestanding bathroom-fixture assembly",
+    "one seamless oval tub shell",
+    "one continuous recessed plinth",
+    "one thin upper rim",
+    "one centered drain recess",
+    "one overflow slot",
+    "two softened end walls"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.8,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 8206,
+    "triangles": 16400,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.usdz",
+  "file_size_bytes": 776709,
+  "sha256": "c3e1f9026faebfd7d4aa14fd60f4daaf2676bcf5ebe81c56976a80ee30ea14c1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

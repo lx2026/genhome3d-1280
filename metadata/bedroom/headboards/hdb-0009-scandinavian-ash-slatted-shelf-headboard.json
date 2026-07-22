@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0009",
+  "slug": "hdb-0009-scandinavian-ash-slatted-shelf-headboard",
+  "title": "Scandinavian Ash Slatted-Shelf Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "modern-upholstered",
+    "scandinavian",
+    "ash",
+    "vertical-slats",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.2,
+    "depth": 0.2,
+    "height": 1.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 53,
+    "vertices": 5088,
+    "triangles": 9964,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0009-scandinavian-ash-slatted-shelf-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0009-scandinavian-ash-slatted-shelf-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0009-scandinavian-ash-slatted-shelf-headboard.usdz",
+  "file_size_bytes": 299954,
+  "sha256": "316941491798f7e9afd8223c740a39097f4177227a6975258e00d27fe383ad32",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

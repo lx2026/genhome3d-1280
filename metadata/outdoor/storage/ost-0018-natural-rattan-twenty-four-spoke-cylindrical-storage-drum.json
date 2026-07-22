@@ -1,0 +1,55 @@
+{
+  "id": "OST-0018",
+  "slug": "ost-0018-natural-rattan-twenty-four-spoke-cylindrical-storage-drum",
+  "title": "Natural-Rattan Twenty-Four-Spoke Cylindrical Storage Drum",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "architectural-specialty",
+    "one storage drum",
+    "twenty-four vertical spokes",
+    "one removable round lid",
+    "two ring handles",
+    "one circular plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.82,
+    "depth": 0.82,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 5680,
+    "triangles": 11256,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0018-natural-rattan-twenty-four-spoke-cylindrical-storage-drum.usdz",
+  "preview": "previews/outdoor/storage/ost-0018-natural-rattan-twenty-four-spoke-cylindrical-storage-drum.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0018-natural-rattan-twenty-four-spoke-cylindrical-storage-drum.usdz",
+  "file_size_bytes": 674086,
+  "sha256": "0a2ae63e1f182c681c140a6cf8074517876fc00e4b2e1e8965cdbb5779c5a1dc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

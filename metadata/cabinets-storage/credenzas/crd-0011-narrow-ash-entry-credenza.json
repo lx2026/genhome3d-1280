@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0011",
+  "slug": "crd-0011-narrow-ash-entry-credenza",
+  "title": "Narrow Ash Entry Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "compact-adaptive",
+    "entry",
+    "two drawers",
+    "two doors",
+    "four tapered legs"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.35,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1560,
+    "triangles": 3068,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0011-narrow-ash-entry-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0011-narrow-ash-entry-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0011-narrow-ash-entry-credenza.usdz",
+  "file_size_bytes": 551681,
+  "sha256": "25b3d9757b91dfa7faba1f639cf9e5247161057daa253eb66834667653c5e8e9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

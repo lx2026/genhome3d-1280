@@ -1,0 +1,55 @@
+{
+  "id": "BLK-0007",
+  "slug": "blk-0007-sage-nine-square-patchwork-quilt",
+  "title": "Sage Nine-Square Patchwork Quilt",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "quilted-patchwork-blankets",
+    "one complete standalone patchwork quilt",
+    "exactly nine visible square patches",
+    "three by three patch grid",
+    "one folded-back corner",
+    "one continuous perimeter binding"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.56,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3000,
+    "triangles": 5956,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.usdz",
+  "preview": "previews/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.usdz",
+  "file_size_bytes": 713718,
+  "sha256": "94daa5867977d366d9752f39931c3e78ce3ebabe872b1a9221b4eb21b0056476",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

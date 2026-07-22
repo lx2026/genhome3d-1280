@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0002",
+  "slug": "sof-0002-mid-century-walnut-tuxedo-loveseat",
+  "title": "Mid-Century Walnut Tuxedo Loveseat",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "compact-loveseat",
+    "mid-century",
+    "walnut",
+    "tuxedo",
+    "mustard"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.84,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2440,
+    "triangles": 4820,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.usdz",
+  "preview": "previews/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.usdz",
+  "file_size_bytes": 1024651,
+  "sha256": "3f8a2274afc69e38681b7e90274dd28a025bf53b6eb4b18d86f4d415c466c891",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0016",
+  "slug": "bkc-0016-circular-oak-halo-bookcase",
+  "title": "Circular Oak Halo Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "sculptural-specialty",
+    "halo",
+    "five shelves",
+    "central spine",
+    "ring"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.36,
+    "height": 1.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 6816,
+    "triangles": 13604,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.usdz",
+  "file_size_bytes": 929015,
+  "sha256": "2dcefb3a214d3cb63626af601123a9d946ddc613b4850f1d10c1ca525db3406a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

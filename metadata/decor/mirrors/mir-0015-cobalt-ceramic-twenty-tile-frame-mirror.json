@@ -1,0 +1,56 @@
+{
+  "id": "MIR-0015",
+  "slug": "mir-0015-cobalt-ceramic-twenty-tile-frame-mirror",
+  "title": "Cobalt-Ceramic Twenty-Tile Frame Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "decorative-ornamental-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one rectangular mirror panel",
+    "exactly twenty glazed ceramic frame tiles",
+    "exactly four contrasting corner tiles",
+    "exactly four intermediate tiles on each of four sides",
+    "one recessed backing panel"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.1,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 2304,
+    "triangles": 4520,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.usdz",
+  "file_size_bytes": 457926,
+  "sha256": "ed347157a73c4d15cd523dc08399aae65871b11fec2dd52138b522bc3bda77e9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0014",
+  "slug": "tlp-0014-amber-glass-teardrop-pedestal-table-lamp",
+  "title": "Amber-Glass Teardrop Pedestal Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "compact-residential",
+    "one complete freestanding tabletop lamp assembly",
+    "one brass pedestal base",
+    "one short stem",
+    "one amber teardrop envelope",
+    "one opal inner globe",
+    "one neck cap"
+  ],
+  "dimensions_m": {
+    "width": 0.24,
+    "depth": 0.24,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1610,
+    "triangles": 3196,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.usdz",
+  "file_size_bytes": 826089,
+  "sha256": "258939b3f8d2c07c2187129f717505f56b65d98c5b969aa88e39fb1c6b8b092f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

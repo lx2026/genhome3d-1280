@@ -1,0 +1,56 @@
+{
+  "id": "PND-0012",
+  "slug": "pnd-0012-sage-ceramic-twelve-scallop-dome-pendant",
+  "title": "Sage-Ceramic Twelve-Scallop Dome Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "compact-residential",
+    "one complete ceiling-mounted pendant light assembly",
+    "one ceramic canopy and one twisted cord",
+    "one ceramic dome",
+    "exactly twelve lower scallops",
+    "one socket",
+    "one warm bulb"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.32,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 8842,
+    "triangles": 17424,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0012-sage-ceramic-twelve-scallop-dome-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0012-sage-ceramic-twelve-scallop-dome-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0012-sage-ceramic-twelve-scallop-dome-pendant.usdz",
+  "file_size_bytes": 1164588,
+  "sha256": "a4bb04a0f5a562920e8f92901077f000f744666e876f3990d04d3c9aac534d43",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

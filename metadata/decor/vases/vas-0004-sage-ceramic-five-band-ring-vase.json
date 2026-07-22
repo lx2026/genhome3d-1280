@@ -1,0 +1,55 @@
+{
+  "id": "VAS-0004",
+  "slug": "vas-0004-sage-ceramic-five-band-ring-vase",
+  "title": "Sage-Ceramic Five-Band Ring Vase",
+  "category": "decor",
+  "subcategory": "vases",
+  "category_path": "decor/vases",
+  "category_label": "Decor / Vases",
+  "tags": [
+    "decor vases",
+    "ceramic-porcelain-vases",
+    "one complete freestanding decorative vase",
+    "exactly five stacked toroidal body bands",
+    "one short cylindrical neck",
+    "one rolled circular rim",
+    "one recessed circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.44
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 4816,
+    "triangles": 9616,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.usdz",
+  "preview": "previews/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.usdz",
+  "file_size_bytes": 293271,
+  "sha256": "80b61c137155c09742f8eaf6846e30b002522f2db588b0f722c8bf05bfeed68d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

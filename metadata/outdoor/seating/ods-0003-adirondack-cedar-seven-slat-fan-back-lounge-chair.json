@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0003",
+  "slug": "ods-0003-adirondack-cedar-seven-slat-fan-back-lounge-chair",
+  "title": "Adirondack Cedar Seven-Slat Fan-Back Lounge Chair",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "heritage-garden",
+    "one reclined cedar chair",
+    "seven fan-back slats",
+    "two paddle arms",
+    "four legs",
+    "one lower cross stretcher"
+  ],
+  "dimensions_m": {
+    "width": 0.860035,
+    "depth": 0.939909,
+    "height": 0.980018
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 2808,
+    "triangles": 5524,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0003-adirondack-cedar-seven-slat-fan-back-lounge-chair.usdz",
+  "preview": "previews/outdoor/seating/ods-0003-adirondack-cedar-seven-slat-fan-back-lounge-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0003-adirondack-cedar-seven-slat-fan-back-lounge-chair.usdz",
+  "file_size_bytes": 497021,
+  "sha256": "dd2395e4c0c3eb04e35b6844dd4e1e9df1889320da9788d9628f36a5506cf53f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

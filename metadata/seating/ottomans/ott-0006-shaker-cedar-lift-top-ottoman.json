@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0006",
+  "slug": "ott-0006-shaker-cedar-lift-top-ottoman",
+  "title": "Shaker Cedar Lift-Top Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "storage-convertible",
+    "shaker",
+    "cedar",
+    "lift-top",
+    "paneled"
+  ],
+  "dimensions_m": {
+    "width": 0.8,
+    "depth": 0.48,
+    "height": 0.47
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1176,
+    "triangles": 2316,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0006-shaker-cedar-lift-top-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0006-shaker-cedar-lift-top-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0006-shaker-cedar-lift-top-ottoman.usdz",
+  "file_size_bytes": 1358674,
+  "sha256": "73dcbf9a67933243a3c743e04109f071b047146a27d07554f94d13389b0869aa",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

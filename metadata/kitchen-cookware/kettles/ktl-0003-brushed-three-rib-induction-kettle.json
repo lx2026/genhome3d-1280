@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0003",
+  "slug": "ktl-0003-brushed-three-rib-induction-kettle",
+  "title": "Brushed Three-Rib Induction Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "whistling-stovetop-kettles",
+    "one complete standalone kettle assembly",
+    "one stepped brushed-steel body",
+    "exactly three circumferential ribs",
+    "exactly one trigger bridge handle",
+    "exactly one hinged whistle cap"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.21,
+    "height": 0.265
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 6340,
+    "triangles": 12600,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.usdz",
+  "file_size_bytes": 929173,
+  "sha256": "05390c5e1fb0ffd4b8d1ef020e46a54b9a6e901d8eac5fd8f9b8bea9bde23cbc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

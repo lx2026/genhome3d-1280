@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0008",
+  "slug": "tlp-0008-smoked-glass-mushroom-table-lamp",
+  "title": "Smoked-Glass Mushroom Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "contemporary-geometric",
+    "one complete freestanding tabletop lamp assembly",
+    "one round base",
+    "one central stem",
+    "one smoked-glass dome",
+    "one opal light core",
+    "one metal top cap"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1632,
+    "triangles": 3244,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.usdz",
+  "file_size_bytes": 468349,
+  "sha256": "2d4705dc26eea30b20ddc5320d591a688e1318ebec316a5d79df7d1a4cbbec75",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

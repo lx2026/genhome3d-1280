@@ -1,0 +1,56 @@
+{
+  "id": "ODS-0011",
+  "slug": "ods-0011-sage-aluminum-black-canvas-folding-director-chair",
+  "title": "Sage Aluminum Black-Canvas Folding Director Chair",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "compact-portable",
+    "one director chair",
+    "one canvas seat",
+    "one canvas back",
+    "two folding X side frames",
+    "four pivot discs",
+    "two arm caps"
+  ],
+  "dimensions_m": {
+    "width": 0.64,
+    "depth": 0.585759,
+    "height": 0.877596
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1904,
+    "triangles": 3760,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0011-sage-aluminum-black-canvas-folding-director-chair.usdz",
+  "preview": "previews/outdoor/seating/ods-0011-sage-aluminum-black-canvas-folding-director-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0011-sage-aluminum-black-canvas-folding-director-chair.usdz",
+  "file_size_bytes": 616945,
+  "sha256": "06cc12c909de75ea33dc29782e846b275ee919f1ad8a40458a8cef003b3f1c2a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

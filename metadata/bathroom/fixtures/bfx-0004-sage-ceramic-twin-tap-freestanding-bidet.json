@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0004",
+  "slug": "bfx-0004-sage-ceramic-twin-tap-freestanding-bidet",
+  "title": "Sage-Ceramic Twin-Tap Freestanding Bidet",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "sanitary-toilets",
+    "one complete freestanding bathroom-fixture assembly",
+    "one elongated bidet basin",
+    "one continuous pedestal skirt",
+    "exactly two cross-handle taps",
+    "one central rinse spout",
+    "one overflow opening",
+    "one drain recess"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.6,
+    "height": 0.44
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 9782,
+    "triangles": 19468,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.usdz",
+  "file_size_bytes": 1202641,
+  "sha256": "2f76bdec59559b4053870716eecb577ea9cebcaf4e96b9b41389a56f1011e8ae",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

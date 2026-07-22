@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0011",
+  "slug": "vny-0011-narrow-ash-ladder-frame-vanity",
+  "title": "Narrow Ash Ladder-Frame Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "compact-adaptive",
+    "ladder frame",
+    "one drawer",
+    "two shelves"
+  ],
+  "dimensions_m": {
+    "width": 0.719998,
+    "depth": 0.44,
+    "height": 1.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1200,
+    "triangles": 2360,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.usdz",
+  "file_size_bytes": 689438,
+  "sha256": "211d0a9bfbdb889341ff47130ec99f808488746666613a87ad8ea3e818710ac7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

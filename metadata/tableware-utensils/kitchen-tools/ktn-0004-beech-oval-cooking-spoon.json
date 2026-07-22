@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0004",
+  "slug": "ktn-0004-beech-oval-cooking-spoon",
+  "title": "Beech Oval Cooking Spoon",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "cooking-turning-tools",
+    "one complete standalone kitchen tool",
+    "one shallow oval spoon bowl",
+    "one tapered continuous neck",
+    "one open round hanging hole"
+  ],
+  "dimensions_m": {
+    "width": 0.33,
+    "depth": 0.075,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1290,
+    "triangles": 2572,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.usdz",
+  "file_size_bytes": 331175,
+  "sha256": "7be609c7081372787b74030ba4e967e8670b1b96be18656d03b7b29093bdddb8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

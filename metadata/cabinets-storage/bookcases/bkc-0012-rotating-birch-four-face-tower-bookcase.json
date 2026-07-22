@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0012",
+  "slug": "bkc-0012-rotating-birch-four-face-tower-bookcase",
+  "title": "Rotating Birch Four-Face Tower Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "compact-adaptive",
+    "rotating tower",
+    "twelve cubbies",
+    "four faces",
+    "pedestal"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.68,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1200,
+    "triangles": 2352,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0012-rotating-birch-four-face-tower-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0012-rotating-birch-four-face-tower-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0012-rotating-birch-four-face-tower-bookcase.usdz",
+  "file_size_bytes": 590900,
+  "sha256": "885eb92d73d21e0b9a9f264adeb764e7c3d3648eadcf5f7e285b8bb6dde507f3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0015",
+  "slug": "bac-0015-sage-three-hook-tripod-robe-valet",
+  "title": "Sage Three-Hook Tripod Robe Valet",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "towel-valets",
+    "one complete freestanding bathroom-accessory assembly",
+    "exactly three splayed base legs",
+    "one tall central mast",
+    "exactly three robe hooks",
+    "one top hub",
+    "one circular drip tray"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.28004,
+    "height": 1.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 3284,
+    "triangles": 6364,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0015-sage-three-hook-tripod-robe-valet.usdz",
+  "preview": "previews/bathroom/accessories/bac-0015-sage-three-hook-tripod-robe-valet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0015-sage-three-hook-tripod-robe-valet.usdz",
+  "file_size_bytes": 601653,
+  "sha256": "91f9eb04da3329da44019c92c4814ae9b2ba5c50f737a0eebf6213ce4ecf77db",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

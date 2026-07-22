@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0004",
+  "slug": "ods-0004-mediterranean-wrought-iron-four-rosette-garden-chair",
+  "title": "Mediterranean Wrought-Iron Four-Rosette Garden Chair",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "heritage-garden",
+    "one wrought-iron garden chair",
+    "four back rosettes",
+    "two scroll arms",
+    "one radial-slat seat",
+    "four curved legs"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.62,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 62,
+    "vertices": 24620,
+    "triangles": 48868,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0004-mediterranean-wrought-iron-four-rosette-garden-chair.usdz",
+  "preview": "previews/outdoor/seating/ods-0004-mediterranean-wrought-iron-four-rosette-garden-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0004-mediterranean-wrought-iron-four-rosette-garden-chair.usdz",
+  "file_size_bytes": 1110512,
+  "sha256": "7ce927fd46c61c1ef151930c84e3b0c61a495b18c868caa71574789588f58685",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

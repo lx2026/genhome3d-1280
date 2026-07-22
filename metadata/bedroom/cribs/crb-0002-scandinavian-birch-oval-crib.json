@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0002",
+  "slug": "crb-0002-scandinavian-birch-oval-crib",
+  "title": "Scandinavian Birch Oval Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "traditional-craft",
+    "scandinavian",
+    "birch",
+    "oval",
+    "splayed-legs"
+  ],
+  "dimensions_m": {
+    "width": 1.42,
+    "depth": 0.82,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 39,
+    "vertices": 16096,
+    "triangles": 32044,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0002-scandinavian-birch-oval-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0002-scandinavian-birch-oval-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0002-scandinavian-birch-oval-crib.usdz",
+  "file_size_bytes": 1388267,
+  "sha256": "e38083d75be66fa58656845397e30c010636f2a794d86560e60d13176872c3d2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

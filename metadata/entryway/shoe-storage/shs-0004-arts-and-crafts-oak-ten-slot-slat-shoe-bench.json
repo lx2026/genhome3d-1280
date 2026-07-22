@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0004",
+  "slug": "shs-0004-arts-and-crafts-oak-ten-slot-slat-shoe-bench",
+  "title": "Arts-and-Crafts Oak Ten-Slot Slat Shoe Bench",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "classic-bench",
+    "ten vertical slots",
+    "slatted bench seat",
+    "two trestle ends",
+    "rear stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.16,
+    "depth": 0.43,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 1656,
+    "triangles": 3228,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0004-arts-and-crafts-oak-ten-slot-slat-shoe-bench.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0004-arts-and-crafts-oak-ten-slot-slat-shoe-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0004-arts-and-crafts-oak-ten-slot-slat-shoe-bench.usdz",
+  "file_size_bytes": 483828,
+  "sha256": "444d9700875e5e8d0b033d56c5dd5b60abc65f34baa0bfbaf60dc18b7c3e080f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

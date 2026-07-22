@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0005",
+  "slug": "ott-0005-art-deco-channel-ottoman",
+  "title": "Art Deco Channel Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "compact-footstool",
+    "art-deco",
+    "channel",
+    "velvet",
+    "brass"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.45,
+    "height": 0.43
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2112,
+    "triangles": 4196,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0005-art-deco-channel-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0005-art-deco-channel-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0005-art-deco-channel-ottoman.usdz",
+  "file_size_bytes": 692717,
+  "sha256": "5293612a4849f573d074c21eb1fb9c917b8a3fca3b213465b8ebe2e2f8e511e3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "VAS-0014",
+  "slug": "vas-0014-travertine-four-chamfer-block-vase",
+  "title": "Travertine Four-Chamfer Block Vase",
+  "category": "decor",
+  "subcategory": "vases",
+  "category_path": "decor/vases",
+  "category_label": "Decor / Vases",
+  "tags": [
+    "decor vases",
+    "metal-stone-vessels",
+    "one complete freestanding decorative vase",
+    "one monolithic rectangular block body",
+    "exactly four clipped vertical corners",
+    "one cylindrical top bore",
+    "one stepped stone plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.28,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 1024,
+    "triangles": 2036,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/vases/vas-0014-travertine-four-chamfer-block-vase.usdz",
+  "preview": "previews/decor/vases/vas-0014-travertine-four-chamfer-block-vase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0014-travertine-four-chamfer-block-vase.usdz",
+  "file_size_bytes": 586440,
+  "sha256": "37fec476392e41ec2571a1fb42b1949bd536d2a878fe142784c434383fb4376d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0015",
+  "slug": "bfx-0015-hammered-copper-bateau-cradle-bathtub",
+  "title": "Hammered-Copper Bateau Cradle Bathtub",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "baths-soaking",
+    "one complete freestanding bathroom-fixture assembly",
+    "one boat-shaped tub shell",
+    "exactly two flared high ends",
+    "one continuous rolled rim",
+    "one dark curved cradle base",
+    "exactly two exterior reinforcement bands",
+    "one centered drain recess"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.78,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 21232,
+    "triangles": 42456,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0015-hammered-copper-bateau-cradle-bathtub.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0015-hammered-copper-bateau-cradle-bathtub.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0015-hammered-copper-bateau-cradle-bathtub.usdz",
+  "file_size_bytes": 2400450,
+  "sha256": "54fc36a890d5329e35345defaea17164d755af799d3b461d0be57e23df23db7a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

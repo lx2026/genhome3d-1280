@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0010",
+  "slug": "bfx-0010-hammered-copper-bowl-tripod-washstand",
+  "title": "Hammered-Copper Bowl Tripod Washstand",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "basins-washstands",
+    "one complete freestanding bathroom-fixture assembly",
+    "one round vessel bowl",
+    "exactly three splayed steel legs",
+    "one circular support ring",
+    "one rear arched faucet",
+    "one triangular lower shelf",
+    "one centered drain recess"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.48,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 16110,
+    "triangles": 32132,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0010-hammered-copper-bowl-tripod-washstand.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0010-hammered-copper-bowl-tripod-washstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0010-hammered-copper-bowl-tripod-washstand.usdz",
+  "file_size_bytes": 1891170,
+  "sha256": "a43373894f5dd454e7bd1732ebcaa04d01cef7c9281f554c9d24f829c347d6e7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

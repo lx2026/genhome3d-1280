@@ -1,0 +1,56 @@
+{
+  "id": "OST-0002",
+  "slug": "ost-0002-cedar-twelve-louver-double-door-garden-tool-cabinet",
+  "title": "Cedar Twelve-Louver Double-Door Garden Tool Cabinet",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "heritage-utility",
+    "one garden tool cabinet",
+    "two doors",
+    "twelve total louvers",
+    "three internal shelves",
+    "one shallow gabled cap",
+    "four legs"
+  ],
+  "dimensions_m": {
+    "width": 0.98,
+    "depth": 0.56,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 2368,
+    "triangles": 4640,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0002-cedar-twelve-louver-double-door-garden-tool-cabinet.usdz",
+  "preview": "previews/outdoor/storage/ost-0002-cedar-twelve-louver-double-door-garden-tool-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0002-cedar-twelve-louver-double-door-garden-tool-cabinet.usdz",
+  "file_size_bytes": 507442,
+  "sha256": "226b82d0f15719806e09fce8f2bb8f5c08a3f9aede7e92d2108b45c00ee7427b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

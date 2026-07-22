@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0015",
+  "slug": "tsk-0015-smoked-glass-low-profile-pivot-disc-task-light",
+  "title": "Smoked-Glass Low-Profile Pivot-Disc Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "compact-residential",
+    "one complete freestanding desktop task-light assembly",
+    "one weighted disc base",
+    "one short fork with exactly two prongs",
+    "one pivoting smoked-glass disc head",
+    "one circular opal lens",
+    "one side pin"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.24,
+    "height": 0.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1680,
+    "triangles": 3336,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.usdz",
+  "file_size_bytes": 461998,
+  "sha256": "bee7999c32c9c6a9b5a261f885ae71d5a376e68fb80b4a88f1296aa5e7a6041e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

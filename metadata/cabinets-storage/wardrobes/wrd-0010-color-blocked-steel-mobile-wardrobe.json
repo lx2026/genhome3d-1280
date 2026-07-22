@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0010",
+  "slug": "wrd-0010-color-blocked-steel-mobile-wardrobe",
+  "title": "Color-Blocked Steel Mobile Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "modern-utility",
+    "color blocked",
+    "two doors",
+    "four drawers",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.58,
+    "height": 1.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 2456,
+    "triangles": 4828,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0010-color-blocked-steel-mobile-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0010-color-blocked-steel-mobile-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0010-color-blocked-steel-mobile-wardrobe.usdz",
+  "file_size_bytes": 1211132,
+  "sha256": "0a58eafd50f6264b91a9f45015d16c59066c15841543bb43445ad4f1115d04cb",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

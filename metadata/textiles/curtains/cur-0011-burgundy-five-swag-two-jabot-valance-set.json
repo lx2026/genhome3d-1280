@@ -1,0 +1,54 @@
+{
+  "id": "CUR-0011",
+  "slug": "cur-0011-burgundy-five-swag-two-jabot-valance-set",
+  "title": "Burgundy Five-Swag Two-Jabot Valance Set",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "decorative-valance-curtains",
+    "one complete standalone curtain assembly",
+    "exactly five graduated swags",
+    "exactly two side jabots",
+    "one hidden support rail"
+  ],
+  "dimensions_m": {
+    "width": 2.0,
+    "depth": 0.25,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 4636,
+    "triangles": 8460,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0011-burgundy-five-swag-two-jabot-valance-set.usdz",
+  "preview": "previews/textiles/curtains/cur-0011-burgundy-five-swag-two-jabot-valance-set.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0011-burgundy-five-swag-two-jabot-valance-set.usdz",
+  "file_size_bytes": 1097190,
+  "sha256": "552e7faa0031ce6e9dfea5bb5cc8922283b902965005d69ad83fd4030b2244fe",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

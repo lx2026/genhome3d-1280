@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0002",
+  "slug": "tsk-0002-forest-green-enamel-s-gooseneck-workshop-task-light",
+  "title": "Forest-Green Enamel S-Gooseneck Workshop Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "heritage-industrial",
+    "one complete freestanding desktop task-light assembly",
+    "one round cast base",
+    "exactly one S-curved gooseneck",
+    "one enamel dome shade",
+    "one white underside lens",
+    "one side toggle"
+  ],
+  "dimensions_m": {
+    "width": 0.319999,
+    "depth": 0.24,
+    "height": 0.480001
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 2158,
+    "triangles": 4248,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0002-forest-green-enamel-s-gooseneck-workshop-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0002-forest-green-enamel-s-gooseneck-workshop-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0002-forest-green-enamel-s-gooseneck-workshop-task-light.usdz",
+  "file_size_bytes": 542716,
+  "sha256": "26193e8b9cc7298eb1ca92d98d28763252ba5bb414687ba7c74582b6c400f9ab",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

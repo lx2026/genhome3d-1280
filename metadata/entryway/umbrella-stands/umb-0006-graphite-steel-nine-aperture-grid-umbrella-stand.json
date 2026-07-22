@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0006",
+  "slug": "umb-0006-graphite-steel-nine-aperture-grid-umbrella-stand",
+  "title": "Graphite-Steel Nine-Aperture Grid Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "modern-drainage",
+    "nine apertures",
+    "three by three grid",
+    "ribbed drainage tray",
+    "four rubber glides"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.34,
+    "height": 0.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 37,
+    "vertices": 32024,
+    "triangles": 63936,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0006-graphite-steel-nine-aperture-grid-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0006-graphite-steel-nine-aperture-grid-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0006-graphite-steel-nine-aperture-grid-umbrella-stand.usdz",
+  "file_size_bytes": 2180777,
+  "sha256": "0a8433fab6fc1c0e2537267a3d536adf4da92840d7de2a63ea75b40ceed85fb1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0016",
+  "slug": "bac-0016-natural-teak-seven-slat-bath-bridge",
+  "title": "Natural-Teak Seven-Slat Bath Bridge",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "bathing-organization",
+    "one complete freestanding bathroom-accessory assembly",
+    "exactly two end rails",
+    "exactly seven transverse top slats",
+    "one recessed soap cup",
+    "exactly two side handles",
+    "exactly four underside stops"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.22,
+    "height": 0.08
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2984,
+    "triangles": 5904,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0016-natural-teak-seven-slat-bath-bridge.usdz",
+  "preview": "previews/bathroom/accessories/bac-0016-natural-teak-seven-slat-bath-bridge.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0016-natural-teak-seven-slat-bath-bridge.usdz",
+  "file_size_bytes": 586534,
+  "sha256": "4ddaa22937de6fcbaf8f9e4a7554db9c91a16b094b8b7627ec43c382f3805de1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

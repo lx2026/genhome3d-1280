@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0006",
+  "slug": "ktb-0006-scandinavian-birch-hexagonal-six-place-learning-table",
+  "title": "Scandinavian Birch Hexagonal Six-Place Learning Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "modern-learning",
+    "hexagonal learning top",
+    "six seating edges",
+    "six tapered legs",
+    "recessed hexagonal shelf"
+  ],
+  "dimensions_m": {
+    "width": 0.96,
+    "depth": 0.84,
+    "height": 0.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 864,
+    "triangles": 1696,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0006-scandinavian-birch-hexagonal-six-place-learning-table.usdz",
+  "preview": "previews/kids/tables/ktb-0006-scandinavian-birch-hexagonal-six-place-learning-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0006-scandinavian-birch-hexagonal-six-place-learning-table.usdz",
+  "file_size_bytes": 434367,
+  "sha256": "8e31d3a91b4f7af4eae07c5d899ff53358aac87af9a861cd4f9f736a95ca1c3c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

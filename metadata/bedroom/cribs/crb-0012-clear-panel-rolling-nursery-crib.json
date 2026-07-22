@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0012",
+  "slug": "crb-0012-clear-panel-rolling-nursery-crib",
+  "title": "Clear-Panel Rolling Nursery Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "compact-mobile",
+    "nursery",
+    "clear-panels",
+    "rolling",
+    "under-basket"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.67,
+    "height": 1.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 3256,
+    "triangles": 6408,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.usdz",
+  "file_size_bytes": 1085134,
+  "sha256": "c7ae01dea9e97403ff086aeaee255d18ea23ab94c44bd13c5adaee6c63fbac56",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

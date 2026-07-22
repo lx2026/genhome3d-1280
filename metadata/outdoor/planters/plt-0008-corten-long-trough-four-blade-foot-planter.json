@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0008",
+  "slug": "plt-0008-corten-long-trough-four-blade-foot-planter",
+  "title": "Corten Long-Trough Four-Blade-Foot Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "modern-architectural",
+    "one long trough",
+    "one folded rim",
+    "four blade feet",
+    "two end drainage slots"
+  ],
+  "dimensions_m": {
+    "width": 1.3,
+    "depth": 0.52,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 992,
+    "triangles": 1944,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0008-corten-long-trough-four-blade-foot-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0008-corten-long-trough-four-blade-foot-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0008-corten-long-trough-four-blade-foot-planter.usdz",
+  "file_size_bytes": 137112,
+  "sha256": "9e08b04e2feb76ee1c2d25aa68efb12653797d0b08ca2088c79610489ad923e7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

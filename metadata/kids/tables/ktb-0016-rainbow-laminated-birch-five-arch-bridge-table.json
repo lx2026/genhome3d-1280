@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0016",
+  "slug": "ktb-0016-rainbow-laminated-birch-five-arch-bridge-table",
+  "title": "Rainbow Laminated-Birch Five-Arch Bridge Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "sculptural-specialty",
+    "bridge activity table",
+    "five parallel laminated arch ribs",
+    "five muted color bands",
+    "two floor runners"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.58,
+    "height": 0.54
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 73,
+    "vertices": 7624,
+    "triangles": 14956,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0016-rainbow-laminated-birch-five-arch-bridge-table.usdz",
+  "preview": "previews/kids/tables/ktb-0016-rainbow-laminated-birch-five-arch-bridge-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0016-rainbow-laminated-birch-five-arch-bridge-table.usdz",
+  "file_size_bytes": 1347064,
+  "sha256": "761be5e523bf91b52e2f9e824b407cd5f09fc7e3d74c7b40781d780d18e2dc62",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

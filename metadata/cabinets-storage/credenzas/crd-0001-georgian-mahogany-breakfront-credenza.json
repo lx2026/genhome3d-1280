@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0001",
+  "slug": "crd-0001-georgian-mahogany-breakfront-credenza",
+  "title": "Georgian Mahogany Breakfront Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "classic-heritage",
+    "georgian",
+    "three drawers",
+    "four paneled doors",
+    "six spade feet"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.48,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 38,
+    "vertices": 3576,
+    "triangles": 7000,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0001-georgian-mahogany-breakfront-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0001-georgian-mahogany-breakfront-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0001-georgian-mahogany-breakfront-credenza.usdz",
+  "file_size_bytes": 846408,
+  "sha256": "1973582215b3a2bb531d6d36baccc7a55679656fb514ae8b7b8dfe92fd2eb3a3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BST-0012",
+  "slug": "bst-0012-white-arched-three-tier-over-fixture-etagere",
+  "title": "White Arched Three-Tier Over-Fixture Etagere",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "open-shelving/etageres",
+    "one complete freestanding bathroom-storage assembly",
+    "one tall arched freestanding frame",
+    "exactly three upper storage shelves",
+    "one large open lower bay",
+    "exactly two floor-standing side rails",
+    "one arched top rail",
+    "exactly two rear stabilizer bars"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.3,
+    "height": 1.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 3508,
+    "triangles": 6936,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0012-white-arched-three-tier-over-fixture-etagere.usdz",
+  "preview": "previews/bathroom/storage/bst-0012-white-arched-three-tier-over-fixture-etagere.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0012-white-arched-three-tier-over-fixture-etagere.usdz",
+  "file_size_bytes": 632368,
+  "sha256": "41985b98416de23947fcf10b75c92f2355cf024e9f421fedc2b53cc8514f88ed",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

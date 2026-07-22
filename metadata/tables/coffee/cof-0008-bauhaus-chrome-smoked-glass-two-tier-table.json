@@ -1,0 +1,54 @@
+{
+  "id": "COF-0008",
+  "slug": "cof-0008-bauhaus-chrome-smoked-glass-two-tier-table",
+  "title": "Bauhaus Chrome Smoked-Glass Two-Tier Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "modern-residential",
+    "bauhaus",
+    "smoked-glass",
+    "two-tier",
+    "tubular-frame"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.62,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 2392,
+    "triangles": 4664,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.usdz",
+  "preview": "previews/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.usdz",
+  "file_size_bytes": 678680,
+  "sha256": "1350cfe0feeffc206534cbde2fd57cd46bfdcaff234d3e15e29d35768ec16421",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

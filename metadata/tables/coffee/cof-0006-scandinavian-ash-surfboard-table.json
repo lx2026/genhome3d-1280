@@ -1,0 +1,54 @@
+{
+  "id": "COF-0006",
+  "slug": "cof-0006-scandinavian-ash-surfboard-table",
+  "title": "Scandinavian Ash Surfboard Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "modern-residential",
+    "scandinavian",
+    "surfboard-top",
+    "splayed-legs",
+    "soft-edge"
+  ],
+  "dimensions_m": {
+    "width": 1.25,
+    "depth": 0.58,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 784,
+    "triangles": 1548,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0006-scandinavian-ash-surfboard-table.usdz",
+  "preview": "previews/tables/coffee/cof-0006-scandinavian-ash-surfboard-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0006-scandinavian-ash-surfboard-table.usdz",
+  "file_size_bytes": 467979,
+  "sha256": "00c3e5900761283bfeaa00403810eb890e9f69081f302ee8548f8da3a1bf77b9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

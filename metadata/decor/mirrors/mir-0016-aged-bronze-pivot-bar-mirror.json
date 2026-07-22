@@ -1,0 +1,56 @@
+{
+  "id": "MIR-0016",
+  "slug": "mir-0016-aged-bronze-pivot-bar-mirror",
+  "title": "Aged-Bronze Pivot-Bar Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "architectural-utility-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one tall rectangular mirror panel",
+    "one slim bronze carrier frame",
+    "exactly two side pivot pins",
+    "exactly two wall brackets",
+    "one lower stabilizer bar"
+  ],
+  "dimensions_m": {
+    "width": 0.64,
+    "depth": 0.16,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1536,
+    "triangles": 3028,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.usdz",
+  "file_size_bytes": 626524,
+  "sha256": "67527972d8b331bc31781a56a8688c4031b6ea817d04ef2f35b0115c4f57d9b2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0009",
+  "slug": "bfx-0009-natural-oak-double-basin-open-washstand",
+  "title": "Natural-Oak Double-Basin Open Washstand",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "basins-washstands",
+    "one complete freestanding bathroom-fixture assembly",
+    "one long stone counter",
+    "exactly two inset basins",
+    "exactly two arched faucets",
+    "exactly four square legs",
+    "one lower stretcher frame",
+    "one rear splash rail"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.5,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2816,
+    "triangles": 5472,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0009-natural-oak-double-basin-open-washstand.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0009-natural-oak-double-basin-open-washstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0009-natural-oak-double-basin-open-washstand.usdz",
+  "file_size_bytes": 1488205,
+  "sha256": "6d00c7ed20948e3426d6ee149da9c274f31b851148e49837a2ab43178426a5d1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

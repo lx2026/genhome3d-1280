@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0008",
+  "slug": "sof-0008-french-cabriole-camelback-sofa",
+  "title": "French Cabriole Camelback Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "classic-upholstered",
+    "french",
+    "camelback",
+    "cabriole",
+    "oak"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.88,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2408,
+    "triangles": 4484,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0008-french-cabriole-camelback-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0008-french-cabriole-camelback-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0008-french-cabriole-camelback-sofa.usdz",
+  "file_size_bytes": 1287669,
+  "sha256": "6edcf76751fc528bdb9ae50ae9faf6139774caece25d0dc39f161dbcc6655d3a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

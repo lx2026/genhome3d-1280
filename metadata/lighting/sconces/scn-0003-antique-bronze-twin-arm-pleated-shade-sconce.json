@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0003",
+  "slug": "scn-0003-antique-bronze-twin-arm-pleated-shade-sconce",
+  "title": "Antique-Bronze Twin-Arm Pleated-Shade Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "heritage-ornamental",
+    "one complete wall-mounted sconce light assembly",
+    "one shield wall plate",
+    "exactly two curved arms",
+    "exactly two candle sockets",
+    "exactly two pleated fabric shades",
+    "one lower drop finial"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.24,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 6912,
+    "triangles": 13404,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.usdz",
+  "file_size_bytes": 1012515,
+  "sha256": "41a1268513bc8015173462a153f81aa6177cb7656cdd1f9fce736283590c3072",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

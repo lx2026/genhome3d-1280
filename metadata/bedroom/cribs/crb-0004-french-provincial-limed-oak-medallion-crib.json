@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0004",
+  "slug": "crb-0004-french-provincial-limed-oak-medallion-crib",
+  "title": "French Provincial Limed-Oak Medallion Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "traditional-craft",
+    "french-provincial",
+    "limed-oak",
+    "medallion-ends",
+    "cabriole-feet"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.84,
+    "height": 1.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 55,
+    "vertices": 27016,
+    "triangles": 53540,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0004-french-provincial-limed-oak-medallion-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0004-french-provincial-limed-oak-medallion-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0004-french-provincial-limed-oak-medallion-crib.usdz",
+  "file_size_bytes": 2168931,
+  "sha256": "ee14a2fd701bb1fa45ee77f2d1b329c227dfb7ffe8f789a04c2f9cdce9b9fc8f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

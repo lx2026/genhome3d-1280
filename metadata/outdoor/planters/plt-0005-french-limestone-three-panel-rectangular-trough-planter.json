@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0005",
+  "slug": "plt-0005-french-limestone-three-panel-rectangular-trough-planter",
+  "title": "French Limestone Three-Panel Rectangular Trough Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "heritage-craft",
+    "one rectangular trough",
+    "three recessed front panels",
+    "one continuous coping rim",
+    "two block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.52,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1448,
+    "triangles": 2860,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0005-french-limestone-three-panel-rectangular-trough-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0005-french-limestone-three-panel-rectangular-trough-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0005-french-limestone-three-panel-rectangular-trough-planter.usdz",
+  "file_size_bytes": 261140,
+  "sha256": "c7ae38fb9b6d529bcfa4a06364f825de611355e031af70dc994a75906c421c3e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

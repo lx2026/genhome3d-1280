@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0008",
+  "slug": "shs-0008-white-lacquer-six-shelf-perforated-door-shoe-console",
+  "title": "White-Lacquer Six-Shelf Perforated-Door Shoe Console",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "modern-cabinet",
+    "two sliding doors",
+    "six shelves",
+    "perforated fronts",
+    "two sled supports"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.38,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 80,
+    "vertices": 14944,
+    "triangles": 29568,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0008-white-lacquer-six-shelf-perforated-door-shoe-console.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0008-white-lacquer-six-shelf-perforated-door-shoe-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0008-white-lacquer-six-shelf-perforated-door-shoe-console.usdz",
+  "file_size_bytes": 359106,
+  "sha256": "eac670505cd1d931c88a782e030070d3655e3175e081344b4f25822d1f2c6fc3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

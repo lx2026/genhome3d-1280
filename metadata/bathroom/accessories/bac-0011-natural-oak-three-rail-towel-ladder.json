@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0011",
+  "slug": "bac-0011-natural-oak-three-rail-towel-ladder",
+  "title": "Natural-Oak Three-Rail Towel Ladder",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "towel-valets",
+    "one complete freestanding bathroom-accessory assembly",
+    "exactly two angled uprights",
+    "exactly three horizontal towel rails",
+    "exactly two floor feet",
+    "exactly two top pegs",
+    "one lower stabilizer bar"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.24,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1912,
+    "triangles": 3776,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.usdz",
+  "preview": "previews/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.usdz",
+  "file_size_bytes": 467537,
+  "sha256": "88498b6f12698be8cc0619fa86f0d36b559f521d94272ec2c72de49b76dbb4b6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0009",
+  "slug": "bak-0009-silver-twenty-flute-rectangular-tart-pan",
+  "title": "Silver Twenty-Flute Rectangular Tart Pan",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "cake-loaf-and-tart-molds",
+    "one complete standalone bakeware assembly",
+    "one rectangular tart pan",
+    "exactly twenty broad perimeter flutes",
+    "exactly one removable base panel",
+    "one continuous upper lip"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.24,
+    "height": 0.035
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 50,
+    "vertices": 7264,
+    "triangles": 14344,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0009-silver-twenty-flute-rectangular-tart-pan.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0009-silver-twenty-flute-rectangular-tart-pan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0009-silver-twenty-flute-rectangular-tart-pan.usdz",
+  "file_size_bytes": 644586,
+  "sha256": "34c9dba5051b09f9f7dde861616fe88fee81d95107d233d8f4c57a71aa7ae9ad",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

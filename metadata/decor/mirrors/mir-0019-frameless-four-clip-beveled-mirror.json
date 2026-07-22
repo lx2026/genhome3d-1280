@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0019",
+  "slug": "mir-0019-frameless-four-clip-beveled-mirror",
+  "title": "Frameless Four-Clip Beveled Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "architectural-utility-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one frameless rectangular mirror panel",
+    "one broad beveled perimeter band",
+    "exactly four brushed-nickel corner clips",
+    "exactly four concealed rear pads"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.05,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1344,
+    "triangles": 2648,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.usdz",
+  "file_size_bytes": 862945,
+  "sha256": "55fc449ca4f91257c05de4e03d1921cd29ad1e5c443bb36565a92dae8f8b70ae",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

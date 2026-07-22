@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0016",
+  "slug": "dsk-0016-oak-drum-crescent-desk",
+  "title": "Oak Drum Crescent Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "sculptural-specialty",
+    "crescent top",
+    "drum pedestal",
+    "two curved drawers",
+    "curved fin support"
+  ],
+  "dimensions_m": {
+    "width": 1.45,
+    "depth": 0.9,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2816,
+    "triangles": 5504,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0016-oak-drum-crescent-desk.usdz",
+  "preview": "previews/office/desks/dsk-0016-oak-drum-crescent-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0016-oak-drum-crescent-desk.usdz",
+  "file_size_bytes": 700956,
+  "sha256": "baf5b6445a5e740b7a131ca2e8006f5b1e63b5856c46ad4eb2de0385d2a1e1c4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

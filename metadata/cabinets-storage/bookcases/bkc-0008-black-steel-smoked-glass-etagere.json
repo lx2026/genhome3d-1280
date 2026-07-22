@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0008",
+  "slug": "bkc-0008-black-steel-smoked-glass-etagere",
+  "title": "Black-Steel Smoked-Glass Etagere",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "modern-modular",
+    "etagere",
+    "five glass shelves",
+    "x-brace",
+    "black steel"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.38,
+    "height": 2.0
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1248,
+    "triangles": 2452,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0008-black-steel-smoked-glass-etagere.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0008-black-steel-smoked-glass-etagere.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0008-black-steel-smoked-glass-etagere.usdz",
+  "file_size_bytes": 233061,
+  "sha256": "37d6a2b32cb45eec5f5db8b9a7143e43eea38205b5e035971ed897392de84f9e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

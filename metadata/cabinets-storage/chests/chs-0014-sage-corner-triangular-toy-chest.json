@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0014",
+  "slug": "chs-0014-sage-corner-triangular-toy-chest",
+  "title": "Sage Corner Triangular Toy Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "compact-adaptive",
+    "corner chest",
+    "triangular lid",
+    "two side cubbies",
+    "three feet"
+  ],
+  "dimensions_m": {
+    "width": 0.8,
+    "depth": 0.8,
+    "height": 0.65
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1120,
+    "triangles": 2212,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0014-sage-corner-triangular-toy-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0014-sage-corner-triangular-toy-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0014-sage-corner-triangular-toy-chest.usdz",
+  "file_size_bytes": 498901,
+  "sha256": "9b8d6b839d9abf8b9e6932bfc26b464985791fe796bbe1d7223c69e93cd5c91d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

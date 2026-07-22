@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0020",
+  "slug": "ktb-0020-brutalist-cork-and-steel-six-fin-communal-table",
+  "title": "Brutalist Cork-and-Steel Six-Fin Communal Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "sculptural-specialty",
+    "brutalist communal table",
+    "thick cork slab",
+    "six black-steel fins",
+    "two folded floor rails"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.62,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1640,
+    "triangles": 3228,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0020-brutalist-cork-and-steel-six-fin-communal-table.usdz",
+  "preview": "previews/kids/tables/ktb-0020-brutalist-cork-and-steel-six-fin-communal-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0020-brutalist-cork-and-steel-six-fin-communal-table.usdz",
+  "file_size_bytes": 457191,
+  "sha256": "d35fa002944e0a832e357b074ac2c68affc37179dbb31e012dcfc4351e0c081f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

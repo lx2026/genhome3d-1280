@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0006",
+  "slug": "ktn-0006-eight-wire-balloon-whisk",
+  "title": "Eight-Wire Balloon Whisk",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "mixing-draining-tools",
+    "one complete standalone kitchen tool",
+    "exactly eight open looped wires",
+    "one stainless collar",
+    "one black cylindrical handle"
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.07,
+    "height": 0.045
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 5976,
+    "triangles": 11944,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0006-eight-wire-balloon-whisk.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0006-eight-wire-balloon-whisk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0006-eight-wire-balloon-whisk.usdz",
+  "file_size_bytes": 841672,
+  "sha256": "c2802accff63816401971f08b4e86885dd9da9dadca416667c14e2cae2fa4831",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

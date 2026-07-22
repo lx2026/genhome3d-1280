@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0001",
+  "slug": "chd-0001-warm-brass-eight-arm-candle-chandelier",
+  "title": "Warm-Brass Eight-Arm Candle Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "heritage-ornamental",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly eight curved arms",
+    "eight candle cups",
+    "eight ivory sleeves",
+    "eight flame-tip bulbs",
+    "one chain and one round canopy"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 1.1,
+    "height": 1.18
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 40,
+    "vertices": 10090,
+    "triangles": 19656,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.usdz",
+  "file_size_bytes": 846113,
+  "sha256": "023276d1514d7ab5cf42a140c9e9210ecf49ec5f013cb7c3e3fc4b53b1a073e3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

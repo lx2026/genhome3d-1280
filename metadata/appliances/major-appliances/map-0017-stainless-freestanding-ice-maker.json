@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0017",
+  "slug": "map-0017-stainless-freestanding-ice-maker",
+  "title": "Stainless Freestanding Ice Maker",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "utility-and-specialty-appliances",
+    "one complete standalone major appliance",
+    "one narrow ice maker with one upper pull-down door, one horizontal handle, one lower condenser vent, and four leveling feet."
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.61,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2344,
+    "triangles": 4624,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.usdz",
+  "preview": "previews/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.usdz",
+  "file_size_bytes": 597737,
+  "sha256": "0559452f2a3bf8f9dd799043e82e3a0a3bf66ea15bcd3df1f68a11500a89253d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

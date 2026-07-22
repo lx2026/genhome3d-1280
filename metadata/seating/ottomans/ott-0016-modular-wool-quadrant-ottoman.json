@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0016",
+  "slug": "ott-0016-modular-wool-quadrant-ottoman",
+  "title": "Modular Wool Quadrant Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "modular-architectural",
+    "quadrant",
+    "wool",
+    "platform",
+    "modular"
+  ],
+  "dimensions_m": {
+    "width": 1.05,
+    "depth": 0.9,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 576,
+    "triangles": 1140,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.usdz",
+  "file_size_bytes": 568784,
+  "sha256": "17e49a35441131d4f903629724cd8bee43c50dd09b0b3064e726d56fd9af61b9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

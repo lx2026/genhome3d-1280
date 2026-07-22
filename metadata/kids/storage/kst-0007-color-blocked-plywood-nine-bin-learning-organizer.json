@@ -1,0 +1,54 @@
+{
+  "id": "KST-0007",
+  "slug": "kst-0007-color-blocked-plywood-nine-bin-learning-organizer",
+  "title": "Color-Blocked Plywood Nine-Bin Learning Organizer",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "modern-learning",
+    "nine fixed tilted bins",
+    "three-by-three grid",
+    "three color bands",
+    "two wedge side panels"
+  ],
+  "dimensions_m": {
+    "width": 0.96,
+    "depth": 0.420001,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 48,
+    "vertices": 5008,
+    "triangles": 9824,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0007-color-blocked-plywood-nine-bin-learning-organizer.usdz",
+  "preview": "previews/kids/storage/kst-0007-color-blocked-plywood-nine-bin-learning-organizer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0007-color-blocked-plywood-nine-bin-learning-organizer.usdz",
+  "file_size_bytes": 932727,
+  "sha256": "494e570986cfe35c4baaaa891d971b49bc047610ae112339f02864fd5ad86443",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

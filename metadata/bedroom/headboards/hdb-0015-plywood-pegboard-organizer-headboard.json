@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0015",
+  "slug": "hdb-0015-plywood-pegboard-organizer-headboard",
+  "title": "Plywood Pegboard Organizer Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "storage-integrated",
+    "plywood",
+    "pegboard",
+    "organizer",
+    "twin"
+  ],
+  "dimensions_m": {
+    "width": 1.16,
+    "depth": 0.18,
+    "height": 1.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 67,
+    "vertices": 14424,
+    "triangles": 28580,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.usdz",
+  "file_size_bytes": 542131,
+  "sha256": "d352e1cd2ac401d1e448452e5feffa0d7b9b73f33e8ec85f9169ad91fdc1d159",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0011",
+  "slug": "plt-0011-sage-enamel-two-hook-balcony-rail-planter",
+  "title": "Sage-Enamel Two-Hook Balcony Rail Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "compact-raised",
+    "one rounded rectangular trough",
+    "two rail hooks",
+    "one lower brace",
+    "two closed end caps"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.36,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1560,
+    "triangles": 3004,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0011-sage-enamel-two-hook-balcony-rail-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0011-sage-enamel-two-hook-balcony-rail-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0011-sage-enamel-two-hook-balcony-rail-planter.usdz",
+  "file_size_bytes": 145200,
+  "sha256": "ff3ccd8599ba0413b5e78c2f253778a143e18e5521a5f1a69ab46cc7cd67cccc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

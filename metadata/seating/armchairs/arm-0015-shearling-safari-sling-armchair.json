@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0015",
+  "slug": "arm-0015-shearling-safari-sling-armchair",
+  "title": "Shearling Safari Sling Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "lounge",
+    "safari",
+    "oak",
+    "shearling",
+    "knock-down"
+  ],
+  "dimensions_m": {
+    "width": 0.840007,
+    "depth": 0.939964,
+    "height": 0.850009
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1904,
+    "triangles": 3748,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0015-shearling-safari-sling-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0015-shearling-safari-sling-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0015-shearling-safari-sling-armchair.usdz",
+  "file_size_bytes": 1706949,
+  "sha256": "8c315155905900c1d0c646e9f91546e19cf14374c1efccf09814c0a6af93077c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

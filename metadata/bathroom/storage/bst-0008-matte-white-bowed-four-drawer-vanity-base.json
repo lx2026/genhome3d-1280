@@ -1,0 +1,57 @@
+{
+  "id": "BST-0008",
+  "slug": "bst-0008-matte-white-bowed-four-drawer-vanity-base",
+  "title": "Matte-White Bowed Four-Drawer Vanity Base",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "vanity-base-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one bowed-front cabinet body",
+    "exactly four curved-front drawers",
+    "exactly four small dark pulls",
+    "one matching bowed top slab",
+    "one continuous curved toe kick",
+    "two rounded side cheeks"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.55,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 3024,
+    "triangles": 6000,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0008-matte-white-bowed-four-drawer-vanity-base.usdz",
+  "preview": "previews/bathroom/storage/bst-0008-matte-white-bowed-four-drawer-vanity-base.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0008-matte-white-bowed-four-drawer-vanity-base.usdz",
+  "file_size_bytes": 496966,
+  "sha256": "7f0e934a5fd19bf64a9c22a831f8f318881a94292954fb032eacfaefcb51ca3d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

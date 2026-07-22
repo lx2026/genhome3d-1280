@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0001",
+  "slug": "odt-0001-teak-twelve-slat-trestle-garden-dining-table",
+  "title": "Teak Twelve-Slat Trestle Garden Dining Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "heritage-garden",
+    "one rectangular garden dining table",
+    "twelve top slats",
+    "two trestle ends",
+    "one longitudinal stretcher",
+    "four splayed feet"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.92,
+    "height": 0.760002
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 2248,
+    "triangles": 4420,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0001-teak-twelve-slat-trestle-garden-dining-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0001-teak-twelve-slat-trestle-garden-dining-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0001-teak-twelve-slat-trestle-garden-dining-table.usdz",
+  "file_size_bytes": 463972,
+  "sha256": "209a9985fef8ab8310925d7e64ad99c6597ce982318ca3f869b462c0733c7ecf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

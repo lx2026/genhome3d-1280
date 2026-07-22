@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0020",
+  "slug": "mat-0020-round-luxury-platform-mattress",
+  "title": "Round Luxury Platform Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foldable-alternative",
+    "round",
+    "radial quilting"
+  ],
+  "dimensions_m": {
+    "width": 2.1,
+    "depth": 2.1,
+    "height": 0.26
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 80,
+    "vertices": 20144,
+    "triangles": 38052,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.usdz",
+  "file_size_bytes": 2040010,
+  "sha256": "3e00d7fdc68425fb74f1ec5d387a987563c2ddf35dfd5eb4ca2620fae4e32e4a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0019",
+  "slug": "arm-0019-modular-wool-lounge-armchair",
+  "title": "Modular Wool Lounge Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "oversized",
+    "modular",
+    "wool",
+    "aluminum-base",
+    "segmented"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.96,
+    "height": 0.79
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1496,
+    "triangles": 2968,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0019-modular-wool-lounge-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0019-modular-wool-lounge-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0019-modular-wool-lounge-armchair.usdz",
+  "file_size_bytes": 747447,
+  "sha256": "bfe6dd53dc1ffb092e5ec3336ed99b2e64bb653be604c5730d257166139f001e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "STL-0016",
+  "slug": "stl-0016-brutalist-concrete-stool",
+  "title": "Brutalist Concrete Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "architectural-outdoor",
+    "brutalist",
+    "concrete",
+    "inverted-u",
+    "monolithic"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.4,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 456,
+    "triangles": 900,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0016-brutalist-concrete-stool.usdz",
+  "preview": "previews/seating/stools/stl-0016-brutalist-concrete-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0016-brutalist-concrete-stool.usdz",
+  "file_size_bytes": 391288,
+  "sha256": "be4d6f8324dcbd3fec126b294fee1fc77efaceafb554660f0624883c245c7808",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "TSK-0001",
+  "slug": "tsk-0001-aged-brass-twin-strut-drafting-task-light",
+  "title": "Aged-Brass Twin-Strut Drafting Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "heritage-industrial",
+    "one complete freestanding desktop task-light assembly",
+    "one rectangular weighted base",
+    "exactly two parallel support struts",
+    "exactly three round pivot joints",
+    "one bell shade",
+    "one knurled adjustment handle"
+  ],
+  "dimensions_m": {
+    "width": 0.440005,
+    "depth": 0.22,
+    "height": 0.519995
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2486,
+    "triangles": 4936,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.usdz",
+  "file_size_bytes": 719151,
+  "sha256": "d2903e53c9dbe962540129658de09921ba26692399b1a4adfbe77443c4240904",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

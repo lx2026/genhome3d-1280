@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0015",
+  "slug": "sap-0015-white-hinged-lid-rice-cooker",
+  "title": "White Hinged-Lid Rice Cooker",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "countertop cooking",
+    "one complete standalone small appliance",
+    "one white rice cooker with one closed hinged lid, one top carry handle, one steam vent, one front control strip, and four feet."
+  ],
+  "dimensions_m": {
+    "width": 0.29,
+    "depth": 0.27,
+    "height": 0.24
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2380,
+    "triangles": 4676,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.usdz",
+  "file_size_bytes": 772066,
+  "sha256": "cd9d24452f411ca419eb869257f874e705457d6ce78fb1b710ea77232a29d1b8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

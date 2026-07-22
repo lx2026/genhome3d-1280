@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0009",
+  "slug": "ben-0009-mid-century-walnut-wishbone-bench",
+  "title": "Mid-Century Walnut Wishbone Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "dining",
+    "mid-century",
+    "walnut",
+    "wishbone-leg",
+    "upholstered-seat"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.44,
+    "height": 0.470002
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 944,
+    "triangles": 1856,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.usdz",
+  "preview": "previews/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.usdz",
+  "file_size_bytes": 910346,
+  "sha256": "cc798da5be05e7a6ba4d8f0ca90a27627b145d36a3fc37679e02d7b452947b7e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

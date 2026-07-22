@@ -1,0 +1,55 @@
+{
+  "id": "OCH-0018",
+  "slug": "och-0018-natural-rattan-wave-back-swivel-office-chair",
+  "title": "Natural-Rattan Wave-Back Swivel Office Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "sculptural-specialty",
+    "rattan",
+    "woven wave back",
+    "two loop arms",
+    "five wrapped spokes",
+    "five spherical glides"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.72,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 8470,
+    "triangles": 16704,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0018-natural-rattan-wave-back-swivel-office-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0018-natural-rattan-wave-back-swivel-office-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0018-natural-rattan-wave-back-swivel-office-chair.usdz",
+  "file_size_bytes": 1428870,
+  "sha256": "41491d340945c2fda9e6b84d642aad5b73e8d5d4db8d38f17efc625179c2f222",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

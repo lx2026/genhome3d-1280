@@ -1,0 +1,54 @@
+{
+  "id": "KST-0010",
+  "slug": "kst-0010-birch-two-sided-eight-bay-learning-island",
+  "title": "Birch Two-Sided Eight-Bay Learning Island",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "modern-learning",
+    "eight open bays",
+    "four bays per long side",
+    "continuous birch top",
+    "wraparound toe-kick"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.6,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1192,
+    "triangles": 2344,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0010-birch-two-sided-eight-bay-learning-island.usdz",
+  "preview": "previews/kids/storage/kst-0010-birch-two-sided-eight-bay-learning-island.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0010-birch-two-sided-eight-bay-learning-island.usdz",
+  "file_size_bytes": 541150,
+  "sha256": "f2a9bbc90fbade87b4e040f6a9a85042eb2c043ab7d1cee4a6ee3cebc394a864",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

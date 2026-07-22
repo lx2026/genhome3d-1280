@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0016",
+  "slug": "mat-0016-rv-short-queen-radius-corner-mattress",
+  "title": "RV Short-Queen Radius-Corner Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foldable-alternative",
+    "rv short queen",
+    "two radius corners"
+  ],
+  "dimensions_m": {
+    "width": 1.52,
+    "depth": 1.88,
+    "height": 0.25
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 2916,
+    "triangles": 4992,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.usdz",
+  "file_size_bytes": 985447,
+  "sha256": "8cd692f3ad8df4d6fdefd07553f76d51cd41671c627b640287f3e8edd9f52f3a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

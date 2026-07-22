@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0009",
+  "slug": "knv-0009-walnut-pointed-roast-slicer",
+  "title": "Walnut Pointed Roast Slicer",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "bread-slicing-knives",
+    "one complete standalone knife",
+    "one straight pointed slicing blade",
+    "one full bolster",
+    "one two-rivet walnut handle"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.038,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1040,
+    "triangles": 2056,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.usdz",
+  "file_size_bytes": 1016434,
+  "sha256": "2b05403e37b4e9f84709f426c0de5216d630fc0da0460a6aa81891826aa5441a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

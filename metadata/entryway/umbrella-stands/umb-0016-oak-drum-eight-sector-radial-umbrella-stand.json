@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0016",
+  "slug": "umb-0016-oak-drum-eight-sector-radial-umbrella-stand",
+  "title": "Oak Drum Eight-Sector Radial Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "sculptural-specialty",
+    "eight radial sectors",
+    "eight fins",
+    "central drain hub",
+    "recessed basin"
+  ],
+  "dimensions_m": {
+    "width": 0.64,
+    "depth": 0.64,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 9472,
+    "triangles": 18868,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0016-oak-drum-eight-sector-radial-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0016-oak-drum-eight-sector-radial-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0016-oak-drum-eight-sector-radial-umbrella-stand.usdz",
+  "file_size_bytes": 1045211,
+  "sha256": "08203ec81acfb62e25e1a88ac741905f5de56f20a91db14101ee70a544d28861",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

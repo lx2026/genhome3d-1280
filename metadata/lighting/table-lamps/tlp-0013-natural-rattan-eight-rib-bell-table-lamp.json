@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0013",
+  "slug": "tlp-0013-natural-rattan-eight-rib-bell-table-lamp",
+  "title": "Natural-Rattan Eight-Rib Bell Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "compact-residential",
+    "one complete freestanding tabletop lamp assembly",
+    "one round oak base",
+    "one bent brass stem",
+    "exactly eight rattan ribs",
+    "exactly three weave rings",
+    "one central socket"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 4110,
+    "triangles": 7740,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0013-natural-rattan-eight-rib-bell-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0013-natural-rattan-eight-rib-bell-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0013-natural-rattan-eight-rib-bell-table-lamp.usdz",
+  "file_size_bytes": 1823165,
+  "sha256": "7c395b67452fd2fc876c4f3f16c31bf890d0bf3c0f7f4d11e66a33015cbb0711",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

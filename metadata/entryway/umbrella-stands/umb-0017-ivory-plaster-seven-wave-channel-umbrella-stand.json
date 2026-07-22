@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0017",
+  "slug": "umb-0017-ivory-plaster-seven-wave-channel-umbrella-stand",
+  "title": "Ivory-Plaster Seven-Wave-Channel Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "sculptural-specialty",
+    "seven wave channels",
+    "sculpted end masses",
+    "continuous drainage shelf",
+    "ivory plaster"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.38,
+    "height": 0.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 8800,
+    "triangles": 17144,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0017-ivory-plaster-seven-wave-channel-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0017-ivory-plaster-seven-wave-channel-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0017-ivory-plaster-seven-wave-channel-umbrella-stand.usdz",
+  "file_size_bytes": 1009076,
+  "sha256": "2b7edba4b66684c83d7db726c38f628f28adb536c25444335647cc738a3d75ae",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0018",
+  "slug": "hdb-0018-brass-sunburst-openwork-headboard",
+  "title": "Brass Sunburst Openwork Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "sculptural-specialty",
+    "brass",
+    "sunburst",
+    "openwork",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.12,
+    "height": 1.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 33,
+    "vertices": 8780,
+    "triangles": 17380,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.usdz",
+  "file_size_bytes": 859486,
+  "sha256": "55c8c0480c336c8a97f72c71b56bba1332034e584c3dcdaf2530819f1d390b16",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "COF-0015",
+  "slug": "cof-0015-woven-rattan-trunk-coffee-table",
+  "title": "Woven Rattan Trunk Coffee Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "functional-storage",
+    "storage-trunk",
+    "woven-rattan",
+    "hinged-lid",
+    "leather-handles"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.65,
+    "height": 0.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 124,
+    "vertices": 7648,
+    "triangles": 14800,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0015-woven-rattan-trunk-coffee-table.usdz",
+  "preview": "previews/tables/coffee/cof-0015-woven-rattan-trunk-coffee-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0015-woven-rattan-trunk-coffee-table.usdz",
+  "file_size_bytes": 1911665,
+  "sha256": "5f4de226565bb7260e3fd18fcb384e89134f45c15348c31c9cb188f2102bbf8d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

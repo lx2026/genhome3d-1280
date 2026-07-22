@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0018",
+  "slug": "wrd-0018-natural-rattan-wave-three-door-wardrobe",
+  "title": "Natural-Rattan Wave Three-Door Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "sculptural-specialty",
+    "rattan wave",
+    "three doors",
+    "four spherical feet",
+    "woven fronts"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.58,
+    "height": 1.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 9728,
+    "triangles": 19336,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0018-natural-rattan-wave-three-door-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0018-natural-rattan-wave-three-door-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0018-natural-rattan-wave-three-door-wardrobe.usdz",
+  "file_size_bytes": 1102281,
+  "sha256": "4783dc57395dfe04745d456437014af5e752c0ea8d211011361f1780d65370d5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

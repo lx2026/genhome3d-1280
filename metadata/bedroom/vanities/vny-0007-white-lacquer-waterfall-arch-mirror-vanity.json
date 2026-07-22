@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0007",
+  "slug": "vny-0007-white-lacquer-waterfall-arch-mirror-vanity",
+  "title": "White-Lacquer Waterfall Arch-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "modern-integrated",
+    "waterfall",
+    "two drawers",
+    "arch mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.45,
+    "height": 1.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 5740,
+    "triangles": 11376,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0007-white-lacquer-waterfall-arch-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0007-white-lacquer-waterfall-arch-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0007-white-lacquer-waterfall-arch-mirror-vanity.usdz",
+  "file_size_bytes": 783281,
+  "sha256": "ecea0927cc25a576679d579ce2eb3c03399d62f4cd23bdf19904cde58c05128a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0001",
+  "slug": "vny-0001-shaker-maple-tri-fold-mirror-vanity",
+  "title": "Shaker Maple Tri-Fold Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "heritage-dressing",
+    "shaker",
+    "five drawers",
+    "tri-fold mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.5,
+    "height": 1.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 3424,
+    "triangles": 6756,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.usdz",
+  "file_size_bytes": 725770,
+  "sha256": "697133fecaba57cc742ce489208537110c63a4bae8377e1d0dfe49f441c1b644",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

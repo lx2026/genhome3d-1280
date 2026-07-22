@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0017",
+  "slug": "plt-0017-white-concrete-pentagonal-origami-planter",
+  "title": "White-Concrete Pentagonal Origami Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "sculptural-specialty",
+    "one faceted concrete vessel",
+    "one pentagonal planting opening",
+    "five sloped outer faces",
+    "one recessed five-sided foot"
+  ],
+  "dimensions_m": {
+    "width": 0.720126,
+    "depth": 0.720097,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 840,
+    "triangles": 1656,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0017-white-concrete-pentagonal-origami-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0017-white-concrete-pentagonal-origami-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0017-white-concrete-pentagonal-origami-planter.usdz",
+  "file_size_bytes": 239725,
+  "sha256": "786d58716545b160d19951f9360a501aae788dd44e5d487ca044ef7aad6fb952",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

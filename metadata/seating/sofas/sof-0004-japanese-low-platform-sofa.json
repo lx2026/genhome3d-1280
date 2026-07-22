@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0004",
+  "slug": "sof-0004-japanese-low-platform-sofa",
+  "title": "Japanese Low Platform Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "compact-loveseat",
+    "japanese",
+    "oak",
+    "platform",
+    "indigo"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.9,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1568,
+    "triangles": 3104,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0004-japanese-low-platform-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0004-japanese-low-platform-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0004-japanese-low-platform-sofa.usdz",
+  "file_size_bytes": 823190,
+  "sha256": "57eda3bfe24fd94a829371f7e887deddeac52682b6a33829968c0ba8351f9428",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

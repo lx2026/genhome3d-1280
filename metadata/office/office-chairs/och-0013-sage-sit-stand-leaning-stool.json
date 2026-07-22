@@ -1,0 +1,56 @@
+{
+  "id": "OCH-0013",
+  "slug": "och-0013-sage-sit-stand-leaning-stool",
+  "title": "Sage Sit-Stand Leaning Stool",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "compact-adaptive",
+    "sit stand",
+    "one tilting saddle",
+    "one flexible stem",
+    "one foot ring",
+    "five lobed base",
+    "no casters"
+  ],
+  "dimensions_m": {
+    "width": 0.48,
+    "depth": 0.52,
+    "height": 0.919999
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 5164,
+    "triangles": 10228,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.usdz",
+  "preview": "previews/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.usdz",
+  "file_size_bytes": 1013795,
+  "sha256": "4c833329087a6903669a4e4a8c18720718329edb746ada96ad02f5ad1cec60a8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0015",
+  "slug": "ott-0015-shearling-waterfall-ottoman",
+  "title": "Shearling Waterfall Ottoman",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "lounge-statement",
+    "shearling",
+    "waterfall",
+    "arch",
+    "upholstered"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.58,
+    "height": 0.43
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1464,
+    "triangles": 2916,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0015-shearling-waterfall-ottoman.usdz",
+  "preview": "previews/seating/ottomans/ott-0015-shearling-waterfall-ottoman.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0015-shearling-waterfall-ottoman.usdz",
+  "file_size_bytes": 747708,
+  "sha256": "d1672a1258a5c52220dfe4a26215e46e83d25431661acfed8611284b1db9c6e4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

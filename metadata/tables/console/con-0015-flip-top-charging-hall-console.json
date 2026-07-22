@@ -1,0 +1,54 @@
+{
+  "id": "CON-0015",
+  "slug": "con-0015-flip-top-charging-hall-console",
+  "title": "Flip-Top Charging Hall Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "entryway-storage",
+    "flip-top",
+    "charging-compartment",
+    "cable-slot",
+    "wall-friendly"
+  ],
+  "dimensions_m": {
+    "width": 1.0,
+    "depth": 0.300002,
+    "height": 0.799998
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1880,
+    "triangles": 3712,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0015-flip-top-charging-hall-console.usdz",
+  "preview": "previews/tables/console/con-0015-flip-top-charging-hall-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0015-flip-top-charging-hall-console.usdz",
+  "file_size_bytes": 717652,
+  "sha256": "acf05b77b62b6ef70a7745a864a0a0c780d8a1cc607ff19df55cdb48fc78d180",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

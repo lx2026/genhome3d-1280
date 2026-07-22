@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0018",
+  "slug": "bac-0018-black-wire-three-tier-corner-shower-caddy",
+  "title": "Black-Wire Three-Tier Corner Shower Caddy",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "bathing-organization",
+    "one complete freestanding bathroom-accessory assembly",
+    "one triangular floor frame",
+    "exactly two vertical uprights",
+    "exactly three triangular wire baskets",
+    "one arched top handle",
+    "exactly three front retention rails"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.28,
+    "height": 1.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 7140,
+    "triangles": 14140,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.usdz",
+  "preview": "previews/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.usdz",
+  "file_size_bytes": 405705,
+  "sha256": "6dd6192b68bc1634f00eb96877cd223cf08b9a4f8e5a3fd90b4ac5499ef82e9b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

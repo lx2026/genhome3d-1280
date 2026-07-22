@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0010",
+  "slug": "crb-0010-ivory-boucle-arch-end-crib",
+  "title": "Ivory-Boucle Arch-End Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "modern-convertible",
+    "boucle",
+    "arch-ends",
+    "oak-spindles",
+    "upholstered"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.83,
+    "height": 1.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 40,
+    "vertices": 6344,
+    "triangles": 12528,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.usdz",
+  "file_size_bytes": 1604170,
+  "sha256": "d0660c9348bd85ebfcf86df4ab0fc4872b0b983b2bf4affba72cf8977b427db5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

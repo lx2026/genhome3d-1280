@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0013",
+  "slug": "mxb-0013-acacia-two-tab-oval-mixing-bowl",
+  "title": "Acacia Two-Tab Oval Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "wood-and-stone-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one oval acacia body",
+    "exactly two opposed integrated grip tabs",
+    "exactly one oval foot",
+    "one continuous open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.37,
+    "depth": 0.29,
+    "height": 0.135
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 3457,
+    "triangles": 6898,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0013-acacia-two-tab-oval-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0013-acacia-two-tab-oval-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0013-acacia-two-tab-oval-mixing-bowl.usdz",
+  "file_size_bytes": 561249,
+  "sha256": "8ef14a77cd1854d0002906f4ff6205cc643a950f33df9ad449200837ad8d7407",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

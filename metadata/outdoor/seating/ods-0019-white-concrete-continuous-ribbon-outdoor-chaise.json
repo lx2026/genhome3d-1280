@@ -1,0 +1,54 @@
+{
+  "id": "ODS-0019",
+  "slug": "ods-0019-white-concrete-continuous-ribbon-outdoor-chaise",
+  "title": "White-Concrete Continuous-Ribbon Outdoor Chaise",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "architectural-specialty",
+    "one sculptural chaise",
+    "one continuous S-curved ribbon",
+    "one integrated head rise",
+    "two recessed shadow rails"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 0.72,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 944,
+    "triangles": 1872,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.usdz",
+  "preview": "previews/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.usdz",
+  "file_size_bytes": 536790,
+  "sha256": "60686adc875bd66efc8746e6b998d9ec6422901450151b2f342d93655d3a1058",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

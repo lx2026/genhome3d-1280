@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0020",
+  "slug": "sof-0020-travertine-plinth-sofa",
+  "title": "Travertine Plinth Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "architectural-outdoor",
+    "travertine",
+    "fluted",
+    "plinth",
+    "leather"
+  ],
+  "dimensions_m": {
+    "width": 2.25,
+    "depth": 0.95,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 55,
+    "vertices": 8864,
+    "triangles": 17508,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0020-travertine-plinth-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0020-travertine-plinth-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0020-travertine-plinth-sofa.usdz",
+  "file_size_bytes": 1291110,
+  "sha256": "cbdc664625c9ed2fcc7aacac83366b9613a62fa55ef9c7fe59e5aadf72c8b17c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

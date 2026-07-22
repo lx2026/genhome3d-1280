@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0016",
+  "slug": "crb-0016-maple-house-frame-floor-crib",
+  "title": "Maple House-Frame Floor Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "sculptural-specialty",
+    "house-frame",
+    "maple",
+    "floor-crib",
+    "peaked-roof"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.84,
+    "height": 1.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 64,
+    "vertices": 9344,
+    "triangles": 18432,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.usdz",
+  "file_size_bytes": 744268,
+  "sha256": "b62588aea3bff99928452a602ee7b56be813e28a77eac2ff22965c3b4d91150c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

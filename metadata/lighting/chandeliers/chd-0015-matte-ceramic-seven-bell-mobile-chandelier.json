@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0015",
+  "slug": "chd-0015-matte-ceramic-seven-bell-mobile-chandelier",
+  "title": "Matte-Ceramic Seven-Bell Mobile Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "compact-residential",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly seven bell shades",
+    "seven staggered cords",
+    "two crossing balance rods",
+    "one central swivel",
+    "one round canopy"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.74,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 25,
+    "vertices": 4874,
+    "triangles": 9648,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0015-matte-ceramic-seven-bell-mobile-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0015-matte-ceramic-seven-bell-mobile-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0015-matte-ceramic-seven-bell-mobile-chandelier.usdz",
+  "file_size_bytes": 562438,
+  "sha256": "4d1733288d55f980e8c808303f95e47094ed16d4a152e1ee381e69335e9e4e2a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

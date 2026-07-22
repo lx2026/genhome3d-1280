@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0004",
+  "slug": "ott-0004-bauhaus-chrome-leather-footstool",
+  "title": "Bauhaus Chrome Leather Footstool",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "compact-footstool",
+    "bauhaus",
+    "chrome",
+    "leather",
+    "tubular"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.48,
+    "height": 0.4
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1448,
+    "triangles": 2884,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0004-bauhaus-chrome-leather-footstool.usdz",
+  "preview": "previews/seating/ottomans/ott-0004-bauhaus-chrome-leather-footstool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0004-bauhaus-chrome-leather-footstool.usdz",
+  "file_size_bytes": 876220,
+  "sha256": "7680c6568b129b3ae97c378a8f5febf0a9e2afe054d76541db355d429f9aa3f3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": null,
+    "blender_export_version": null
+  }
+}

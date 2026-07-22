@@ -1,0 +1,56 @@
+{
+  "id": "OST-0013",
+  "slug": "ost-0013-galvanized-crank-reel-hose-storage-cabinet",
+  "title": "Galvanized Crank-Reel Hose Storage Cabinet",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "compact-mobile",
+    "one hose storage cabinet",
+    "one central reel drum",
+    "one circular opening",
+    "one side crank",
+    "two guide rollers",
+    "four short feet"
+  ],
+  "dimensions_m": {
+    "width": 0.66,
+    "depth": 0.42,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 2688,
+    "triangles": 5324,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0013-galvanized-crank-reel-hose-storage-cabinet.usdz",
+  "preview": "previews/outdoor/storage/ost-0013-galvanized-crank-reel-hose-storage-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0013-galvanized-crank-reel-hose-storage-cabinet.usdz",
+  "file_size_bytes": 671553,
+  "sha256": "e18559ebf45544d5c84d36eb15b7d89f157cc2359833e1250c2a1bc89a224463",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

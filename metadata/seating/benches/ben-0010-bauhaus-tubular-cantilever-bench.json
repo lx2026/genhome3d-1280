@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0010",
+  "slug": "ben-0010-bauhaus-tubular-cantilever-bench",
+  "title": "Bauhaus Tubular Cantilever Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "dining",
+    "bauhaus",
+    "chrome",
+    "cantilever",
+    "leather-straps"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.48,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2688,
+    "triangles": 5336,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.usdz",
+  "preview": "previews/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.usdz",
+  "file_size_bytes": 875345,
+  "sha256": "72561f4f5f347748872b7174a2ba9ab6e0597b3e76e9baf5706dd5c9e5a948b4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

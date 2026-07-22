@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0004",
+  "slug": "plb-0004-speckled-rounded-square-dinner-plate",
+  "title": "Speckled Rounded-Square Dinner Plate",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "dinner-charger-plates",
+    "one complete standalone plate",
+    "exactly four rounded corners",
+    "one square serving well",
+    "speckled stoneware"
+  ],
+  "dimensions_m": {
+    "width": 0.275,
+    "depth": 0.275,
+    "height": 0.033
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 1,
+    "vertices": 1797,
+    "triangles": 3590,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0004-speckled-rounded-square-dinner-plate.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0004-speckled-rounded-square-dinner-plate.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0004-speckled-rounded-square-dinner-plate.usdz",
+  "file_size_bytes": 552007,
+  "sha256": "b717d862736cce7809019f33113bea41eec3c6d44cbd251cac6f06364409dbd2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

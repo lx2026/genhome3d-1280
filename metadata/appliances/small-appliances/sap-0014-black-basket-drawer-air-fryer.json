@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0014",
+  "slug": "sap-0014-black-basket-drawer-air-fryer",
+  "title": "Black Basket-Drawer Air Fryer",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "countertop cooking",
+    "one complete standalone small appliance",
+    "one rounded black air fryer with one pull-out basket drawer, one horizontal handle, one top display, one dial, one rear vent, and four feet."
+  ],
+  "dimensions_m": {
+    "width": 0.29,
+    "depth": 0.34,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 3008,
+    "triangles": 5948,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0014-black-basket-drawer-air-fryer.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0014-black-basket-drawer-air-fryer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0014-black-basket-drawer-air-fryer.usdz",
+  "file_size_bytes": 696861,
+  "sha256": "9ce4cd6fda9d39dd617a8201a91d4d6393521fe65505ae2cfb96b08e9687215a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

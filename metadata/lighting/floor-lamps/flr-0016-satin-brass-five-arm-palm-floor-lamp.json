@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0016",
+  "slug": "flr-0016-satin-brass-five-arm-palm-floor-lamp",
+  "title": "Satin-Brass Five-Arm Palm Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "architectural-statement",
+    "one complete freestanding floor lamp assembly",
+    "one heavy round base",
+    "one central trunk",
+    "exactly five curved arms",
+    "five leaf-like shades",
+    "five opal lamps"
+  ],
+  "dimensions_m": {
+    "width": 0.950033,
+    "depth": 0.849929,
+    "height": 1.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 5094,
+    "triangles": 9860,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0016-satin-brass-five-arm-palm-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0016-satin-brass-five-arm-palm-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0016-satin-brass-five-arm-palm-floor-lamp.usdz",
+  "file_size_bytes": 914267,
+  "sha256": "5a33f25659794f027e982d63aee4c17a39c00ca493ce64d3009f98227a18667d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

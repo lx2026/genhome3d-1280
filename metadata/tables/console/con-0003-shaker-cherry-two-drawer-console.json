@@ -1,0 +1,54 @@
+{
+  "id": "CON-0003",
+  "slug": "con-0003-shaker-cherry-two-drawer-console",
+  "title": "Shaker Cherry Two-Drawer Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "heritage-craft",
+    "shaker",
+    "two-drawers",
+    "tapered-legs",
+    "plain-joinery"
+  ],
+  "dimensions_m": {
+    "width": 1.15,
+    "depth": 0.36,
+    "height": 0.79
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 872,
+    "triangles": 1704,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0003-shaker-cherry-two-drawer-console.usdz",
+  "preview": "previews/tables/console/con-0003-shaker-cherry-two-drawer-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0003-shaker-cherry-two-drawer-console.usdz",
+  "file_size_bytes": 447689,
+  "sha256": "aae869a792f43bb95d191b87cc2a7778d0731de36795ea3a063e4e7a8699a558",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

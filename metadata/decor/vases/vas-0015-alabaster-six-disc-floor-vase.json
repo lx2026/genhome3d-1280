@@ -1,0 +1,55 @@
+{
+  "id": "VAS-0015",
+  "slug": "vas-0015-alabaster-six-disc-floor-vase",
+  "title": "Alabaster Six-Disc Floor Vase",
+  "category": "decor",
+  "subcategory": "vases",
+  "category_path": "decor/vases",
+  "category_label": "Decor / Vases",
+  "tags": [
+    "decor vases",
+    "metal-stone-vessels",
+    "one complete freestanding decorative vase",
+    "exactly six graduated stacked stone discs",
+    "one narrow circular neck",
+    "one circular mouth",
+    "one broad integrated base"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.38,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 4348,
+    "triangles": 8660,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/vases/vas-0015-alabaster-six-disc-floor-vase.usdz",
+  "preview": "previews/decor/vases/vas-0015-alabaster-six-disc-floor-vase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0015-alabaster-six-disc-floor-vase.usdz",
+  "file_size_bytes": 826838,
+  "sha256": "f3bc994540a895e15da9622b21c27b336f54181932470cacce18a0dd64112b43",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

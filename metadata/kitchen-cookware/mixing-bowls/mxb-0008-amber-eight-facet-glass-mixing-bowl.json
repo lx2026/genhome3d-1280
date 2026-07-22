@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0008",
+  "slug": "mxb-0008-amber-eight-facet-glass-mixing-bowl",
+  "title": "Amber Eight-Facet Glass Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "glass-and-ceramic-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one amber-glass body",
+    "exactly eight broad exterior facets",
+    "exactly one thick clear rim",
+    "exactly one octagonal foot"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 0.155
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 769,
+    "triangles": 1530,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0008-amber-eight-facet-glass-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0008-amber-eight-facet-glass-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0008-amber-eight-facet-glass-mixing-bowl.usdz",
+  "file_size_bytes": 425559,
+  "sha256": "d3790ee7bed7c4158c2809494191a411a9b38b8c56890b67856d2af9031a40d2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

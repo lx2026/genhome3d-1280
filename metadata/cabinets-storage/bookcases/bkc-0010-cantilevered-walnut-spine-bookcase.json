@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0010",
+  "slug": "bkc-0010-cantilevered-walnut-spine-bookcase",
+  "title": "Cantilevered Walnut Spine Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "modern-modular",
+    "cantilever",
+    "six shelves",
+    "central spine",
+    "pedestal"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.36,
+    "height": 1.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 768,
+    "triangles": 1504,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0010-cantilevered-walnut-spine-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0010-cantilevered-walnut-spine-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0010-cantilevered-walnut-spine-bookcase.usdz",
+  "file_size_bytes": 439209,
+  "sha256": "6e9cbf806e2de7cd42e53e530b26be38715463dc9253052be098b0806ba57eb0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

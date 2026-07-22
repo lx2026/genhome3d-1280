@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0016",
+  "slug": "glw-0016-clear-inward-rim-whisky-tasting-glass",
+  "title": "Clear Inward-Rim Whisky Tasting Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "specialty-serving-glassware",
+    "one complete standalone open vessel",
+    "one wide lower bowl",
+    "one inward-curving open rim",
+    "one thick circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.08,
+    "depth": 0.08,
+    "height": 0.115
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 3457,
+    "triangles": 6906,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0016-clear-inward-rim-whisky-tasting-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0016-clear-inward-rim-whisky-tasting-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0016-clear-inward-rim-whisky-tasting-glass.usdz",
+  "file_size_bytes": 389609,
+  "sha256": "8920f57819812e4e0276c3d3e4c9ca3547c26c066a02f74a7ebb0959dec9eeed",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

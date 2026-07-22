@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0003",
+  "slug": "crb-0003-arts-and-crafts-oak-panel-end-crib",
+  "title": "Arts-and-Crafts Oak Panel-End Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "traditional-craft",
+    "arts-and-crafts",
+    "oak",
+    "panel-ends",
+    "through-tenons"
+  ],
+  "dimensions_m": {
+    "width": 1.48,
+    "depth": 0.82,
+    "height": 1.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 49,
+    "vertices": 4640,
+    "triangles": 9084,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.usdz",
+  "file_size_bytes": 829624,
+  "sha256": "693b1caef979855e83fb2e45f7e658ef9e100e73d5343809e7d796b962bcc8e3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

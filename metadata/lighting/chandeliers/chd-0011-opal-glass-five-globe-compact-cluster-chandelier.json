@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0011",
+  "slug": "chd-0011-opal-glass-five-globe-compact-cluster-chandelier",
+  "title": "Opal-Glass Five-Globe Compact Cluster Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "compact-residential",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly five opal globes",
+    "five staggered cords",
+    "one compact round canopy",
+    "three globe sizes",
+    "no exposed bulbs"
+  ],
+  "dimensions_m": {
+    "width": 0.62,
+    "depth": 0.62,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2434,
+    "triangles": 4824,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.usdz",
+  "file_size_bytes": 725202,
+  "sha256": "1a5e36d891dc9c7cd4c4944b5e45581ab715dedba6237f5efd6cb2e486cfd29e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

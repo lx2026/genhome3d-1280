@@ -1,0 +1,54 @@
+{
+  "id": "OTT-0002",
+  "slug": "ott-0002-moroccan-leather-pouf",
+  "title": "Moroccan Leather Pouf",
+  "category": "seating",
+  "subcategory": "ottomans",
+  "category_path": "seating/ottomans",
+  "category_label": "Seating / Ottomans",
+  "tags": [
+    "ottoman",
+    "compact-footstool",
+    "moroccan",
+    "faceted",
+    "leather",
+    "stitched"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.52,
+    "height": 0.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 6034,
+    "triangles": 11432,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/ottomans/ott-0002-moroccan-leather-pouf.usdz",
+  "preview": "previews/seating/ottomans/ott-0002-moroccan-leather-pouf.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0002-moroccan-leather-pouf.usdz",
+  "file_size_bytes": 1753056,
+  "sha256": "8159911a2ec7b2c5f73770f7fb80761e033afba23863cf56ef46e34cd7e664e0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

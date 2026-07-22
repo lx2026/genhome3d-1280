@@ -1,0 +1,57 @@
+{
+  "id": "ART-0019",
+  "slug": "art-0019-river-stone-seven-rock-cairn-sculpture",
+  "title": "River-Stone Seven-Rock Cairn Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "architectural-assemblage",
+    "one complete freestanding decorative art-object assembly",
+    "exactly seven irregular rounded stone forms",
+    "one shallow oval stone tray",
+    "alternating horizontal stone long axes",
+    "one narrow central balance line",
+    "one widest rock at the bottom",
+    "one smallest rock at the top"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.32,
+    "height": 0.74
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2978,
+    "triangles": 5924,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.usdz",
+  "file_size_bytes": 1020660,
+  "sha256": "83bb1649af88bfbbd82a6878519b6a0b93e5078b49b71170c24e3e85bae1070c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

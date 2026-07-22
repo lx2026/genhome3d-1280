@@ -1,0 +1,57 @@
+{
+  "id": "BST-0015",
+  "slug": "bst-0015-natural-oak-five-tier-corner-fan-shelf",
+  "title": "Natural-Oak Five-Tier Corner Fan Shelf",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "open-shelving/etageres",
+    "one complete freestanding bathroom-storage assembly",
+    "one right-angle corner frame",
+    "exactly five quarter-round fan shelves",
+    "exactly three vertical support posts",
+    "one low triangular plinth",
+    "one narrow top cap",
+    "four open storage bays"
+  ],
+  "dimensions_m": {
+    "width": 0.56,
+    "depth": 0.56,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1760,
+    "triangles": 3476,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0015-natural-oak-five-tier-corner-fan-shelf.usdz",
+  "preview": "previews/bathroom/storage/bst-0015-natural-oak-five-tier-corner-fan-shelf.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0015-natural-oak-five-tier-corner-fan-shelf.usdz",
+  "file_size_bytes": 536390,
+  "sha256": "b348c80a43671290ec33560fa84289b192329e6e9371e627f164004ce7d6d3ba",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

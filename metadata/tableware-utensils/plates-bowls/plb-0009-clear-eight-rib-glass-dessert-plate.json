@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0009",
+  "slug": "plb-0009-clear-eight-rib-glass-dessert-plate",
+  "title": "Clear Eight-Rib Glass Dessert Plate",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "side-dessert-plates",
+    "one complete standalone plate",
+    "exactly eight raised underside ribs",
+    "one smooth open well",
+    "clear pressed glass"
+  ],
+  "dimensions_m": {
+    "width": 0.215,
+    "depth": 0.215,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1897,
+    "triangles": 3374,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0009-clear-eight-rib-glass-dessert-plate.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0009-clear-eight-rib-glass-dessert-plate.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0009-clear-eight-rib-glass-dessert-plate.usdz",
+  "file_size_bytes": 329385,
+  "sha256": "929ab70e20366f1727c6e27caa56809b91d7f7ffce9a678e7b8af0cbb4c7d2f7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

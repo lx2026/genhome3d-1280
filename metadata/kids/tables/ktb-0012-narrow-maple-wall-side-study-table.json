@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0012",
+  "slug": "ktb-0012-narrow-maple-wall-side-study-table",
+  "title": "Narrow Maple Wall-Side Study Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "compact-adaptive",
+    "narrow study top",
+    "one rear pencil trough",
+    "two slab sled supports",
+    "one low foot rail"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.38,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 736,
+    "triangles": 1452,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0012-narrow-maple-wall-side-study-table.usdz",
+  "preview": "previews/kids/tables/ktb-0012-narrow-maple-wall-side-study-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0012-narrow-maple-wall-side-study-table.usdz",
+  "file_size_bytes": 512957,
+  "sha256": "ffe9d6e35ef73525d18b451fda1820ac987ed641303250e944136ed1a2d826c6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

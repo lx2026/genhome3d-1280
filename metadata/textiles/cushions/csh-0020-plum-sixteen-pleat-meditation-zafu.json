@@ -1,0 +1,56 @@
+{
+  "id": "CSH-0020",
+  "slug": "csh-0020-plum-sixteen-pleat-meditation-zafu",
+  "title": "Plum Sixteen-Pleat Meditation Zafu",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "decorative-specialty",
+    "one complete standalone cushion assembly",
+    "one round meditation cushion",
+    "exactly sixteen radial side pleats",
+    "one top disc",
+    "one bottom disc",
+    "exactly one carry handle"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.42,
+    "height": 0.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 5028,
+    "triangles": 9928,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.usdz",
+  "preview": "previews/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.usdz",
+  "file_size_bytes": 985754,
+  "sha256": "9d91728b467c95ebae0ceda22443bd28544a1877900e75c06887360fa76278bc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

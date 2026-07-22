@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0019",
+  "slug": "bfx-0019-aged-brass-twin-riser-dual-head-shower-station",
+  "title": "Aged-Brass Twin-Riser Dual-Head Shower Station",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "showers-enclosures",
+    "one complete freestanding bathroom-fixture assembly",
+    "one rectangular shower tray",
+    "exactly two vertical pipe risers",
+    "exactly two round shower heads",
+    "one central mixing bar",
+    "exactly two side stabilizer braces",
+    "one front drain channel"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.8,
+    "height": 2.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 3528,
+    "triangles": 6908,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.usdz",
+  "file_size_bytes": 871943,
+  "sha256": "50cea6a4f338f7eedd9d5204945c052cdd0a24352dd60e7bb2012d6f35acd768",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

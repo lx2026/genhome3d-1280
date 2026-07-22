@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0020",
+  "slug": "crb-0020-color-blocked-recycled-plastic-modular-crib",
+  "title": "Color-Blocked Recycled-Plastic Modular Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "sculptural-specialty",
+    "recycled-plastic",
+    "color-blocked",
+    "modular",
+    "exposed-connectors"
+  ],
+  "dimensions_m": {
+    "width": 1.46,
+    "depth": 0.8,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 61,
+    "vertices": 10336,
+    "triangles": 20428,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.usdz",
+  "file_size_bytes": 2444965,
+  "sha256": "0a704fcaa924caaa32c61191134527ed5fdbb1c8d82cfee4f5abaf9dc4e68417",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

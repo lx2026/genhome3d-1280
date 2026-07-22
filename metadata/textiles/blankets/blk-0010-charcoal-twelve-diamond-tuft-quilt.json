@@ -1,0 +1,55 @@
+{
+  "id": "BLK-0010",
+  "slug": "blk-0010-charcoal-twelve-diamond-tuft-quilt",
+  "title": "Charcoal Twelve-Diamond-Tuft Quilt",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "quilted-patchwork-blankets",
+    "one complete standalone tufted quilt",
+    "exactly twelve raised diamond panels",
+    "three by four diamond grid",
+    "exactly twelve centered tuft dimples",
+    "one piped perimeter"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.56,
+    "height": 0.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 4944,
+    "triangles": 9788,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0010-charcoal-twelve-diamond-tuft-quilt.usdz",
+  "preview": "previews/textiles/blankets/blk-0010-charcoal-twelve-diamond-tuft-quilt.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0010-charcoal-twelve-diamond-tuft-quilt.usdz",
+  "file_size_bytes": 550424,
+  "sha256": "67d3add094f651f1140775429aebce6863d25ac73ffefb7de0887d182d6502da",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

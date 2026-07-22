@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0020",
+  "slug": "bac-0020-white-resin-four-bin-carousel-organizer",
+  "title": "White-Resin Four-Bin Carousel Organizer",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "bathing-organization",
+    "one complete freestanding bathroom-accessory assembly",
+    "one circular weighted base",
+    "one central carousel mast",
+    "exactly four quadrant storage bins",
+    "one top loop handle",
+    "one lower rotation collar"
+  ],
+  "dimensions_m": {
+    "width": 0.34,
+    "depth": 0.34,
+    "height": 0.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 7760,
+    "triangles": 15476,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0020-white-resin-four-bin-carousel-organizer.usdz",
+  "preview": "previews/bathroom/accessories/bac-0020-white-resin-four-bin-carousel-organizer.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0020-white-resin-four-bin-carousel-organizer.usdz",
+  "file_size_bytes": 691819,
+  "sha256": "3accbdc3d13f28867f264343ecda5e0a473487615150e0bd69e0cbb32698a677",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

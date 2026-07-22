@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0011",
+  "slug": "knv-0011-six-tooth-utility-knife",
+  "title": "Six-Tooth Utility Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "utility-paring-knives",
+    "one complete standalone knife",
+    "one narrow utility blade",
+    "exactly six scalloped teeth",
+    "one charcoal handle"
+  ],
+  "dimensions_m": {
+    "width": 0.245,
+    "depth": 0.03,
+    "height": 0.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 912,
+    "triangles": 1784,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.usdz",
+  "file_size_bytes": 594219,
+  "sha256": "94e27f7e50eeaa8f8bb015ea23a0d336d34db7118c24c7f82c88cd15e738c480",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "KTB-0017",
+  "slug": "ktb-0017-natural-rattan-six-petal-round-play-table",
+  "title": "Natural-Rattan Six-Petal Round Play Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "sculptural-specialty",
+    "round play table",
+    "six petal inlays",
+    "central cane medallion",
+    "flared woven pedestal"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.84,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 26960,
+    "triangles": 53868,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0017-natural-rattan-six-petal-round-play-table.usdz",
+  "preview": "previews/kids/tables/ktb-0017-natural-rattan-six-petal-round-play-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0017-natural-rattan-six-petal-round-play-table.usdz",
+  "file_size_bytes": 2680623,
+  "sha256": "3b5e86f8c84b69a20a5d354341332c0b74ec9f93b9a19323e23fef8e580dfb83",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0012",
+  "slug": "bac-0012-black-steel-twin-arm-towel-valet",
+  "title": "Black-Steel Twin-Arm Towel Valet",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "towel-valets",
+    "one complete freestanding bathroom-accessory assembly",
+    "one long weighted base",
+    "one vertical mast",
+    "exactly two offset towel arms",
+    "exactly two arm end caps",
+    "exactly two mast collars"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.24,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1608,
+    "triangles": 3184,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.usdz",
+  "preview": "previews/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.usdz",
+  "file_size_bytes": 202458,
+  "sha256": "ac136e3f1d951cc69fbb40bcd61091f2667689131de19940ad63e9a9d6da5676",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

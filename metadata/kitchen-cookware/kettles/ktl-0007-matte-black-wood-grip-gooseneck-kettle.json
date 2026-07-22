@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0007",
+  "slug": "ktl-0007-matte-black-wood-grip-gooseneck-kettle",
+  "title": "Matte Black Wood-Grip Gooseneck Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "gooseneck-pour-over-kettles",
+    "one complete standalone kettle assembly",
+    "one tapered matte-black body",
+    "exactly one slender gooseneck spout",
+    "exactly one rear handle with one oak grip",
+    "exactly one oak lid knob"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.18,
+    "height": 0.23
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 4300,
+    "triangles": 8428,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0007-matte-black-wood-grip-gooseneck-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0007-matte-black-wood-grip-gooseneck-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0007-matte-black-wood-grip-gooseneck-kettle.usdz",
+  "file_size_bytes": 860810,
+  "sha256": "6d2696a1a6fb19682b57a7fd329f31d20ff20a6d2180445995f24b3a2858c380",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

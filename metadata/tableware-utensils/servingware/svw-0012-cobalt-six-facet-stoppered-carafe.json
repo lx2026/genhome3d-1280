@@ -1,0 +1,52 @@
+{
+  "id": "SVW-0012",
+  "slug": "svw-0012-cobalt-six-facet-stoppered-carafe",
+  "title": "Cobalt Six-Facet Stoppered Carafe",
+  "category": "tableware-utensils",
+  "subcategory": "servingware",
+  "category_path": "tableware-utensils/servingware",
+  "category_label": "Tableware Utensils / Servingware",
+  "tags": [
+    "tableware utensils servingware",
+    "beverage-service",
+    "one complete standalone serving product",
+    "one tall cobalt carafe with exactly six body facets, one narrow neck, and exactly one faceted stopper."
+  ],
+  "dimensions_m": {
+    "width": 0.16,
+    "depth": 0.16,
+    "height": 0.33
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 524,
+    "triangles": 1036,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/servingware/svw-0012-cobalt-six-facet-stoppered-carafe.usdz",
+  "preview": "previews/tableware-utensils/servingware/svw-0012-cobalt-six-facet-stoppered-carafe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/servingware/svw-0012-cobalt-six-facet-stoppered-carafe.usdz",
+  "file_size_bytes": 118679,
+  "sha256": "0deb6905979a595315d4b63ea7ccfb24123b126607284aab7750edbee8b550b0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

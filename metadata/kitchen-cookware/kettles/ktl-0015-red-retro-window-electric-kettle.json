@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0015",
+  "slug": "ktl-0015-red-retro-window-electric-kettle",
+  "title": "Red Retro Window Electric Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "electric-kettles",
+    "one complete standalone kettle assembly",
+    "one bulbous red retro body",
+    "exactly one clear vertical level window",
+    "exactly one black arch handle",
+    "exactly one chrome base skirt"
+  ],
+  "dimensions_m": {
+    "width": 0.24,
+    "depth": 0.2,
+    "height": 0.255
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 4796,
+    "triangles": 9512,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.usdz",
+  "file_size_bytes": 1408064,
+  "sha256": "cbb623640c6493d8af038a11e217e2e51a0f088a3efb055d650504a914518761",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0005",
+  "slug": "chs-0005-french-walnut-bombe-marriage-chest",
+  "title": "French Walnut Bombe Marriage Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "classic-heritage",
+    "french",
+    "domed lid",
+    "three bowed panels",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.55,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 1784,
+    "triangles": 3480,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0005-french-walnut-bombe-marriage-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0005-french-walnut-bombe-marriage-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0005-french-walnut-bombe-marriage-chest.usdz",
+  "file_size_bytes": 958625,
+  "sha256": "9d56bf6fbdb708c2429205aa26e635d91195d8d44c783140f983c215acd37c68",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

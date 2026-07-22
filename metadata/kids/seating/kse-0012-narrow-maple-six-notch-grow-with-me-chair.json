@@ -1,0 +1,55 @@
+{
+  "id": "KSE-0012",
+  "slug": "kse-0012-narrow-maple-six-notch-grow-with-me-chair",
+  "title": "Narrow Maple Six-Notch Grow-With-Me Chair",
+  "category": "kids",
+  "subcategory": "seating",
+  "category_path": "kids/seating",
+  "category_label": "Kids / Seating",
+  "tags": [
+    "kids seating",
+    "compact-adaptive",
+    "six height notches",
+    "two ladder side frames",
+    "removable seat",
+    "removable footrest",
+    "four compact feet"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.42,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1568,
+    "triangles": 3080,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/seating/kse-0012-narrow-maple-six-notch-grow-with-me-chair.usdz",
+  "preview": "previews/kids/seating/kse-0012-narrow-maple-six-notch-grow-with-me-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/seating/kse-0012-narrow-maple-six-notch-grow-with-me-chair.usdz",
+  "file_size_bytes": 514004,
+  "sha256": "8551f27afb57212388ec3d7a08cdea9676ce69dc2ba6f85b34698ccafd64aea1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

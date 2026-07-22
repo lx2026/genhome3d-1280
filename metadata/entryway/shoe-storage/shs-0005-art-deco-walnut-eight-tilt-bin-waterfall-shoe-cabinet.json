@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0005",
+  "slug": "shs-0005-art-deco-walnut-eight-tilt-bin-waterfall-shoe-cabinet",
+  "title": "Art Deco Walnut Eight-Tilt-Bin Waterfall Shoe Cabinet",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "classic-bench",
+    "eight tilt bins",
+    "four by two grid",
+    "waterfall shell",
+    "recessed plinth"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.42,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 2784,
+    "triangles": 5464,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0005-art-deco-walnut-eight-tilt-bin-waterfall-shoe-cabinet.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0005-art-deco-walnut-eight-tilt-bin-waterfall-shoe-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0005-art-deco-walnut-eight-tilt-bin-waterfall-shoe-cabinet.usdz",
+  "file_size_bytes": 933393,
+  "sha256": "9bfc5be3075ec0abf3b9a134fd74afc9b4794d2096d7c76f043a726f8b9efc41",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

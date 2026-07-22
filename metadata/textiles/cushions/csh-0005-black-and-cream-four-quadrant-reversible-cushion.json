@@ -1,0 +1,54 @@
+{
+  "id": "CSH-0005",
+  "slug": "csh-0005-black-and-cream-four-quadrant-reversible-cushion",
+  "title": "Black-and-Cream Four-Quadrant Reversible Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "tailored-knife-edge",
+    "one complete standalone cushion assembly",
+    "exactly four front color blocks",
+    "exactly one side zipper",
+    "exactly two side pull tabs"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.16,
+    "height": 0.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2208,
+    "triangles": 4164,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0005-black-and-cream-four-quadrant-reversible-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0005-black-and-cream-four-quadrant-reversible-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0005-black-and-cream-four-quadrant-reversible-cushion.usdz",
+  "file_size_bytes": 629912,
+  "sha256": "a751b846736219b49cec6a10009c6eabb7ae8bc3a5b3b620f168e3a04678c11c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

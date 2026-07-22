@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0005",
+  "slug": "sap-0005-red-detachable-shaft-immersion-blender",
+  "title": "Red Detachable-Shaft Immersion Blender",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "food preparation",
+    "one complete standalone small appliance",
+    "one red immersion blender with one motor handle, one detachable stainless shaft, one bell guard with exactly four openings, and two top buttons."
+  ],
+  "dimensions_m": {
+    "width": 0.08,
+    "depth": 0.08,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2144,
+    "triangles": 4252,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.usdz",
+  "file_size_bytes": 679101,
+  "sha256": "6421bcc4886397ce1a04b4be581a48787347873786d8bbac37f31cdb2a66030a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

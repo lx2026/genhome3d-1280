@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0018",
+  "slug": "cur-0018-sand-and-white-ten-stripe-outdoor-curtain-pair",
+  "title": "Sand-and-White Ten-Stripe Outdoor Curtain Pair",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "functional-specialty-curtains",
+    "one complete standalone curtain assembly",
+    "exactly two outdoor curtain panels",
+    "exactly ten broad stripes total",
+    "exactly five stripes per panel",
+    "exactly two rope tiebacks"
+  ],
+  "dimensions_m": {
+    "width": 1.9,
+    "depth": 0.2,
+    "height": 2.3
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 9172,
+    "triangles": 18196,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0018-sand-and-white-ten-stripe-outdoor-curtain-pair.usdz",
+  "preview": "previews/textiles/curtains/cur-0018-sand-and-white-ten-stripe-outdoor-curtain-pair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0018-sand-and-white-ten-stripe-outdoor-curtain-pair.usdz",
+  "file_size_bytes": 1671522,
+  "sha256": "766f12f7386fdcef769c490b8971ac198e05b168bb30bedd899467b9c7813b80",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

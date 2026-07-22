@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0005",
+  "slug": "ben-0005-art-deco-velvet-vanity-bench",
+  "title": "Art Deco Velvet Vanity Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "compact-entry",
+    "art-deco",
+    "velvet",
+    "channel-tufted",
+    "brass-x-frame"
+  ],
+  "dimensions_m": {
+    "width": 0.85,
+    "depth": 0.42,
+    "height": 0.480057
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2712,
+    "triangles": 5376,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0005-art-deco-velvet-vanity-bench.usdz",
+  "preview": "previews/seating/benches/ben-0005-art-deco-velvet-vanity-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0005-art-deco-velvet-vanity-bench.usdz",
+  "file_size_bytes": 694223,
+  "sha256": "3ca96f0a91e2f56318df79a409aeb993d955dea771a3043e045eea188b8fe901",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

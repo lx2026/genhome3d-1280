@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0014",
+  "slug": "blk-0014-ivory-eight-arch-open-lattice-crochet-throw",
+  "title": "Ivory Eight-Arch Open-Lattice Crochet Throw",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "knit-crochet-blankets",
+    "one complete standalone folded crochet throw",
+    "exactly eight large arched front-edge openings",
+    "exactly two folded layers",
+    "one dense crochet border"
+  ],
+  "dimensions_m": {
+    "width": 0.74,
+    "depth": 0.52,
+    "height": 0.16
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 7824,
+    "triangles": 15192,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0014-ivory-eight-arch-open-lattice-crochet-throw.usdz",
+  "preview": "previews/textiles/blankets/blk-0014-ivory-eight-arch-open-lattice-crochet-throw.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0014-ivory-eight-arch-open-lattice-crochet-throw.usdz",
+  "file_size_bytes": 802914,
+  "sha256": "18889eadb98a67eb393b88b3ef1bd86031025c812365ea6c1a8b3fa79411c08e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

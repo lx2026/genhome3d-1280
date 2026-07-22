@@ -1,0 +1,55 @@
+{
+  "id": "KTB-0008",
+  "slug": "ktb-0008-white-oak-trapezoid-pairable-learning-table",
+  "title": "White-Oak Trapezoid Pairable Learning Table",
+  "category": "kids",
+  "subcategory": "tables",
+  "category_path": "kids/tables",
+  "category_label": "Kids / Tables",
+  "tags": [
+    "kids tables",
+    "modern-learning",
+    "trapezoid learning top",
+    "one straight docking edge",
+    "one rounded learner edge",
+    "two sled frames",
+    "one center rail"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.56,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1616,
+    "triangles": 3200,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/tables/ktb-0008-white-oak-trapezoid-pairable-learning-table.usdz",
+  "preview": "previews/kids/tables/ktb-0008-white-oak-trapezoid-pairable-learning-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0008-white-oak-trapezoid-pairable-learning-table.usdz",
+  "file_size_bytes": 520611,
+  "sha256": "f68ac0910961e7ca24192bc837801c24611b4b4e59297ef7e2fde75eacb14f53",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

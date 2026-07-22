@@ -1,0 +1,53 @@
+{
+  "id": "CUT-0012",
+  "slug": "cut-0012-silver-round-soup-spoon",
+  "title": "Silver Round Soup Spoon",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "dining-serving-spoons",
+    "one complete standalone soup spoon",
+    "one deep circular spoon bowl",
+    "one broad rounded handle"
+  ],
+  "dimensions_m": {
+    "width": 0.05,
+    "depth": 0.19,
+    "height": 0.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 866,
+    "triangles": 1720,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.usdz",
+  "file_size_bytes": 524181,
+  "sha256": "26262112c2df1f16220d244638376af764da6674a60a0640f49a93f66e971a54",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

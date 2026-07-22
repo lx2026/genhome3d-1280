@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0016",
+  "slug": "hdb-0016-bent-plywood-wave-headboard",
+  "title": "Bent-Plywood Wave Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "sculptural-specialty",
+    "bent-plywood",
+    "wave",
+    "laminated-shell",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.82,
+    "depth": 0.21,
+    "height": 1.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1648,
+    "triangles": 3284,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.usdz",
+  "file_size_bytes": 353655,
+  "sha256": "ac0ceb2a2055d1918ecc204b4fc96b8e64a9884519855af118727bef22ec1206",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

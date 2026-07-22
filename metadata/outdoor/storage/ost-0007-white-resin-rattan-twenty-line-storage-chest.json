@@ -1,0 +1,54 @@
+{
+  "id": "OST-0007",
+  "slug": "ost-0007-white-resin-rattan-twenty-line-storage-chest",
+  "title": "White Resin-Rattan Twenty-Line Storage Chest",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "contemporary-weatherproof",
+    "one storage chest",
+    "twenty vertical weave lines",
+    "one framed lid",
+    "four tapered feet"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.58,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 3520,
+    "triangles": 6936,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0007-white-resin-rattan-twenty-line-storage-chest.usdz",
+  "preview": "previews/outdoor/storage/ost-0007-white-resin-rattan-twenty-line-storage-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0007-white-resin-rattan-twenty-line-storage-chest.usdz",
+  "file_size_bytes": 634773,
+  "sha256": "08805c01531e8487e21d8ab50e628b496557fd10ffea93155c54378a852db9c5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

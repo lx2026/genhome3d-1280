@@ -1,0 +1,54 @@
+{
+  "id": "COF-0010",
+  "slug": "cof-0010-vermilion-lacquer-drum-table",
+  "title": "Vermilion Lacquer Drum Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "modern-residential",
+    "lacquer",
+    "drum",
+    "round-top",
+    "recessed-plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.88,
+    "depth": 0.88,
+    "height": 0.36
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1664,
+    "triangles": 3316,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0010-vermilion-lacquer-drum-table.usdz",
+  "preview": "previews/tables/coffee/cof-0010-vermilion-lacquer-drum-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0010-vermilion-lacquer-drum-table.usdz",
+  "file_size_bytes": 300764,
+  "sha256": "47426ee4d8ac1f1bbe7f9be5a7fc977482dbbfca7923bd9b8d3942c8998d0224",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

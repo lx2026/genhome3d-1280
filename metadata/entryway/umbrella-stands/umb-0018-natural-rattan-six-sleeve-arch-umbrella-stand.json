@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0018",
+  "slug": "umb-0018-natural-rattan-six-sleeve-arch-umbrella-stand",
+  "title": "Natural-Rattan Six-Sleeve Arch Umbrella Stand",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella stand",
+    "sculptural-specialty",
+    "six removable sleeves",
+    "three by two arrangement",
+    "six drip cups",
+    "four spherical feet"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.42,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 14024,
+    "triangles": 27880,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0018-natural-rattan-six-sleeve-arch-umbrella-stand.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0018-natural-rattan-six-sleeve-arch-umbrella-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0018-natural-rattan-six-sleeve-arch-umbrella-stand.usdz",
+  "file_size_bytes": 1095032,
+  "sha256": "f46b7961f4d45458d868b6a0f3ea4e3b8c548282cc4282cf5fcec562f51b7449",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

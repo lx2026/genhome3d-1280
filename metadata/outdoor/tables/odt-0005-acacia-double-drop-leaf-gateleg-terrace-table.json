@@ -1,0 +1,56 @@
+{
+  "id": "ODT-0005",
+  "slug": "odt-0005-acacia-double-drop-leaf-gateleg-terrace-table",
+  "title": "Acacia Double-Drop-Leaf Gateleg Terrace Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "heritage-garden",
+    "one gateleg terrace table",
+    "one fixed center top",
+    "two drop leaves",
+    "two swing gate frames",
+    "four standing legs",
+    "two leaf-edge hinges"
+  ],
+  "dimensions_m": {
+    "width": 1.42,
+    "depth": 0.9,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 2400,
+    "triangles": 4732,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0005-acacia-double-drop-leaf-gateleg-terrace-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0005-acacia-double-drop-leaf-gateleg-terrace-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0005-acacia-double-drop-leaf-gateleg-terrace-table.usdz",
+  "file_size_bytes": 488572,
+  "sha256": "31615a92f025aacb43a715467ef9091dbb5c97758fec4813c761fb34bef6ab50",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

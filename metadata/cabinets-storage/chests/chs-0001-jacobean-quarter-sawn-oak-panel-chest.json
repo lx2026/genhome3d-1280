@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0001",
+  "slug": "chs-0001-jacobean-quarter-sawn-oak-panel-chest",
+  "title": "Jacobean Quarter-Sawn Oak Panel Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "classic-heritage",
+    "jacobean",
+    "one hinged lid",
+    "three front panels",
+    "four stile feet"
+  ],
+  "dimensions_m": {
+    "width": 1.25,
+    "depth": 0.55,
+    "height": 0.65
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 1968,
+    "triangles": 3844,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0001-jacobean-quarter-sawn-oak-panel-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0001-jacobean-quarter-sawn-oak-panel-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0001-jacobean-quarter-sawn-oak-panel-chest.usdz",
+  "file_size_bytes": 597721,
+  "sha256": "cbd0c2d519a9e8b8a9f90f80e1eb7b11efa486b84ef787bbd6897add84332b92",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

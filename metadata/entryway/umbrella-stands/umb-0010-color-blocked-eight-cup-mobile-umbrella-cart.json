@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0010",
+  "slug": "umb-0010-color-blocked-eight-cup-mobile-umbrella-cart",
+  "title": "Color-Blocked Eight-Cup Mobile Umbrella Cart",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella cart",
+    "modern-drainage",
+    "eight removable cups",
+    "four by two array",
+    "side handle",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.44,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 31,
+    "vertices": 8672,
+    "triangles": 17252,
+    "material_slots": 7
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0010-color-blocked-eight-cup-mobile-umbrella-cart.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0010-color-blocked-eight-cup-mobile-umbrella-cart.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0010-color-blocked-eight-cup-mobile-umbrella-cart.usdz",
+  "file_size_bytes": 1497575,
+  "sha256": "b110f5acea783098f03ed40a3f025401c2e923b5751b6561712999ca2122f4d4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

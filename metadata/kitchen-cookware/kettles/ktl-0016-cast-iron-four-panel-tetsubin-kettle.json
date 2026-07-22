@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0016",
+  "slug": "ktl-0016-cast-iron-four-panel-tetsubin-kettle",
+  "title": "Cast-Iron Four-Panel Tetsubin Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "traditional-and-serving-kettles",
+    "one complete standalone kettle assembly",
+    "one round cast-iron body",
+    "exactly four raised body panels",
+    "exactly one folding iron bail handle",
+    "exactly one short tapered spout"
+  ],
+  "dimensions_m": {
+    "width": 0.225,
+    "depth": 0.185,
+    "height": 0.22
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 6230,
+    "triangles": 12372,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.usdz",
+  "file_size_bytes": 729935,
+  "sha256": "f29bd8374fa0cfd9870b3824412b8a34a41e1da72fe50196f464a34191ae39c7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

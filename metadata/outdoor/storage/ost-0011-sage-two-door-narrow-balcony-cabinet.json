@@ -1,0 +1,55 @@
+{
+  "id": "OST-0011",
+  "slug": "ost-0011-sage-two-door-narrow-balcony-cabinet",
+  "title": "Sage Two-Door Narrow Balcony Cabinet",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "compact-mobile",
+    "one narrow balcony cabinet",
+    "two doors",
+    "four internal shelf edges",
+    "two loop pulls",
+    "four adjustable feet"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.38,
+    "height": 1.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1544,
+    "triangles": 2940,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0011-sage-two-door-narrow-balcony-cabinet.usdz",
+  "preview": "previews/outdoor/storage/ost-0011-sage-two-door-narrow-balcony-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0011-sage-two-door-narrow-balcony-cabinet.usdz",
+  "file_size_bytes": 485572,
+  "sha256": "0bdb3b3abcdc5ca055dd3ccf0e2fe6404debebe9f00ffa820dca64cde6569933",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

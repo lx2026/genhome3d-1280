@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0012",
+  "slug": "bak-0012-cobalt-twelve-flute-oval-gratin-dish",
+  "title": "Cobalt Twelve-Flute Oval Gratin Dish",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "baking-dishes-and-roasters",
+    "one complete standalone bakeware assembly",
+    "one oval gratin dish",
+    "exactly twelve exterior wall flutes",
+    "exactly two ear handles",
+    "one continuous oval foot ring"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.24,
+    "height": 0.065
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 4336,
+    "triangles": 8608,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0012-cobalt-twelve-flute-oval-gratin-dish.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0012-cobalt-twelve-flute-oval-gratin-dish.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0012-cobalt-twelve-flute-oval-gratin-dish.usdz",
+  "file_size_bytes": 401576,
+  "sha256": "6b0e22ea890d803e240698656bad1747e955041b64c69a519ee24cebd87b4b57",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

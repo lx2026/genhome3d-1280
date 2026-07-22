@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0013",
+  "slug": "mir-0013-antique-silver-thirty-bead-oval-mirror",
+  "title": "Antique-Silver Thirty-Bead Oval Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "decorative-ornamental-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one vertical oval mirror panel",
+    "one antique-silver outer rim",
+    "exactly thirty raised perimeter beads",
+    "one narrow inner reveal"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.08,
+    "height": 0.96
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 34,
+    "vertices": 7764,
+    "triangles": 15396,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.usdz",
+  "file_size_bytes": 782567,
+  "sha256": "8ceb23a0fe8aac42c1c26f5cb214a69fd227889b7a77ac2e93709521577b170b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0008",
+  "slug": "ctb-0008-aqua-single-hinge-folding-prep-board",
+  "title": "Aqua Single-Hinge Folding Prep Board",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "synthetic-and-composite-boards",
+    "one complete standalone cutting-board assembly",
+    "one flexible aqua prep board",
+    "exactly two equal folding panels",
+    "exactly one living hinge channel",
+    "exactly one oval hanging slot"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.3,
+    "height": 0.012
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 880,
+    "triangles": 1752,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0008-aqua-single-hinge-folding-prep-board.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0008-aqua-single-hinge-folding-prep-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0008-aqua-single-hinge-folding-prep-board.usdz",
+  "file_size_bytes": 293738,
+  "sha256": "32c2da10f14eb47206afee63b94667620615aa84f7e355025333c22ab9ac1500",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

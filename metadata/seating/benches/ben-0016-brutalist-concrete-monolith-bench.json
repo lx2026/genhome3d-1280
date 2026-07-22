@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0016",
+  "slug": "ben-0016-brutalist-concrete-monolith-bench",
+  "title": "Brutalist Concrete Monolith Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "architectural-outdoor",
+    "brutalist",
+    "concrete",
+    "monolith",
+    "battered-pier"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 0.48,
+    "height": 0.47
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 288,
+    "triangles": 564,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0016-brutalist-concrete-monolith-bench.usdz",
+  "preview": "previews/seating/benches/ben-0016-brutalist-concrete-monolith-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0016-brutalist-concrete-monolith-bench.usdz",
+  "file_size_bytes": 360707,
+  "sha256": "9c492482a405eb688799aa0f136abc18423b8feceb1f74ee3498faf27df44c8c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

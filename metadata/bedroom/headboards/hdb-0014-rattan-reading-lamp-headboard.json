@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0014",
+  "slug": "hdb-0014-rattan-reading-lamp-headboard",
+  "title": "Rattan Reading-Lamp Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "storage-integrated",
+    "rattan",
+    "reading-lamps",
+    "oak-frame",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.1,
+    "depth": 0.19,
+    "height": 1.38
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 27,
+    "vertices": 3048,
+    "triangles": 5988,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0014-rattan-reading-lamp-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0014-rattan-reading-lamp-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0014-rattan-reading-lamp-headboard.usdz",
+  "file_size_bytes": 1379070,
+  "sha256": "c05cd7a017bed8a3af0e20a938771c283553da3841275dfcd8cae9e5e2c54c83",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0009",
+  "slug": "crb-0009-walnut-clear-acrylic-perforated-crib",
+  "title": "Walnut Clear-Acrylic Perforated Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "modern-convertible",
+    "walnut",
+    "clear-acrylic",
+    "perforated-panels",
+    "transparent"
+  ],
+  "dimensions_m": {
+    "width": 1.46,
+    "depth": 0.8,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 93,
+    "vertices": 11968,
+    "triangles": 23564,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.usdz",
+  "file_size_bytes": 1072560,
+  "sha256": "cfd99e46be9a78b3dabb569a2957c85d9873f0093df992478c66124e55626b08",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

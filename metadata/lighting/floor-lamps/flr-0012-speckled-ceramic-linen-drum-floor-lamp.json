@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0012",
+  "slug": "flr-0012-speckled-ceramic-linen-drum-floor-lamp",
+  "title": "Speckled-Ceramic Linen-Drum Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "compact-residential",
+    "one complete freestanding floor lamp assembly",
+    "one tapered ceramic base",
+    "one narrow neck",
+    "one linen drum shade",
+    "one socket",
+    "one short finial"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.5,
+    "height": 1.46
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1770,
+    "triangles": 3432,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.usdz",
+  "file_size_bytes": 849588,
+  "sha256": "4f3d3996532a5f97b775e493725a3c7b51c29348d616839ff886afc73ae16f25",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0020",
+  "slug": "crd-0020-brutalist-charcoal-concrete-staggered-credenza",
+  "title": "Brutalist Charcoal-Concrete Staggered Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "sculptural-specialty",
+    "brutalist",
+    "three staggered volumes",
+    "three push doors",
+    "stepped slab base"
+  ],
+  "dimensions_m": {
+    "width": 1.85,
+    "depth": 0.55,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1152,
+    "triangles": 2256,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0020-brutalist-charcoal-concrete-staggered-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0020-brutalist-charcoal-concrete-staggered-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0020-brutalist-charcoal-concrete-staggered-credenza.usdz",
+  "file_size_bytes": 522684,
+  "sha256": "7929fdd53e200f5421848934eb095b7700f286d3a9b14ddb72cba79d20c29889",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

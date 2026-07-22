@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0018",
+  "slug": "chs-0018-natural-rattan-oval-pod-chest",
+  "title": "Natural-Rattan Oval Pod Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "sculptural-specialty",
+    "pod",
+    "one clamshell lid",
+    "two loop handles",
+    "loop base"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.58,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 7744,
+    "triangles": 15372,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0018-natural-rattan-oval-pod-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0018-natural-rattan-oval-pod-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0018-natural-rattan-oval-pod-chest.usdz",
+  "file_size_bytes": 1077405,
+  "sha256": "8ba4c7f96c45a5be5afa1762f915863077bdbe548a4a41de94d3cbede132962f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

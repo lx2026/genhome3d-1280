@@ -1,0 +1,55 @@
+{
+  "id": "MXB-0002",
+  "slug": "mxb-0002-hammered-copper-two-handle-mixing-bowl",
+  "title": "Hammered Copper Two-Handle Mixing Bowl",
+  "category": "kitchen-cookware",
+  "subcategory": "mixing-bowls",
+  "category_path": "kitchen-cookware/mixing-bowls",
+  "category_label": "Kitchen Cookware / Mixing Bowls",
+  "tags": [
+    "kitchen cookware mixing bowls",
+    "metal-mixing-bowls",
+    "one complete standalone mixing-bowl assembly",
+    "one hammered copper body",
+    "exactly two opposed brass loop handles",
+    "exactly one raised foot ring",
+    "one fully open interior"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.3,
+    "height": 0.14
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 3865,
+    "triangles": 7618,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.usdz",
+  "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.usdz",
+  "file_size_bytes": 1001656,
+  "sha256": "ce0bbe1ae09697c13084c716f925df540ed37ea410d83a9a7fe59dcd74c52442",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

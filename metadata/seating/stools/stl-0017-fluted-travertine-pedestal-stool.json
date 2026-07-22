@@ -1,0 +1,54 @@
+{
+  "id": "STL-0017",
+  "slug": "stl-0017-fluted-travertine-pedestal-stool",
+  "title": "Fluted Travertine Pedestal Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "architectural-outdoor",
+    "travertine",
+    "fluted",
+    "pedestal",
+    "leather-pad"
+  ],
+  "dimensions_m": {
+    "width": 0.44,
+    "depth": 0.44,
+    "height": 0.47
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 3584,
+    "triangles": 7080,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0017-fluted-travertine-pedestal-stool.usdz",
+  "preview": "previews/seating/stools/stl-0017-fluted-travertine-pedestal-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0017-fluted-travertine-pedestal-stool.usdz",
+  "file_size_bytes": 1108327,
+  "sha256": "d9b233e59d33c2dd92347d01c7e461e8d5a4e9289f92936b11b132bd9638acef",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

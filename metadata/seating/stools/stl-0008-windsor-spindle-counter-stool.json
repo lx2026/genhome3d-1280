@@ -1,0 +1,54 @@
+{
+  "id": "STL-0008",
+  "slug": "stl-0008-windsor-spindle-counter-stool",
+  "title": "Windsor Spindle Counter Stool",
+  "category": "seating",
+  "subcategory": "stools",
+  "category_path": "seating/stools",
+  "category_label": "Seating / Stools",
+  "tags": [
+    "stool",
+    "counter-bar",
+    "windsor",
+    "oak",
+    "spindle-back",
+    "h-stretcher"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.52,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2652,
+    "triangles": 5192,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/stools/stl-0008-windsor-spindle-counter-stool.usdz",
+  "preview": "previews/seating/stools/stl-0008-windsor-spindle-counter-stool.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0008-windsor-spindle-counter-stool.usdz",
+  "file_size_bytes": 552679,
+  "sha256": "d2e34dd68caffa3df740edabd1706bf9bce56748a5cfb831aa6d5026e5ac5986",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

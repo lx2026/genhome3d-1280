@@ -1,0 +1,56 @@
+{
+  "id": "BAC-0007",
+  "slug": "bac-0007-satin-brass-twin-reserve-toilet-roll-stand",
+  "title": "Satin-Brass Twin-Reserve Toilet-Roll Stand",
+  "category": "bathroom",
+  "subcategory": "accessories",
+  "category_path": "bathroom/accessories",
+  "category_label": "Bathroom / Accessories",
+  "tags": [
+    "bathroom accessories",
+    "sanitary-utility",
+    "one complete freestanding bathroom-accessory assembly",
+    "one round weighted base",
+    "one vertical post",
+    "one horizontal active-roll spindle",
+    "exactly two reserve-roll sleeves",
+    "one spindle stop cap"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.18,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1984,
+    "triangles": 3944,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/accessories/bac-0007-satin-brass-twin-reserve-toilet-roll-stand.usdz",
+  "preview": "previews/bathroom/accessories/bac-0007-satin-brass-twin-reserve-toilet-roll-stand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0007-satin-brass-twin-reserve-toilet-roll-stand.usdz",
+  "file_size_bytes": 489761,
+  "sha256": "4ddf809513576a2894c9095a9c867115d1fa69172f2d79884d9fe52b1ee72378",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

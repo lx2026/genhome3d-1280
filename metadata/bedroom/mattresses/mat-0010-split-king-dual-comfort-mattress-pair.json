@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0010",
+  "slug": "mat-0010-split-king-dual-comfort-mattress-pair",
+  "title": "Split-King Dual-Comfort Mattress Pair",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foam-hybrid",
+    "split king",
+    "two halves"
+  ],
+  "dimensions_m": {
+    "width": 1.93,
+    "depth": 2.03,
+    "height": 0.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 3920,
+    "triangles": 6784,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.usdz",
+  "file_size_bytes": 1059258,
+  "sha256": "d5e375fcd61083a5c0600bf72a87a8ca26fa58c4e1f3b4256e2bc77f7c46bd88",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

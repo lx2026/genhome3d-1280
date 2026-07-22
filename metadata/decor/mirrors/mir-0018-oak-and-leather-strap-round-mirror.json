@@ -1,0 +1,56 @@
+{
+  "id": "MIR-0018",
+  "slug": "mir-0018-oak-and-leather-strap-round-mirror",
+  "title": "Oak-and-Leather Strap Round Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "architectural-utility-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one circular mirror panel",
+    "one white-oak ring frame",
+    "one continuous leather suspension strap",
+    "exactly two brass strap studs",
+    "one upper wall hook"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.12,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2952,
+    "triangles": 5784,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.usdz",
+  "file_size_bytes": 1657910,
+  "sha256": "a55e7262729f0f7102f0842475b3c8b3cc00347b4a44a3bb5ebd147e92b42c0b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

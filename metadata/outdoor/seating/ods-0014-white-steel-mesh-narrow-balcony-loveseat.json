@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0014",
+  "slug": "ods-0014-white-steel-mesh-narrow-balcony-loveseat",
+  "title": "White-Steel Mesh Narrow Balcony Loveseat",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "compact-portable",
+    "one narrow two-place loveseat",
+    "one mesh seat-and-back panel",
+    "one center seam",
+    "two open arms",
+    "two sled side frames"
+  ],
+  "dimensions_m": {
+    "width": 1.12,
+    "depth": 0.58,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1988,
+    "triangles": 3712,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.usdz",
+  "preview": "previews/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.usdz",
+  "file_size_bytes": 599733,
+  "sha256": "2b0d59568ed1df5dcb259d71749a4945694a337fe85f530d85a7bd94adb08858",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

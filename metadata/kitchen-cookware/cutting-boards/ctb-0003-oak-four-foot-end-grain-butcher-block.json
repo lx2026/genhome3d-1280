@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0003",
+  "slug": "ctb-0003-oak-four-foot-end-grain-butcher-block",
+  "title": "Oak Four-Foot End-Grain Butcher Block",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "wood-grain-boards",
+    "one complete standalone cutting-board assembly",
+    "one thick rectangular end-grain block",
+    "exactly four round support feet",
+    "exactly two opposed finger notches",
+    "one checker end-grain cutting field"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.34,
+    "height": 0.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 53,
+    "vertices": 4560,
+    "triangles": 8908,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0003-oak-four-foot-end-grain-butcher-block.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0003-oak-four-foot-end-grain-butcher-block.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0003-oak-four-foot-end-grain-butcher-block.usdz",
+  "file_size_bytes": 978160,
+  "sha256": "67e92c633dba779a29ede7095bd35dda88d73bd84eef69a20a0370f84127fe5e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CON-0001",
+  "slug": "con-0001-georgian-mahogany-bow-front-drawer-console",
+  "title": "Georgian Mahogany Bow-Front Drawer Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "heritage-craft",
+    "georgian",
+    "bow-front",
+    "three-drawers",
+    "tapered-legs"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.38,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1432,
+    "triangles": 2816,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0001-georgian-mahogany-bow-front-drawer-console.usdz",
+  "preview": "previews/tables/console/con-0001-georgian-mahogany-bow-front-drawer-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0001-georgian-mahogany-bow-front-drawer-console.usdz",
+  "file_size_bytes": 820060,
+  "sha256": "ca16c3efc42a23741ee71d19d24e6c2bcacf124f361205ff0ba1051c14eea0c4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

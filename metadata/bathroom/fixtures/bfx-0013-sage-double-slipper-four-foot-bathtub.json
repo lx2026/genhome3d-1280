@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0013",
+  "slug": "bfx-0013-sage-double-slipper-four-foot-bathtub",
+  "title": "Sage Double-Slipper Four-Foot Bathtub",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "baths-soaking",
+    "one complete freestanding bathroom-fixture assembly",
+    "one double-slipper tub shell",
+    "exactly two raised back ends",
+    "one lowered center rim",
+    "exactly four block feet",
+    "one central faucet deck",
+    "one short filler spout"
+  ],
+  "dimensions_m": {
+    "width": 1.72,
+    "depth": 0.76,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 8860,
+    "triangles": 17644,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0013-sage-double-slipper-four-foot-bathtub.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0013-sage-double-slipper-four-foot-bathtub.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0013-sage-double-slipper-four-foot-bathtub.usdz",
+  "file_size_bytes": 1250017,
+  "sha256": "7715721d27c6c124c2268b476343cc322a19161f6b207d18e7aa7a1d8e358777",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

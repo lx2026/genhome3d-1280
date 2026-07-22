@@ -1,0 +1,54 @@
+{
+  "id": "SHS-0020",
+  "slug": "shs-0020-brutalist-cork-steel-four-bay-cantilever-shoe-bench",
+  "title": "Brutalist Cork-and-Steel Four-Bay Cantilever Shoe Bench",
+  "category": "entryway",
+  "subcategory": "shoe-storage",
+  "category_path": "entryway/shoe-storage",
+  "category_label": "Entryway / Shoe Storage",
+  "tags": [
+    "shoe storage",
+    "sculptural-specialty",
+    "four open bays",
+    "cork bench slab",
+    "two folded end plates",
+    "rear bridge"
+  ],
+  "dimensions_m": {
+    "width": 1.16,
+    "depth": 0.46,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1400,
+    "triangles": 2744,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/shoe-storage/shs-0020-brutalist-cork-steel-four-bay-cantilever-shoe-bench.usdz",
+  "preview": "previews/entryway/shoe-storage/shs-0020-brutalist-cork-steel-four-bay-cantilever-shoe-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/shoe-storage/shs-0020-brutalist-cork-steel-four-bay-cantilever-shoe-bench.usdz",
+  "file_size_bytes": 470072,
+  "sha256": "1809f92b028ce586e6341f64bbe53b3f18f966ba6a6f3e1b94a83a2ac8105dbf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

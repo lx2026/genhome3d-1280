@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0016",
+  "slug": "wrd-0016-oak-drum-two-door-radial-wardrobe",
+  "title": "Oak Drum Two-Door Radial Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "sculptural-specialty",
+    "drum",
+    "two curved doors",
+    "one drawer",
+    "circular plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.98,
+    "depth": 0.88,
+    "height": 1.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 3084,
+    "triangles": 5988,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0016-oak-drum-two-door-radial-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0016-oak-drum-two-door-radial-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0016-oak-drum-two-door-radial-wardrobe.usdz",
+  "file_size_bytes": 715847,
+  "sha256": "ca526ddfdb99d71578aa5d32ea88f103e26dc9b2736b02ac4300c34fee154285",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

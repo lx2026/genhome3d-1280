@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0016",
+  "slug": "tlp-0016-black-steel-twin-blade-beacon-table-lamp",
+  "title": "Black-Steel Twin-Blade Beacon Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "architectural-statement",
+    "one complete freestanding tabletop lamp assembly",
+    "one rectangular weighted base",
+    "one vertical black spine",
+    "exactly two parallel opal blades",
+    "two upper caps and two lower collars",
+    "one concealed driver box"
+  ],
+  "dimensions_m": {
+    "width": 0.24,
+    "depth": 0.18,
+    "height": 0.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2144,
+    "triangles": 4244,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.usdz",
+  "file_size_bytes": 430658,
+  "sha256": "69c3f051cfcf8c9c88e478517ad127e536dd77359d7cb9069d05ebaa894ac316",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

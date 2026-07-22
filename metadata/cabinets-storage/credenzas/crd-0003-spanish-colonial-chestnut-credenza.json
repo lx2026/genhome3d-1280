@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0003",
+  "slug": "crd-0003-spanish-colonial-chestnut-credenza",
+  "title": "Spanish Colonial Chestnut Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "classic-heritage",
+    "spanish-colonial",
+    "three drawers",
+    "three carved doors",
+    "six strap hinges"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.52,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 2992,
+    "triangles": 5856,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0003-spanish-colonial-chestnut-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0003-spanish-colonial-chestnut-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0003-spanish-colonial-chestnut-credenza.usdz",
+  "file_size_bytes": 716809,
+  "sha256": "b2db25f65fcfc543bad8a0fa5bf74223b6541cb51d84c147cdcfe26037aa0e97",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

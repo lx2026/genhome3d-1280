@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0006",
+  "slug": "chs-0006-scandinavian-white-oak-lift-top-chest",
+  "title": "Scandinavian White-Oak Lift-Top Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "modern-utility",
+    "scandinavian",
+    "one flush lift top",
+    "finger gap",
+    "two sled supports"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.48,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 1128,
+    "triangles": 2220,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0006-scandinavian-white-oak-lift-top-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0006-scandinavian-white-oak-lift-top-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0006-scandinavian-white-oak-lift-top-chest.usdz",
+  "file_size_bytes": 573101,
+  "sha256": "8a04394ec059cb3d7c7b48b399dd4b382cd68b9883e573b3b9b50de39d16c405",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

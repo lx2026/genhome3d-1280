@@ -1,0 +1,54 @@
+{
+  "id": "CHS-0016",
+  "slug": "chs-0016-oak-drum-tambour-chest",
+  "title": "Oak Drum Tambour Chest",
+  "category": "cabinets-storage",
+  "subcategory": "chests",
+  "category_path": "cabinets-storage/chests",
+  "category_label": "Cabinets Storage / Chests",
+  "tags": [
+    "chest",
+    "sculptural-specialty",
+    "drum",
+    "curved tambour lid",
+    "circular reveal",
+    "round plinth"
+  ],
+  "dimensions_m": {
+    "width": 0.82,
+    "depth": 0.82,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 28180,
+    "triangles": 55764,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/chests/chs-0016-oak-drum-tambour-chest.usdz",
+  "preview": "previews/cabinets-storage/chests/chs-0016-oak-drum-tambour-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0016-oak-drum-tambour-chest.usdz",
+  "file_size_bytes": 2188891,
+  "sha256": "ae4f2f1f2d2c93e23184072a5351f0715c75ee74b83000c304171993db54b7d2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

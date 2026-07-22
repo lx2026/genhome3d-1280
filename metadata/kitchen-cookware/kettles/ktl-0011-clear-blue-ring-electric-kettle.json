@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0011",
+  "slug": "ktl-0011-clear-blue-ring-electric-kettle",
+  "title": "Clear Blue-Ring Electric Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "electric-kettles",
+    "one complete standalone kettle assembly",
+    "one clear cylindrical vessel",
+    "exactly one blue translucent base ring",
+    "exactly one black rear handle",
+    "exactly one push-button lid"
+  ],
+  "dimensions_m": {
+    "width": 0.225,
+    "depth": 0.19,
+    "height": 0.25
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 4324,
+    "triangles": 8572,
+    "material_slots": 5
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.usdz",
+  "file_size_bytes": 1178848,
+  "sha256": "8eac864ed8a1f52fe2563db375851f6f4271747236566b65f8bf9975efe73f93",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

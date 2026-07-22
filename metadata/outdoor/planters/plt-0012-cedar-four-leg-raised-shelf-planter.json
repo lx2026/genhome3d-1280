@@ -1,0 +1,54 @@
+{
+  "id": "PLT-0012",
+  "slug": "plt-0012-cedar-four-leg-raised-shelf-planter",
+  "title": "Cedar Four-Leg Raised Shelf Planter",
+  "category": "outdoor",
+  "subcategory": "planters",
+  "category_path": "outdoor/planters",
+  "category_label": "Outdoor / Planters",
+  "tags": [
+    "outdoor planters",
+    "compact-raised",
+    "one cedar planter box",
+    "one dark liner",
+    "four raised legs",
+    "one lower slatted shelf"
+  ],
+  "dimensions_m": {
+    "width": 0.92,
+    "depth": 0.48,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1824,
+    "triangles": 3588,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/planters/plt-0012-cedar-four-leg-raised-shelf-planter.usdz",
+  "preview": "previews/outdoor/planters/plt-0012-cedar-four-leg-raised-shelf-planter.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/planters/plt-0012-cedar-four-leg-raised-shelf-planter.usdz",
+  "file_size_bytes": 532171,
+  "sha256": "b99bb1018084babf0c48ff0445a2f7195c2627e13dd09d3a3ab57ed82ad60534",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

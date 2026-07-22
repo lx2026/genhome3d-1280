@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0014",
+  "slug": "mat-0014-twin-woven-tatami-mattress",
+  "title": "Twin Woven Tatami Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "natural-low-profile",
+    "twin",
+    "tatami"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 2.0,
+    "height": 0.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 72,
+    "vertices": 9616,
+    "triangles": 15584,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.usdz",
+  "file_size_bytes": 1215846,
+  "sha256": "b155a9c41d16c9ee693b67856d0c838cf35b4d5c0326c24283f49c6e5192a9be",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

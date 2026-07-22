@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0006",
+  "slug": "vny-0006-mid-century-walnut-offset-round-mirror-vanity",
+  "title": "Mid-Century Walnut Offset-Round-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "modern-integrated",
+    "mid century",
+    "three drawers",
+    "offset round mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.100002,
+    "depth": 0.46,
+    "height": 1.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2688,
+    "triangles": 5316,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.usdz",
+  "file_size_bytes": 1118743,
+  "sha256": "52d5fc9acd701f376038ded62cb99d8734cd8c0ddfd7fdb61342d1b61282f338",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

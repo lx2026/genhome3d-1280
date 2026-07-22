@@ -1,0 +1,54 @@
+{
+  "id": "KNV-0006",
+  "slug": "knv-0006-twelve-tooth-bread-knife",
+  "title": "Twelve-Tooth Bread Knife",
+  "category": "tableware-utensils",
+  "subcategory": "knives",
+  "category_path": "tableware-utensils/knives",
+  "category_label": "Tableware Utensils / Knives",
+  "tags": [
+    "tableware utensils knives",
+    "bread-slicing-knives",
+    "one complete standalone knife",
+    "one long bread blade",
+    "exactly twelve scalloped teeth",
+    "one black handle"
+  ],
+  "dimensions_m": {
+    "width": 0.365,
+    "depth": 0.038,
+    "height": 0.025
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 1360,
+    "triangles": 2656,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.usdz",
+  "preview": "previews/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.usdz",
+  "file_size_bytes": 612429,
+  "sha256": "a6521caf6c455ffab823ab58a2e9e7cde8acd420c83773f590d880e988285534",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

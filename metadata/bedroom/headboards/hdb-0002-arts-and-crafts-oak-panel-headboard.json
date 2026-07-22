@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0002",
+  "slug": "hdb-0002-arts-and-crafts-oak-panel-headboard",
+  "title": "Arts-and-Crafts Oak Panel Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "traditional-craft",
+    "arts-and-crafts",
+    "oak",
+    "recessed-panels",
+    "full"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.12,
+    "height": 1.25
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 1448,
+    "triangles": 2836,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.usdz",
+  "file_size_bytes": 562191,
+  "sha256": "e834f0f2e0d81336ba00cbc8aae373015cd2e8fadf1de459dca5a9c413ab352a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

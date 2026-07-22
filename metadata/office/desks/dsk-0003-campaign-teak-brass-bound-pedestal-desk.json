@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0003",
+  "slug": "dsk-0003-campaign-teak-brass-bound-pedestal-desk",
+  "title": "Campaign Teak Brass-Bound Pedestal Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "classic-heritage",
+    "campaign",
+    "five drawers",
+    "twelve brass straps",
+    "four block feet"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.68,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 43,
+    "vertices": 3440,
+    "triangles": 6612,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0003-campaign-teak-brass-bound-pedestal-desk.usdz",
+  "preview": "previews/office/desks/dsk-0003-campaign-teak-brass-bound-pedestal-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0003-campaign-teak-brass-bound-pedestal-desk.usdz",
+  "file_size_bytes": 1001310,
+  "sha256": "aea72b277ec33bacf2f62e4e474e71392171bb6833caa6afb7850ac6e3da54b9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "FLC-0004",
+  "slug": "flc-0004-arts-and-crafts-quarter-sawn-oak-five-drawer-flat-file",
+  "title": "Arts-and-Crafts Quarter-Sawn-Oak Five-Drawer Flat File",
+  "category": "office",
+  "subcategory": "filing-cabinets",
+  "category_path": "office/filing-cabinets",
+  "category_label": "Office / Filing Cabinets",
+  "tags": [
+    "filing cabinet",
+    "classic-heritage",
+    "arts and crafts",
+    "five drawers",
+    "five label pulls",
+    "pegged frame",
+    "one stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.58,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 32,
+    "vertices": 2128,
+    "triangles": 4128,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/filing-cabinets/flc-0004-arts-and-crafts-quarter-sawn-oak-five-drawer-flat-file.usdz",
+  "preview": "previews/office/filing-cabinets/flc-0004-arts-and-crafts-quarter-sawn-oak-five-drawer-flat-file.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/filing-cabinets/flc-0004-arts-and-crafts-quarter-sawn-oak-five-drawer-flat-file.usdz",
+  "file_size_bytes": 569512,
+  "sha256": "a0fc2be60d2c7f06b4f5cd6d80cf9412ea6122da8d0f64919c0ec83c7ff9b4ea",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

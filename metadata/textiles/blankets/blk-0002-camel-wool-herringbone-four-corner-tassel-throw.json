@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0002",
+  "slug": "blk-0002-camel-wool-herringbone-four-corner-tassel-throw",
+  "title": "Camel-Wool Herringbone Four-Corner-Tassel Throw",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "woven-natural-fiber-throws",
+    "one complete standalone folded blanket",
+    "exactly two broad folded layers",
+    "one continuous herringbone field",
+    "exactly four corner tassels"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.52,
+    "height": 0.16
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 52,
+    "vertices": 4528,
+    "triangles": 6832,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.usdz",
+  "preview": "previews/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.usdz",
+  "file_size_bytes": 986576,
+  "sha256": "8c26612f4a1a8ebbc4972f67013b5fa720c2b0bb163db016b6708765193871e5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

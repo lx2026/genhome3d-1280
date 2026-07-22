@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0019",
+  "slug": "flr-0019-brushed-nickel-six-tube-cluster-floor-lamp",
+  "title": "Brushed-Nickel Six-Tube Cluster Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "architectural-statement",
+    "one complete freestanding floor lamp assembly",
+    "one hexagonal base",
+    "exactly six vertical light tubes",
+    "three stepped tube heights",
+    "six lower collars",
+    "one cable spine"
+  ],
+  "dimensions_m": {
+    "width": 0.55,
+    "depth": 0.55,
+    "height": 1.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 3300,
+    "triangles": 6544,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0019-brushed-nickel-six-tube-cluster-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0019-brushed-nickel-six-tube-cluster-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0019-brushed-nickel-six-tube-cluster-floor-lamp.usdz",
+  "file_size_bytes": 820159,
+  "sha256": "d0c73be4f14d31919a51d0bd529d0c43c8a7e2296cf197673dcba6fba1a3faf2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

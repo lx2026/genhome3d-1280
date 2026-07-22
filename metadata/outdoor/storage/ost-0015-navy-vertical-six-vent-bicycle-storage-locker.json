@@ -1,0 +1,56 @@
+{
+  "id": "OST-0015",
+  "slug": "ost-0015-navy-vertical-six-vent-bicycle-storage-locker",
+  "title": "Navy Vertical Six-Vent Bicycle Storage Locker",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "compact-mobile",
+    "one bicycle storage locker",
+    "one full-height door",
+    "six ventilation slots",
+    "one wheel channel",
+    "one loop handle",
+    "four anchor feet"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 1.12,
+    "height": 1.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 2412,
+    "triangles": 4720,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0015-navy-vertical-six-vent-bicycle-storage-locker.usdz",
+  "preview": "previews/outdoor/storage/ost-0015-navy-vertical-six-vent-bicycle-storage-locker.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0015-navy-vertical-six-vent-bicycle-storage-locker.usdz",
+  "file_size_bytes": 432914,
+  "sha256": "1924d9d2154f4d316139d026b9731fdbee933ebf2462f47a66a5fbe2efa71cfd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

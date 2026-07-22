@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0003",
+  "slug": "glw-0003-smoke-eight-facet-highball-glass",
+  "title": "Smoke Eight-Facet Highball Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "tumblers-highballs",
+    "one complete standalone open vessel",
+    "exactly eight planar exterior facets",
+    "one thick base",
+    "one open octagonal rim"
+  ],
+  "dimensions_m": {
+    "width": 0.075,
+    "depth": 0.075,
+    "height": 0.155
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 2,
+    "vertices": 513,
+    "triangles": 1022,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0003-smoke-eight-facet-highball-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0003-smoke-eight-facet-highball-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0003-smoke-eight-facet-highball-glass.usdz",
+  "file_size_bytes": 81963,
+  "sha256": "cbd05a483f69c108baba80c860e71e4756fca8c0d051dfa9a5a19f2be9b4d185",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

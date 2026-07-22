@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0018",
+  "slug": "arm-0018-walnut-reading-armchair",
+  "title": "Walnut Reading Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "oversized",
+    "reading-chair",
+    "walnut",
+    "upholstered",
+    "rear-brace"
+  ],
+  "dimensions_m": {
+    "width": 0.920037,
+    "depth": 0.979967,
+    "height": 1.000011
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 1376,
+    "triangles": 2708,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0018-walnut-reading-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0018-walnut-reading-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0018-walnut-reading-armchair.usdz",
+  "file_size_bytes": 1248285,
+  "sha256": "a8ab4b3369027a3923432d503fa979604cc257eca77221cd7ac56a2841e3e8c3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

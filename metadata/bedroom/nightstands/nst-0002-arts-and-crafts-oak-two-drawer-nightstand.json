@@ -1,0 +1,53 @@
+{
+  "id": "NST-0002",
+  "slug": "nst-0002-arts-and-crafts-oak-two-drawer-nightstand",
+  "title": "Arts-and-Crafts Oak Two-Drawer Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "traditional-craft",
+    "arts and crafts",
+    "two drawers",
+    "through tenons"
+  ],
+  "dimensions_m": {
+    "width": 0.52,
+    "depth": 0.44,
+    "height": 0.65
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1400,
+    "triangles": 2648,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0002-arts-and-crafts-oak-two-drawer-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0002-arts-and-crafts-oak-two-drawer-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0002-arts-and-crafts-oak-two-drawer-nightstand.usdz",
+  "file_size_bytes": 596691,
+  "sha256": "61b601276ec8e2083e7efc7e770507c940b59f26e9f7549fbe02e42b0601165b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

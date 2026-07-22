@@ -1,0 +1,54 @@
+{
+  "id": "PLB-0007",
+  "slug": "plb-0007-terracotta-twelve-flute-dessert-plate",
+  "title": "Terracotta Twelve-Flute Dessert Plate",
+  "category": "tableware-utensils",
+  "subcategory": "plates-bowls",
+  "category_path": "tableware-utensils/plates-bowls",
+  "category_label": "Tableware Utensils / Plates Bowls",
+  "tags": [
+    "tableware utensils plates bowls",
+    "side-dessert-plates",
+    "one complete standalone plate",
+    "exactly twelve radial rim flutes",
+    "one glazed cream well",
+    "terracotta ceramic"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.22,
+    "height": 0.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 3913,
+    "triangles": 7770,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/plates-bowls/plb-0007-terracotta-twelve-flute-dessert-plate.usdz",
+  "preview": "previews/tableware-utensils/plates-bowls/plb-0007-terracotta-twelve-flute-dessert-plate.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0007-terracotta-twelve-flute-dessert-plate.usdz",
+  "file_size_bytes": 752639,
+  "sha256": "58f27408d932362b82e4de5fef02a5c728e323ff790a9089f075671237130cf7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

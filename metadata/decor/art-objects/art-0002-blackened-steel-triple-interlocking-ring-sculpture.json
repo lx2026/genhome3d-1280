@@ -1,0 +1,57 @@
+{
+  "id": "ART-0002",
+  "slug": "art-0002-blackened-steel-triple-interlocking-ring-sculpture",
+  "title": "Blackened-Steel Triple Interlocking-Ring Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "abstract-forms",
+    "one complete freestanding decorative art-object assembly",
+    "exactly three interlocking circular rings",
+    "one rectangular metal plinth",
+    "exactly three short mounting stems",
+    "rings form one triangular interlock",
+    "three continuous metal ring sections",
+    "three unobstructed open centers"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.24,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 2256,
+    "triangles": 4496,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0002-blackened-steel-triple-interlocking-ring-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0002-blackened-steel-triple-interlocking-ring-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0002-blackened-steel-triple-interlocking-ring-sculpture.usdz",
+  "file_size_bytes": 197336,
+  "sha256": "984839efb74969f264978b5f045e9258b6b35dce02013b23ab04c7ac588882ef",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

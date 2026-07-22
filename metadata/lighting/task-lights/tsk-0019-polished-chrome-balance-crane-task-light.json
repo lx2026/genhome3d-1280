@@ -1,0 +1,57 @@
+{
+  "id": "TSK-0019",
+  "slug": "tsk-0019-polished-chrome-balance-crane-task-light",
+  "title": "Polished-Chrome Balance-Crane Task Light",
+  "category": "lighting",
+  "subcategory": "task-lights",
+  "category_path": "lighting/task-lights",
+  "category_label": "Lighting / Task Lights",
+  "tags": [
+    "lighting task lights",
+    "architectural-studio",
+    "one complete freestanding desktop task-light assembly",
+    "one round base",
+    "one vertical mast",
+    "one horizontal boom",
+    "one spherical counterweight",
+    "one cylindrical downlight",
+    "exactly three joints"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.24,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2344,
+    "triangles": 4652,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.usdz",
+  "preview": "previews/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.usdz",
+  "file_size_bytes": 775247,
+  "sha256": "fd50996de2347685eac94adac79002adadd056772f2b3a99b64592ffd9b6985b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

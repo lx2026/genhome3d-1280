@@ -1,0 +1,55 @@
+{
+  "id": "OCH-0012",
+  "slug": "och-0012-birch-two-pad-kneeling-office-chair",
+  "title": "Birch Two-Pad Kneeling Office Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "compact-adaptive",
+    "kneeling",
+    "one saddle seat",
+    "two knee pads",
+    "one back pad",
+    "two bentwood rockers"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.82,
+    "height": 0.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2400,
+    "triangles": 4660,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0012-birch-two-pad-kneeling-office-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0012-birch-two-pad-kneeling-office-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0012-birch-two-pad-kneeling-office-chair.usdz",
+  "file_size_bytes": 1002800,
+  "sha256": "1f1e8cb446baad52755895e6bcbe01d453c9a289a67f1b9b70d8739b5c6e5687",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

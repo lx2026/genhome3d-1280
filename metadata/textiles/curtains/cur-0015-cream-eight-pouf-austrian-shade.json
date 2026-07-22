@@ -1,0 +1,55 @@
+{
+  "id": "CUR-0015",
+  "slug": "cur-0015-cream-eight-pouf-austrian-shade",
+  "title": "Cream Eight-Pouf Austrian Shade",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "decorative-valance-curtains",
+    "one complete standalone curtain assembly",
+    "one complete gathered shade",
+    "exactly eight rounded poufs",
+    "exactly two rows of four poufs",
+    "exactly four vertical lift tapes"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.28,
+    "height": 1.8
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 38,
+    "vertices": 9066,
+    "triangles": 16636,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0015-cream-eight-pouf-austrian-shade.usdz",
+  "preview": "previews/textiles/curtains/cur-0015-cream-eight-pouf-austrian-shade.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0015-cream-eight-pouf-austrian-shade.usdz",
+  "file_size_bytes": 1770335,
+  "sha256": "832e19545d0320a76429a12c91a7aff515eb1a20fd01254c92a946899dde143b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

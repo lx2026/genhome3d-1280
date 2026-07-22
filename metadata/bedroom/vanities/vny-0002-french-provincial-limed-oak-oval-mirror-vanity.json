@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0002",
+  "slug": "vny-0002-french-provincial-limed-oak-oval-mirror-vanity",
+  "title": "French Provincial Limed-Oak Oval-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "heritage-dressing",
+    "french provincial",
+    "three drawers",
+    "oval mirror"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.5,
+    "height": 1.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 4116,
+    "triangles": 7932,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0002-french-provincial-limed-oak-oval-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0002-french-provincial-limed-oak-oval-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0002-french-provincial-limed-oak-oval-mirror-vanity.usdz",
+  "file_size_bytes": 1298446,
+  "sha256": "4505d6e875e1d5622d6346047b5c3a408e03ba3ea395990e6704fd6331533e54",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

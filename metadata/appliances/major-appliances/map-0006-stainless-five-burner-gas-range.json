@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0006",
+  "slug": "map-0006-stainless-five-burner-gas-range",
+  "title": "Stainless Five-Burner Gas Range",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "cooking",
+    "one complete standalone major appliance",
+    "one freestanding range with exactly five raised gas burners, six front knobs, one oven door, one window, one bar handle, and one lower drawer."
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.71,
+    "height": 0.94
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 30,
+    "vertices": 7728,
+    "triangles": 15356,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0006-stainless-five-burner-gas-range.usdz",
+  "preview": "previews/appliances/major-appliances/map-0006-stainless-five-burner-gas-range.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0006-stainless-five-burner-gas-range.usdz",
+  "file_size_bytes": 787961,
+  "sha256": "534a475774baeafb11a0a09abb6f850307abf612b6455d8ceceb6c2bd46803b8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

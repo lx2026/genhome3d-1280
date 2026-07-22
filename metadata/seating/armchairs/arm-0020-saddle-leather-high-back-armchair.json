@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0020",
+  "slug": "arm-0020-saddle-leather-high-back-armchair",
+  "title": "Saddle Leather High-Back Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "oversized",
+    "high-back",
+    "oak",
+    "saddle-leather",
+    "trestle-frame"
+  ],
+  "dimensions_m": {
+    "width": 0.910009,
+    "depth": 1.02983,
+    "height": 1.080079
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 2440,
+    "triangles": 4816,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.usdz",
+  "file_size_bytes": 1440876,
+  "sha256": "089882ad4494d49bef2c0b0a64c6bd368c48784a7a3accac31660ab18a8356ed",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0007",
+  "slug": "ktn-0007-double-loop-dough-whisk",
+  "title": "Double-Loop Dough Whisk",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "mixing-draining-tools",
+    "one complete standalone kitchen tool",
+    "exactly two concentric open wire loops",
+    "one crossing support bar",
+    "one turned beech handle"
+  ],
+  "dimensions_m": {
+    "width": 0.31,
+    "depth": 0.075,
+    "height": 0.035
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 2392,
+    "triangles": 4772,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.usdz",
+  "file_size_bytes": 841808,
+  "sha256": "db08fa230e89ef4f5ee1a0f6db30e8f39ce8c487589fca2f50bd589ede9ffe1d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

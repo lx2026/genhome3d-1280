@@ -1,0 +1,54 @@
+{
+  "id": "CRK-0020",
+  "slug": "crk-0020-brutalist-cork-steel-six-peg-slab-coat-rack",
+  "title": "Brutalist Cork-and-Steel Six-Peg Slab Coat Rack",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "sculptural-specialty",
+    "two cork slabs",
+    "six steel pegs",
+    "two side plates",
+    "rear bridge"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.5,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 2592,
+    "triangles": 5132,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0020-brutalist-cork-steel-six-peg-slab-coat-rack.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0020-brutalist-cork-steel-six-peg-slab-coat-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0020-brutalist-cork-steel-six-peg-slab-coat-rack.usdz",
+  "file_size_bytes": 475210,
+  "sha256": "14bc3750a277bf9c7a4cf59b089961ca61151b4d13ade01a9cd1838cdf6817c1",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

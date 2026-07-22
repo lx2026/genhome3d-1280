@@ -1,0 +1,57 @@
+{
+  "id": "ART-0007",
+  "slug": "art-0007-verdigris-bronze-crane-sculpture",
+  "title": "Verdigris-Bronze Crane Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "figurative-natural-motifs",
+    "one complete freestanding decorative art-object assembly",
+    "one oval bird body",
+    "one long S-curved neck",
+    "one head with exactly one pointed beak",
+    "exactly two folded wings",
+    "exactly two slender legs",
+    "one oval bronze base"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.28,
+    "height": 0.9
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 3484,
+    "triangles": 6884,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.usdz",
+  "file_size_bytes": 565616,
+  "sha256": "a45c7371a4486cfcf11ba399283a94e59983319d1d8123243b28405204494d78",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

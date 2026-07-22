@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0016",
+  "slug": "bar-0016-teak-slatted-outdoor-bar-table",
+  "title": "Teak Slatted Outdoor Bar Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "outdoor-architectural",
+    "outdoor",
+    "teak",
+    "slatted-top",
+    "a-frame"
+  ],
+  "dimensions_m": {
+    "width": 1.4,
+    "depth": 0.7,
+    "height": 1.05
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1728,
+    "triangles": 3388,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.usdz",
+  "preview": "previews/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.usdz",
+  "file_size_bytes": 458075,
+  "sha256": "d3719de6b6967efca814e96bcd022cf01fceb23b997f9426a3f1af923ea29d94",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

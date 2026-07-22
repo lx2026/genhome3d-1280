@@ -1,0 +1,57 @@
+{
+  "id": "BST-0006",
+  "slug": "bst-0006-navy-three-drawer-recessed-plinth-vanity-base",
+  "title": "Navy Three-Drawer Recessed-Plinth Vanity Base",
+  "category": "bathroom",
+  "subcategory": "storage",
+  "category_path": "bathroom/storage",
+  "category_label": "Bathroom / Storage",
+  "tags": [
+    "bathroom storage",
+    "vanity-base-storage",
+    "one complete freestanding bathroom-storage assembly",
+    "one wide vanity-base cabinet",
+    "exactly three stacked full-width drawers",
+    "exactly three centered brass pulls",
+    "one thin solid top slab",
+    "one deep recessed floor plinth",
+    "two plain side panels"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.5,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 13,
+    "vertices": 1376,
+    "triangles": 2700,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.usdz",
+  "preview": "previews/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.usdz",
+  "file_size_bytes": 522275,
+  "sha256": "468244649db973c387ae1e3eb255a11f410e1dc5f9e52d7875dfd7bff827cc44",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

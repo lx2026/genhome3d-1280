@@ -1,0 +1,54 @@
+{
+  "id": "COF-0014",
+  "slug": "cof-0014-industrial-crank-height-cast-iron-table",
+  "title": "Industrial Crank-Height Cast-Iron Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "functional-storage",
+    "industrial",
+    "crank-height",
+    "round-top",
+    "tripod-base"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.9,
+    "height": 0.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 7776,
+    "triangles": 15476,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.usdz",
+  "preview": "previews/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.usdz",
+  "file_size_bytes": 994635,
+  "sha256": "b985ba6d0224e10f890cb3f5b048e52eee9244d720ee079dec2a99dd1e64c49a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

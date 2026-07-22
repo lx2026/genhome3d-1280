@@ -1,0 +1,55 @@
+{
+  "id": "CSH-0007",
+  "slug": "csh-0007-charcoal-twelve-biscuit-tuft-cushion",
+  "title": "Charcoal Twelve-Biscuit Tuft Cushion",
+  "category": "textiles",
+  "subcategory": "cushions",
+  "category_path": "textiles/cushions",
+  "category_label": "Textiles / Cushions",
+  "tags": [
+    "textiles cushions",
+    "boxed-tufted",
+    "one complete standalone cushion assembly",
+    "exactly twelve padded cells",
+    "one 3 by 4 biscuit field",
+    "exactly twelve centered dimples",
+    "one perimeter welt"
+  ],
+  "dimensions_m": {
+    "width": 0.54,
+    "depth": 0.2,
+    "height": 0.5
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 6720,
+    "triangles": 13264,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.usdz",
+  "preview": "previews/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.usdz",
+  "file_size_bytes": 533276,
+  "sha256": "3598d0b48e32038bed15fdd3cc01257c8c6786940daad693514d45cb20965720",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

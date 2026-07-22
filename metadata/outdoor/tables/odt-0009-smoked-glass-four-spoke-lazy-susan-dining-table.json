@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0009",
+  "slug": "odt-0009-smoked-glass-four-spoke-lazy-susan-dining-table",
+  "title": "Smoked-Glass Four-Spoke Lazy-Susan Dining Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "contemporary-entertaining",
+    "one circular outdoor dining table",
+    "one smoked-glass top",
+    "one raised lazy-Susan disc",
+    "four stainless support spokes",
+    "four tapered feet"
+  ],
+  "dimensions_m": {
+    "width": 1.36,
+    "depth": 1.36,
+    "height": 0.760007
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2304,
+    "triangles": 4568,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0009-smoked-glass-four-spoke-lazy-susan-dining-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0009-smoked-glass-four-spoke-lazy-susan-dining-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0009-smoked-glass-four-spoke-lazy-susan-dining-table.usdz",
+  "file_size_bytes": 588234,
+  "sha256": "ea6dca1796c7134b6cff35f2cbfa965a7a9452d655a26a68c7882d8d913e68e9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

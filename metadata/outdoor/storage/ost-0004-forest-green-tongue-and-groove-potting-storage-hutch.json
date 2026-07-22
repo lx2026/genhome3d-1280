@@ -1,0 +1,55 @@
+{
+  "id": "OST-0004",
+  "slug": "ost-0004-forest-green-tongue-and-groove-potting-storage-hutch",
+  "title": "Forest-Green Tongue-and-Groove Potting Storage Hutch",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "heritage-utility",
+    "one potting storage hutch",
+    "two lower doors",
+    "one open upper shelf",
+    "five hanging pegs",
+    "one pitched metal cap"
+  ],
+  "dimensions_m": {
+    "width": 1.12,
+    "depth": 0.54,
+    "height": 1.58
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 2576,
+    "triangles": 5068,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0004-forest-green-tongue-and-groove-potting-storage-hutch.usdz",
+  "preview": "previews/outdoor/storage/ost-0004-forest-green-tongue-and-groove-potting-storage-hutch.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0004-forest-green-tongue-and-groove-potting-storage-hutch.usdz",
+  "file_size_bytes": 586738,
+  "sha256": "dfeb715b039e98cec86af8d4e5f2e696536920384375eefced5863a769129650",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

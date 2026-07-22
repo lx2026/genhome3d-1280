@@ -1,0 +1,56 @@
+{
+  "id": "OCH-0017",
+  "slug": "och-0017-ivory-plaster-seven-rib-ripple-shell-office-chair",
+  "title": "Ivory-Plaster Seven-Rib Ripple-Shell Office Chair",
+  "category": "office",
+  "subcategory": "office-chairs",
+  "category_path": "office/office-chairs",
+  "category_label": "Office / Office Chairs",
+  "tags": [
+    "office chair",
+    "sculptural-specialty",
+    "ripple shell",
+    "seven vertical ribs",
+    "continuous s shell",
+    "swivel column",
+    "four fin spokes",
+    "four glides"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.76,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 4404,
+    "triangles": 8400,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/office-chairs/och-0017-ivory-plaster-seven-rib-ripple-shell-office-chair.usdz",
+  "preview": "previews/office/office-chairs/och-0017-ivory-plaster-seven-rib-ripple-shell-office-chair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0017-ivory-plaster-seven-rib-ripple-shell-office-chair.usdz",
+  "file_size_bytes": 1135040,
+  "sha256": "73e32e8730080d5bfbb254a6bfb428ee2ec67511965fd852b8f88d58041cc8e0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

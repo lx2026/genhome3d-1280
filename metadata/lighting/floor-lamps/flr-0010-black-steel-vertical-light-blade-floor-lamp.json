@@ -1,0 +1,56 @@
+{
+  "id": "FLR-0010",
+  "slug": "flr-0010-black-steel-vertical-light-blade-floor-lamp",
+  "title": "Black-Steel Vertical Light-Blade Floor Lamp",
+  "category": "lighting",
+  "subcategory": "floor-lamps",
+  "category_path": "lighting/floor-lamps",
+  "category_label": "Lighting / Floor Lamps",
+  "tags": [
+    "lighting floor lamps",
+    "contemporary-geometric",
+    "one complete freestanding floor lamp assembly",
+    "one U-shaped floor base",
+    "one vertical black spine",
+    "one continuous opal light blade",
+    "one top cap",
+    "no shade"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.28,
+    "height": 1.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1056,
+    "triangles": 2088,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/floor-lamps/flr-0010-black-steel-vertical-light-blade-floor-lamp.usdz",
+  "preview": "previews/lighting/floor-lamps/flr-0010-black-steel-vertical-light-blade-floor-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0010-black-steel-vertical-light-blade-floor-lamp.usdz",
+  "file_size_bytes": 395569,
+  "sha256": "8a63c48e1012d87b2b76f4003770ac5dc4f848cf97ddaca564250e20e4087b74",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

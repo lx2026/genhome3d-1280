@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0001",
+  "slug": "hdb-0001-shaker-maple-spindle-headboard",
+  "title": "Shaker Maple Spindle Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "traditional-craft",
+    "shaker",
+    "maple",
+    "spindles",
+    "twin"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.1,
+    "height": 1.1
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2276,
+    "triangles": 4444,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0001-shaker-maple-spindle-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0001-shaker-maple-spindle-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0001-shaker-maple-spindle-headboard.usdz",
+  "file_size_bytes": 364388,
+  "sha256": "06e7ae45ea7527ff853ca74514ef55dd5b051d73f745d2189ef7635faa3f4058",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

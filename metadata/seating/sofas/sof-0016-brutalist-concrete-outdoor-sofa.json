@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0016",
+  "slug": "sof-0016-brutalist-concrete-outdoor-sofa",
+  "title": "Brutalist Concrete Outdoor Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "architectural-outdoor",
+    "brutalist",
+    "concrete",
+    "slab",
+    "charcoal"
+  ],
+  "dimensions_m": {
+    "width": 2.3,
+    "depth": 0.9,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2216,
+    "triangles": 4392,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0016-brutalist-concrete-outdoor-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0016-brutalist-concrete-outdoor-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0016-brutalist-concrete-outdoor-sofa.usdz",
+  "file_size_bytes": 680469,
+  "sha256": "7ee41f70275ae4590a5d8b9defb1742bbe93c97f0f9443962a33bd02b963599d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

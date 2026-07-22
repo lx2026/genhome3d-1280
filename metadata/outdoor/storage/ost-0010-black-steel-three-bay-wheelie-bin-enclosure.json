@@ -1,0 +1,55 @@
+{
+  "id": "OST-0010",
+  "slug": "ost-0010-black-steel-three-bay-wheelie-bin-enclosure",
+  "title": "Black-Steel Three-Bay Wheelie-Bin Enclosure",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "contemporary-weatherproof",
+    "one wheelie-bin enclosure",
+    "three bin bays",
+    "three slatted doors",
+    "three individual lift lids",
+    "one continuous base rail"
+  ],
+  "dimensions_m": {
+    "width": 2.14,
+    "depth": 0.84,
+    "height": 1.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 3360,
+    "triangles": 6580,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0010-black-steel-three-bay-wheelie-bin-enclosure.usdz",
+  "preview": "previews/outdoor/storage/ost-0010-black-steel-three-bay-wheelie-bin-enclosure.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0010-black-steel-three-bay-wheelie-bin-enclosure.usdz",
+  "file_size_bytes": 218969,
+  "sha256": "0f61e5be5b82122458da1e1b41dfab7d3a83feb3c1f9faeb7a69ce74f3c6847a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

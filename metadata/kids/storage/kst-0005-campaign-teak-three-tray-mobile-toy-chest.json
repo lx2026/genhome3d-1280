@@ -1,0 +1,54 @@
+{
+  "id": "KST-0005",
+  "slug": "kst-0005-campaign-teak-three-tray-mobile-toy-chest",
+  "title": "Campaign Teak Three-Tray Mobile Toy Chest",
+  "category": "kids",
+  "subcategory": "storage",
+  "category_path": "kids/storage",
+  "category_label": "Kids / Storage",
+  "tags": [
+    "kids storage",
+    "classic-playroom",
+    "three pull-out trays",
+    "six recessed brass pulls",
+    "brass-cornered case",
+    "four low casters"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.4,
+    "height": 0.66
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 3272,
+    "triangles": 6440,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/storage/kst-0005-campaign-teak-three-tray-mobile-toy-chest.usdz",
+  "preview": "previews/kids/storage/kst-0005-campaign-teak-three-tray-mobile-toy-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/storage/kst-0005-campaign-teak-three-tray-mobile-toy-chest.usdz",
+  "file_size_bytes": 955188,
+  "sha256": "c8c3f332050832f8e469775f24c29406016895a2b4bffde2a08a851bca32b5e2",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ART-0004",
+  "slug": "art-0004-white-ceramic-folded-arc-sculpture",
+  "title": "White-Ceramic Folded-Arc Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "abstract-forms",
+    "one complete freestanding decorative art-object assembly",
+    "exactly four connected ceramic arc plates",
+    "one low oblong ceramic base",
+    "exactly three narrow separation slots",
+    "one asymmetric stepped crest",
+    "softly rounded outer plate edges",
+    "no detached ceramic components"
+  ],
+  "dimensions_m": {
+    "width": 0.4,
+    "depth": 0.22,
+    "height": 0.5
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1280,
+    "triangles": 2540,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.usdz",
+  "file_size_bytes": 287050,
+  "sha256": "fa8b068fcd389fc6f2f86160890ff308e906eba97a7c15967e2c4d50bc7ad11c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

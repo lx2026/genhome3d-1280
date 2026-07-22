@@ -1,0 +1,54 @@
+{
+  "id": "KSE-0016",
+  "slug": "kse-0016-rainbow-laminated-birch-five-arch-child-bench",
+  "title": "Rainbow Laminated-Birch Five-Arch Child Bench",
+  "category": "kids",
+  "subcategory": "seating",
+  "category_path": "kids/seating",
+  "category_label": "Kids / Seating",
+  "tags": [
+    "kids seating",
+    "sculptural-specialty",
+    "five nested arches",
+    "rainbow back",
+    "continuous curved seat",
+    "two arch floor supports"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.38,
+    "height": 0.52
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 9476,
+    "triangles": 18568,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/kids/seating/kse-0016-rainbow-laminated-birch-five-arch-child-bench.usdz",
+  "preview": "previews/kids/seating/kse-0016-rainbow-laminated-birch-five-arch-child-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/seating/kse-0016-rainbow-laminated-birch-five-arch-child-bench.usdz",
+  "file_size_bytes": 1943552,
+  "sha256": "97a6d7852c6f9a4bee2cbcbddbbebcff79a1b3176dcd2720cf2028c3dbff0fec",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

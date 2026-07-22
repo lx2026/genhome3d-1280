@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0018",
+  "slug": "tlp-0018-black-and-white-chevron-blade-table-lamp",
+  "title": "Black-and-White Chevron-Blade Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "architectural-statement",
+    "one complete freestanding tabletop lamp assembly",
+    "one long weighted base",
+    "one central black spine",
+    "exactly two diagonal opal blades",
+    "one upper chevron joint",
+    "two lower black collars"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.2,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1234,
+    "triangles": 2440,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0018-black-and-white-chevron-blade-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0018-black-and-white-chevron-blade-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0018-black-and-white-chevron-blade-table-lamp.usdz",
+  "file_size_bytes": 401506,
+  "sha256": "0c1a5797ed9089e364d9c0a91e906e62efabc2e5e473c540a754f181b09e1c76",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

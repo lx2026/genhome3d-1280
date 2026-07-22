@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0006",
+  "slug": "crb-0006-white-oak-three-in-one-convertible-crib",
+  "title": "White-Oak Three-in-One Convertible Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "modern-convertible",
+    "white-oak",
+    "three-in-one",
+    "conversion-hardware",
+    "stored-guard"
+  ],
+  "dimensions_m": {
+    "width": 1.46,
+    "depth": 0.79,
+    "height": 1.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 70,
+    "vertices": 7280,
+    "triangles": 14280,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0006-white-oak-three-in-one-convertible-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0006-white-oak-three-in-one-convertible-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0006-white-oak-three-in-one-convertible-crib.usdz",
+  "file_size_bytes": 1057323,
+  "sha256": "c6559e5e27324cad3e73ce8ce2930c85cb259fad9855aa2ff1618f857fcbf966",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "BLK-0015",
+  "slug": "blk-0015-burgundy-six-pom-pom-seed-stitch-blanket",
+  "title": "Burgundy Six-Pom-Pom Seed-Stitch Blanket",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "knit-crochet-blankets",
+    "one complete standalone folded knit blanket",
+    "exactly two folded layers",
+    "one seed-stitch field",
+    "exactly six attached pom-poms",
+    "three pom-poms on each exposed end"
+  ],
+  "dimensions_m": {
+    "width": 0.72,
+    "depth": 0.52,
+    "height": 0.15
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 2796,
+    "triangles": 5536,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0015-burgundy-six-pom-pom-seed-stitch-blanket.usdz",
+  "preview": "previews/textiles/blankets/blk-0015-burgundy-six-pom-pom-seed-stitch-blanket.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0015-burgundy-six-pom-pom-seed-stitch-blanket.usdz",
+  "file_size_bytes": 331800,
+  "sha256": "1c159c5cc23149167e70f5a366b4cbdeab10f55c207ebd4b4480406d5b0ca20d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

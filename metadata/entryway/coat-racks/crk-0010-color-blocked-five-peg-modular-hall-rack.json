@@ -1,0 +1,54 @@
+{
+  "id": "CRK-0010",
+  "slug": "crk-0010-color-blocked-five-peg-modular-hall-rack",
+  "title": "Color-Blocked Five-Peg Modular Hall Rack",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "modern-rail",
+    "five color pegs",
+    "one hat shelf",
+    "two a frames",
+    "lower crossbar"
+  ],
+  "dimensions_m": {
+    "width": 0.88,
+    "depth": 0.441835,
+    "height": 1.699864
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2552,
+    "triangles": 5056,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0010-color-blocked-five-peg-modular-hall-rack.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0010-color-blocked-five-peg-modular-hall-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0010-color-blocked-five-peg-modular-hall-rack.usdz",
+  "file_size_bytes": 1358062,
+  "sha256": "ff50cb66b0f13ef774a0d611fd04dbedcd479d47efc2b381601b760cdb71cf2e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0014",
+  "slug": "sof-0014-shearling-conversation-crescent",
+  "title": "Shearling Conversation Crescent",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "modular-lounge",
+    "shearling",
+    "crescent",
+    "conversation",
+    "curved"
+  ],
+  "dimensions_m": {
+    "width": 2.2,
+    "depth": 1.05,
+    "height": 0.75
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1584,
+    "triangles": 3156,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0014-shearling-conversation-crescent.usdz",
+  "preview": "previews/seating/sofas/sof-0014-shearling-conversation-crescent.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0014-shearling-conversation-crescent.usdz",
+  "file_size_bytes": 902894,
+  "sha256": "fb4f82b09616dc308963965b097cc6e99e98ff1abbc64f572dcfcf8707292727",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

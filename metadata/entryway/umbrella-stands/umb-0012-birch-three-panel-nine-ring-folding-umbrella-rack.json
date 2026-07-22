@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0012",
+  "slug": "umb-0012-birch-three-panel-nine-ring-folding-umbrella-rack",
+  "title": "Birch Three-Panel Nine-Ring Folding Umbrella Rack",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella rack",
+    "compact-adaptive",
+    "three folding panels",
+    "nine guide rings",
+    "two hinges",
+    "six feet"
+  ],
+  "dimensions_m": {
+    "width": 0.86,
+    "depth": 0.32,
+    "height": 0.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 27904,
+    "triangles": 55704,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0012-birch-three-panel-nine-ring-folding-umbrella-rack.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0012-birch-three-panel-nine-ring-folding-umbrella-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0012-birch-three-panel-nine-ring-folding-umbrella-rack.usdz",
+  "file_size_bytes": 2820150,
+  "sha256": "84f691b2bb80a999e873505cc6e9f4242be37ea9230672750f15e9bfdc048bae",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

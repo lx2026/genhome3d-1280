@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0015",
+  "slug": "glw-0015-cobalt-curved-hurricane-glass",
+  "title": "Cobalt Curved Hurricane Glass",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "beer-cocktail-glassware",
+    "one complete standalone open vessel",
+    "one double-curved bowl",
+    "one short stem",
+    "one circular foot"
+  ],
+  "dimensions_m": {
+    "width": 0.095,
+    "depth": 0.095,
+    "height": 0.235
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 3905,
+    "triangles": 7798,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.usdz",
+  "file_size_bytes": 387887,
+  "sha256": "75215f369ffef0928d551d5d93540034ce80beb45db63e78891abb1755ba069a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0010",
+  "slug": "grl-0010-corten-circular-plancha-ring-grill",
+  "title": "Corten Circular Plancha-Ring Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "contemporary-modular",
+    "one circular plancha ring",
+    "one central fire bowl",
+    "one tapered conical pedestal",
+    "one circular foot ring",
+    "one flush access door"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 1.18,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 2888,
+    "triangles": 5716,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0010-corten-circular-plancha-ring-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0010-corten-circular-plancha-ring-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0010-corten-circular-plancha-ring-grill.usdz",
+  "file_size_bytes": 292359,
+  "sha256": "b814510a875d684c47be6abc3425791a066629bdba9cddf7086913381b3831ab",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

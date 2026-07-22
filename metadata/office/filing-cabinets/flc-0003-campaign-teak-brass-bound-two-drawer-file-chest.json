@@ -1,0 +1,55 @@
+{
+  "id": "FLC-0003",
+  "slug": "flc-0003-campaign-teak-brass-bound-two-drawer-file-chest",
+  "title": "Campaign Teak Brass-Bound Two-Drawer File Chest",
+  "category": "office",
+  "subcategory": "filing-cabinets",
+  "category_path": "office/filing-cabinets",
+  "category_label": "Office / Filing Cabinets",
+  "tags": [
+    "filing cabinet",
+    "classic-heritage",
+    "campaign",
+    "two drawers",
+    "eight brass straps",
+    "two side handles",
+    "four block feet"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.52,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 2400,
+    "triangles": 4592,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/filing-cabinets/flc-0003-campaign-teak-brass-bound-two-drawer-file-chest.usdz",
+  "preview": "previews/office/filing-cabinets/flc-0003-campaign-teak-brass-bound-two-drawer-file-chest.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/filing-cabinets/flc-0003-campaign-teak-brass-bound-two-drawer-file-chest.usdz",
+  "file_size_bytes": 985825,
+  "sha256": "d8956ee5447ae902e365a3abec2824a3b1d2024749b8a0a53ce08d7af09ba4d4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

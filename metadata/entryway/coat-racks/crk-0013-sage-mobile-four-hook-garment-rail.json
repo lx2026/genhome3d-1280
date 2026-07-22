@@ -1,0 +1,54 @@
+{
+  "id": "CRK-0013",
+  "slug": "crk-0013-sage-mobile-four-hook-garment-rail",
+  "title": "Sage Mobile Four-Hook Garment Rail",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "compact-adaptive",
+    "mobile garment rail",
+    "four hooks",
+    "two uprights",
+    "four casters"
+  ],
+  "dimensions_m": {
+    "width": 1.02,
+    "depth": 0.5,
+    "height": 1.68
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 4840,
+    "triangles": 9408,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0013-sage-mobile-four-hook-garment-rail.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0013-sage-mobile-four-hook-garment-rail.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0013-sage-mobile-four-hook-garment-rail.usdz",
+  "file_size_bytes": 673162,
+  "sha256": "2be20b0947e5122876b278eec5d967d399d6ffa2d51ca1734b5ef841cc2aeba4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

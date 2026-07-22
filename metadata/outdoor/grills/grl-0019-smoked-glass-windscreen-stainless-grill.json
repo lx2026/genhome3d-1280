@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0019",
+  "slug": "grl-0019-smoked-glass-windscreen-stainless-grill",
+  "title": "Smoked-Glass Windscreen Stainless Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "architectural-specialty",
+    "one rectangular steel firebox",
+    "three smoked-glass windscreen panels",
+    "two stainless U supports",
+    "one lower clear shelf",
+    "two control knobs"
+  ],
+  "dimensions_m": {
+    "width": 0.98,
+    "depth": 0.64,
+    "height": 1.12
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 2016,
+    "triangles": 3896,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.usdz",
+  "file_size_bytes": 625412,
+  "sha256": "85e4e5059045b2453866666fb14f84de780d127aef5647b74ed0546aa6fe1a0c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

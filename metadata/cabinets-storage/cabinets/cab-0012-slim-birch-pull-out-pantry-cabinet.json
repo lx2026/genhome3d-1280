@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0012",
+  "slug": "cab-0012-slim-birch-pull-out-pantry-cabinet",
+  "title": "Slim Birch Pull-Out Pantry Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "compact-adaptive",
+    "pull out pantry",
+    "one tall front",
+    "five trays",
+    "guide rails"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.48,
+    "height": 1.7
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 1728,
+    "triangles": 3380,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0012-slim-birch-pull-out-pantry-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0012-slim-birch-pull-out-pantry-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0012-slim-birch-pull-out-pantry-cabinet.usdz",
+  "file_size_bytes": 590332,
+  "sha256": "5203feb84ce1957934511a787c93f9f011b53ede28addcc75934d71befba037b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

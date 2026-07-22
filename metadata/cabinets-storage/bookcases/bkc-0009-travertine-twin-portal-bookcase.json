@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0009",
+  "slug": "bkc-0009-travertine-twin-portal-bookcase",
+  "title": "Travertine Twin-Portal Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "modern-modular",
+    "travertine",
+    "twin portal",
+    "four shelves",
+    "slab feet"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.4,
+    "height": 1.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1152,
+    "triangles": 2256,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0009-travertine-twin-portal-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0009-travertine-twin-portal-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0009-travertine-twin-portal-bookcase.usdz",
+  "file_size_bytes": 527763,
+  "sha256": "3978aa1507cbb85e588d86e1ebc33623abb6a3f989bc9862a1bf06a0dbf7bce9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

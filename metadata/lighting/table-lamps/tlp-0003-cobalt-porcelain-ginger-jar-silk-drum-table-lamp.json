@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0003",
+  "slug": "tlp-0003-cobalt-porcelain-ginger-jar-silk-drum-table-lamp",
+  "title": "Cobalt-Porcelain Ginger-Jar Silk-Drum Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "heritage-ornamental",
+    "one complete freestanding tabletop lamp assembly",
+    "one brass foot",
+    "one ginger-jar ceramic base",
+    "one narrow neck",
+    "one silk drum shade",
+    "one harp and finial"
+  ],
+  "dimensions_m": {
+    "width": 0.36,
+    "depth": 0.36,
+    "height": 0.62
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2642,
+    "triangles": 5068,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0003-cobalt-porcelain-ginger-jar-silk-drum-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0003-cobalt-porcelain-ginger-jar-silk-drum-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0003-cobalt-porcelain-ginger-jar-silk-drum-table-lamp.usdz",
+  "file_size_bytes": 776130,
+  "sha256": "271c775c8c8c7388be49d18c5e5c50d659c5819264083c34b7d7f18b5a1c0a48",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

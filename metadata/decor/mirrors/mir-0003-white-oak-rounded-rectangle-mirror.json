@@ -1,0 +1,55 @@
+{
+  "id": "MIR-0003",
+  "slug": "mir-0003-white-oak-rounded-rectangle-mirror",
+  "title": "White-Oak Rounded-Rectangle Mirror",
+  "category": "decor",
+  "subcategory": "mirrors",
+  "category_path": "decor/mirrors",
+  "category_label": "Decor / Mirrors",
+  "tags": [
+    "decor mirrors",
+    "framed-geometric-mirrors",
+    "one complete wall-mounted decorative mirror assembly",
+    "one rounded-rectangle mirror panel",
+    "exactly four joined white-oak frame rails",
+    "exactly four miter-cover corner caps",
+    "one inset backing panel"
+  ],
+  "dimensions_m": {
+    "width": 0.68,
+    "depth": 0.08,
+    "height": 0.94
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1984,
+    "triangles": 3928,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.usdz",
+  "preview": "previews/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.usdz",
+  "file_size_bytes": 671120,
+  "sha256": "b77375e95a19651ddae19546f65a8f2b4e8b9f3ebc546e9f385b27b8df2416b5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "GRL-0006",
+  "slug": "grl-0006-brushed-stainless-four-burner-cart-grill",
+  "title": "Brushed-Stainless Four-Burner Cart Grill",
+  "category": "outdoor",
+  "subcategory": "grills",
+  "category_path": "outdoor/grills",
+  "category_label": "Outdoor / Grills",
+  "tags": [
+    "outdoor grills",
+    "contemporary-modular",
+    "one roll-top hood",
+    "four control knobs",
+    "two fixed side shelves",
+    "two lower cabinet doors",
+    "four locking casters"
+  ],
+  "dimensions_m": {
+    "width": 1.42,
+    "depth": 0.62,
+    "height": 1.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 3456,
+    "triangles": 6844,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/grills/grl-0006-brushed-stainless-four-burner-cart-grill.usdz",
+  "preview": "previews/outdoor/grills/grl-0006-brushed-stainless-four-burner-cart-grill.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0006-brushed-stainless-four-burner-cart-grill.usdz",
+  "file_size_bytes": 399160,
+  "sha256": "e911e1b2f71c18e4d0d55ab150d0dab932026c8dfd381f0c4182e932f741c084",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

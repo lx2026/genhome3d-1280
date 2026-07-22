@@ -1,0 +1,55 @@
+{
+  "id": "CWR-0012",
+  "slug": "cwr-0012-cream-twelve-rib-round-enameled-cocotte",
+  "title": "Cream Twelve-Rib Round Enameled Cocotte",
+  "category": "kitchen-cookware",
+  "subcategory": "cookware",
+  "category_path": "kitchen-cookware/cookware",
+  "category_label": "Kitchen Cookware / Cookware",
+  "tags": [
+    "kitchen cookware cookware",
+    "dutch-ovens-and-braisers",
+    "one complete standalone cookware assembly",
+    "one round cocotte",
+    "exactly twelve radial exterior lid ribs",
+    "exactly two opposed ear handles",
+    "exactly one centered lid knob"
+  ],
+  "dimensions_m": {
+    "width": 0.39,
+    "depth": 0.31,
+    "height": 0.23
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 5203,
+    "triangles": 10242,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.usdz",
+  "preview": "previews/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.usdz",
+  "file_size_bytes": 1232634,
+  "sha256": "5797107349ddb18a37f1e1ad12ef2af748ffd199a2b3c8f12dfa48f8fb3572a5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

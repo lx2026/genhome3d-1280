@@ -1,0 +1,54 @@
+{
+  "id": "DRS-0002",
+  "slug": "drs-0002-french-provincial-painted-ash-serpentine-dresser",
+  "title": "French Provincial Painted-Ash Serpentine Dresser",
+  "category": "cabinets-storage",
+  "subcategory": "dressers",
+  "category_path": "cabinets-storage/dressers",
+  "category_label": "Cabinets Storage / Dressers",
+  "tags": [
+    "dresser",
+    "classic-heritage",
+    "french provincial",
+    "six drawers",
+    "serpentine front",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.55,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 5172,
+    "triangles": 10220,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/dressers/drs-0002-french-provincial-painted-ash-serpentine-dresser.usdz",
+  "preview": "previews/cabinets-storage/dressers/drs-0002-french-provincial-painted-ash-serpentine-dresser.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/dressers/drs-0002-french-provincial-painted-ash-serpentine-dresser.usdz",
+  "file_size_bytes": 1059874,
+  "sha256": "045350bdfd550f0dd4d2e6e8783cb11919192eee54268018d570cfcd281bc0d5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

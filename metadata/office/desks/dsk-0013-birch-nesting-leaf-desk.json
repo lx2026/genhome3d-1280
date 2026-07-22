@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0013",
+  "slug": "dsk-0013-birch-nesting-leaf-desk",
+  "title": "Birch Nesting-Leaf Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "compact-adaptive",
+    "nesting leaves",
+    "two pullout leaves",
+    "two stop rails",
+    "four legs"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.88,
+    "height": 0.74
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 712,
+    "triangles": 1380,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0013-birch-nesting-leaf-desk.usdz",
+  "preview": "previews/office/desks/dsk-0013-birch-nesting-leaf-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0013-birch-nesting-leaf-desk.usdz",
+  "file_size_bytes": 504057,
+  "sha256": "bf867866008a9daae12a42a2b13640376458b06c4628a7a82f63ed2c4f35c057",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

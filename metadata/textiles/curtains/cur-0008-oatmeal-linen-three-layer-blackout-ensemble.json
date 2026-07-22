@@ -1,0 +1,56 @@
+{
+  "id": "CUR-0008",
+  "slug": "cur-0008-oatmeal-linen-three-layer-blackout-ensemble",
+  "title": "Oatmeal-Linen Three-Layer Blackout Ensemble",
+  "category": "textiles",
+  "subcategory": "curtains",
+  "category_path": "textiles/curtains",
+  "category_label": "Textiles / Curtains",
+  "tags": [
+    "textiles curtains",
+    "layered-sheer-curtains",
+    "one complete standalone curtain assembly",
+    "exactly three visible curtain layers",
+    "exactly two opaque side panels",
+    "exactly one central sheer panel",
+    "exactly two side tiebacks",
+    "one shared rod"
+  ],
+  "dimensions_m": {
+    "width": 2.2,
+    "depth": 0.24,
+    "height": 2.45
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 4106,
+    "triangles": 8084,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.usdz",
+  "preview": "previews/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.usdz",
+  "file_size_bytes": 1280249,
+  "sha256": "d8d8c36268d17f928cb35afbfe0db2cf38618fbbb3a1c078570eae04393955a7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

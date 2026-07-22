@@ -1,0 +1,55 @@
+{
+  "id": "KTL-0013",
+  "slug": "ktl-0013-white-double-wall-electric-kettle",
+  "title": "White Double-Wall Electric Kettle",
+  "category": "kitchen-cookware",
+  "subcategory": "kettles",
+  "category_path": "kitchen-cookware/kettles",
+  "category_label": "Kitchen Cookware / Kettles",
+  "tags": [
+    "kitchen cookware kettles",
+    "electric-kettles",
+    "one complete standalone kettle assembly",
+    "one tapered matte-white double-wall body",
+    "exactly one black rear handle",
+    "exactly one flush circular lid",
+    "exactly one black power base"
+  ],
+  "dimensions_m": {
+    "width": 0.220002,
+    "depth": 0.19,
+    "height": 0.245
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 3956,
+    "triangles": 7840,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.usdz",
+  "preview": "previews/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.usdz",
+  "file_size_bytes": 1215992,
+  "sha256": "5302212f49817bf721e1d7c301533039b731c61de78c085d16dc7a72a613b5ce",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

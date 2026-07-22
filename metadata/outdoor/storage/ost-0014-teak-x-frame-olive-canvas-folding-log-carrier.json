@@ -1,0 +1,55 @@
+{
+  "id": "OST-0014",
+  "slug": "ost-0014-teak-x-frame-olive-canvas-folding-log-carrier",
+  "title": "Teak X-Frame Olive-Canvas Folding Log Carrier",
+  "category": "outdoor",
+  "subcategory": "storage",
+  "category_path": "outdoor/storage",
+  "category_label": "Outdoor / Storage",
+  "tags": [
+    "outdoor storage",
+    "compact-mobile",
+    "one folding log carrier",
+    "one canvas sling",
+    "two timber X frames",
+    "two pivot discs",
+    "four broad feet"
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.48,
+    "height": 0.619883
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 2064,
+    "triangles": 4084,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/storage/ost-0014-teak-x-frame-olive-canvas-folding-log-carrier.usdz",
+  "preview": "previews/outdoor/storage/ost-0014-teak-x-frame-olive-canvas-folding-log-carrier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0014-teak-x-frame-olive-canvas-folding-log-carrier.usdz",
+  "file_size_bytes": 839478,
+  "sha256": "3b63fe1a20ddd01b0f7c1b4b6263d3f6725b3f6044ea4f3511d564d9aa8015ac",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0002",
+  "slug": "bar-0002-irish-marble-cast-iron-bistro-table",
+  "title": "Irish Marble Cast-Iron Bistro Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "pub-traditional",
+    "irish",
+    "marble",
+    "cast-iron",
+    "four-foot-base"
+  ],
+  "dimensions_m": {
+    "width": 0.7,
+    "depth": 0.7,
+    "height": 1.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1872,
+    "triangles": 3528,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.usdz",
+  "preview": "previews/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.usdz",
+  "file_size_bytes": 640068,
+  "sha256": "1dd27d9d445ae2ba9e288887031241d289edf6ac75cb046c96fd77f960bc501b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

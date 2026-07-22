@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0010",
+  "slug": "rug-0010-navy-and-tan-twenty-four-dot-tufted-rug",
+  "title": "Navy-and-Tan Twenty-Four-Dot Tufted Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "tufted-high-low-rugs",
+    "one complete standalone rug assembly",
+    "one rectangular dotted rug",
+    "exactly twenty-four raised dots",
+    "one 4 by 6 dot field",
+    "one continuous navy binding"
+  ],
+  "dimensions_m": {
+    "width": 1.8,
+    "depth": 1.2,
+    "height": 0.06
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 26,
+    "vertices": 6648,
+    "triangles": 13196,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0010-navy-and-tan-twenty-four-dot-tufted-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0010-navy-and-tan-twenty-four-dot-tufted-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0010-navy-and-tan-twenty-four-dot-tufted-rug.usdz",
+  "file_size_bytes": 956971,
+  "sha256": "0312d0b216874896d4eac99e72a6756a2ab01bba7fa4cb10317ab119cf0fc929",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

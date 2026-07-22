@@ -1,0 +1,54 @@
+{
+  "id": "CRK-0004",
+  "slug": "crk-0004-shaker-maple-eight-peg-two-tier-coat-tree",
+  "title": "Shaker Maple Eight-Peg Two-Tier Coat Tree",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "classic-hall-tree",
+    "shaker",
+    "eight wooden pegs",
+    "two peg tiers",
+    "four splayed legs"
+  ],
+  "dimensions_m": {
+    "width": 0.679991,
+    "depth": 0.679991,
+    "height": 1.760026
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 3840,
+    "triangles": 7624,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0004-shaker-maple-eight-peg-two-tier-coat-tree.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0004-shaker-maple-eight-peg-two-tier-coat-tree.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0004-shaker-maple-eight-peg-two-tier-coat-tree.usdz",
+  "file_size_bytes": 623066,
+  "sha256": "82d277bb16d39a4eccc59b18727dcbb5e49e2839f7b47ad4bff9fa797e219f57",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

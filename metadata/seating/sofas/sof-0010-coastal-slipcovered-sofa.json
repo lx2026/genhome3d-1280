@@ -1,0 +1,54 @@
+{
+  "id": "SOF-0010",
+  "slug": "sof-0010-coastal-slipcovered-sofa",
+  "title": "Coastal Slipcovered Sofa",
+  "category": "seating",
+  "subcategory": "sofas",
+  "category_path": "seating/sofas",
+  "category_label": "Seating / Sofas",
+  "tags": [
+    "sofa",
+    "classic-upholstered",
+    "coastal",
+    "slipcover",
+    "linen",
+    "skirt"
+  ],
+  "dimensions_m": {
+    "width": 2.15,
+    "depth": 0.98,
+    "height": 0.87
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 2952,
+    "triangles": 5856,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/sofas/sof-0010-coastal-slipcovered-sofa.usdz",
+  "preview": "previews/seating/sofas/sof-0010-coastal-slipcovered-sofa.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0010-coastal-slipcovered-sofa.usdz",
+  "file_size_bytes": 569413,
+  "sha256": "37895eb2c24880c49bb40b3979cd2a2ab2b0f3dba30b3b62ee1a841dff91e73d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

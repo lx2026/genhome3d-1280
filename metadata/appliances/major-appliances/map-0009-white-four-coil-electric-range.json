@@ -1,0 +1,52 @@
+{
+  "id": "MAP-0009",
+  "slug": "map-0009-white-four-coil-electric-range",
+  "title": "White Four-Coil Electric Range",
+  "category": "appliances",
+  "subcategory": "major-appliances",
+  "category_path": "appliances/major-appliances",
+  "category_label": "Appliances / Major Appliances",
+  "tags": [
+    "appliances major appliances",
+    "cooking",
+    "one complete standalone major appliance",
+    "one white range with exactly four raised electric coils, five front knobs, one oven door, one window, one bar handle, and one lower drawer."
+  ],
+  "dimensions_m": {
+    "width": 0.76,
+    "depth": 0.7,
+    "height": 0.94
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 35,
+    "vertices": 9608,
+    "triangles": 19140,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/major-appliances/map-0009-white-four-coil-electric-range.usdz",
+  "preview": "previews/appliances/major-appliances/map-0009-white-four-coil-electric-range.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0009-white-four-coil-electric-range.usdz",
+  "file_size_bytes": 572239,
+  "sha256": "5feae18abd3593639350d890fbcc604ca8df144277b52f051e3a43dc2a4335bc",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "NST-0017",
+  "slug": "nst-0017-bent-plywood-loop-nightstand",
+  "title": "Bent-Plywood Loop Nightstand",
+  "category": "bedroom",
+  "subcategory": "nightstands",
+  "category_path": "bedroom/nightstands",
+  "category_label": "Bedroom / Nightstands",
+  "tags": [
+    "nightstand",
+    "sculptural-specialty",
+    "bent plywood",
+    "continuous loop",
+    "mid shelf"
+  ],
+  "dimensions_m": {
+    "width": 0.46,
+    "depth": 0.4,
+    "height": 0.6
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 5,
+    "vertices": 1632,
+    "triangles": 3244,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/nightstands/nst-0017-bent-plywood-loop-nightstand.usdz",
+  "preview": "previews/bedroom/nightstands/nst-0017-bent-plywood-loop-nightstand.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0017-bent-plywood-loop-nightstand.usdz",
+  "file_size_bytes": 468575,
+  "sha256": "78f575109e99d6aa2c9afcb1542676eb7a0e1c386702510c010bb504b0d7b626",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

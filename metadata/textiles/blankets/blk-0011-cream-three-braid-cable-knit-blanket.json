@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0011",
+  "slug": "blk-0011-cream-three-braid-cable-knit-blanket",
+  "title": "Cream Three-Braid Cable-Knit Blanket",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "knit-crochet-blankets",
+    "one complete standalone folded knit blanket",
+    "exactly three raised cable braids",
+    "exactly two folded layers",
+    "two narrow rib-knit side borders"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.54,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 22572,
+    "triangles": 44648,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0011-cream-three-braid-cable-knit-blanket.usdz",
+  "preview": "previews/textiles/blankets/blk-0011-cream-three-braid-cable-knit-blanket.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0011-cream-three-braid-cable-knit-blanket.usdz",
+  "file_size_bytes": 2216025,
+  "sha256": "b7e4d918db96bf6dda9ce6d4600c4dab32487e5989643b4314a28900a74bf068",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

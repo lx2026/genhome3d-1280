@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0002",
+  "slug": "scn-0002-blackened-iron-four-panel-lantern-sconce",
+  "title": "Blackened-Iron Four-Panel Lantern Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "heritage-ornamental",
+    "one complete wall-mounted sconce light assembly",
+    "one rectangular wall plate",
+    "one hook bracket",
+    "exactly four cage posts",
+    "four clear glass panels",
+    "one candle lamp"
+  ],
+  "dimensions_m": {
+    "width": 0.26,
+    "depth": 0.2,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2352,
+    "triangles": 4596,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.usdz",
+  "file_size_bytes": 624722,
+  "sha256": "5ab4b4fc659d256a8d4e69543a4e0ab241f3dcf2967ffe491397ef7f02c38fbb",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CTB-0005",
+  "slug": "ctb-0005-teak-eight-sector-round-prep-board",
+  "title": "Teak Eight-Sector Round Prep Board",
+  "category": "kitchen-cookware",
+  "subcategory": "cutting-boards",
+  "category_path": "kitchen-cookware/cutting-boards",
+  "category_label": "Kitchen Cookware / Cutting Boards",
+  "tags": [
+    "kitchen cookware cutting boards",
+    "wood-grain-boards",
+    "one complete standalone cutting-board assembly",
+    "one round teak board",
+    "exactly eight radial drainage grooves",
+    "exactly one circular center recess",
+    "one continuous chamfered circumference"
+  ],
+  "dimensions_m": {
+    "width": 0.38,
+    "depth": 0.38,
+    "height": 0.03
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1984,
+    "triangles": 3928,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0005-teak-eight-sector-round-prep-board.usdz",
+  "preview": "previews/kitchen-cookware/cutting-boards/ctb-0005-teak-eight-sector-round-prep-board.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0005-teak-eight-sector-round-prep-board.usdz",
+  "file_size_bytes": 547363,
+  "sha256": "47c8beb1a962ee7d1b469864eb89b8d5611d8da8856c8e2aba6e8663b516a96f",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

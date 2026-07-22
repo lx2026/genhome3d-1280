@@ -1,0 +1,54 @@
+{
+  "id": "CON-0011",
+  "slug": "con-0011-entryway-oak-cubby-drawer-console",
+  "title": "Entryway Oak Cubby-Drawer Console",
+  "category": "tables",
+  "subcategory": "console",
+  "category_path": "tables/console",
+  "category_label": "Tables / Console",
+  "tags": [
+    "console-table",
+    "entryway-storage",
+    "cubbies",
+    "drawers",
+    "lower-shelf",
+    "steel-pulls"
+  ],
+  "dimensions_m": {
+    "width": 1.2,
+    "depth": 0.38,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 14,
+    "vertices": 1096,
+    "triangles": 2136,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/console/con-0011-entryway-oak-cubby-drawer-console.usdz",
+  "preview": "previews/tables/console/con-0011-entryway-oak-cubby-drawer-console.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0011-entryway-oak-cubby-drawer-console.usdz",
+  "file_size_bytes": 582226,
+  "sha256": "6c6387f3c06ead2c0aedacab3bd9e63316ce007a6902fe36dedc6a4445585696",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

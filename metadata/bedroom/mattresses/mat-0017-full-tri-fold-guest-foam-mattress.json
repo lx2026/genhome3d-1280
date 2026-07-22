@@ -1,0 +1,52 @@
+{
+  "id": "MAT-0017",
+  "slug": "mat-0017-full-tri-fold-guest-foam-mattress",
+  "title": "Full Tri-Fold Guest Foam Mattress",
+  "category": "bedroom",
+  "subcategory": "mattresses",
+  "category_path": "bedroom/mattresses",
+  "category_label": "Bedroom / Mattresses",
+  "tags": [
+    "mattress",
+    "foldable-alternative",
+    "full",
+    "three fold segments"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 1.9,
+    "height": 0.18
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1224,
+    "triangles": 2424,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.usdz",
+  "preview": "previews/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.usdz",
+  "file_size_bytes": 536868,
+  "sha256": "16536225bd9cb83967357814976233aa820c79fe9edb6fe14ebc9eb3f9add8ee",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

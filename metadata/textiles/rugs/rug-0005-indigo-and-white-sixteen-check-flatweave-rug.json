@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0005",
+  "slug": "rug-0005-indigo-and-white-sixteen-check-flatweave-rug",
+  "title": "Indigo-and-White Sixteen-Check Flatweave Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "flatweave-geometric-rugs",
+    "one complete standalone rug assembly",
+    "one rectangular check rug",
+    "exactly sixteen checks",
+    "one 4 by 4 alternating check field",
+    "one continuous indigo binding"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 1.2,
+    "height": 0.026
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 3960,
+    "triangles": 7852,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0005-indigo-and-white-sixteen-check-flatweave-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0005-indigo-and-white-sixteen-check-flatweave-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0005-indigo-and-white-sixteen-check-flatweave-rug.usdz",
+  "file_size_bytes": 648067,
+  "sha256": "aba1616e5c42d6263cfccb7b86c3f3b5e12ea67b8c07daaa7ecc4906ca660886",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

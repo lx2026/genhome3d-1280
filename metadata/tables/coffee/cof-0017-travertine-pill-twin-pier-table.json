@@ -1,0 +1,54 @@
+{
+  "id": "COF-0017",
+  "slug": "cof-0017-travertine-pill-twin-pier-table",
+  "title": "Travertine Pill Twin-Pier Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "sculptural-outdoor",
+    "travertine",
+    "pill-top",
+    "twin-pier",
+    "rounded"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.62,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 3,
+    "vertices": 1168,
+    "triangles": 2324,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0017-travertine-pill-twin-pier-table.usdz",
+  "preview": "previews/tables/coffee/cof-0017-travertine-pill-twin-pier-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0017-travertine-pill-twin-pier-table.usdz",
+  "file_size_bytes": 552078,
+  "sha256": "dc905a896d12d72021c800a1630910c30fb1216dbc327035ae993c0909b9e00d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

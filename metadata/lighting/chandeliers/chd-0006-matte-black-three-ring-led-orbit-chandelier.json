@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0006",
+  "slug": "chd-0006-matte-black-three-ring-led-orbit-chandelier",
+  "title": "Matte-Black Three-Ring LED Orbit Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "contemporary-geometric",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly three tilted luminous rings",
+    "three suspension cables",
+    "one central coupler",
+    "one shallow round canopy",
+    "no exposed bulbs"
+  ],
+  "dimensions_m": {
+    "width": 1.181929,
+    "depth": 1.177153,
+    "height": 0.818998
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 3386,
+    "triangles": 6752,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0006-matte-black-three-ring-led-orbit-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0006-matte-black-three-ring-led-orbit-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0006-matte-black-three-ring-led-orbit-chandelier.usdz",
+  "file_size_bytes": 531476,
+  "sha256": "f9a73eb0091d157a06f101a6738a0525727c343b5c3096ddb66ec7c4f217158a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

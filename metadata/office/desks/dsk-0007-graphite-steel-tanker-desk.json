@@ -1,0 +1,54 @@
+{
+  "id": "DSK-0007",
+  "slug": "dsk-0007-graphite-steel-tanker-desk",
+  "title": "Graphite-Steel Tanker Desk",
+  "category": "office",
+  "subcategory": "desks",
+  "category_path": "office/desks",
+  "category_label": "Office / Desks",
+  "tags": [
+    "desk",
+    "modern-utility",
+    "tanker",
+    "six drawers",
+    "six label slots",
+    "two pedestal plinths"
+  ],
+  "dimensions_m": {
+    "width": 1.5,
+    "depth": 0.75,
+    "height": 0.77
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 23,
+    "vertices": 2136,
+    "triangles": 4180,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/desks/dsk-0007-graphite-steel-tanker-desk.usdz",
+  "preview": "previews/office/desks/dsk-0007-graphite-steel-tanker-desk.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0007-graphite-steel-tanker-desk.usdz",
+  "file_size_bytes": 415566,
+  "sha256": "b7ed794fcce7c97c6c04c86d1680cfb6c5429c6998413ce0a92023587dec5ab8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

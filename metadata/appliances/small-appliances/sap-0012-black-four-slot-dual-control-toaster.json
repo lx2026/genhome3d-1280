@@ -1,0 +1,52 @@
+{
+  "id": "SAP-0012",
+  "slug": "sap-0012-black-four-slot-dual-control-toaster",
+  "title": "Black Four-Slot Dual-Control Toaster",
+  "category": "appliances",
+  "subcategory": "small-appliances",
+  "category_path": "appliances/small-appliances",
+  "category_label": "Appliances / Small Appliances",
+  "tags": [
+    "appliances small appliances",
+    "countertop cooking",
+    "one complete standalone small appliance",
+    "one black toaster with exactly four top slots, two side levers, two browning dials, and two crumb-tray seams."
+  ],
+  "dimensions_m": {
+    "width": 0.32,
+    "depth": 0.28,
+    "height": 0.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 2856,
+    "triangles": 5652,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.usdz",
+  "preview": "previews/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.usdz",
+  "file_size_bytes": 587978,
+  "sha256": "f5e4e5f6be5aef7c607a500cbae38c21816a6ba8831ba6d45db1c2f8ce7b34f6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0015",
+  "slug": "ben-0015-saddle-leather-sling-bench",
+  "title": "Saddle Leather Sling Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "upholstered",
+    "safari",
+    "saddle-leather",
+    "sling",
+    "trestle"
+  ],
+  "dimensions_m": {
+    "width": 1.35,
+    "depth": 0.52,
+    "height": 0.49
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 2456,
+    "triangles": 4832,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0015-saddle-leather-sling-bench.usdz",
+  "preview": "previews/seating/benches/ben-0015-saddle-leather-sling-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0015-saddle-leather-sling-bench.usdz",
+  "file_size_bytes": 1357880,
+  "sha256": "82206cef03e50b153ea63022e224794a9d8ff55b3253c6cb3ef4d8240dcd3222",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

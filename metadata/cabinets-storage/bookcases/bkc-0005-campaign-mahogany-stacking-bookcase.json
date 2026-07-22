@@ -1,0 +1,54 @@
+{
+  "id": "BKC-0005",
+  "slug": "bkc-0005-campaign-mahogany-stacking-bookcase",
+  "title": "Campaign Mahogany Stacking Bookcase",
+  "category": "cabinets-storage",
+  "subcategory": "bookcases",
+  "category_path": "cabinets-storage/bookcases",
+  "category_label": "Cabinets Storage / Bookcases",
+  "tags": [
+    "bookcase",
+    "classic-architectural",
+    "campaign",
+    "three stacking cases",
+    "six cubbies",
+    "brass"
+  ],
+  "dimensions_m": {
+    "width": 1.1,
+    "depth": 0.38,
+    "height": 1.92
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 1848,
+    "triangles": 3584,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/bookcases/bkc-0005-campaign-mahogany-stacking-bookcase.usdz",
+  "preview": "previews/cabinets-storage/bookcases/bkc-0005-campaign-mahogany-stacking-bookcase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0005-campaign-mahogany-stacking-bookcase.usdz",
+  "file_size_bytes": 800074,
+  "sha256": "96a52f7af0388a9aac6f7d45f5e1ddddf342c5aaa1ba93243a9073b00b56fca0",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

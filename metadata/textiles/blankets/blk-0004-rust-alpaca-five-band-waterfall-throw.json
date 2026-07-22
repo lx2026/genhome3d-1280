@@ -1,0 +1,54 @@
+{
+  "id": "BLK-0004",
+  "slug": "blk-0004-rust-alpaca-five-band-waterfall-throw",
+  "title": "Rust-Alpaca Five-Band Waterfall Throw",
+  "category": "textiles",
+  "subcategory": "blankets",
+  "category_path": "textiles/blankets",
+  "category_label": "Textiles / Blankets",
+  "tags": [
+    "textiles blankets",
+    "woven-natural-fiber-throws",
+    "one complete standalone waterfall-folded blanket",
+    "exactly three cascading folded tiers",
+    "exactly five contrast bands",
+    "exactly ten grouped fringe tassels"
+  ],
+  "dimensions_m": {
+    "width": 0.84,
+    "depth": 0.5,
+    "height": 0.28
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 28,
+    "vertices": 4488,
+    "triangles": 8384,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.usdz",
+  "preview": "previews/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.usdz",
+  "file_size_bytes": 1835540,
+  "sha256": "d47d66c884b5a12872c7b5f15d91c6967435e1ec24120549228dbbb9f2af76f7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

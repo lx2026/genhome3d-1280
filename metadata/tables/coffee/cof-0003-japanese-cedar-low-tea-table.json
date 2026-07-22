@@ -1,0 +1,54 @@
+{
+  "id": "COF-0003",
+  "slug": "cof-0003-japanese-cedar-low-tea-table",
+  "title": "Japanese Cedar Low Tea Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "heritage-craft",
+    "japanese",
+    "low-table",
+    "sled-base",
+    "wedge-joinery"
+  ],
+  "dimensions_m": {
+    "width": 0.95,
+    "depth": 0.6,
+    "height": 0.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 11,
+    "vertices": 896,
+    "triangles": 1748,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0003-japanese-cedar-low-tea-table.usdz",
+  "preview": "previews/tables/coffee/cof-0003-japanese-cedar-low-tea-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0003-japanese-cedar-low-tea-table.usdz",
+  "file_size_bytes": 751728,
+  "sha256": "deccff2d33293cfe8e5dafd2ff1856461620d1fd5ada2f66dccd259318275a6d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CRK-0006",
+  "slug": "crk-0006-black-steel-six-slider-t-frame-garment-rack",
+  "title": "Black-Steel Six-Slider T-Frame Garment Rack",
+  "category": "entryway",
+  "subcategory": "coat-racks",
+  "category_path": "entryway/coat-racks",
+  "category_label": "Entryway / Coat Racks",
+  "tags": [
+    "coat rack",
+    "modern-rail",
+    "six sliding hooks",
+    "top garment rail",
+    "two sled feet",
+    "lower bag bar"
+  ],
+  "dimensions_m": {
+    "width": 1.12,
+    "depth": 0.46,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 3656,
+    "triangles": 6952,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/coat-racks/crk-0006-black-steel-six-slider-t-frame-garment-rack.usdz",
+  "preview": "previews/entryway/coat-racks/crk-0006-black-steel-six-slider-t-frame-garment-rack.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/coat-racks/crk-0006-black-steel-six-slider-t-frame-garment-rack.usdz",
+  "file_size_bytes": 379199,
+  "sha256": "80ac23c617204ecc31ff54e5a9284eeb6718a5fe7af9eab22dc58a6272e9746d",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

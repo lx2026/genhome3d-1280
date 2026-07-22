@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0020",
+  "slug": "hdb-0020-handwoven-rope-gradient-headboard",
+  "title": "Handwoven Rope Gradient Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "sculptural-specialty",
+    "woven-rope",
+    "gradient",
+    "oak-frame",
+    "king"
+  ],
+  "dimensions_m": {
+    "width": 2.08,
+    "depth": 0.15,
+    "height": 1.32
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 62,
+    "vertices": 7464,
+    "triangles": 14680,
+    "material_slots": 6
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.usdz",
+  "file_size_bytes": 1910652,
+  "sha256": "2d0de405b2d4a4104bba6a142c06f3fcf111e3657ac33fcee7435f251cda9681",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

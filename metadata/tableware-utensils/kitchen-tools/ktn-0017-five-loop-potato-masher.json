@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0017",
+  "slug": "ktn-0017-five-loop-potato-masher",
+  "title": "Five-Loop Potato Masher",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "opening-finishing-tools",
+    "one complete standalone kitchen tool",
+    "exactly five open serpentine wire loops",
+    "one continuous support yoke",
+    "one teal hanging handle"
+  ],
+  "dimensions_m": {
+    "width": 0.33,
+    "depth": 0.12,
+    "height": 0.04
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 4512,
+    "triangles": 8916,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.usdz",
+  "file_size_bytes": 788389,
+  "sha256": "0f99ccb6f9d5aa39626b8c05fed1117307d2b7dc178a2c6ec291568b981fafd3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

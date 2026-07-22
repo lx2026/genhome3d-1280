@@ -1,0 +1,55 @@
+{
+  "id": "BAK-0005",
+  "slug": "bak-0005-cream-nine-cavity-brownie-grid-pan",
+  "title": "Cream Nine-Cavity Brownie Grid Pan",
+  "category": "kitchen-cookware",
+  "subcategory": "bakeware",
+  "category_path": "kitchen-cookware/bakeware",
+  "category_label": "Kitchen Cookware / Bakeware",
+  "tags": [
+    "kitchen cookware bakeware",
+    "sheet-pans-and-multi-cavity-trays",
+    "one complete standalone bakeware assembly",
+    "one square brownie pan",
+    "exactly nine square wells",
+    "one 3 by 3 well field",
+    "one continuous raised outer frame"
+  ],
+  "dimensions_m": {
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 0.045
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 3296,
+    "triangles": 6516,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.usdz",
+  "preview": "previews/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.usdz",
+  "file_size_bytes": 551279,
+  "sha256": "a0bcd392884d25d33c506ec9650892ebc3ac40e685a9d7353407502eea44e5d9",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

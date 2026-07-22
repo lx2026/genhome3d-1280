@@ -1,0 +1,54 @@
+{
+  "id": "KTN-0001",
+  "slug": "ktn-0001-red-silicone-jar-spatula",
+  "title": "Red Silicone Jar Spatula",
+  "category": "tableware-utensils",
+  "subcategory": "kitchen-tools",
+  "category_path": "tableware-utensils/kitchen-tools",
+  "category_label": "Tableware Utensils / Kitchen Tools",
+  "tags": [
+    "tableware utensils kitchen tools",
+    "cooking-turning-tools",
+    "one complete standalone kitchen tool",
+    "one flexible offset scraping blade",
+    "one pale beech handle",
+    "one open hanging hole"
+  ],
+  "dimensions_m": {
+    "width": 0.31,
+    "depth": 0.055,
+    "height": 0.018
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 2,
+    "vertices": 680,
+    "triangles": 1356,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0001-red-silicone-jar-spatula.usdz",
+  "preview": "previews/tableware-utensils/kitchen-tools/ktn-0001-red-silicone-jar-spatula.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0001-red-silicone-jar-spatula.usdz",
+  "file_size_bytes": 474443,
+  "sha256": "e81cf4ecb8f681d937d990fcb24024ea54e86493efe1b066d7d54fba8d0db4d3",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

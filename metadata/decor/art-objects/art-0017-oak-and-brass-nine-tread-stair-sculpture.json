@@ -1,0 +1,57 @@
+{
+  "id": "ART-0017",
+  "slug": "art-0017-oak-and-brass-nine-tread-stair-sculpture",
+  "title": "Oak-and-Brass Nine-Tread Stair Sculpture",
+  "category": "decor",
+  "subcategory": "art-objects",
+  "category_path": "decor/art-objects",
+  "category_label": "Decor / Art Objects",
+  "tags": [
+    "decor art objects",
+    "architectural-assemblage",
+    "one complete freestanding decorative art-object assembly",
+    "exactly nine cantilevered timber treads",
+    "one vertical brass spine",
+    "one square black base",
+    "one square oak top landing",
+    "one consistent quarter-turn rise",
+    "eight open gaps between consecutive treads"
+  ],
+  "dimensions_m": {
+    "width": 0.5,
+    "depth": 0.282387,
+    "height": 0.56
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 856,
+    "triangles": 1664,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/art-objects/art-0017-oak-and-brass-nine-tread-stair-sculpture.usdz",
+  "preview": "previews/decor/art-objects/art-0017-oak-and-brass-nine-tread-stair-sculpture.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0017-oak-and-brass-nine-tread-stair-sculpture.usdz",
+  "file_size_bytes": 910599,
+  "sha256": "d97b8ca45d4a95a2e8e04109ea35e25273f40ebbdf3098d11f6c88840b27c31e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

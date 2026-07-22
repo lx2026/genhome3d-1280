@@ -1,0 +1,54 @@
+{
+  "id": "COF-0001",
+  "slug": "cof-0001-georgian-mahogany-oval-stretcher-table",
+  "title": "Georgian Mahogany Oval Stretcher Table",
+  "category": "tables",
+  "subcategory": "coffee",
+  "category_path": "tables/coffee",
+  "category_label": "Tables / Coffee",
+  "tags": [
+    "coffee-table",
+    "heritage-craft",
+    "georgian",
+    "oval-top",
+    "turned-legs",
+    "x-stretcher"
+  ],
+  "dimensions_m": {
+    "width": 1.08,
+    "depth": 0.68,
+    "height": 0.43
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 1952,
+    "triangles": 3872,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/coffee/cof-0001-georgian-mahogany-oval-stretcher-table.usdz",
+  "preview": "previews/tables/coffee/cof-0001-georgian-mahogany-oval-stretcher-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0001-georgian-mahogany-oval-stretcher-table.usdz",
+  "file_size_bytes": 456121,
+  "sha256": "4988b4c77cd8101c09f1c740e0c0267dc954cc3407129f02de0e9030af79fe4c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

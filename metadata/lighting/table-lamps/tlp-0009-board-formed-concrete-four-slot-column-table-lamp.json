@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0009",
+  "slug": "tlp-0009-board-formed-concrete-four-slot-column-table-lamp",
+  "title": "Board-Formed-Concrete Four-Slot Column Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "contemporary-geometric",
+    "one complete freestanding tabletop lamp assembly",
+    "one square plinth",
+    "one rounded concrete column",
+    "exactly four vertical light slots",
+    "one recessed top aperture",
+    "no external shade"
+  ],
+  "dimensions_m": {
+    "width": 0.22,
+    "depth": 0.22,
+    "height": 0.42
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1016,
+    "triangles": 2004,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0009-board-formed-concrete-four-slot-column-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0009-board-formed-concrete-four-slot-column-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0009-board-formed-concrete-four-slot-column-table-lamp.usdz",
+  "file_size_bytes": 623829,
+  "sha256": "4be37f57fe02e199b64f37f22799752e33d17baed3fb3fc463651e76400083e7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "UMB-0019",
+  "slug": "umb-0019-smoked-acrylic-five-tube-staggered-umbrella-tower",
+  "title": "Smoked-Acrylic Five-Tube Staggered Umbrella Tower",
+  "category": "entryway",
+  "subcategory": "umbrella-stands",
+  "category_path": "entryway/umbrella-stands",
+  "category_label": "Entryway / Umbrella Stands",
+  "tags": [
+    "umbrella tower",
+    "sculptural-specialty",
+    "five staggered tubes",
+    "clear central spine",
+    "five drip cups",
+    "two floor rails"
+  ],
+  "dimensions_m": {
+    "width": 0.58,
+    "depth": 0.4,
+    "height": 0.86
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 6048,
+    "triangles": 12040,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/entryway/umbrella-stands/umb-0019-smoked-acrylic-five-tube-staggered-umbrella-tower.usdz",
+  "preview": "previews/entryway/umbrella-stands/umb-0019-smoked-acrylic-five-tube-staggered-umbrella-tower.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/entryway/umbrella-stands/umb-0019-smoked-acrylic-five-tube-staggered-umbrella-tower.usdz",
+  "file_size_bytes": 505239,
+  "sha256": "1469df2bd9b69a3edc39a3d0a8da49ec84bfa3062ec5f7c6655cc16b99b010fd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

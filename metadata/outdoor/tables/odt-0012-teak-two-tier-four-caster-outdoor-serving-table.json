@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0012",
+  "slug": "odt-0012-teak-two-tier-four-caster-outdoor-serving-table",
+  "title": "Teak Two-Tier Four-Caster Outdoor Serving Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "compact-portable",
+    "one mobile outdoor serving table",
+    "one slatted top",
+    "one slatted lower tier",
+    "one raised push handle",
+    "four locking casters"
+  ],
+  "dimensions_m": {
+    "width": 0.92,
+    "depth": 0.52,
+    "height": 0.88
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 31,
+    "vertices": 3684,
+    "triangles": 7196,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0012-teak-two-tier-four-caster-outdoor-serving-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0012-teak-two-tier-four-caster-outdoor-serving-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0012-teak-two-tier-four-caster-outdoor-serving-table.usdz",
+  "file_size_bytes": 624556,
+  "sha256": "84f215eddb5b896836e61fef2df0ab14fd17d9b1d00aec975f6ba4349766da15",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

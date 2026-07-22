@@ -1,0 +1,55 @@
+{
+  "id": "ODS-0017",
+  "slug": "ods-0017-ivory-sixteen-rib-half-dome-canopy-daybed",
+  "title": "Ivory Sixteen-Rib Half-Dome Canopy Daybed",
+  "category": "outdoor",
+  "subcategory": "seating",
+  "category_path": "outdoor/seating",
+  "category_label": "Outdoor / Seating",
+  "tags": [
+    "outdoor seating",
+    "architectural-specialty",
+    "one circular outdoor daybed",
+    "one fitted mattress",
+    "three wedge back cushions",
+    "one half-dome canopy",
+    "sixteen radial ribs"
+  ],
+  "dimensions_m": {
+    "width": 1.82,
+    "depth": 1.58,
+    "height": 1.72
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 22,
+    "vertices": 6272,
+    "triangles": 11688,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/seating/ods-0017-ivory-sixteen-rib-half-dome-canopy-daybed.usdz",
+  "preview": "previews/outdoor/seating/ods-0017-ivory-sixteen-rib-half-dome-canopy-daybed.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0017-ivory-sixteen-rib-half-dome-canopy-daybed.usdz",
+  "file_size_bytes": 1164139,
+  "sha256": "e92c2f85cb1a56e4a8eb95d5e55b7c53ce8c6dcb05e5d8a4b9d6cb120e65f802",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

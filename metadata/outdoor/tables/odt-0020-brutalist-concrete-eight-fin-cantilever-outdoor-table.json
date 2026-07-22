@@ -1,0 +1,55 @@
+{
+  "id": "ODT-0020",
+  "slug": "odt-0020-brutalist-concrete-eight-fin-cantilever-outdoor-table",
+  "title": "Brutalist Concrete Eight-Fin Cantilever Outdoor Table",
+  "category": "outdoor",
+  "subcategory": "tables",
+  "category_path": "outdoor/tables",
+  "category_label": "Outdoor / Tables",
+  "tags": [
+    "outdoor tables",
+    "architectural-specialty",
+    "one cantilevered outdoor table",
+    "one board-formed slab top",
+    "eight transverse fins",
+    "one longitudinal spine",
+    "two recessed base rails"
+  ],
+  "dimensions_m": {
+    "width": 1.86,
+    "depth": 0.82,
+    "height": 0.76
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1320,
+    "triangles": 2592,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/outdoor/tables/odt-0020-brutalist-concrete-eight-fin-cantilever-outdoor-table.usdz",
+  "preview": "previews/outdoor/tables/odt-0020-brutalist-concrete-eight-fin-cantilever-outdoor-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0020-brutalist-concrete-eight-fin-cantilever-outdoor-table.usdz",
+  "file_size_bytes": 475254,
+  "sha256": "b75d0454007a05dde8fe35bd234c443c204331c25566cc42986f122e69f9fbbf",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GLW-0010",
+  "slug": "glw-0010-emerald-six-facet-goblet",
+  "title": "Emerald Six-Facet Goblet",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "stemmed-wine-glasses",
+    "one complete standalone open vessel",
+    "exactly six bowl facets",
+    "one baluster stem",
+    "one hexagonal foot"
+  ],
+  "dimensions_m": {
+    "width": 0.095,
+    "depth": 0.095,
+    "height": 0.2
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 1573,
+    "triangles": 3122,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.usdz",
+  "file_size_bytes": 157681,
+  "sha256": "2c2ca4fc327e493f1b71884da88b597b1125a22395bccfe341aa34ce595c1b91",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

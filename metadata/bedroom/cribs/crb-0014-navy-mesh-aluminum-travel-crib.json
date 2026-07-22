@@ -1,0 +1,54 @@
+{
+  "id": "CRB-0014",
+  "slug": "crb-0014-navy-mesh-aluminum-travel-crib",
+  "title": "Navy-Mesh Aluminum Travel Crib",
+  "category": "bedroom",
+  "subcategory": "cribs",
+  "category_path": "bedroom/cribs",
+  "category_label": "Bedroom / Cribs",
+  "tags": [
+    "crib",
+    "compact-mobile",
+    "travel-crib",
+    "navy-mesh",
+    "aluminum",
+    "crossed-feet"
+  ],
+  "dimensions_m": {
+    "width": 1.18,
+    "depth": 0.77997,
+    "height": 0.820005
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 21,
+    "vertices": 3232,
+    "triangles": 6380,
+    "material_slots": 4
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.usdz",
+  "preview": "previews/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.usdz",
+  "file_size_bytes": 1252232,
+  "sha256": "a735c8c2ef3f7d5379ce4a442bc914fbb1a34d4cbd8417868f1394f084243e61",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

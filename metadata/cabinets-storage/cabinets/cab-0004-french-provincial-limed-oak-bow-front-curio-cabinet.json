@@ -1,0 +1,54 @@
+{
+  "id": "CAB-0004",
+  "slug": "cab-0004-french-provincial-limed-oak-bow-front-curio-cabinet",
+  "title": "French Provincial Limed-Oak Bow-Front Curio Cabinet",
+  "category": "cabinets-storage",
+  "subcategory": "cabinets",
+  "category_path": "cabinets-storage/cabinets",
+  "category_label": "Cabinets Storage / Cabinets",
+  "tags": [
+    "cabinet",
+    "classic-architectural",
+    "french provincial",
+    "curved glazed door",
+    "three shelves",
+    "four cabriole feet"
+  ],
+  "dimensions_m": {
+    "width": 0.85,
+    "depth": 0.42,
+    "height": 1.85
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 15,
+    "vertices": 4380,
+    "triangles": 8652,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/cabinets/cab-0004-french-provincial-limed-oak-bow-front-curio-cabinet.usdz",
+  "preview": "previews/cabinets-storage/cabinets/cab-0004-french-provincial-limed-oak-bow-front-curio-cabinet.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0004-french-provincial-limed-oak-bow-front-curio-cabinet.usdz",
+  "file_size_bytes": 1224115,
+  "sha256": "b695fdd614676e0376254f4278f80b8788f151e73ba72f0d46c3cbda1cdf5408",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

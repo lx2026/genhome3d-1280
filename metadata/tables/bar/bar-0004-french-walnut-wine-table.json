@@ -1,0 +1,54 @@
+{
+  "id": "BAR-0004",
+  "slug": "bar-0004-french-walnut-wine-table",
+  "title": "French Walnut Wine Table",
+  "category": "tables",
+  "subcategory": "bar",
+  "category_path": "tables/bar",
+  "category_label": "Tables / Bar",
+  "tags": [
+    "bar-table",
+    "pub-traditional",
+    "french",
+    "round-top",
+    "turned-tripod",
+    "scalloped-apron"
+  ],
+  "dimensions_m": {
+    "width": 0.65,
+    "depth": 0.65,
+    "height": 1.02
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 7,
+    "vertices": 4332,
+    "triangles": 8496,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tables/bar/bar-0004-french-walnut-wine-table.usdz",
+  "preview": "previews/tables/bar/bar-0004-french-walnut-wine-table.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0004-french-walnut-wine-table.usdz",
+  "file_size_bytes": 792714,
+  "sha256": "21c846b6529e4a5834cdb0603f312aaebc08bdbc31cd5c7a82a939fbe2da42dd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

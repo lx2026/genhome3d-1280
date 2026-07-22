@@ -1,0 +1,57 @@
+{
+  "id": "CLK-0001",
+  "slug": "clk-0001-brushed-brass-arched-mantel-clock",
+  "title": "Brushed-Brass Arched Mantel Clock",
+  "category": "decor",
+  "subcategory": "clocks",
+  "category_path": "decor/clocks",
+  "category_label": "Decor / Clocks",
+  "tags": [
+    "decor clocks",
+    "mantel-table-clocks",
+    "one complete freestanding decorative clock assembly",
+    "one arched brass case",
+    "one circular ivory dial",
+    "exactly twelve round hour markers",
+    "exactly two clock hands",
+    "one stepped black-stone plinth",
+    "exactly four low brass feet"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.16,
+    "height": 0.34
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 24,
+    "vertices": 8304,
+    "triangles": 16516,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/clocks/clk-0001-brushed-brass-arched-mantel-clock.usdz",
+  "preview": "previews/decor/clocks/clk-0001-brushed-brass-arched-mantel-clock.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0001-brushed-brass-arched-mantel-clock.usdz",
+  "file_size_bytes": 1087598,
+  "sha256": "3fc413c3bff01c38769be2925d384eb80441ef5e22bccc7f0292ca3e6fd78095",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

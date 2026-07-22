@@ -1,0 +1,54 @@
+{
+  "id": "BEN-0017",
+  "slug": "ben-0017-cast-iron-park-slat-bench",
+  "title": "Cast-Iron Park Slat Bench",
+  "category": "seating",
+  "subcategory": "benches",
+  "category_path": "seating/benches",
+  "category_label": "Seating / Benches",
+  "tags": [
+    "bench",
+    "architectural-outdoor",
+    "park",
+    "cast-iron",
+    "timber-slat",
+    "curved-back"
+  ],
+  "dimensions_m": {
+    "width": 1.75,
+    "depth": 0.62,
+    "height": 0.82
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 16,
+    "vertices": 3540,
+    "triangles": 6680,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/benches/ben-0017-cast-iron-park-slat-bench.usdz",
+  "preview": "previews/seating/benches/ben-0017-cast-iron-park-slat-bench.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0017-cast-iron-park-slat-bench.usdz",
+  "file_size_bytes": 654961,
+  "sha256": "2b055d1c15e254e4d608fb1263ae37146c0d229a7eb811a54b105f6d774e81b6",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

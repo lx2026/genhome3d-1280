@@ -1,0 +1,54 @@
+{
+  "id": "FLC-0017",
+  "slug": "flc-0017-ivory-plaster-ripple-front-four-drawer-file",
+  "title": "Ivory-Plaster Ripple-Front Four-Drawer File",
+  "category": "office",
+  "subcategory": "filing-cabinets",
+  "category_path": "office/filing-cabinets",
+  "category_label": "Office / Filing Cabinets",
+  "tags": [
+    "filing cabinet",
+    "sculptural-specialty",
+    "ripple front",
+    "four hidden drawers",
+    "two block feet",
+    "monolithic top"
+  ],
+  "dimensions_m": {
+    "width": 0.98,
+    "depth": 0.48,
+    "height": 0.84
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 8,
+    "vertices": 2080,
+    "triangles": 4128,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/office/filing-cabinets/flc-0017-ivory-plaster-ripple-front-four-drawer-file.usdz",
+  "preview": "previews/office/filing-cabinets/flc-0017-ivory-plaster-ripple-front-four-drawer-file.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/filing-cabinets/flc-0017-ivory-plaster-ripple-front-four-drawer-file.usdz",
+  "file_size_bytes": 616770,
+  "sha256": "0bb4adc54d6fd98e54d0198d41f989ca836ff4f21bdf885ed5882225834a2f48",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

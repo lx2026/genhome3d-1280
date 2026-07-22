@@ -1,0 +1,53 @@
+{
+  "id": "CUT-0016",
+  "slug": "cut-0016-silver-eighteen-serration-dinner-knife",
+  "title": "Silver Eighteen-Serration Dinner Knife",
+  "category": "tableware-utensils",
+  "subcategory": "cutlery",
+  "category_path": "tableware-utensils/cutlery",
+  "category_label": "Tableware Utensils / Cutlery",
+  "tags": [
+    "tableware utensils cutlery",
+    "table-knives-spreaders",
+    "one complete standalone dinner knife",
+    "exactly eighteen modeled blade serrations",
+    "one rounded solid handle"
+  ],
+  "dimensions_m": {
+    "width": 0.028,
+    "depth": 0.225,
+    "height": 0.014
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 20,
+    "vertices": 1528,
+    "triangles": 2976,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/cutlery/cut-0016-silver-eighteen-serration-dinner-knife.usdz",
+  "preview": "previews/tableware-utensils/cutlery/cut-0016-silver-eighteen-serration-dinner-knife.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0016-silver-eighteen-serration-dinner-knife.usdz",
+  "file_size_bytes": 565126,
+  "sha256": "fd1384cfa56a5f29813781d6c9dcc1c72a6e72fe32a2b55ee3d654d828aedf0e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

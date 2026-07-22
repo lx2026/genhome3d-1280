@@ -1,0 +1,57 @@
+{
+  "id": "BFX-0016",
+  "slug": "bfx-0016-brushed-nickel-round-tray-rain-shower-tower",
+  "title": "Brushed-Nickel Round-Tray Rain-Shower Tower",
+  "category": "bathroom",
+  "subcategory": "fixtures",
+  "category_path": "bathroom/fixtures",
+  "category_label": "Bathroom / Fixtures",
+  "tags": [
+    "bathroom fixtures",
+    "showers-enclosures",
+    "one complete freestanding bathroom-fixture assembly",
+    "one circular shower tray",
+    "one rear vertical shower mast",
+    "one overhead circular rain head",
+    "one handheld shower wand",
+    "one curved hose loop",
+    "one two-handle mixing block"
+  ],
+  "dimensions_m": {
+    "width": 0.9,
+    "depth": 0.9,
+    "height": 2.15
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 3116,
+    "triangles": 6148,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.usdz",
+  "preview": "previews/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.usdz",
+  "file_size_bytes": 805757,
+  "sha256": "fecf3ba2bae5fec5e07d9046a0c5feb31e1ddff22b62f7525ef6535ace51b3b7",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

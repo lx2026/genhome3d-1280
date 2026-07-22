@@ -1,0 +1,56 @@
+{
+  "id": "TLP-0010",
+  "slug": "tlp-0010-satin-brass-counterweighted-disc-table-lamp",
+  "title": "Satin-Brass Counterweighted-Disc Table Lamp",
+  "category": "lighting",
+  "subcategory": "table-lamps",
+  "category_path": "lighting/table-lamps",
+  "category_label": "Lighting / Table Lamps",
+  "tags": [
+    "lighting table lamps",
+    "contemporary-geometric",
+    "one complete freestanding tabletop lamp assembly",
+    "one low rectangular base",
+    "one angled mast",
+    "one thin disc shade",
+    "one spherical counterweight",
+    "one opal underside lens"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.200001,
+    "height": 0.459998
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1538,
+    "triangles": 3052,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.usdz",
+  "preview": "previews/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.usdz",
+  "file_size_bytes": 703259,
+  "sha256": "9651b498ebca42b3ea1c2aa1b27f6ce191c86ed7eac6f02dde894b61aa573d5a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

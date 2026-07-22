@@ -1,0 +1,56 @@
+{
+  "id": "CHD-0016",
+  "slug": "chd-0016-satin-brass-twenty-four-rod-rain-chandelier",
+  "title": "Satin-Brass Twenty-Four-Rod Rain Chandelier",
+  "category": "lighting",
+  "subcategory": "chandeliers",
+  "category_path": "lighting/chandeliers",
+  "category_label": "Lighting / Chandeliers",
+  "tags": [
+    "lighting chandeliers",
+    "architectural-statement",
+    "one complete ceiling-mounted chandelier assembly",
+    "exactly twenty-four hanging rods",
+    "four stepped rod lengths",
+    "one long ceiling plate",
+    "six support cables",
+    "one continuous upper light rail"
+  ],
+  "dimensions_m": {
+    "width": 1.32,
+    "depth": 0.62,
+    "height": 1.52
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 56,
+    "vertices": 11072,
+    "triangles": 21920,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/chandeliers/chd-0016-satin-brass-twenty-four-rod-rain-chandelier.usdz",
+  "preview": "previews/lighting/chandeliers/chd-0016-satin-brass-twenty-four-rod-rain-chandelier.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0016-satin-brass-twenty-four-rod-rain-chandelier.usdz",
+  "file_size_bytes": 802197,
+  "sha256": "9fbf740694e74501ab91327b5de49ef1ce8b7c88d7deac9646d8e796f1369f3e",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "RUG-0019",
+  "slug": "rug-0019-blue-six-arc-rainbow-rug",
+  "title": "Blue Six-Arc Rainbow Rug",
+  "category": "textiles",
+  "subcategory": "rugs",
+  "category_path": "textiles/rugs",
+  "category_label": "Textiles / Rugs",
+  "tags": [
+    "textiles rugs",
+    "shaped-decorative-rugs",
+    "one complete standalone rug assembly",
+    "one rainbow-shaped rug",
+    "exactly six nested raised arch bands",
+    "exactly two flat end caps",
+    "one continuous semicircular backing"
+  ],
+  "dimensions_m": {
+    "width": 1.6,
+    "depth": 0.95,
+    "height": 0.07
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 9,
+    "vertices": 2720,
+    "triangles": 5116,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.usdz",
+  "preview": "previews/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.usdz",
+  "file_size_bytes": 1812336,
+  "sha256": "cc7d5fd60fad334f3457f8cd3f9ecc44854ab474d301c147d6fe8f5e3d105b15",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

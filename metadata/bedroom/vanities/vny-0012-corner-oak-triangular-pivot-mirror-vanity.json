@@ -1,0 +1,53 @@
+{
+  "id": "VNY-0012",
+  "slug": "vny-0012-corner-oak-triangular-pivot-mirror-vanity",
+  "title": "Corner Oak Triangular Pivot-Mirror Vanity",
+  "category": "bedroom",
+  "subcategory": "vanities",
+  "category_path": "bedroom/vanities",
+  "category_label": "Bedroom / Vanities",
+  "tags": [
+    "vanity",
+    "compact-adaptive",
+    "corner",
+    "one drawer",
+    "three legs"
+  ],
+  "dimensions_m": {
+    "width": 0.82,
+    "depth": 0.6,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1120,
+    "triangles": 2200,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/vanities/vny-0012-corner-oak-triangular-pivot-mirror-vanity.usdz",
+  "preview": "previews/bedroom/vanities/vny-0012-corner-oak-triangular-pivot-mirror-vanity.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0012-corner-oak-triangular-pivot-mirror-vanity.usdz",
+  "file_size_bytes": 731930,
+  "sha256": "914e9676e8d3fe214b904dc2da3a5918e2cfba26e30b72f48ba121b918f4ffb4",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

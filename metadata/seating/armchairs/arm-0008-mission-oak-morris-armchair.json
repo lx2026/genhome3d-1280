@@ -1,0 +1,54 @@
+{
+  "id": "ARM-0008",
+  "slug": "arm-0008-mission-oak-morris-armchair",
+  "title": "Mission Oak Morris Armchair",
+  "category": "seating",
+  "subcategory": "armchairs",
+  "category_path": "seating/armchairs",
+  "category_label": "Seating / Armchairs",
+  "tags": [
+    "armchair",
+    "standard",
+    "mission",
+    "morris",
+    "oak",
+    "slatted-sides"
+  ],
+  "dimensions_m": {
+    "width": 0.78,
+    "depth": 0.86,
+    "height": 0.96
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 19,
+    "vertices": 2064,
+    "triangles": 4052,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/seating/armchairs/arm-0008-mission-oak-morris-armchair.usdz",
+  "preview": "previews/seating/armchairs/arm-0008-mission-oak-morris-armchair.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0008-mission-oak-morris-armchair.usdz",
+  "file_size_bytes": 756459,
+  "sha256": "c6128bee8868486a8a68334023bd28d686a1061566222da1ea640c8038bb004a",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

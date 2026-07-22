@@ -1,0 +1,54 @@
+{
+  "id": "CRD-0004",
+  "slug": "crd-0004-art-deco-macassar-waterfall-credenza",
+  "title": "Art Deco Macassar Waterfall Credenza",
+  "category": "cabinets-storage",
+  "subcategory": "credenzas",
+  "category_path": "cabinets-storage/credenzas",
+  "category_label": "Cabinets Storage / Credenzas",
+  "tags": [
+    "credenza",
+    "classic-heritage",
+    "art-deco",
+    "waterfall shell",
+    "two center doors",
+    "two curved end cupboards"
+  ],
+  "dimensions_m": {
+    "width": 1.75,
+    "depth": 0.47,
+    "height": 0.78
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 10,
+    "vertices": 1112,
+    "triangles": 2184,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/credenzas/crd-0004-art-deco-macassar-waterfall-credenza.usdz",
+  "preview": "previews/cabinets-storage/credenzas/crd-0004-art-deco-macassar-waterfall-credenza.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/credenzas/crd-0004-art-deco-macassar-waterfall-credenza.usdz",
+  "file_size_bytes": 916589,
+  "sha256": "74b2ed9fd21cc342a4ef1f966d3a291a8e25a935eb5236e12b23571e6a58cec5",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

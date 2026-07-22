@@ -1,0 +1,54 @@
+{
+  "id": "HDB-0004",
+  "slug": "hdb-0004-georgian-mahogany-broken-pediment-headboard",
+  "title": "Georgian Mahogany Broken-Pediment Headboard",
+  "category": "bedroom",
+  "subcategory": "headboards",
+  "category_path": "bedroom/headboards",
+  "category_label": "Bedroom / Headboards",
+  "tags": [
+    "headboard",
+    "traditional-craft",
+    "georgian",
+    "mahogany",
+    "broken-pediment",
+    "queen"
+  ],
+  "dimensions_m": {
+    "width": 1.75,
+    "depth": 0.15,
+    "height": 1.55
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 17,
+    "vertices": 1568,
+    "triangles": 3068,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/bedroom/headboards/hdb-0004-georgian-mahogany-broken-pediment-headboard.usdz",
+  "preview": "previews/bedroom/headboards/hdb-0004-georgian-mahogany-broken-pediment-headboard.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0004-georgian-mahogany-broken-pediment-headboard.usdz",
+  "file_size_bytes": 574964,
+  "sha256": "2ceacef5d1fb98a45e6bd37bc974e0692ff257cfd9af739989583c3e60a924b8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-18",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

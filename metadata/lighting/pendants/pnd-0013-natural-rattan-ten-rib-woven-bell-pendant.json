@@ -1,0 +1,55 @@
+{
+  "id": "PND-0013",
+  "slug": "pnd-0013-natural-rattan-ten-rib-woven-bell-pendant",
+  "title": "Natural-Rattan Ten-Rib Woven-Bell Pendant",
+  "category": "lighting",
+  "subcategory": "pendants",
+  "category_path": "lighting/pendants",
+  "category_label": "Lighting / Pendants",
+  "tags": [
+    "lighting pendants",
+    "compact-residential",
+    "one complete ceiling-mounted pendant light assembly",
+    "one round canopy and one cord",
+    "exactly ten vertical rattan ribs",
+    "four weave rings",
+    "one central socket"
+  ],
+  "dimensions_m": {
+    "width": 0.380398,
+    "depth": 0.380712,
+    "height": 0.59985
+  },
+  "placement": {
+    "type": "ceiling-mounted",
+    "origin": "center-of-ceiling-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 18,
+    "vertices": 3968,
+    "triangles": 7880,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/pendants/pnd-0013-natural-rattan-ten-rib-woven-bell-pendant.usdz",
+  "preview": "previews/lighting/pendants/pnd-0013-natural-rattan-ten-rib-woven-bell-pendant.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0013-natural-rattan-ten-rib-woven-bell-pendant.usdz",
+  "file_size_bytes": 1116313,
+  "sha256": "8bedb639951bb5555a9010ce7b42f4b13f8413fcdbef7a09dc30ab2718a5e599",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

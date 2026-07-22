@@ -1,0 +1,55 @@
+{
+  "id": "GLW-0020",
+  "slug": "glw-0020-clear-open-handle-spouted-pitcher",
+  "title": "Clear Open-Handle Spouted Pitcher",
+  "category": "tableware-utensils",
+  "subcategory": "glassware",
+  "category_path": "tableware-utensils/glassware",
+  "category_label": "Tableware Utensils / Glassware",
+  "tags": [
+    "tableware utensils glassware",
+    "specialty-serving-glassware",
+    "one complete standalone open vessel",
+    "one broad vessel",
+    "one true open loop handle",
+    "one formed pouring spout",
+    "one open rim"
+  ],
+  "dimensions_m": {
+    "width": 0.18,
+    "depth": 0.13,
+    "height": 0.22
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 4,
+    "vertices": 2669,
+    "triangles": 5278,
+    "material_slots": 1
+  },
+  "format": "USDZ",
+  "usdz": "assets/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.usdz",
+  "preview": "previews/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.usdz",
+  "file_size_bytes": 339865,
+  "sha256": "90c700c8ee0884fc65ecf915d4904eff200f964905a9826daca78e50d9030dd8",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-21",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

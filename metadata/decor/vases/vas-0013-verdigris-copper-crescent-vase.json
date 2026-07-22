@@ -1,0 +1,55 @@
+{
+  "id": "VAS-0013",
+  "slug": "vas-0013-verdigris-copper-crescent-vase",
+  "title": "Verdigris-Copper Crescent Vase",
+  "category": "decor",
+  "subcategory": "vases",
+  "category_path": "decor/vases",
+  "category_label": "Decor / Vases",
+  "tags": [
+    "decor vases",
+    "metal-stone-vessels",
+    "one complete freestanding decorative vase",
+    "one crescent vessel body",
+    "exactly two tapered crescent horns",
+    "one raised narrow mouth on the taller horn",
+    "one low oval foot"
+  ],
+  "dimensions_m": {
+    "width": 0.42,
+    "depth": 0.18,
+    "height": 0.48
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 2210,
+    "triangles": 4304,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/decor/vases/vas-0013-verdigris-copper-crescent-vase.usdz",
+  "preview": "previews/decor/vases/vas-0013-verdigris-copper-crescent-vase.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0013-verdigris-copper-crescent-vase.usdz",
+  "file_size_bytes": 526230,
+  "sha256": "45187031d758adef799ed096e2f4fc96c08b05ac39c8e2ada2d56392c1386fdd",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

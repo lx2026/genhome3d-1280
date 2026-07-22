@@ -1,0 +1,54 @@
+{
+  "id": "WRD-0005",
+  "slug": "wrd-0005-art-deco-walnut-waterfall-three-door-wardrobe",
+  "title": "Art Deco Walnut Waterfall Three-Door Wardrobe",
+  "category": "cabinets-storage",
+  "subcategory": "wardrobes",
+  "category_path": "cabinets-storage/wardrobes",
+  "category_label": "Cabinets Storage / Wardrobes",
+  "tags": [
+    "wardrobe",
+    "classic-heritage",
+    "art deco",
+    "three doors",
+    "two drawers",
+    "waterfall shell"
+  ],
+  "dimensions_m": {
+    "width": 1.7,
+    "depth": 0.6,
+    "height": 1.85
+  },
+  "placement": {
+    "type": "floor",
+    "origin": "center-of-floor-contact-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 12,
+    "vertices": 1544,
+    "triangles": 3040,
+    "material_slots": 3
+  },
+  "format": "USDZ",
+  "usdz": "assets/cabinets-storage/wardrobes/wrd-0005-art-deco-walnut-waterfall-three-door-wardrobe.usdz",
+  "preview": "previews/cabinets-storage/wardrobes/wrd-0005-art-deco-walnut-waterfall-three-door-wardrobe.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0005-art-deco-walnut-waterfall-three-door-wardrobe.usdz",
+  "file_size_bytes": 942668,
+  "sha256": "428954c4c721b9b35e116c6f86bb27978582e7c0861dfb1395aaaea7805e386b",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-19",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}

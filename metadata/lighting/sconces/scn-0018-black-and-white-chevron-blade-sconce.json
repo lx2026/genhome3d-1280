@@ -1,0 +1,56 @@
+{
+  "id": "SCN-0018",
+  "slug": "scn-0018-black-and-white-chevron-blade-sconce",
+  "title": "Black-and-White Chevron-Blade Sconce",
+  "category": "lighting",
+  "subcategory": "sconces",
+  "category_path": "lighting/sconces",
+  "category_label": "Lighting / Sconces",
+  "tags": [
+    "lighting sconces",
+    "architectural-statement",
+    "one complete wall-mounted sconce light assembly",
+    "one narrow wall spine",
+    "exactly two diagonal light blades",
+    "one upper chevron joint",
+    "two lower black caps",
+    "no exposed bulb"
+  ],
+  "dimensions_m": {
+    "width": 0.359955,
+    "depth": 0.100006,
+    "height": 0.58
+  },
+  "placement": {
+    "type": "wall-mounted",
+    "origin": "center-of-wall-mount-footprint",
+    "source_up": "Z",
+    "export_up": "Y",
+    "meters_per_unit": 1.0
+  },
+  "geometry": {
+    "objects": 6,
+    "vertices": 1090,
+    "triangles": 2156,
+    "material_slots": 2
+  },
+  "format": "USDZ",
+  "usdz": "assets/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.usdz",
+  "preview": "previews/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.jpg",
+  "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.usdz",
+  "file_size_bytes": 390613,
+  "sha256": "24dc92fc071b24fc31683c906fbc709db8a048ef3edb8aae35d81d039c82cc3c",
+  "validation": {
+    "technical": "pass",
+    "package_audit": "pass",
+    "visual_review": "pass",
+    "bounds": "pass",
+    "placement": "pass",
+    "vision_pro_device_review": "pending"
+  },
+  "production": {
+    "asset_version": "1.0.0",
+    "export_date": "2026-07-20",
+    "blender_export_version": "5.2.0 LTS"
+  }
+}
