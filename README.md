@@ -6,6 +6,7 @@ across 64 categories.**
 [Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
 [Browse on Hugging Face](https://huggingface.co/datasets/linxy97/genhome3d-1280) ·
 [Download release archives](https://github.com/lx2026/genhome3d-1280/releases) ·
+[Read the generation method](METHOD.md) ·
 [Read the validation contract](VALIDATION.md)
 
 <table>
@@ -65,6 +66,7 @@ catalog.json                                Complete machine-readable catalog
 catalog.csv                                 Flat analysis-friendly catalog
 checksums.sha256                            USDZ integrity manifest
 reports/publication-audit.json              Publication gate result
+METHOD.md                                   Generation and review workflow
 site/                                       GitHub Pages source
 tools/build_publication.py                  Reproducible export script
 ```
@@ -94,8 +96,9 @@ See [`LICENSE-ASSETS`](LICENSE-ASSETS) for the asset license and
 The collection was created through an OpenAI Codex-assisted design,
 specification, procedural Blender construction, packaging, and QA workflow.
 Generated design references guided production but are not distributed in this
-public runtime dataset. See [`PROVENANCE.md`](PROVENANCE.md) and
-[`VALIDATION.md`](VALIDATION.md) for the precise scope of the claims.
+public runtime dataset. See [`METHOD.md`](METHOD.md) for the production
+workflow, [`PROVENANCE.md`](PROVENANCE.md) for origin and disclosure details,
+and [`VALIDATION.md`](VALIDATION.md) for the precise scope of the claims.
 
 The assets are generated designs, may not be unique, and should not be treated
 as scans or authoritative replicas of real products. Review trademark, trade
