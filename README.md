@@ -4,6 +4,7 @@
 across 64 categories.**
 
 [Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
+[Browse on Hugging Face](https://huggingface.co/datasets/linxy97/genhome3d-1280) ·
 [Download release archives](https://github.com/lx2026/genhome3d-1280/releases) ·
 [Read the validation contract](VALIDATION.md)
 
@@ -37,8 +38,9 @@ self-contained USDZ package.
 
 ## Download
 
-Download individual assets directly from [`assets/`](assets), or use the
-complete archive attached to the latest GitHub release.
+Download individual assets directly from [`assets/`](assets) or the
+[Hugging Face mirror](https://huggingface.co/datasets/linxy97/genhome3d-1280),
+or use the complete archive attached to the latest GitHub release.
 
 ```bash
 # Clone the full collection (approximately 1.2 GB including previews)
