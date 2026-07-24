@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0010-emerald-six-facet-goblet.usdz",
   "file_size_bytes": 157681,
   "sha256": "2c2ca4fc327e493f1b71884da88b597b1125a22395bccfe341aa34ce595c1b91",

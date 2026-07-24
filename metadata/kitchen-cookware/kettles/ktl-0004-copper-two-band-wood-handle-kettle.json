@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0004-copper-two-band-wood-handle-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0004-copper-two-band-wood-handle-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0004-copper-two-band-wood-handle-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0004-copper-two-band-wood-handle-kettle.usdz",
   "file_size_bytes": 1610417,
   "sha256": "d4a5e25008d9843b16851afb59b41f73a1ae9b8ac36fc6bebbc86d30b4e66751",

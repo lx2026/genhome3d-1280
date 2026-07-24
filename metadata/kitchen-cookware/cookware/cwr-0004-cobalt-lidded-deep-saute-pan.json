@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0004-cobalt-lidded-deep-saute-pan.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0004-cobalt-lidded-deep-saute-pan.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0004-cobalt-lidded-deep-saute-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0004-cobalt-lidded-deep-saute-pan.usdz",
   "file_size_bytes": 1155375,
   "sha256": "ae0adc022708141a10038e97fd463951ea86f6cece3388617316f17b25a107c1",

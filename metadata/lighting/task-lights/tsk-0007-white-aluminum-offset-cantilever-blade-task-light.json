@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0007-white-aluminum-offset-cantilever-blade-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0007-white-aluminum-offset-cantilever-blade-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0007-white-aluminum-offset-cantilever-blade-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0007-white-aluminum-offset-cantilever-blade-task-light.usdz",
   "file_size_bytes": 815930,
   "sha256": "1dfa2ca67377c1138577d744c8808946a0d4fcc7042546230bae64947d68bb70",

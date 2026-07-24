@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0014-black-steel-three-disc-balance-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0014-black-steel-three-disc-balance-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0014-black-steel-three-disc-balance-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0014-black-steel-three-disc-balance-sculpture.usdz",
   "file_size_bytes": 630297,
   "sha256": "ad21f61c0a5f26ec2afce86c08010678f893bc12b13f0e11ec7f63f195ca00c6",

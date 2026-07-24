@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.usdz",
   "preview": "previews/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.jpg",
+  "reference": "references/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0005-camel-twill-twelve-grommet-curtain-pair.usdz",
   "file_size_bytes": 806277,
   "sha256": "74624204776087af0a7717f3916e86afe5b20b8860fe3c6abd00fd196347078b",

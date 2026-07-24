@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.usdz",
   "preview": "previews/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.jpg",
+  "reference": "references/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0006-matte-black-long-arc-dome-floor-lamp.usdz",
   "file_size_bytes": 444867,
   "sha256": "78013d89f775d33d20f0c55b903654939abe8e1f9ef6a5c33d9305eba6fa74d6",

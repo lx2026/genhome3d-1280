@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0003-aged-bronze-six-lantern-scroll-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0003-aged-bronze-six-lantern-scroll-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0003-aged-bronze-six-lantern-scroll-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0003-aged-bronze-six-lantern-scroll-chandelier.usdz",
   "file_size_bytes": 1238871,
   "sha256": "799d261ded1aa649daff98b4965a1b5461e245d8be17177116cb9f0dd7f2a11f",

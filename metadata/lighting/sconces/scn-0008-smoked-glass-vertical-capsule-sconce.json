@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0008-smoked-glass-vertical-capsule-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0008-smoked-glass-vertical-capsule-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0008-smoked-glass-vertical-capsule-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0008-smoked-glass-vertical-capsule-sconce.usdz",
   "file_size_bytes": 739264,
   "sha256": "791929e9fcd09d9292d6f22022c5fe8c0e778f4c15ca4e9d49c46a2049145c9a",

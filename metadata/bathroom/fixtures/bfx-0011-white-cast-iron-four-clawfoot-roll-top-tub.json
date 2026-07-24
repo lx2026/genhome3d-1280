@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0011-white-cast-iron-four-clawfoot-roll-top-tub.usdz",
   "file_size_bytes": 1507821,
   "sha256": "ea48a50dce958ad9fb52d032c1aece1c3802aecd9277c369d6e5cff283716959",

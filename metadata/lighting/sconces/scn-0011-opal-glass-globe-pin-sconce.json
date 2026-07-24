@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0011-opal-glass-globe-pin-sconce.usdz",
   "file_size_bytes": 653298,
   "sha256": "b4588078c106a02cd6b1c0bb5b24aa33e0dc33ceb00ea9a5ef4d5cd74bc27a56",

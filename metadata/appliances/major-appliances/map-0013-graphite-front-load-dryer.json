@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0013-graphite-front-load-dryer.usdz",
   "preview": "previews/appliances/major-appliances/map-0013-graphite-front-load-dryer.jpg",
+  "reference": "references/appliances/major-appliances/map-0013-graphite-front-load-dryer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0013-graphite-front-load-dryer.usdz",
   "file_size_bytes": 622332,
   "sha256": "e691bdfef334d32c42c6ec94af1ed0eb4e7fd8016484ed165d66c496cdc3134c",

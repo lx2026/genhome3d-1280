@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0006-dark-walnut-asymmetric-pebble-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0006-dark-walnut-asymmetric-pebble-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0006-dark-walnut-asymmetric-pebble-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0006-dark-walnut-asymmetric-pebble-mirror.usdz",
   "file_size_bytes": 848001,
   "sha256": "1bafe0c5ccff9a8cb9a42844de6bc5002bf04346a7c97df0d98c987f5f99de51",

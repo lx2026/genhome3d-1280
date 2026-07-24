@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0011-natural-bamboo-four-tier-ladder-shelf.usdz",
   "preview": "previews/bathroom/storage/bst-0011-natural-bamboo-four-tier-ladder-shelf.jpg",
+  "reference": "references/bathroom/storage/bst-0011-natural-bamboo-four-tier-ladder-shelf.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0011-natural-bamboo-four-tier-ladder-shelf.usdz",
   "file_size_bytes": 475025,
   "sha256": "d4b9f8349291fac92dbf745656e6ae2df7a36a0a4d41849be0232a8061f41bac",

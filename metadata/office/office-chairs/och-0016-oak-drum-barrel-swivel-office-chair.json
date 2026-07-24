@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0016-oak-drum-barrel-swivel-office-chair.usdz",
   "preview": "previews/office/office-chairs/och-0016-oak-drum-barrel-swivel-office-chair.jpg",
+  "reference": "references/office/office-chairs/och-0016-oak-drum-barrel-swivel-office-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0016-oak-drum-barrel-swivel-office-chair.usdz",
   "file_size_bytes": 1015401,
   "sha256": "6b75bb32a24e395c1ab622ecb4416ecf186d1fe7ca2b15e94ae0c82edf17e03b",

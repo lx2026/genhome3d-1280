@@ -27,8 +27,9 @@ Every completed asset had:
 - structured metadata and checksums;
 - technical, package, and visual review results.
 
-The public dataset contains the final USDZ, preview, metadata, and validation
-state. The full Blender sources and production builders remain in the
+The public dataset contains the final USDZ, preview, original AI design
+reference, metadata, and technical check state. The full Blender sources and
+production builders remain in the
 production archive. This guide describes their structure, but it is not yet a
 drop-in release of that internal runtime.
 
@@ -355,10 +356,11 @@ that looked correctly sized in Blender but opened at the wrong scale.
 Technical validity is not Vision Pro certification. Test selected packages in
 Reality Composer Pro, the target app, and physical hardware before shipping.
 
-## 11. Review against named criteria
+## 11. Let the agent review against named criteria
 
 The authoritative reference, hero render, and inspection render were placed
-on one comparison board. Each asset received a pass or fail for:
+on one comparison board. Codex performed the review, and each asset received a
+pass or fail for:
 
 1. silhouette;
 2. proportions;
@@ -374,6 +376,11 @@ could not be reused as if it still described the current asset.
 
 Keep visual and technical review separate. A package can be structurally valid
 and still be a poor model.
+
+This was not an independent human review. The generated references, generated
+objects, and review decisions came from the same AI-assisted workflow. Those
+decisions are benchmark output and can miss obvious visual or construction
+problems.
 
 ## 12. Scale through manifests and resumable stages
 

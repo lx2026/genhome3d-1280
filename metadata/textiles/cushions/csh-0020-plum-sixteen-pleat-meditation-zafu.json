@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.usdz",
   "preview": "previews/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.jpg",
+  "reference": "references/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0020-plum-sixteen-pleat-meditation-zafu.usdz",
   "file_size_bytes": 985754,
   "sha256": "9d91728b467c95ebae0ceda22443bd28544a1877900e75c06887360fa76278bc",

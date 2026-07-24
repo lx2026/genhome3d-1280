@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0003-brushed-three-rib-induction-kettle.usdz",
   "file_size_bytes": 929173,
   "sha256": "05390c5e1fb0ffd4b8d1ef020e46a54b9a6e901d8eac5fd8f9b8bea9bde23cbc",

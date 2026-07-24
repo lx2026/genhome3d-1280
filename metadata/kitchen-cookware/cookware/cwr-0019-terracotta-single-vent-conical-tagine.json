@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0019-terracotta-single-vent-conical-tagine.usdz",
   "file_size_bytes": 590067,
   "sha256": "d975fd7fe873da6f22ef7078804f7310f2a1497ec457210c87506cd6090263b5",

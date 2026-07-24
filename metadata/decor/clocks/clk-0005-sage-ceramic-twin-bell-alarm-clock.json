@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0005-sage-ceramic-twin-bell-alarm-clock.usdz",
   "preview": "previews/decor/clocks/clk-0005-sage-ceramic-twin-bell-alarm-clock.jpg",
+  "reference": "references/decor/clocks/clk-0005-sage-ceramic-twin-bell-alarm-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0005-sage-ceramic-twin-bell-alarm-clock.usdz",
   "file_size_bytes": 755895,
   "sha256": "cb37525e01e62ba1ba42751a5e4fc40406b90ffe609652cebe6dd8efe2a94f5f",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0009-emerald-glass-seven-pleat-fan-vase.usdz",
   "preview": "previews/decor/vases/vas-0009-emerald-glass-seven-pleat-fan-vase.jpg",
+  "reference": "references/decor/vases/vas-0009-emerald-glass-seven-pleat-fan-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0009-emerald-glass-seven-pleat-fan-vase.usdz",
   "file_size_bytes": 201366,
   "sha256": "f5d52e9a966a001b3fcbb79f6b08d3b529d80d239b6496909da5bb1b777682c8",

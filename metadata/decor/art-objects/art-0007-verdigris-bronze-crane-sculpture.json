@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0007-verdigris-bronze-crane-sculpture.usdz",
   "file_size_bytes": 565616,
   "sha256": "a45c7371a4486cfcf11ba399283a94e59983319d1d8123243b28405204494d78",

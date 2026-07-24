@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.usdz",
   "preview": "previews/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.jpg",
+  "reference": "references/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0019-white-concrete-continuous-ribbon-outdoor-chaise.usdz",
   "file_size_bytes": 536790,
   "sha256": "60686adc875bd66efc8746e6b998d9ec6422901450151b2f342d93655d3a1058",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0007-queen-copper-gel-memory-foam-mattress.usdz",
   "file_size_bytes": 1777873,
   "sha256": "00b41287911afff55ce95ea33c94604cd89455c64fc1dac1ed2f49af1c543dec",

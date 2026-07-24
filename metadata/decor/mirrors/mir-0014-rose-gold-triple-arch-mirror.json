@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0014-rose-gold-triple-arch-mirror.usdz",
   "file_size_bytes": 702628,
   "sha256": "fa1c918e22d5a04ba27b8a469564e213bc8b42d385645ac3228dce0a822da036",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0004-black-eight-slot-mini-loaf-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0004-black-eight-slot-mini-loaf-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0004-black-eight-slot-mini-loaf-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0004-black-eight-slot-mini-loaf-pan.usdz",
   "file_size_bytes": 260240,
   "sha256": "b45acd052a7ddcc78fbf52e7d0429322c975fa36c1ee667487608a5271cd80ef",

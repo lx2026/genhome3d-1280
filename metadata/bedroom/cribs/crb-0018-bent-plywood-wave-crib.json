@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0018-bent-plywood-wave-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0018-bent-plywood-wave-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0018-bent-plywood-wave-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0018-bent-plywood-wave-crib.usdz",
   "file_size_bytes": 970473,
   "sha256": "70b23b90cb2833924b545aa04c5d1ee0c1168393ddba300a9854d7a753b89d42",

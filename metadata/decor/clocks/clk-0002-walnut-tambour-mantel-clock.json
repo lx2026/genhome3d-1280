@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0002-walnut-tambour-mantel-clock.usdz",
   "preview": "previews/decor/clocks/clk-0002-walnut-tambour-mantel-clock.jpg",
+  "reference": "references/decor/clocks/clk-0002-walnut-tambour-mantel-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0002-walnut-tambour-mantel-clock.usdz",
   "file_size_bytes": 1199591,
   "sha256": "324cbc34129aa1a8af02fce296b59b5f06f3da049c29b30d56041aa776da1b58",

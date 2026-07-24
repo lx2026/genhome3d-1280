@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0018-white-resin-three-segment-cylindrical-shower-pod.usdz",
   "file_size_bytes": 1051237,
   "sha256": "61b954688f614cfc90c8bed529162757ab52edd8b96152fd476f11431dced096",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0010-gold-six-cavity-scalloped-tartlet-tray.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0010-gold-six-cavity-scalloped-tartlet-tray.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0010-gold-six-cavity-scalloped-tartlet-tray.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0010-gold-six-cavity-scalloped-tartlet-tray.usdz",
   "file_size_bytes": 619672,
   "sha256": "7d72fe7bfabf5a825e712f7d1ad6ad3e39f49d93ade07040e66dac837ccc7e14",

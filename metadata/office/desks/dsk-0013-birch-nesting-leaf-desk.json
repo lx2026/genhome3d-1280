@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0013-birch-nesting-leaf-desk.usdz",
   "preview": "previews/office/desks/dsk-0013-birch-nesting-leaf-desk.jpg",
+  "reference": "references/office/desks/dsk-0013-birch-nesting-leaf-desk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0013-birch-nesting-leaf-desk.usdz",
   "file_size_bytes": 504057,
   "sha256": "bf867866008a9daae12a42a2b13640376458b06c4628a7a82f63ed2c4f35c057",

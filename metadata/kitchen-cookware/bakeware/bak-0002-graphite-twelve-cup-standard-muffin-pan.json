@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0002-graphite-twelve-cup-standard-muffin-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0002-graphite-twelve-cup-standard-muffin-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0002-graphite-twelve-cup-standard-muffin-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0002-graphite-twelve-cup-standard-muffin-pan.usdz",
   "file_size_bytes": 468943,
   "sha256": "383425d257bfb007314c404906bb0d086283f8802806bd6263963e4174b1f3fb",

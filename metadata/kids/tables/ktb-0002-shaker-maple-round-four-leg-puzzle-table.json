@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kids/tables/ktb-0002-shaker-maple-round-four-leg-puzzle-table.usdz",
   "preview": "previews/kids/tables/ktb-0002-shaker-maple-round-four-leg-puzzle-table.jpg",
+  "reference": "references/kids/tables/ktb-0002-shaker-maple-round-four-leg-puzzle-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kids/tables/ktb-0002-shaker-maple-round-four-leg-puzzle-table.usdz",
   "file_size_bytes": 991219,
   "sha256": "cb515c0a1a84c94ac2828a1a333f7c8a84950dd942ba5a79c296869f42143565",

@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0016-limestone-portal-suspended-clock.usdz",
   "preview": "previews/decor/clocks/clk-0016-limestone-portal-suspended-clock.jpg",
+  "reference": "references/decor/clocks/clk-0016-limestone-portal-suspended-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0016-limestone-portal-suspended-clock.usdz",
   "file_size_bytes": 1243182,
   "sha256": "575354186a1c0029c82478e60ee8ef9f1c0c90f5f6008623cb17e1c79f408f1c",

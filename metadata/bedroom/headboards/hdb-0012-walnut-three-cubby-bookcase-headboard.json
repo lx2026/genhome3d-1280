@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0012-walnut-three-cubby-bookcase-headboard.usdz",
   "file_size_bytes": 537139,
   "sha256": "75ff86aaea28a30db29cdbd82c05756ffa7b34ce5bfea665955bc468ff8be317",

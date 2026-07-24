@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.usdz",
   "preview": "previews/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.jpg",
+  "reference": "references/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0008-oatmeal-linen-three-layer-blackout-ensemble.usdz",
   "file_size_bytes": 1280249,
   "sha256": "d8d8c36268d17f928cb35afbfe0db2cf38618fbbb3a1c078570eae04393955a7",

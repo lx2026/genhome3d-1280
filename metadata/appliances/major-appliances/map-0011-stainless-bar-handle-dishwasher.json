@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0011-stainless-bar-handle-dishwasher.usdz",
   "preview": "previews/appliances/major-appliances/map-0011-stainless-bar-handle-dishwasher.jpg",
+  "reference": "references/appliances/major-appliances/map-0011-stainless-bar-handle-dishwasher.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0011-stainless-bar-handle-dishwasher.usdz",
   "file_size_bytes": 571549,
   "sha256": "1498552289ce99dd3aea7f72d7ff86190b98bc3fce0cfd1290559b4dc4d07d32",

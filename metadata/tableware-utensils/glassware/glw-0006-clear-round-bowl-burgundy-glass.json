@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0006-clear-round-bowl-burgundy-glass.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0006-clear-round-bowl-burgundy-glass.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0006-clear-round-bowl-burgundy-glass.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0006-clear-round-bowl-burgundy-glass.usdz",
   "file_size_bytes": 375420,
   "sha256": "6860ed7e986609ccd819f035f22f345651efcccdd2095d85895ad26653c8df1b",

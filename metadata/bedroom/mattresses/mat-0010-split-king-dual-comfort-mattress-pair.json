@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.usdz",
   "preview": "previews/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.jpg",
+  "reference": "references/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0010-split-king-dual-comfort-mattress-pair.usdz",
   "file_size_bytes": 1059258,
   "sha256": "d5e375fcd61083a5c0600bf72a87a8ca26fa58c4e1f3b4256e2bc77f7c46bd88",

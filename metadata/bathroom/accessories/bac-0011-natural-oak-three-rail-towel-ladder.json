@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.usdz",
   "preview": "previews/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.jpg",
+  "reference": "references/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0011-natural-oak-three-rail-towel-ladder.usdz",
   "file_size_bytes": 467537,
   "sha256": "88498b6f12698be8cc0619fa86f0d36b559f521d94272ec2c72de49b76dbb4b6",

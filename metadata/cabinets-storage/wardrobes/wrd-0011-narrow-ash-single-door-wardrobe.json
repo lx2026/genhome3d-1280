@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.usdz",
   "preview": "previews/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.jpg",
+  "reference": "references/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/wardrobes/wrd-0011-narrow-ash-single-door-wardrobe.usdz",
   "file_size_bytes": 539434,
   "sha256": "944d186d7da7c135845c29e9247630f8877b00cb50f6e05225ce457fa53cd8d3",

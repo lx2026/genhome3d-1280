@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0014-black-steel-four-bar-eight-pin-grid-chandelier.usdz",
   "file_size_bytes": 392012,
   "sha256": "1c0876758ab3ef7927c23e9bb16fddc5d026ba09bb2f35f8c9c2b34047cb7763",

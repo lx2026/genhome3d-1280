@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.usdz",
   "preview": "previews/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.jpg",
+  "reference": "references/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0009-mid-century-walnut-wishbone-bench.usdz",
   "file_size_bytes": 910346,
   "sha256": "cc798da5be05e7a6ba4d8f0ca90a27627b145d36a3fc37679e02d7b452947b7e",

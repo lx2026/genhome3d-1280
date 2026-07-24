@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0020-arched-handle-ulu-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0020-arched-handle-ulu-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0020-arched-handle-ulu-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0020-arched-handle-ulu-knife.usdz",
   "file_size_bytes": 1108778,
   "sha256": "d5a727f9c6b7778d8e2355cf49f683667dc3be5263e707b8883e78358beb36f7",

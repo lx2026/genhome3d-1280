@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.usdz",
   "preview": "previews/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.jpg",
+  "reference": "references/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0012-speckled-ceramic-linen-drum-floor-lamp.usdz",
   "file_size_bytes": 849588,
   "sha256": "4f3d3996532a5f97b775e493725a3c7b51c29348d616839ff886afc73ae16f25",

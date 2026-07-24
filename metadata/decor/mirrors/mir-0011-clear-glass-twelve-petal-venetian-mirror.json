@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0011-clear-glass-twelve-petal-venetian-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0011-clear-glass-twelve-petal-venetian-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0011-clear-glass-twelve-petal-venetian-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0011-clear-glass-twelve-petal-venetian-mirror.usdz",
   "file_size_bytes": 1055498,
   "sha256": "ab6b84697939fdc3d24202c0d59d7cde4f288f473f2e836f149b368bc31f1139",

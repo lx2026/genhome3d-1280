@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/side/sid-0007-scandinavian-ash-c-sofa-side-table.usdz",
   "preview": "previews/tables/side/sid-0007-scandinavian-ash-c-sofa-side-table.jpg",
+  "reference": "references/tables/side/sid-0007-scandinavian-ash-c-sofa-side-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0007-scandinavian-ash-c-sofa-side-table.usdz",
   "file_size_bytes": 489954,
   "sha256": "f692c82b9bdbf91248d4912442685f58b26b846669a97553cdea84f9c42b8988",

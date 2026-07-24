@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0005-white-ceramic-tall-module-compact-toilet.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0005-white-ceramic-tall-module-compact-toilet.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0005-white-ceramic-tall-module-compact-toilet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0005-white-ceramic-tall-module-compact-toilet.usdz",
   "file_size_bytes": 1263209,
   "sha256": "6ba4c866d154f5020b5c737f55ffdb859b8cf13fa4c0564ea51170d552b75f19",

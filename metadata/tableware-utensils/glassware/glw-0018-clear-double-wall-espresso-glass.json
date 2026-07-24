@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0018-clear-double-wall-espresso-glass.usdz",
   "file_size_bytes": 456342,
   "sha256": "c83f321e8ab85e791db7e9a99e494b84f137b71d3429bd3d01d6b89da008cae3",

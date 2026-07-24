@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.usdz",
   "preview": "previews/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.jpg",
+  "reference": "references/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0012-black-four-slot-dual-control-toaster.usdz",
   "file_size_bytes": 587978,
   "sha256": "f5e4e5f6be5aef7c607a500cbae38c21816a6ba8831ba6d45db1c2f8ce7b34f6",

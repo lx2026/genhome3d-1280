@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.usdz",
   "preview": "previews/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.jpg",
+  "reference": "references/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0002-mid-century-walnut-tuxedo-loveseat.usdz",
   "file_size_bytes": 1024651,
   "sha256": "3f8a2274afc69e38681b7e90274dd28a025bf53b6eb4b18d86f4d415c466c891",

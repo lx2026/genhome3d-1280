@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/cabinets-storage/cabinets/cab-0020-brutalist-concrete-portal-cabinet.usdz",
   "preview": "previews/cabinets-storage/cabinets/cab-0020-brutalist-concrete-portal-cabinet.jpg",
+  "reference": "references/cabinets-storage/cabinets/cab-0020-brutalist-concrete-portal-cabinet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0020-brutalist-concrete-portal-cabinet.usdz",
   "file_size_bytes": 500698,
   "sha256": "849d6907a220f59ddebb4dc1ded902c641ba3ad3610e7af456dd16d54f70be84",

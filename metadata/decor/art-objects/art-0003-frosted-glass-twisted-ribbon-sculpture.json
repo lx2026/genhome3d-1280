@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0003-frosted-glass-twisted-ribbon-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0003-frosted-glass-twisted-ribbon-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0003-frosted-glass-twisted-ribbon-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0003-frosted-glass-twisted-ribbon-sculpture.usdz",
   "file_size_bytes": 860474,
   "sha256": "88060116b761c9675190e2593344f0230aebcee05d8ef87e0f7e2329a6a89b74",

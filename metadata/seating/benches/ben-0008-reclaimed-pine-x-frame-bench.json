@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.usdz",
   "preview": "previews/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.jpg",
+  "reference": "references/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0008-reclaimed-pine-x-frame-bench.usdz",
   "file_size_bytes": 667093,
   "sha256": "076deeea02951ef6eea2a35bca0c1803ef4fd435dd64b4934aeb4c17a0a7a155",

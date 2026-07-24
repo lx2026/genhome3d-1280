@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0009-board-formed-concrete-slot-cylinder-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0009-board-formed-concrete-slot-cylinder-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0009-board-formed-concrete-slot-cylinder-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0009-board-formed-concrete-slot-cylinder-pendant.usdz",
   "file_size_bytes": 807129,
   "sha256": "1610cf4e50546200d9e7efbaf43cb07018cd54c0226b55146cb87ce6494c437c",

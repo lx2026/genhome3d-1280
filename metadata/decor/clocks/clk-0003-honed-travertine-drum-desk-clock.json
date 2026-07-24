@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0003-honed-travertine-drum-desk-clock.usdz",
   "preview": "previews/decor/clocks/clk-0003-honed-travertine-drum-desk-clock.jpg",
+  "reference": "references/decor/clocks/clk-0003-honed-travertine-drum-desk-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0003-honed-travertine-drum-desk-clock.usdz",
   "file_size_bytes": 1068189,
   "sha256": "818fcfa1bec58efa30c98d5da60fc1eb8709312b7f45ddafa846ef23d163b7ce",

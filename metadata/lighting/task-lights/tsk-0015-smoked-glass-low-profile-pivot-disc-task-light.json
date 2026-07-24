@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0015-smoked-glass-low-profile-pivot-disc-task-light.usdz",
   "file_size_bytes": 461998,
   "sha256": "bee7999c32c9c6a9b5a261f885ae71d5a376e68fb80b4a88f1296aa5e7a6041e",

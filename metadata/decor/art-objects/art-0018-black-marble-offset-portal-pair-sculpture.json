@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0018-black-marble-offset-portal-pair-sculpture.usdz",
   "file_size_bytes": 655476,
   "sha256": "10da35ebb945b28e95a26241fa1f185179a47d91164fb39ba79ceccda38a0263",

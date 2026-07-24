@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0008-camel-leather-four-button-welted-cushion.usdz",
   "file_size_bytes": 1089679,
   "sha256": "7ac43e1d3a33df675f84194114a1eda55b2bc501a73bc82b1590cf82b75732d4",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0020-clear-open-handle-spouted-pitcher.usdz",
   "file_size_bytes": 339865,
   "sha256": "90c700c8ee0884fc65ecf915d4904eff200f964905a9826daca78e50d9030dd8",

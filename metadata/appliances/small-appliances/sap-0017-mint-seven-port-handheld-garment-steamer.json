@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.usdz",
   "preview": "previews/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.jpg",
+  "reference": "references/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0017-mint-seven-port-handheld-garment-steamer.usdz",
   "file_size_bytes": 721914,
   "sha256": "8274ac60334e22aad9974ba2c873be4d5a9e21eefbceff2d229a24845843eac4",

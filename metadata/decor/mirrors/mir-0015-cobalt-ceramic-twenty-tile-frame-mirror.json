@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0015-cobalt-ceramic-twenty-tile-frame-mirror.usdz",
   "file_size_bytes": 457926,
   "sha256": "ed347157a73c4d15cd523dc08399aae65871b11fec2dd52138b522bc3bda77e9",

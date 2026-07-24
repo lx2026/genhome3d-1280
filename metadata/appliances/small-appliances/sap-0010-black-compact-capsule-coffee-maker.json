@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.usdz",
   "preview": "previews/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.jpg",
+  "reference": "references/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0010-black-compact-capsule-coffee-maker.usdz",
   "file_size_bytes": 844195,
   "sha256": "0454371f8180b1a41cc6cc1ac13e8c85ae841c547ba9b7f9f8f05e01c6018b4d",

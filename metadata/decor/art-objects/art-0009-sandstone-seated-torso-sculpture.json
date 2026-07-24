@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0009-sandstone-seated-torso-sculpture.usdz",
   "file_size_bytes": 580708,
   "sha256": "821f82da92f5663c4886b6d43f4055fc4e1ca5e274f5a841e07e2d410bf66dde",

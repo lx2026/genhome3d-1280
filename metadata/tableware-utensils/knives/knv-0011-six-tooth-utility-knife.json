@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0011-six-tooth-utility-knife.usdz",
   "file_size_bytes": 594219,
   "sha256": "94e27f7e50eeaa8f8bb015ea23a0d336d34db7118c24c7f82c88cd15e738c480",

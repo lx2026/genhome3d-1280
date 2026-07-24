@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0011-opal-glass-globe-mini-pendant.usdz",
   "file_size_bytes": 793277,
   "sha256": "2cf6e31b004f17764c3365b7c80c505435ee92dd8a8c28ba2c71f7f2cded3e12",

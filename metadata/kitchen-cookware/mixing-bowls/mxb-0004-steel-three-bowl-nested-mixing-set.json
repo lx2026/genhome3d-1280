@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.usdz",
   "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.jpg",
+  "reference": "references/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0004-steel-three-bowl-nested-mixing-set.usdz",
   "file_size_bytes": 925657,
   "sha256": "9b2892b4da3b05d0632917509f15180e61d285fd60a39fc3286a613ab15b5e5a",

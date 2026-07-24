@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0007-white-aluminum-offset-halo-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0007-white-aluminum-offset-halo-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0007-white-aluminum-offset-halo-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0007-white-aluminum-offset-halo-sconce.usdz",
   "file_size_bytes": 727952,
   "sha256": "238b342add658d71fdad8f129534ee93b64ea2b64145c3978f8c97fd87110aa5",

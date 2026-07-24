@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.usdz",
   "preview": "previews/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.jpg",
+  "reference": "references/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0007-mid-century-walnut-boomerang-table.usdz",
   "file_size_bytes": 549201,
   "sha256": "e5f0f4084b308c300a5835891fdeda0b3c3651ecc1da5d3000b64d7650e67219",

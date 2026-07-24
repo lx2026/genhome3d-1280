@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0007-matte-black-railway-regulator-floor-clock.usdz",
   "preview": "previews/decor/clocks/clk-0007-matte-black-railway-regulator-floor-clock.jpg",
+  "reference": "references/decor/clocks/clk-0007-matte-black-railway-regulator-floor-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0007-matte-black-railway-regulator-floor-clock.usdz",
   "file_size_bytes": 994555,
   "sha256": "291ce4a03f064efebe69e6d1a74420716e348be8ad69eab7199b1bc31be58f9f",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0008-windsor-spindle-counter-stool.usdz",
   "preview": "previews/seating/stools/stl-0008-windsor-spindle-counter-stool.jpg",
+  "reference": "references/seating/stools/stl-0008-windsor-spindle-counter-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0008-windsor-spindle-counter-stool.usdz",
   "file_size_bytes": 552679,
   "sha256": "d2e34dd68caffa3df740edabd1706bf9bce56748a5cfb831aa6d5026e5ac5986",

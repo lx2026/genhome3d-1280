@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0019-perforated-aluminum-folded-bar-table.usdz",
   "preview": "previews/tables/bar/bar-0019-perforated-aluminum-folded-bar-table.jpg",
+  "reference": "references/tables/bar/bar-0019-perforated-aluminum-folded-bar-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0019-perforated-aluminum-folded-bar-table.usdz",
   "file_size_bytes": 576906,
   "sha256": "9e5e411c46f0ea4e94d8fdb6edbd020f71b08c70a2525bdd79580414af628f8c",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0005-walnut-windsor-bow-end-crib.usdz",
   "file_size_bytes": 969006,
   "sha256": "ca6602e193903c797609cf5f052e05afd777db3d1175ef22491b10fb7b4ac4bf",

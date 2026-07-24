@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.usdz",
   "preview": "previews/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.jpg",
+  "reference": "references/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0006-mid-century-walnut-offset-round-mirror-vanity.usdz",
   "file_size_bytes": 1118743,
   "sha256": "52d5fc9acd701f376038ded62cb99d8734cd8c0ddfd7fdb61342d1b61282f338",

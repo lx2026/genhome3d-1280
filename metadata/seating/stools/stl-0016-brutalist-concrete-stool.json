@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0016-brutalist-concrete-stool.usdz",
   "preview": "previews/seating/stools/stl-0016-brutalist-concrete-stool.jpg",
+  "reference": "references/seating/stools/stl-0016-brutalist-concrete-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0016-brutalist-concrete-stool.usdz",
   "file_size_bytes": 391288,
   "sha256": "be4d6f8324dcbd3fec126b294fee1fc77efaceafb554660f0624883c245c7808",

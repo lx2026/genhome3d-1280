@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0014-natural-cedar-sixteen-stave-deep-soaking-tub.usdz",
   "file_size_bytes": 1686821,
   "sha256": "db9069b4110fb50601ab31331124fd66786af5b2ddbc720282e542a6919e3a51",

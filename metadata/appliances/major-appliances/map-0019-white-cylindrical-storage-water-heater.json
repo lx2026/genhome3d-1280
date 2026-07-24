@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.usdz",
   "preview": "previews/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.jpg",
+  "reference": "references/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0019-white-cylindrical-storage-water-heater.usdz",
   "file_size_bytes": 776723,
   "sha256": "85aeee96449a979f50a1118ad125590c90e8c4fe1aad35a205bb9ecc5bb4ddab",

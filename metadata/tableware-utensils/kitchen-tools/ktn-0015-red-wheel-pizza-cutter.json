@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.usdz",
   "preview": "previews/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.jpg",
+  "reference": "references/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0015-red-wheel-pizza-cutter.usdz",
   "file_size_bytes": 805117,
   "sha256": "f302bab859a90fcb7dffd87a1858012375aaca03b926f9a5f8169ab73d8b3493",

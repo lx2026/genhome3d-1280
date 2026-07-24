@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0006-charcoal-single-latch-springform-cake-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0006-charcoal-single-latch-springform-cake-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0006-charcoal-single-latch-springform-cake-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0006-charcoal-single-latch-springform-cake-pan.usdz",
   "file_size_bytes": 836934,
   "sha256": "a57f0062a2d61f560f755726dd99b381276fde151f18b4c32c1d699c1e4a711c",

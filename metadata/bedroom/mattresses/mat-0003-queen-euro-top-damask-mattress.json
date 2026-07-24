@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0003-queen-euro-top-damask-mattress.usdz",
   "file_size_bytes": 1030432,
   "sha256": "18c683c7e6b92981f11eb51e4530afc2b25bcb88a7a87d07298251dc15e2f0bb",

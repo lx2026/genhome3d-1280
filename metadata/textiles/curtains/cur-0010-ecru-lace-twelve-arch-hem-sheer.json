@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.usdz",
   "preview": "previews/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.jpg",
+  "reference": "references/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0010-ecru-lace-twelve-arch-hem-sheer.usdz",
   "file_size_bytes": 1590774,
   "sha256": "c7171708e480aa38d7b1fad12ac9dab733e6e60dd189ef2926340f597c8643f6",

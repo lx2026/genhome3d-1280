@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0006-french-cane-bergere.usdz",
   "preview": "previews/seating/armchairs/arm-0006-french-cane-bergere.jpg",
+  "reference": "references/seating/armchairs/arm-0006-french-cane-bergere.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0006-french-cane-bergere.usdz",
   "file_size_bytes": 1527758,
   "sha256": "8878d7f54a114bda926976fc08626f5569a6dadff671c63fe572b58699646f2c",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0001-scandinavian-oak-slat-entry-bench.usdz",
   "preview": "previews/seating/benches/ben-0001-scandinavian-oak-slat-entry-bench.jpg",
+  "reference": "references/seating/benches/ben-0001-scandinavian-oak-slat-entry-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0001-scandinavian-oak-slat-entry-bench.usdz",
   "file_size_bytes": 888925,
   "sha256": "4a35fe52a7752c35cdffd8ff73f5b0086340b57efad14f3da22f2bdb0bc8a67b",

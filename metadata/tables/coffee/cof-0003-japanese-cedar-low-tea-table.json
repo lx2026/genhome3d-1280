@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0003-japanese-cedar-low-tea-table.usdz",
   "preview": "previews/tables/coffee/cof-0003-japanese-cedar-low-tea-table.jpg",
+  "reference": "references/tables/coffee/cof-0003-japanese-cedar-low-tea-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0003-japanese-cedar-low-tea-table.usdz",
   "file_size_bytes": 751728,
   "sha256": "deccff2d33293cfe8e5dafd2ff1856461620d1fd5ada2f66dccd259318275a6d",

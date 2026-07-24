@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0007-amber-glass-three-bubble-vase.usdz",
   "preview": "previews/decor/vases/vas-0007-amber-glass-three-bubble-vase.jpg",
+  "reference": "references/decor/vases/vas-0007-amber-glass-three-bubble-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0007-amber-glass-three-bubble-vase.usdz",
   "file_size_bytes": 380788,
   "sha256": "79c6b1b05096fb521e43e30daf094ba647e4e0b7b987fd0e4313a7ee7c3b6f97",

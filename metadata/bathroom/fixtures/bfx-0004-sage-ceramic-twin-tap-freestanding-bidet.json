@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0004-sage-ceramic-twin-tap-freestanding-bidet.usdz",
   "file_size_bytes": 1202641,
   "sha256": "2f76bdec59559b4053870716eecb577ea9cebcaf4e96b9b41389a56f1011e8ae",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0008-copper-four-rib-gooseneck-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0008-copper-four-rib-gooseneck-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0008-copper-four-rib-gooseneck-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0008-copper-four-rib-gooseneck-kettle.usdz",
   "file_size_bytes": 1125565,
   "sha256": "9b2ed26245cb637b1d866057f58ab025fada582d0fa1571ee78efdf895193796",

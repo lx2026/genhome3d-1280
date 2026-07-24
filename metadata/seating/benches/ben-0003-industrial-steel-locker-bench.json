@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0003-industrial-steel-locker-bench.usdz",
   "preview": "previews/seating/benches/ben-0003-industrial-steel-locker-bench.jpg",
+  "reference": "references/seating/benches/ben-0003-industrial-steel-locker-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0003-industrial-steel-locker-bench.usdz",
   "file_size_bytes": 460683,
   "sha256": "28e2a37256c1ccad27d8910c46e881a02c92dd731942b24357c724dcedd80e19",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/console/con-0004-ming-elm-altar-console.usdz",
   "preview": "previews/tables/console/con-0004-ming-elm-altar-console.jpg",
+  "reference": "references/tables/console/con-0004-ming-elm-altar-console.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0004-ming-elm-altar-console.usdz",
   "file_size_bytes": 540121,
   "sha256": "ec415b70f565b3bc0a4383580714c9a67b3247ee547b0a572584067f5a6e6ed7",

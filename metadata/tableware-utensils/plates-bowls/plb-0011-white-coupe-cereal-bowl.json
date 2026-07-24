@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/plates-bowls/plb-0011-white-coupe-cereal-bowl.usdz",
   "preview": "previews/tableware-utensils/plates-bowls/plb-0011-white-coupe-cereal-bowl.jpg",
+  "reference": "references/tableware-utensils/plates-bowls/plb-0011-white-coupe-cereal-bowl.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/plates-bowls/plb-0011-white-coupe-cereal-bowl.usdz",
   "file_size_bytes": 335733,
   "sha256": "125468c0f73f0d78b57446e6505f072ac0e73decd6dfa1dfe003e60d7175bafe",

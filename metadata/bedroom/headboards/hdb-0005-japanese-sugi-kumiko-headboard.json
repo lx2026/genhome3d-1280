@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0005-japanese-sugi-kumiko-headboard.usdz",
   "file_size_bytes": 601227,
   "sha256": "76f21b2bf19a8ed3160f57b44e4e6de7e97c027e242f5f151468dd67d24e1d36",

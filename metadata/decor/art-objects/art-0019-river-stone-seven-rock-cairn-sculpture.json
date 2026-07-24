@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0019-river-stone-seven-rock-cairn-sculpture.usdz",
   "file_size_bytes": 1020660,
   "sha256": "83bb1649af88bfbbd82a6878519b6a0b93e5078b49b71170c24e3e85bae1070c",

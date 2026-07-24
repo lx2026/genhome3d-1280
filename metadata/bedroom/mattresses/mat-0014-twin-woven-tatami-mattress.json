@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0014-twin-woven-tatami-mattress.usdz",
   "file_size_bytes": 1215846,
   "sha256": "b155a9c41d16c9ee693b67856d0c838cf35b4d5c0326c24283f49c6e5192a9be",

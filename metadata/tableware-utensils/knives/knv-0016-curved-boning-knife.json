@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0016-curved-boning-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0016-curved-boning-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0016-curved-boning-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0016-curved-boning-knife.usdz",
   "file_size_bytes": 540920,
   "sha256": "b0f5482be61ed09e3aca077e62854d4dfd1323ad94f57a05f6f014b828b1cee7",

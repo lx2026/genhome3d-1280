@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0013-amber-open-handle-beer-mug.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0013-amber-open-handle-beer-mug.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0013-amber-open-handle-beer-mug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0013-amber-open-handle-beer-mug.usdz",
   "file_size_bytes": 261224,
   "sha256": "b4cecc681a4e0fa0e0d7b28e2e766d6c61895750750ec2dcf5d1fb67aaacc726",

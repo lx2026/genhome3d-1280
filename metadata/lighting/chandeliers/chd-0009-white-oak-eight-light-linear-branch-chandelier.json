@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0009-white-oak-eight-light-linear-branch-chandelier.usdz",
   "file_size_bytes": 841258,
   "sha256": "ebe06c60f81501f5c9dcbe14a44119d0d364c6b64be4f6b9c83267de6186771b",

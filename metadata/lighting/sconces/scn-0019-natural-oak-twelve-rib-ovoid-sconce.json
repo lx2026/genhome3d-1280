@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0019-natural-oak-twelve-rib-ovoid-sconce.usdz",
   "file_size_bytes": 1510989,
   "sha256": "214b3731a5ac786b296dd7e82f4f9d745618b23e466c6a77daefa765254cbc7b",

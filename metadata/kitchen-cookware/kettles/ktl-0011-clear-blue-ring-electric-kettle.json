@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0011-clear-blue-ring-electric-kettle.usdz",
   "file_size_bytes": 1178848,
   "sha256": "8eac864ed8a1f52fe2563db375851f6f4271747236566b65f8bf9975efe73f93",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0017-brushed-nickel-seven-drop-rain-cluster-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0017-brushed-nickel-seven-drop-rain-cluster-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0017-brushed-nickel-seven-drop-rain-cluster-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0017-brushed-nickel-seven-drop-rain-cluster-pendant.usdz",
   "file_size_bytes": 754288,
   "sha256": "fd97ace6e6306c79d871a49f3cd79cc4948e2dc65ca86921dc390748a51c7997",

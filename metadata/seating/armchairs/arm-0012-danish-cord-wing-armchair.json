@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0012-danish-cord-wing-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0012-danish-cord-wing-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0012-danish-cord-wing-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0012-danish-cord-wing-armchair.usdz",
   "file_size_bytes": 1346821,
   "sha256": "c9197c5613243347854d5c4460bc5f01b219e7b2bcaa727977fe345ddd5d9030",

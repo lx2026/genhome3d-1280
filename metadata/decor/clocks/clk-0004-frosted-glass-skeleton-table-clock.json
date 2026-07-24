@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0004-frosted-glass-skeleton-table-clock.usdz",
   "preview": "previews/decor/clocks/clk-0004-frosted-glass-skeleton-table-clock.jpg",
+  "reference": "references/decor/clocks/clk-0004-frosted-glass-skeleton-table-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0004-frosted-glass-skeleton-table-clock.usdz",
   "file_size_bytes": 1350840,
   "sha256": "46c5fe46fbd41e86194af0cc574eb5291f421f6028c98cd4cab190c3f9d294a7",

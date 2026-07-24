@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0001-black-glass-jar-countertop-blender.usdz",
   "preview": "previews/appliances/small-appliances/sap-0001-black-glass-jar-countertop-blender.jpg",
+  "reference": "references/appliances/small-appliances/sap-0001-black-glass-jar-countertop-blender.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0001-black-glass-jar-countertop-blender.usdz",
   "file_size_bytes": 870203,
   "sha256": "b68085bc46d5bca5d65da37bc42d4f06cd45f0c049357e3b3ad8745aa7d30b73",

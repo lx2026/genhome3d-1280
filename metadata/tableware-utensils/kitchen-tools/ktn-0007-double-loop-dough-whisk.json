@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.usdz",
   "preview": "previews/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.jpg",
+  "reference": "references/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0007-double-loop-dough-whisk.usdz",
   "file_size_bytes": 841808,
   "sha256": "db08fa230e89ef4f5ee1a0f6db30e8f39ce8c487589fca2f50bd589ede9ffe1d",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0007-red-loop-handle-polypropylene-board.usdz",
   "file_size_bytes": 250060,
   "sha256": "c047fc936e1216304eb3b04a816072183841f547458a57aedc866dc34677e001",

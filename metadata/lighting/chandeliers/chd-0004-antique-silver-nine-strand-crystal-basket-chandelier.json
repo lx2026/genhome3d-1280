@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0004-antique-silver-nine-strand-crystal-basket-chandelier.usdz",
   "file_size_bytes": 1386907,
   "sha256": "8cc2e84bca31ea2f936bd36733aabdc98f7e5cc48bb71dc00d7f945f6c35e248",

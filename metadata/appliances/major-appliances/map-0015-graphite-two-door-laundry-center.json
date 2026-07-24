@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0015-graphite-two-door-laundry-center.usdz",
   "preview": "previews/appliances/major-appliances/map-0015-graphite-two-door-laundry-center.jpg",
+  "reference": "references/appliances/major-appliances/map-0015-graphite-two-door-laundry-center.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0015-graphite-two-door-laundry-center.usdz",
   "file_size_bytes": 584810,
   "sha256": "3255de9a10890b7e4aecfedcec1cead8dbeb19b2ad31969125aa0e7bb7fc0751",

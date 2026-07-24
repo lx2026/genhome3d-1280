@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0016-rv-short-queen-radius-corner-mattress.usdz",
   "file_size_bytes": 985447,
   "sha256": "8cd692f3ad8df4d6fdefd07553f76d51cd41671c627b640287f3e8edd9f52f3a",

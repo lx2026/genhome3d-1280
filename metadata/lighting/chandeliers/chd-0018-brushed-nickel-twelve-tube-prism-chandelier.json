@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0018-brushed-nickel-twelve-tube-prism-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0018-brushed-nickel-twelve-tube-prism-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0018-brushed-nickel-twelve-tube-prism-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0018-brushed-nickel-twelve-tube-prism-chandelier.usdz",
   "file_size_bytes": 801056,
   "sha256": "e9fbfbbba12f2d13b42a0fb23a1cbd552fa2134987bc03238c8078d80604d874",

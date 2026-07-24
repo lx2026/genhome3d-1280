@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0014-black-two-latch-travel-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0014-black-two-latch-travel-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0014-black-two-latch-travel-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0014-black-two-latch-travel-kettle.usdz",
   "file_size_bytes": 915899,
   "sha256": "09b3c9923821511674a4eaa1e3db8eb8ccafdc6ee91faa22cb25d20fff8d658a",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0007-rust-eight-arch-scallop-tufted-rug.usdz",
   "preview": "previews/textiles/rugs/rug-0007-rust-eight-arch-scallop-tufted-rug.jpg",
+  "reference": "references/textiles/rugs/rug-0007-rust-eight-arch-scallop-tufted-rug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0007-rust-eight-arch-scallop-tufted-rug.usdz",
   "file_size_bytes": 870521,
   "sha256": "9c3beb4b79c4be2799380c1235d55c76e05fe4cfe1719adfbe8f334be9ba9916",

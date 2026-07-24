@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0009-chalk-plaster-eight-wave-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0009-chalk-plaster-eight-wave-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0009-chalk-plaster-eight-wave-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0009-chalk-plaster-eight-wave-mirror.usdz",
   "file_size_bytes": 807305,
   "sha256": "57db54dfc4807c977174e2a6d6bcedbb919e1a59552fd055f356b756c73a7762",

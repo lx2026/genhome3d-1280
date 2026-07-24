@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0019-recycled-glass-five-lobe-twist-vase.usdz",
   "preview": "previews/decor/vases/vas-0019-recycled-glass-five-lobe-twist-vase.jpg",
+  "reference": "references/decor/vases/vas-0019-recycled-glass-five-lobe-twist-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0019-recycled-glass-five-lobe-twist-vase.usdz",
   "file_size_bytes": 713629,
   "sha256": "231feb5489804b3f70ca0cf5b3ee61dc81324bd5da144871a10448065eb38fe5",

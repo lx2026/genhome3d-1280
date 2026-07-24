@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0019-blue-top-nozzle-ultrasonic-humidifier.usdz",
   "preview": "previews/appliances/small-appliances/sap-0019-blue-top-nozzle-ultrasonic-humidifier.jpg",
+  "reference": "references/appliances/small-appliances/sap-0019-blue-top-nozzle-ultrasonic-humidifier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0019-blue-top-nozzle-ultrasonic-humidifier.usdz",
   "file_size_bytes": 507675,
   "sha256": "4f0beb921b81045f071d04c9dc838c7d1293869a42f97d5dc49c13a61c8928fb",

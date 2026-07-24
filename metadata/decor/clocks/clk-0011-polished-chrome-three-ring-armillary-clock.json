@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0011-polished-chrome-three-ring-armillary-clock.usdz",
   "preview": "previews/decor/clocks/clk-0011-polished-chrome-three-ring-armillary-clock.jpg",
+  "reference": "references/decor/clocks/clk-0011-polished-chrome-three-ring-armillary-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0011-polished-chrome-three-ring-armillary-clock.usdz",
   "file_size_bytes": 1387198,
   "sha256": "4f0826677b1d2ac94db4184aa1e9123de35daf3f92ad929615b58d6cd68e506c",

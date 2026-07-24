@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.usdz",
   "preview": "previews/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.jpg",
+  "reference": "references/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0014-travertine-two-shelf-pedestal-rack.usdz",
   "file_size_bytes": 539770,
   "sha256": "70896c0f7830e61e62b7a52c51e15fe36f15b70338a5c3e2c8df83ed10937589",

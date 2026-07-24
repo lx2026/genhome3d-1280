@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.usdz",
   "preview": "previews/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.jpg",
+  "reference": "references/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0007-sage-nine-square-patchwork-quilt.usdz",
   "file_size_bytes": 713718,
   "sha256": "94daa5867977d366d9752f39931c3e78ce3ebabe872b1a9221b4eb21b0056476",

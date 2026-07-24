@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0020-round-luxury-platform-mattress.usdz",
   "file_size_bytes": 2040010,
   "sha256": "3e00d7fdc68425fb74f1ec5d387a987563c2ddf35dfd5eb4ca2620fae4e32e4a",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0009-board-formed-concrete-four-slot-sconce.usdz",
   "file_size_bytes": 633408,
   "sha256": "99bcf8b23d0f238c55d43723e470d158918d3c036da3b2cd95121d04b75156bb",

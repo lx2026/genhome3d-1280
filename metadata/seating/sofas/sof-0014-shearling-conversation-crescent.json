@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0014-shearling-conversation-crescent.usdz",
   "preview": "previews/seating/sofas/sof-0014-shearling-conversation-crescent.jpg",
+  "reference": "references/seating/sofas/sof-0014-shearling-conversation-crescent.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0014-shearling-conversation-crescent.usdz",
   "file_size_bytes": 902894,
   "sha256": "fb4f82b09616dc308963965b097cc6e99e98ff1abbc64f572dcfcf8707292727",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.usdz",
   "preview": "previews/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.jpg",
+  "reference": "references/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0004-sage-ceramic-five-band-ring-vase.usdz",
   "file_size_bytes": 293271,
   "sha256": "80b61c137155c09742f8eaf6846e30b002522f2db588b0f722c8bf05bfeed68d",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0007-painted-ash-under-drawer-crib.usdz",
   "file_size_bytes": 990694,
   "sha256": "ebf1e4baf8960784a0e3451798626c2d58ae8d8f849fdc7440c000f3c6a9dfdc",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.usdz",
   "preview": "previews/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.jpg",
+  "reference": "references/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0008-black-split-saddle-perching-task-chair.usdz",
   "file_size_bytes": 1085280,
   "sha256": "8d065c5e4baf2003ab9882ce576c73c4c69e9b08c84ec17cbc1b4d33355f7d29",

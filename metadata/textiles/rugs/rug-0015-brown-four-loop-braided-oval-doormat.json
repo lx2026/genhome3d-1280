@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.usdz",
   "preview": "previews/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.jpg",
+  "reference": "references/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0015-brown-four-loop-braided-oval-doormat.usdz",
   "file_size_bytes": 1170379,
   "sha256": "c4f9ed6434087bed74a649f9c160a30252038ecd2f182407eb8e69a5765896a1",

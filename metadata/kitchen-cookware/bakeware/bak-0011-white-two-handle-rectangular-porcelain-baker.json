@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0011-white-two-handle-rectangular-porcelain-baker.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0011-white-two-handle-rectangular-porcelain-baker.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0011-white-two-handle-rectangular-porcelain-baker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0011-white-two-handle-rectangular-porcelain-baker.usdz",
   "file_size_bytes": 354623,
   "sha256": "e0aec2389a5a4ae9032b277e2f72e89966c72d1ee052a529fcd31cecff33b1a3",

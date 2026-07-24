@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0015-shearling-waterfall-ottoman.usdz",
   "preview": "previews/seating/ottomans/ott-0015-shearling-waterfall-ottoman.jpg",
+  "reference": "references/seating/ottomans/ott-0015-shearling-waterfall-ottoman.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0015-shearling-waterfall-ottoman.usdz",
   "file_size_bytes": 747708,
   "sha256": "d1672a1258a5c52220dfe4a26215e46e83d25431661acfed8611284b1db9c6e4",

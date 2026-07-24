@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0013-green-single-hole-slate-paddle-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0013-green-single-hole-slate-paddle-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0013-green-single-hole-slate-paddle-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0013-green-single-hole-slate-paddle-board.usdz",
   "file_size_bytes": 443762,
   "sha256": "c639e848580fda984041a404e76d1dad19537c7519f6aca76872f88bc54d6fd1",

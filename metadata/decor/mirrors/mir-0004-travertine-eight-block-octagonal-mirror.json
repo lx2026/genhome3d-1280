@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0004-travertine-eight-block-octagonal-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0004-travertine-eight-block-octagonal-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0004-travertine-eight-block-octagonal-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0004-travertine-eight-block-octagonal-mirror.usdz",
   "file_size_bytes": 772767,
   "sha256": "46f772ad73265472675afdbbe88883e37d88a5fff6e438b8d1babd02b208140e",

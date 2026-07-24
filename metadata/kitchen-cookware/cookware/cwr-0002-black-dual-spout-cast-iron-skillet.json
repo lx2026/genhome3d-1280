@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0002-black-dual-spout-cast-iron-skillet.usdz",
   "file_size_bytes": 374595,
   "sha256": "c54026d03e1f786581d1b1988e036102c2ab6d3102b92b192d9525fecc7057c6",

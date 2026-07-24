@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0020-frosted-glass-two-panel-walk-in-shower-station.usdz",
   "file_size_bytes": 1319680,
   "sha256": "1e98246f7dcc66e15f28b0f82b7727733e4b6ed32441f0b0cf25f0a33e38d6ed",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.usdz",
   "preview": "previews/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.jpg",
+  "reference": "references/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/tables/odt-0003-cedar-six-plank-a-frame-picnic-table.usdz",
   "file_size_bytes": 485412,
   "sha256": "28dbb8d4f13e02993da44ed51343ca500008695d1888d07ddaac68b72d37842f",

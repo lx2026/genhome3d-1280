@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0015-cobalt-curved-hurricane-glass.usdz",
   "file_size_bytes": 387887,
   "sha256": "75215f369ffef0928d551d5d93540034ce80beb45db63e78891abb1755ba069a",

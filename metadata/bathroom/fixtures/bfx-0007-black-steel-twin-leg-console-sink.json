@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0007-black-steel-twin-leg-console-sink.usdz",
   "file_size_bytes": 887228,
   "sha256": "2761e9c2d2babc9c447564ef397000ff109b69444b8fe831c94d7d56c7c20336",

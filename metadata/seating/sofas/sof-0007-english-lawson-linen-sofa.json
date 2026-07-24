@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0007-english-lawson-linen-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0007-english-lawson-linen-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0007-english-lawson-linen-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0007-english-lawson-linen-sofa.usdz",
   "file_size_bytes": 978876,
   "sha256": "f371325f7a764f75d9c3610fa7080b66ad8f33f3db14c3a3e0cab03711fdc4e0",

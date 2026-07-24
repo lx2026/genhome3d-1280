@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0015-plywood-pegboard-organizer-headboard.usdz",
   "file_size_bytes": 542131,
   "sha256": "d352e1cd2ac401d1e448452e5feffa0d7b9b73f33e8ec85f9169ad91fdc1d159",

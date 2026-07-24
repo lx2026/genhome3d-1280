@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.usdz",
   "preview": "previews/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.jpg",
+  "reference": "references/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0004-beech-oval-cooking-spoon.usdz",
   "file_size_bytes": 331175,
   "sha256": "7be609c7081372787b74030ba4e967e8670b1b96be18656d03b7b29093bdddb8",

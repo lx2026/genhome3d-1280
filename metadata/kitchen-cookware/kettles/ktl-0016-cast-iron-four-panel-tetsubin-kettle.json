@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0016-cast-iron-four-panel-tetsubin-kettle.usdz",
   "file_size_bytes": 729935,
   "sha256": "f29bd8374fa0cfd9870b3824412b8a34a41e1da72fe50196f464a34191ae39c7",

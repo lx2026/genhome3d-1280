@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0020-cream-square-pour-corner-composite-bowl.usdz",
   "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0020-cream-square-pour-corner-composite-bowl.jpg",
+  "reference": "references/kitchen-cookware/mixing-bowls/mxb-0020-cream-square-pour-corner-composite-bowl.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0020-cream-square-pour-corner-composite-bowl.usdz",
   "file_size_bytes": 382590,
   "sha256": "d4a70e4bf3b6b00270c7284788f53c7e615e0430e611421d064af1b0dfa0bea8",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0018-black-and-white-chevron-blade-sconce.usdz",
   "file_size_bytes": 390613,
   "sha256": "24dc92fc071b24fc31683c906fbc709db8a048ef3edb8aae35d81d039c82cc3c",

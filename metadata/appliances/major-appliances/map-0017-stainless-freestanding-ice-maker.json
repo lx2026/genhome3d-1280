@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.usdz",
   "preview": "previews/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.jpg",
+  "reference": "references/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0017-stainless-freestanding-ice-maker.usdz",
   "file_size_bytes": 597737,
   "sha256": "0559452f2a3bf8f9dd799043e82e3a0a3bf66ea15bcd3df1f68a11500a89253d",

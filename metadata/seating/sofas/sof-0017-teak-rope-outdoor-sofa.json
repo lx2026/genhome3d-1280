@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0017-teak-rope-outdoor-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0017-teak-rope-outdoor-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0017-teak-rope-outdoor-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0017-teak-rope-outdoor-sofa.usdz",
   "file_size_bytes": 1343823,
   "sha256": "142890c0bdbf985e96104eb441777008f9e8061a63a263ed8cbe1ee0014eae7d",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.usdz",
   "preview": "previews/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.jpg",
+  "reference": "references/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0018-stainless-pull-out-trash-compactor.usdz",
   "file_size_bytes": 579726,
   "sha256": "ab9834e3b8aa6530fdf4a67416cf6e0e06c030604919adea0ba44b3abee5bfe7",

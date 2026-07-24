@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0016-maple-house-frame-floor-crib.usdz",
   "file_size_bytes": 744268,
   "sha256": "b62588aea3bff99928452a602ee7b56be813e28a77eac2ff22965c3b4d91150c",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.usdz",
   "preview": "previews/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.jpg",
+  "reference": "references/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0002-french-oak-parquetry-drawer-table.usdz",
   "file_size_bytes": 1627646,
   "sha256": "ce7ca1c990adccb8632b6f90bc64c0365565144618b7065b43ffb44c645eb404",

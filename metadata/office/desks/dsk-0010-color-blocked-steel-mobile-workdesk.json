@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.usdz",
   "preview": "previews/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.jpg",
+  "reference": "references/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0010-color-blocked-steel-mobile-workdesk.usdz",
   "file_size_bytes": 687491,
   "sha256": "f21269b93488fb55e4b7f035fd4c16d8c7e28802af38f8d7637c39418a77e34c",

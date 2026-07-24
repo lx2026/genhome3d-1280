@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0014-blush-sixteen-channel-ring-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0014-blush-sixteen-channel-ring-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0014-blush-sixteen-channel-ring-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0014-blush-sixteen-channel-ring-cushion.usdz",
   "file_size_bytes": 662507,
   "sha256": "f6057538e9762140133d01c1e091bcda18de08f2967c2cbbc47d5671757926a0",

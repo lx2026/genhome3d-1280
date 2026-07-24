@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0001-english-oak-round-pub-table.usdz",
   "preview": "previews/tables/bar/bar-0001-english-oak-round-pub-table.jpg",
+  "reference": "references/tables/bar/bar-0001-english-oak-round-pub-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0001-english-oak-round-pub-table.usdz",
   "file_size_bytes": 1140622,
   "sha256": "8133067d29ccb345423c3001ef0306a8eace1435db69543ff4eb2fabff22e0ea",

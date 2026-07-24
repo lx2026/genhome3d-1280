@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0014-navy-mesh-aluminum-travel-crib.usdz",
   "file_size_bytes": 1252232,
   "sha256": "a735c8c2ef3f7d5379ce4a442bc914fbb1a34d4cbd8417868f1394f084243e61",

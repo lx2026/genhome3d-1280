@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0017-brutalist-block-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0017-brutalist-block-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0017-brutalist-block-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0017-brutalist-block-armchair.usdz",
   "file_size_bytes": 463570,
   "sha256": "02e410ad24808d9b8d64fce3256a74d6a95d15a6befbb691435c794e6b1d6d48",

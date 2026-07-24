@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0013-live-edge-walnut-trestle-bar-table.usdz",
   "preview": "previews/tables/bar/bar-0013-live-edge-walnut-trestle-bar-table.jpg",
+  "reference": "references/tables/bar/bar-0013-live-edge-walnut-trestle-bar-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0013-live-edge-walnut-trestle-bar-table.usdz",
   "file_size_bytes": 682496,
   "sha256": "791be0e3c433e40c4e279d6bb449ec7c01cdbf0e62f047724a4e11e229263d9f",

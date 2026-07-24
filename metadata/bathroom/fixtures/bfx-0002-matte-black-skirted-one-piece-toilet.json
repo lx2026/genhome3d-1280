@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0002-matte-black-skirted-one-piece-toilet.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0002-matte-black-skirted-one-piece-toilet.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0002-matte-black-skirted-one-piece-toilet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0002-matte-black-skirted-one-piece-toilet.usdz",
   "file_size_bytes": 801711,
   "sha256": "7ac1dabd9b78fe95c340e8833305f77403044a6f3946ca5de3bbd83e1184a4fe",

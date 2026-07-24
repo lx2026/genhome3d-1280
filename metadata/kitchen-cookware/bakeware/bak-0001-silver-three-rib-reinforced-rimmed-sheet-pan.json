@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0001-silver-three-rib-reinforced-rimmed-sheet-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0001-silver-three-rib-reinforced-rimmed-sheet-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0001-silver-three-rib-reinforced-rimmed-sheet-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0001-silver-three-rib-reinforced-rimmed-sheet-pan.usdz",
   "file_size_bytes": 515021,
   "sha256": "cf952ec34c45dfeca1371218ffbb1b62adb0ba8c110f9a01421c2cd52db42b61",

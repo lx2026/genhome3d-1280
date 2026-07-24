@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0006-silver-bridge-grip-lidded-saucepan.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0006-silver-bridge-grip-lidded-saucepan.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0006-silver-bridge-grip-lidded-saucepan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0006-silver-bridge-grip-lidded-saucepan.usdz",
   "file_size_bytes": 755598,
   "sha256": "49da7e18303b6449d1ec57e751816550edf637ce22e14dcff9cf9cfe4a8cecda",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0005-antique-silver-three-strand-crystal-basket-sconce.usdz",
   "file_size_bytes": 1475576,
   "sha256": "f3d671c826e0d36f2dda879b62db3cdb70358f42fe7f03f785afc35b979c5783",

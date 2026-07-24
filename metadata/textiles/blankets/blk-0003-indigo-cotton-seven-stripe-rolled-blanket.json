@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.usdz",
   "preview": "previews/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.jpg",
+  "reference": "references/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0003-indigo-cotton-seven-stripe-rolled-blanket.usdz",
   "file_size_bytes": 713756,
   "sha256": "6fcb57cd971dcc10f1add27ac76487e6e5939a7d6427c04c4903d884d455c99d",

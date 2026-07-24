@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0008-natural-travertine-monolith-column-basin.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0008-natural-travertine-monolith-column-basin.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0008-natural-travertine-monolith-column-basin.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0008-natural-travertine-monolith-column-basin.usdz",
   "file_size_bytes": 1497812,
   "sha256": "239de19ae3334494ebcd3bf37e3e5f149cbe328e2afb0370dd78b301a5c717c7",

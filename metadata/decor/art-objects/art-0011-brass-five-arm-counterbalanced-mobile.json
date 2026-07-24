@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.usdz",
   "preview": "previews/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.jpg",
+  "reference": "references/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0011-brass-five-arm-counterbalanced-mobile.usdz",
   "file_size_bytes": 718623,
   "sha256": "2edee2378b574f2a0da9579605d909b25969aa0fd4de244511f7c5dac798884e",

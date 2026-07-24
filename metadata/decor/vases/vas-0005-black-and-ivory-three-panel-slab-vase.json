@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0005-black-and-ivory-three-panel-slab-vase.usdz",
   "preview": "previews/decor/vases/vas-0005-black-and-ivory-three-panel-slab-vase.jpg",
+  "reference": "references/decor/vases/vas-0005-black-and-ivory-three-panel-slab-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0005-black-and-ivory-three-panel-slab-vase.usdz",
   "file_size_bytes": 315861,
   "sha256": "ddfde4b03521a36315367053c1be135fa111b99d60d5d5b1e9cca4b3c80f6135",

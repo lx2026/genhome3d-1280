@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0012-full-coconut-coir-wool-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0012-full-coconut-coir-wool-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0012-full-coconut-coir-wool-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0012-full-coconut-coir-wool-mattress.usdz",
   "file_size_bytes": 991947,
   "sha256": "88d7c17040268df9619bde221137f5139b8ca098f0d45ed65c6fdc767902563e",

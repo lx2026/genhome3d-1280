@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0014-amber-glass-teardrop-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0014-amber-glass-teardrop-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0014-amber-glass-teardrop-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0014-amber-glass-teardrop-pendant.usdz",
   "file_size_bytes": 942811,
   "sha256": "8708097a29092fb13667212ee618341d545f038e1bf9166ebf95f96c1f312ade",

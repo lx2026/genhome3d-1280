@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0014-library-oak-brass-rail-table.usdz",
   "preview": "previews/tables/bar/bar-0014-library-oak-brass-rail-table.jpg",
+  "reference": "references/tables/bar/bar-0014-library-oak-brass-rail-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0014-library-oak-brass-rail-table.usdz",
   "file_size_bytes": 893025,
   "sha256": "17cb55f6a5f56f1e18ec1830828e3463fdfa743b0bd7678ddc6e3db82978dbe0",

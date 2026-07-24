@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0014-travertine-four-chamfer-block-vase.usdz",
   "preview": "previews/decor/vases/vas-0014-travertine-four-chamfer-block-vase.jpg",
+  "reference": "references/decor/vases/vas-0014-travertine-four-chamfer-block-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0014-travertine-four-chamfer-block-vase.usdz",
   "file_size_bytes": 586440,
   "sha256": "37fec476392e41ec2571a1fb42b1949bd536d2a878fe142784c434383fb4376d",

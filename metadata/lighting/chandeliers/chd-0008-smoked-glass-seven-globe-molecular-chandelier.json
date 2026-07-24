@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0008-smoked-glass-seven-globe-molecular-chandelier.usdz",
   "file_size_bytes": 422469,
   "sha256": "8bf43198fe487af1e35642d97e173d24e0be597bbe6d910b7de8891a4357b37c",

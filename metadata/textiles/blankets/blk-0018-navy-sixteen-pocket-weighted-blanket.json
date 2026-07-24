@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0018-navy-sixteen-pocket-weighted-blanket.usdz",
   "preview": "previews/textiles/blankets/blk-0018-navy-sixteen-pocket-weighted-blanket.jpg",
+  "reference": "references/textiles/blankets/blk-0018-navy-sixteen-pocket-weighted-blanket.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0018-navy-sixteen-pocket-weighted-blanket.usdz",
   "file_size_bytes": 825220,
   "sha256": "b5ac5a2e89a0e76b110e1c1752d2cefa1672fb8b995ecc0ba2c72672745deca3",

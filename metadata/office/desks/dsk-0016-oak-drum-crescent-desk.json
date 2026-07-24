@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0016-oak-drum-crescent-desk.usdz",
   "preview": "previews/office/desks/dsk-0016-oak-drum-crescent-desk.jpg",
+  "reference": "references/office/desks/dsk-0016-oak-drum-crescent-desk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0016-oak-drum-crescent-desk.usdz",
   "file_size_bytes": 700956,
   "sha256": "baf5b6445a5e740b7a131ca2e8006f5b1e63b5856c46ad4eb2de0385d2a1e1c4",

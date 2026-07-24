@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0020-white-and-black-three-arm-compass-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0020-white-and-black-three-arm-compass-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0020-white-and-black-three-arm-compass-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0020-white-and-black-three-arm-compass-task-light.usdz",
   "file_size_bytes": 906574,
   "sha256": "653fd8338697b6379949ee3cd8b17d8b99c2c69210e5a27ff10d97be2789185b",

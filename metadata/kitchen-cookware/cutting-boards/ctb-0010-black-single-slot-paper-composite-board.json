@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0010-black-single-slot-paper-composite-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0010-black-single-slot-paper-composite-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0010-black-single-slot-paper-composite-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0010-black-single-slot-paper-composite-board.usdz",
   "file_size_bytes": 93403,
   "sha256": "32996b556587b110fba81b03ae89f4c5344f0be7a4c7b3d31c6aff0563faa623",

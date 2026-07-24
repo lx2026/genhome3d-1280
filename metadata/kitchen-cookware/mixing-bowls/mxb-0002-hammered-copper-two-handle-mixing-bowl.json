@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.usdz",
   "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.jpg",
+  "reference": "references/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0002-hammered-copper-two-handle-mixing-bowl.usdz",
   "file_size_bytes": 1001656,
   "sha256": "ce0bbe1ae09697c13084c716f925df540ed37ea410d83a9a7fe59dcd74c52442",

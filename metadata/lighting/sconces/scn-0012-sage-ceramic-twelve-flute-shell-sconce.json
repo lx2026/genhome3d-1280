@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0012-sage-ceramic-twelve-flute-shell-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0012-sage-ceramic-twelve-flute-shell-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0012-sage-ceramic-twelve-flute-shell-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0012-sage-ceramic-twelve-flute-shell-sconce.usdz",
   "file_size_bytes": 458386,
   "sha256": "166587a4afe5baa6c2c72b92086ab05297029589d3298e407481b21e88b148aa",

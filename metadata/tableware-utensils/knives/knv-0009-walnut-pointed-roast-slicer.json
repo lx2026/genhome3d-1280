@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0009-walnut-pointed-roast-slicer.usdz",
   "file_size_bytes": 1016434,
   "sha256": "2b05403e37b4e9f84709f426c0de5216d630fc0da0460a6aa81891826aa5441a",

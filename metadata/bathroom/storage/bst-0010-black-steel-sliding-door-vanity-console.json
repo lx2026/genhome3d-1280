@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.usdz",
   "preview": "previews/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.jpg",
+  "reference": "references/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0010-black-steel-sliding-door-vanity-console.usdz",
   "file_size_bytes": 435445,
   "sha256": "55703433d3836b98635c4940e705f02157cc01edb3dd343089946b380ab73a9e",

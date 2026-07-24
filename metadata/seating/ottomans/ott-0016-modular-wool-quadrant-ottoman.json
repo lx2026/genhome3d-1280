@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.usdz",
   "preview": "previews/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.jpg",
+  "reference": "references/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0016-modular-wool-quadrant-ottoman.usdz",
   "file_size_bytes": 568784,
   "sha256": "17e49a35441131d4f903629724cd8bee43c50dd09b0b3064e726d56fd9af61b9",

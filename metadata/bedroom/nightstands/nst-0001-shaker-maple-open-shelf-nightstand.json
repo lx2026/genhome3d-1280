@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/nightstands/nst-0001-shaker-maple-open-shelf-nightstand.usdz",
   "preview": "previews/bedroom/nightstands/nst-0001-shaker-maple-open-shelf-nightstand.jpg",
+  "reference": "references/bedroom/nightstands/nst-0001-shaker-maple-open-shelf-nightstand.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0001-shaker-maple-open-shelf-nightstand.usdz",
   "file_size_bytes": 507359,
   "sha256": "cf97326f0fe71cdabb116357fa31740079cf152b85f5d2745158482df8205c34",

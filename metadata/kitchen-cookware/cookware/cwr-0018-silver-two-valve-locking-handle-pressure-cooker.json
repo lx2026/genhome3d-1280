@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0018-silver-two-valve-locking-handle-pressure-cooker.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0018-silver-two-valve-locking-handle-pressure-cooker.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0018-silver-two-valve-locking-handle-pressure-cooker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0018-silver-two-valve-locking-handle-pressure-cooker.usdz",
   "file_size_bytes": 1104992,
   "sha256": "6974eb031ab8d1fdb51cb237a3e7d45b9ca6e924335a756151e65061c37b59f0",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0014-amber-glass-teardrop-pedestal-table-lamp.usdz",
   "file_size_bytes": 826089,
   "sha256": "258939b3f8d2c07c2187129f717505f56b65d98c5b969aa88e39fb1c6b8b092f",

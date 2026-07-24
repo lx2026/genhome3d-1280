@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0020-perforated-aluminum-outdoor-ottoman.usdz",
   "preview": "previews/seating/ottomans/ott-0020-perforated-aluminum-outdoor-ottoman.jpg",
+  "reference": "references/seating/ottomans/ott-0020-perforated-aluminum-outdoor-ottoman.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0020-perforated-aluminum-outdoor-ottoman.usdz",
   "file_size_bytes": 901255,
   "sha256": "6dee159ddc1a5cdff3ca59e0d3b3883ee3fa56d24322e4361ae6decf7eb1f046",

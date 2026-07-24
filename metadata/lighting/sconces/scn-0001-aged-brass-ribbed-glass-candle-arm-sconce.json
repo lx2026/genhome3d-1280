@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0001-aged-brass-ribbed-glass-candle-arm-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0001-aged-brass-ribbed-glass-candle-arm-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0001-aged-brass-ribbed-glass-candle-arm-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0001-aged-brass-ribbed-glass-candle-arm-sconce.usdz",
   "file_size_bytes": 967008,
   "sha256": "458dfc7361bcf508903f430f38cf4805e88ac7e0b1e0fc1e19935e5e1d73247b",

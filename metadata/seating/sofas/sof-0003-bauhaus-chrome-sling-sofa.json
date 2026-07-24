@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0003-bauhaus-chrome-sling-sofa.usdz",
   "file_size_bytes": 1015619,
   "sha256": "9f7e2aaffc441bca8a26e9264e40c6ca6815334ab2ef2d6cf3cbf3e0fbdcc4bc",

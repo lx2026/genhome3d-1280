@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0020-red-stage-two-panel-grand-drape-set.usdz",
   "preview": "previews/textiles/curtains/cur-0020-red-stage-two-panel-grand-drape-set.jpg",
+  "reference": "references/textiles/curtains/cur-0020-red-stage-two-panel-grand-drape-set.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0020-red-stage-two-panel-grand-drape-set.usdz",
   "file_size_bytes": 1636726,
   "sha256": "c752f92dfc1e177b060f812cf19573a1645cf277d38b6e8ad48a089049e6a2ed",

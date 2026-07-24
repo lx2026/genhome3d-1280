@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0018-cast-concrete-hollow-arch-table.usdz",
   "preview": "previews/tables/coffee/cof-0018-cast-concrete-hollow-arch-table.jpg",
+  "reference": "references/tables/coffee/cof-0018-cast-concrete-hollow-arch-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0018-cast-concrete-hollow-arch-table.usdz",
   "file_size_bytes": 455840,
   "sha256": "25da7d00da871fd0cd27a4e966170767f9f248215ab52eef4f0fe0e683ae57cf",

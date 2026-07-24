@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0008-brushed-brass-twelve-lobe-scallop-mirror.usdz",
   "file_size_bytes": 816038,
   "sha256": "d982e768eb7f7fffa33b78173eb30c0b500ba2aa1bb7b599699ea64e44bb9d6e",

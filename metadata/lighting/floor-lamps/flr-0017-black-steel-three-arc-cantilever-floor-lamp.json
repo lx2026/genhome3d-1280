@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/floor-lamps/flr-0017-black-steel-three-arc-cantilever-floor-lamp.usdz",
   "preview": "previews/lighting/floor-lamps/flr-0017-black-steel-three-arc-cantilever-floor-lamp.jpg",
+  "reference": "references/lighting/floor-lamps/flr-0017-black-steel-three-arc-cantilever-floor-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0017-black-steel-three-arc-cantilever-floor-lamp.usdz",
   "file_size_bytes": 500678,
   "sha256": "ba753e530a6aa904a914ed38928533d8dca713fcaf6d6a2b3827a91f30d51a00",

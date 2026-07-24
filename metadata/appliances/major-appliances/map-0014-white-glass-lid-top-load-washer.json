@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.usdz",
   "preview": "previews/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.jpg",
+  "reference": "references/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0014-white-glass-lid-top-load-washer.usdz",
   "file_size_bytes": 399313,
   "sha256": "0fbbbd6e238b2eaa6ba00f14e4209c3c5b6b56cf181dd3add6db4212848f46b5",

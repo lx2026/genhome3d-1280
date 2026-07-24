@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0011-narrow-ash-armless-drafting-chair.usdz",
   "preview": "previews/office/office-chairs/och-0011-narrow-ash-armless-drafting-chair.jpg",
+  "reference": "references/office/office-chairs/och-0011-narrow-ash-armless-drafting-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0011-narrow-ash-armless-drafting-chair.usdz",
   "file_size_bytes": 914761,
   "sha256": "2c09ddbeb8e5f1ee9645b16d87448be4c21e2a2e60b3fe67a74474d7a928c1dd",

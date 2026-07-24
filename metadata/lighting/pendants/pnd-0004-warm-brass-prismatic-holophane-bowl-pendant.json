@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0004-warm-brass-prismatic-holophane-bowl-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0004-warm-brass-prismatic-holophane-bowl-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0004-warm-brass-prismatic-holophane-bowl-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0004-warm-brass-prismatic-holophane-bowl-pendant.usdz",
   "file_size_bytes": 1773741,
   "sha256": "b950f93d66ec9f9cc194b9ad12fd1523d8aa588a6088c31b0fc31a3216e8a758",

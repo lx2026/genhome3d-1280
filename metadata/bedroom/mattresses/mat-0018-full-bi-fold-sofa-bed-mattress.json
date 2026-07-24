@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0018-full-bi-fold-sofa-bed-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0018-full-bi-fold-sofa-bed-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0018-full-bi-fold-sofa-bed-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0018-full-bi-fold-sofa-bed-mattress.usdz",
   "file_size_bytes": 799803,
   "sha256": "a9649b6c95d09a0bd7f699fb4a81937be09d49b18daf3cf1315e2c9073a05363",

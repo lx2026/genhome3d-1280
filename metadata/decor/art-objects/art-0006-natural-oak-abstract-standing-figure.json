@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0006-natural-oak-abstract-standing-figure.usdz",
   "preview": "previews/decor/art-objects/art-0006-natural-oak-abstract-standing-figure.jpg",
+  "reference": "references/decor/art-objects/art-0006-natural-oak-abstract-standing-figure.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0006-natural-oak-abstract-standing-figure.usdz",
   "file_size_bytes": 581342,
   "sha256": "c3838989b92f7191d7d22800319b79208291369abd5789bea57a3e4b76d5119e",

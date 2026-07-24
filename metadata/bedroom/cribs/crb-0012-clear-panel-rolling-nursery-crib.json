@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0012-clear-panel-rolling-nursery-crib.usdz",
   "file_size_bytes": 1085134,
   "sha256": "c7ae01dea9e97403ff086aeaee255d18ea23ab94c44bd13c5adaee6c63fbac56",

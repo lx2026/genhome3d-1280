@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0010-coastal-teak-rope-bar-stool.usdz",
   "preview": "previews/seating/stools/stl-0010-coastal-teak-rope-bar-stool.jpg",
+  "reference": "references/seating/stools/stl-0010-coastal-teak-rope-bar-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0010-coastal-teak-rope-bar-stool.usdz",
   "file_size_bytes": 824618,
   "sha256": "753af523d4a4e7d0b111ac4caf1fa463d7de82c929cd3a6ce72547c9886f925d",

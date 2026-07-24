@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0013-camel-five-band-rope-runner.usdz",
   "preview": "previews/textiles/rugs/rug-0013-camel-five-band-rope-runner.jpg",
+  "reference": "references/textiles/rugs/rug-0013-camel-five-band-rope-runner.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0013-camel-five-band-rope-runner.usdz",
   "file_size_bytes": 1016728,
   "sha256": "ae87ea70b67603fefa19f11efc8dd26a4ca4bdcda58600490796218bd375b679",

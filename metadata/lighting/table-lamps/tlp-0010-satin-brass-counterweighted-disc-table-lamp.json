@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0010-satin-brass-counterweighted-disc-table-lamp.usdz",
   "file_size_bytes": 703259,
   "sha256": "9651b498ebca42b3ea1c2aa1b27f6ce191c86ed7eac6f02dde894b61aa573d5a",

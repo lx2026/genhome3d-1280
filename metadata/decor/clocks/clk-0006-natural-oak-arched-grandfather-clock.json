@@ -40,6 +40,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0006-natural-oak-arched-grandfather-clock.usdz",
   "preview": "previews/decor/clocks/clk-0006-natural-oak-arched-grandfather-clock.jpg",
+  "reference": "references/decor/clocks/clk-0006-natural-oak-arched-grandfather-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0006-natural-oak-arched-grandfather-clock.usdz",
   "file_size_bytes": 1526194,
   "sha256": "83a64ab5dbaff6caebd453cb7f6dcc4757b8380b85a2a7a2ede84b17ac13ed15",

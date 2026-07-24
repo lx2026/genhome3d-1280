@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.usdz",
   "preview": "previews/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.jpg",
+  "reference": "references/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/bookcases/bkc-0016-circular-oak-halo-bookcase.usdz",
   "file_size_bytes": 929015,
   "sha256": "2dcefb3a214d3cb63626af601123a9d946ddc613b4850f1d10c1ca525db3406a",

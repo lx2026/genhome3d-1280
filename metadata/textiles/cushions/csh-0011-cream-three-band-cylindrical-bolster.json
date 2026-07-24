@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.usdz",
   "preview": "previews/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.jpg",
+  "reference": "references/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0011-cream-three-band-cylindrical-bolster.usdz",
   "file_size_bytes": 959897,
   "sha256": "3eb0ed1729f9540d16263fc08d202d82b4cf1ea89081180af199e98cf99d8a6d",

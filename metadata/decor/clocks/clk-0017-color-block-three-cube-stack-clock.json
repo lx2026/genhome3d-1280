@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0017-color-block-three-cube-stack-clock.usdz",
   "preview": "previews/decor/clocks/clk-0017-color-block-three-cube-stack-clock.jpg",
+  "reference": "references/decor/clocks/clk-0017-color-block-three-cube-stack-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0017-color-block-three-cube-stack-clock.usdz",
   "file_size_bytes": 688568,
   "sha256": "f7ad57f68b6ee87616c9cc4e3d0199fde2436d56de7dc4e77860acf45aa1260f",

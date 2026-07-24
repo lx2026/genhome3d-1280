@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0014-glass-dome-four-ball-anniversary-clock.usdz",
   "preview": "previews/decor/clocks/clk-0014-glass-dome-four-ball-anniversary-clock.jpg",
+  "reference": "references/decor/clocks/clk-0014-glass-dome-four-ball-anniversary-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0014-glass-dome-four-ball-anniversary-clock.usdz",
   "file_size_bytes": 1288862,
   "sha256": "72237cfe7523a9b1f15abd804c0182222f687590ae30e9f113cf8dcd017d5116",

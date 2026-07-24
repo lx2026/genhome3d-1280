@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0009-industrial-canvas-trunk-ottoman.usdz",
   "preview": "previews/seating/ottomans/ott-0009-industrial-canvas-trunk-ottoman.jpg",
+  "reference": "references/seating/ottomans/ott-0009-industrial-canvas-trunk-ottoman.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0009-industrial-canvas-trunk-ottoman.usdz",
   "file_size_bytes": 1063006,
   "sha256": "075f98154f71cd313343829179be5b9b7b175322543d913328ac1444b9de0c24",

@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0008-aged-brass-tripod-floor-clock.usdz",
   "preview": "previews/decor/clocks/clk-0008-aged-brass-tripod-floor-clock.jpg",
+  "reference": "references/decor/clocks/clk-0008-aged-brass-tripod-floor-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0008-aged-brass-tripod-floor-clock.usdz",
   "file_size_bytes": 998714,
   "sha256": "5b4a0c9e3ca7153f96046b2b4bdbab59725f14a0d39116823dae03880d3a21ab",

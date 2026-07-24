@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0004-oxidized-copper-counterweighted-lever-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0004-oxidized-copper-counterweighted-lever-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0004-oxidized-copper-counterweighted-lever-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0004-oxidized-copper-counterweighted-lever-task-light.usdz",
   "file_size_bytes": 688443,
   "sha256": "be26deb78a1242ca020a963ed6006465c10f01b0a410b9b7e99754dbe6d4ee4b",

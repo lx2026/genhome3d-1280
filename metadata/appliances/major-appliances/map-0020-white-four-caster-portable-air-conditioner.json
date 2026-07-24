@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0020-white-four-caster-portable-air-conditioner.usdz",
   "preview": "previews/appliances/major-appliances/map-0020-white-four-caster-portable-air-conditioner.jpg",
+  "reference": "references/appliances/major-appliances/map-0020-white-four-caster-portable-air-conditioner.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0020-white-four-caster-portable-air-conditioner.usdz",
   "file_size_bytes": 438215,
   "sha256": "fac6d7b8357bd54d241033f64f66182d5c696c17ae38775293a8a26a2e9c3d5c",

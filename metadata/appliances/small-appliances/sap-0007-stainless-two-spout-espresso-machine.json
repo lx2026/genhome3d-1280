@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0007-stainless-two-spout-espresso-machine.usdz",
   "preview": "previews/appliances/small-appliances/sap-0007-stainless-two-spout-espresso-machine.jpg",
+  "reference": "references/appliances/small-appliances/sap-0007-stainless-two-spout-espresso-machine.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0007-stainless-two-spout-espresso-machine.usdz",
   "file_size_bytes": 840209,
   "sha256": "ac629ca1dd503355d818f3691467cce42ad810bae9f9629b31ebefec9084cb82",

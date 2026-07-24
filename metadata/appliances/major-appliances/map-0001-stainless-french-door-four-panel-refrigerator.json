@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0001-stainless-french-door-four-panel-refrigerator.usdz",
   "preview": "previews/appliances/major-appliances/map-0001-stainless-french-door-four-panel-refrigerator.jpg",
+  "reference": "references/appliances/major-appliances/map-0001-stainless-french-door-four-panel-refrigerator.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0001-stainless-french-door-four-panel-refrigerator.usdz",
   "file_size_bytes": 672828,
   "sha256": "1ab9fc6cc887b6b9c1ec8d98df27533bfc5c7d4ff149cf8b155b1caf30526b13",

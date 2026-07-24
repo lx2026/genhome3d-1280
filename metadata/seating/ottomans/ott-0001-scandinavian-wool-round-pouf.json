@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.usdz",
   "preview": "previews/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.jpg",
+  "reference": "references/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0001-scandinavian-wool-round-pouf.usdz",
   "file_size_bytes": 830624,
   "sha256": "2bb778f03ffc843034af021d53030b942ab824de1a9609f0b21fb30b55259393",

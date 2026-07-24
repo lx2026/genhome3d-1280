@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0020-saddle-leather-high-back-armchair.usdz",
   "file_size_bytes": 1440876,
   "sha256": "089882ad4494d49bef2c0b0a64c6bd368c48784a7a3accac31660ab18a8356ed",

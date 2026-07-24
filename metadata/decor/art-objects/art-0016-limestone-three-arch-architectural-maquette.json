@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0016-limestone-three-arch-architectural-maquette.usdz",
   "preview": "previews/decor/art-objects/art-0016-limestone-three-arch-architectural-maquette.jpg",
+  "reference": "references/decor/art-objects/art-0016-limestone-three-arch-architectural-maquette.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0016-limestone-three-arch-architectural-maquette.usdz",
   "file_size_bytes": 957882,
   "sha256": "acdaae5f1e57f7a83cba5794b3d535f0b73226ceab289d5f9b3dc26f548cd6d0",

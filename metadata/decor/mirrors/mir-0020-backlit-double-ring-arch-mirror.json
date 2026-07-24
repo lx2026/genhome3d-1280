@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0020-backlit-double-ring-arch-mirror.usdz",
   "file_size_bytes": 647853,
   "sha256": "699fe2132a596ffe0d96ca34adbd4d60237c4835beb950a897d1e4e1e0c4780a",

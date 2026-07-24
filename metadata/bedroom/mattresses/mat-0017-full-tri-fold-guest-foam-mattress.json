@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0017-full-tri-fold-guest-foam-mattress.usdz",
   "file_size_bytes": 536868,
   "sha256": "16536225bd9cb83967357814976233aa820c79fe9edb6fe14ebc9eb3f9add8ee",

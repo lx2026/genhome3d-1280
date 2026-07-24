@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/mixing-bowls/mxb-0001-brushed-single-rim-stainless-mixing-bowl.usdz",
   "preview": "previews/kitchen-cookware/mixing-bowls/mxb-0001-brushed-single-rim-stainless-mixing-bowl.jpg",
+  "reference": "references/kitchen-cookware/mixing-bowls/mxb-0001-brushed-single-rim-stainless-mixing-bowl.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/mixing-bowls/mxb-0001-brushed-single-rim-stainless-mixing-bowl.usdz",
   "file_size_bytes": 640415,
   "sha256": "cee3182762478c64522ca7a533e751fabc196f48dc057d76bda3de69d922350d",

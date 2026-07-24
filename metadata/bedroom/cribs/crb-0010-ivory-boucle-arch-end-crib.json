@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0010-ivory-boucle-arch-end-crib.usdz",
   "file_size_bytes": 1604170,
   "sha256": "d0660c9348bd85ebfcf86df4ab0fc4872b0b983b2bf4affba72cf8977b427db5",

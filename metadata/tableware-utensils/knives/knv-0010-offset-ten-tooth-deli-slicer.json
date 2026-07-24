@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0010-offset-ten-tooth-deli-slicer.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0010-offset-ten-tooth-deli-slicer.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0010-offset-ten-tooth-deli-slicer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0010-offset-ten-tooth-deli-slicer.usdz",
   "file_size_bytes": 695786,
   "sha256": "2630f0fa852507aafabae4ec576f07d3058adef08e23c70f0c29aae79695875d",

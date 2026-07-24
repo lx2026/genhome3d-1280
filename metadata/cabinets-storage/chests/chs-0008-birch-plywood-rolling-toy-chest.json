@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/cabinets-storage/chests/chs-0008-birch-plywood-rolling-toy-chest.usdz",
   "preview": "previews/cabinets-storage/chests/chs-0008-birch-plywood-rolling-toy-chest.jpg",
+  "reference": "references/cabinets-storage/chests/chs-0008-birch-plywood-rolling-toy-chest.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/chests/chs-0008-birch-plywood-rolling-toy-chest.usdz",
   "file_size_bytes": 556609,
   "sha256": "6807854f83903c53af8a9f871223df4f7e14207ba700362a2484c18c0716824c",

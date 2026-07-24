@@ -1,13 +1,13 @@
 # GenHome3D-1280
 
-**1,280 validated household and spatial-design assets in USDZ format, organized
-across 64 categories.**
+**A benchmark of how an AI-assisted pipeline draws and constructs 1,280
+household and spatial-design objects in 3D.**
 
 [Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
 [Browse on Hugging Face](https://huggingface.co/datasets/linxy97/genhome3d-1280) ·
 [Download release archives](https://github.com/lx2026/genhome3d-1280/releases) ·
 [Read the generation method](METHOD.md) ·
-[Read the validation contract](VALIDATION.md)
+[Read the technical checks](VALIDATION.md)
 
 <table>
   <tr>
@@ -27,15 +27,18 @@ across 64 categories.**
 | Runtime format | USDZ |
 | Units | Meters |
 | Asset license | CC BY 4.0 |
-| Technical validation | 1,280/1,280 pass |
-| Visual review | 1,280/1,280 pass |
+| Original AI references | 1,280 |
+| Automated package checks | 1,280/1,280 recorded |
+| AI visual review | 1,280/1,280 pass |
 | Vision Pro device review | Pending |
 
-GenHome3D-1280 covers seating, tables, bedroom furnishings, cabinetry,
+GenHome3D-1280 records the output of one repeatable AI-assisted pipeline across
+seating, tables, bedroom furnishings, cabinetry,
 office, entryway, kids, outdoor, lighting, bathroom, decor, textiles,
 cookware, tableware, and appliances. Each category contains exactly 20 assets
-with stable IDs, authored dimensions, searchable metadata, a preview, and a
-self-contained USDZ package.
+with stable IDs, authored dimensions, searchable metadata, an original AI
+reference, a generated preview, and a self-contained USDZ package. The visual
+review was also performed by Codex and is benchmark output, not human curation.
 
 ## Download
 
@@ -54,7 +57,7 @@ sha256sum --check checksums.sha256
 
 The compact [`catalog.json`](catalog.json) and [`catalog.csv`](catalog.csv)
 indexes contain IDs, titles, category paths, dimensions, geometry counts,
-download URLs, file sizes, checksums, and validation results.
+download URLs, file sizes, checksums, and technical check results.
 
 ## Repository layout
 
@@ -62,6 +65,7 @@ download URLs, file sizes, checksums, and validation results.
 assets/<group>/<category>/<slug>.usdz       Runtime packages
 metadata/<group>/<category>/<slug>.json     Per-asset records
 previews/<group>/<category>/<slug>.jpg      Optimized hero previews
+references/<group>/<category>/<slug>.jpg    Original AI design references
 catalog.json                                Complete machine-readable catalog
 catalog.csv                                 Flat analysis-friendly catalog
 checksums.sha256                            USDZ integrity manifest
@@ -95,10 +99,10 @@ See [`LICENSE-ASSETS`](LICENSE-ASSETS) for the asset license and
 
 The collection was created through an OpenAI Codex-assisted design,
 specification, procedural Blender construction, packaging, and QA workflow.
-Generated design references guided production but are not distributed in this
-public runtime dataset. See [`METHOD.md`](METHOD.md) for the production
+Generated design references guided production and are published beside the
+result so the benchmark can be inspected directly. See [`METHOD.md`](METHOD.md) for the production
 workflow, [`PROVENANCE.md`](PROVENANCE.md) for origin and disclosure details,
-and [`VALIDATION.md`](VALIDATION.md) for the precise scope of the claims.
+and [`VALIDATION.md`](VALIDATION.md) for the technical checks and their limits.
 
 The assets are generated designs, may not be unique, and should not be treated
 as scans or authoritative replicas of real products. Review trademark, trade

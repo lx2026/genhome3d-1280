@@ -6,6 +6,7 @@ on:
     paths:
       - "site/**"
       - "previews/**"
+      - "references/**"
       - "catalog.json"
       - "package.json"
       - "package-lock.json"

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.usdz",
   "preview": "previews/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.jpg",
+  "reference": "references/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0014-industrial-crank-height-cast-iron-table.usdz",
   "file_size_bytes": 994635,
   "sha256": "b985ba6d0224e10f890cb3f5b048e52eee9244d720ee079dec2a99dd1e64c49a",

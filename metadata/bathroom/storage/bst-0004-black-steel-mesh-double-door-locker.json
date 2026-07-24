@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0004-black-steel-mesh-double-door-locker.usdz",
   "preview": "previews/bathroom/storage/bst-0004-black-steel-mesh-double-door-locker.jpg",
+  "reference": "references/bathroom/storage/bst-0004-black-steel-mesh-double-door-locker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0004-black-steel-mesh-double-door-locker.usdz",
   "file_size_bytes": 219556,
   "sha256": "048707d26f2f82f4851b744f5351bf4ca057bc150616d7f015065f3eedcea1c3",

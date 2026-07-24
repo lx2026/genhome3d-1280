@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0008-smoked-glass-offset-capsule-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0008-smoked-glass-offset-capsule-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0008-smoked-glass-offset-capsule-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0008-smoked-glass-offset-capsule-pendant.usdz",
   "file_size_bytes": 878772,
   "sha256": "1ae4028bbcf797acbcc462b66deab57fcf70e421807c194634e586ea8bc21b61",

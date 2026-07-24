@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0018-brass-guard-oyster-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0018-brass-guard-oyster-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0018-brass-guard-oyster-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0018-brass-guard-oyster-knife.usdz",
   "file_size_bytes": 1422154,
   "sha256": "46076bc9246fdad753b894340f4ae0bdff56b1d418ee2d020a5e8822b7e5cea6",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0019-slate-five-panel-acoustic-track-curtain.usdz",
   "preview": "previews/textiles/curtains/cur-0019-slate-five-panel-acoustic-track-curtain.jpg",
+  "reference": "references/textiles/curtains/cur-0019-slate-five-panel-acoustic-track-curtain.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0019-slate-five-panel-acoustic-track-curtain.usdz",
   "file_size_bytes": 991544,
   "sha256": "1ac7e4fd4c67eae4d14ac297681eaec91b612c2d7bd35639eae2f6833cf7bb09",

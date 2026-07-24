@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0010-cobalt-blue-four-link-parallelogram-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0010-cobalt-blue-four-link-parallelogram-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0010-cobalt-blue-four-link-parallelogram-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0010-cobalt-blue-four-link-parallelogram-task-light.usdz",
   "file_size_bytes": 684886,
   "sha256": "16dbd63fa42711d38f43faf23b5df09e76ba672a623b94c346e3da1e9f141231",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0010-blackened-steel-teardrop-mirror.usdz",
   "file_size_bytes": 411961,
   "sha256": "d69048217794c0128ab79a444272c74ee6141f018df340fed46422a39dc24cf7",

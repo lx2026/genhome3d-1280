@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0018-white-five-blade-table-fan.usdz",
   "preview": "previews/appliances/small-appliances/sap-0018-white-five-blade-table-fan.jpg",
+  "reference": "references/appliances/small-appliances/sap-0018-white-five-blade-table-fan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0018-white-five-blade-table-fan.usdz",
   "file_size_bytes": 866210,
   "sha256": "d6cef70b30d96d8bfaed0780cad638cb48e6d9ad1391cd447b67ad3fc231608f",

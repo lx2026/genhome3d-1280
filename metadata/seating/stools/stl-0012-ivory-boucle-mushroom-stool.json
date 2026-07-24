@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0012-ivory-boucle-mushroom-stool.usdz",
   "preview": "previews/seating/stools/stl-0012-ivory-boucle-mushroom-stool.jpg",
+  "reference": "references/seating/stools/stl-0012-ivory-boucle-mushroom-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0012-ivory-boucle-mushroom-stool.usdz",
   "file_size_bytes": 736354,
   "sha256": "7ee45b310f8f83c54ba1ecad8815653fcd10501990211d21ec9f2ed97707ab4b",

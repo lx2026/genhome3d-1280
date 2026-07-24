@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0001-aged-brass-green-glass-banker-table-lamp.usdz",
   "file_size_bytes": 821059,
   "sha256": "17cfddf8893650806da03de0b487857d35d8161e04c333b2e321a0054918e862",

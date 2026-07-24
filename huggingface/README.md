@@ -20,8 +20,8 @@ configs:
 
 # GenHome3D-1280
 
-**1,280 validated household and spatial-design assets in USDZ format, organized
-across 64 categories.**
+**A benchmark of how an AI-assisted pipeline draws and constructs 1,280
+household and spatial-design objects in 3D.**
 
 [Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
 [Browse the GitHub repository](https://github.com/lx2026/genhome3d-1280) ·
@@ -46,16 +46,18 @@ across 64 categories.**
 | Runtime format | USDZ |
 | Units | Meters |
 | Asset license | CC BY 4.0 |
-| Technical validation | 1,280/1,280 pass |
-| Package validation | 1,280/1,280 pass |
-| Visual review | 1,280/1,280 pass |
+| Original AI references | 1,280 |
+| Automated package checks | 1,280/1,280 recorded |
+| AI visual review | 1,280/1,280 pass |
 | Vision Pro device review | Pending |
 
 The collection covers seating, tables, bedroom furnishings, cabinetry,
 office, entryway, kids, outdoor, lighting, bathroom, decor, textiles,
 cookware, tableware, and appliances. Every asset has a stable ID, authored
 metric dimensions, searchable metadata, an optimized preview, and a
-self-contained USDZ package.
+self-contained USDZ package. The original AI design reference is published
+beside each result. The visual review was also performed by Codex and is
+benchmark output, not human curation.
 
 ## Using the dataset
 
@@ -92,6 +94,7 @@ can be inspected or downloaded independently.
 assets/<group>/<category>/<slug>.usdz       Runtime packages
 metadata/<group>/<category>/<slug>.json     Per-asset records
 previews/<group>/<category>/<slug>.jpg      Optimized previews
+references/<group>/<category>/<slug>.jpg    Original AI design references
 catalog.csv                                 Dataset-viewer index
 catalog.json                                Complete nested catalog
 checksums.sha256                            USDZ integrity manifest
@@ -99,7 +102,7 @@ reports/publication-audit.json              Publication gate result
 METHOD.md                                   Generation and review workflow
 ```
 
-## Validation and intended use
+## Technical checks and intended use
 
 The USDZ packages are self-contained, meter-authored, and checked for stage
 integrity, archive safety, texture integrity, authored bounds, placement, and
@@ -110,7 +113,7 @@ and education.
 This release does **not** claim Apple Vision Pro device certification.
 On-device review is pending. Validate selected assets in Reality Composer Pro,
 Instruments, and on target hardware before shipping them in an application.
-See [`VALIDATION.md`](VALIDATION.md) for the precise validation contract.
+See [`VALIDATION.md`](VALIDATION.md) for the checks and their limits.
 
 ## Provenance and limitations
 

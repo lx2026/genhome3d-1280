@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0020-ivory-plaster-double-neck-bridge-vase.usdz",
   "preview": "previews/decor/vases/vas-0020-ivory-plaster-double-neck-bridge-vase.jpg",
+  "reference": "references/decor/vases/vas-0020-ivory-plaster-double-neck-bridge-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0020-ivory-plaster-double-neck-bridge-vase.usdz",
   "file_size_bytes": 655970,
   "sha256": "9426d2070bae89922a76c4f974b48d1c6af0e3f48070d4eac7dca2488d61609c",

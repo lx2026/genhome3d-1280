@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0002-blackened-iron-four-panel-lantern-sconce.usdz",
   "file_size_bytes": 624722,
   "sha256": "5ab4b4fc659d256a8d4e69543a4e0ab241f3dcf2967ffe491397ef7f02c38fbb",

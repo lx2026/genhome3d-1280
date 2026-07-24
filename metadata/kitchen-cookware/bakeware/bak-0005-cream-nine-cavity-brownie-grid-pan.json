@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0005-cream-nine-cavity-brownie-grid-pan.usdz",
   "file_size_bytes": 551279,
   "sha256": "a0bcd392884d25d33c506ec9650892ebc3ac40e685a9d7353407502eea44e5d9",

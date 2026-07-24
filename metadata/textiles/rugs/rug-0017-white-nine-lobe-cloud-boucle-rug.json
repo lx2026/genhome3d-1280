@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.usdz",
   "preview": "previews/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.jpg",
+  "reference": "references/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0017-white-nine-lobe-cloud-boucle-rug.usdz",
   "file_size_bytes": 1397440,
   "sha256": "ca82905e3dcf613f10dd7145de012b10bdd5f79da148c07878b8512ab84c272a",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0013-oil-rubbed-bronze-six-cone-radial-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0013-oil-rubbed-bronze-six-cone-radial-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0013-oil-rubbed-bronze-six-cone-radial-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0013-oil-rubbed-bronze-six-cone-radial-chandelier.usdz",
   "file_size_bytes": 529345,
   "sha256": "dcf606fb0da7801c0519a7a9444db999c41ecc648916954231c4d64021800daa",

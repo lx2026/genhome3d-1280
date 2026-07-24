@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.usdz",
   "preview": "previews/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.jpg",
+  "reference": "references/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0002-camel-wool-herringbone-four-corner-tassel-throw.usdz",
   "file_size_bytes": 986576,
   "sha256": "8c26612f4a1a8ebbc4972f67013b5fa720c2b0bb163db016b6708765193871e5",

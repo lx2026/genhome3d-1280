@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0003-white-oak-rounded-rectangle-mirror.usdz",
   "file_size_bytes": 671120,
   "sha256": "b77375e95a19651ddae19546f65a8f2b4e8b9f3ebc546e9f385b27b8df2416b5",

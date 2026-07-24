@@ -16,7 +16,8 @@ test("catalog loads, filters, and expands without browser errors", async ({ page
   });
 
   await page.goto(baseURL, { waitUntil: "networkidle" });
-  await expect(page.locator("h1")).toContainText("Built for rooms");
+  await expect(page.locator("h1")).toContainText("How AI draws");
+  await expect(page.locator("body")).not.toContainText("validated");
   await expect(page.locator("#result-count")).toHaveText("1,280");
   await expect(page.locator(".asset-card")).toHaveCount(24);
 
@@ -26,6 +27,9 @@ test("catalog loads, filters, and expands without browser errors", async ({ page
   await expect
     .poll(() => firstImage.evaluate((image) => image.naturalWidth))
     .toBeGreaterThan(0);
+  const firstView = page.locator(".asset-view").first();
+  await expect(firstView).toBeVisible();
+  await expect(firstView).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
 
   await page.locator("#search").fill("MXB-0014");
   await expect(page.locator("#result-count")).toHaveText("1");
@@ -75,6 +79,16 @@ test("representative assets open as lazy-loaded interactive USDZ previews", asyn
     await expect(dialog).toBeVisible();
     await expect(page.locator("#viewer-title")).toHaveText(title);
     await expect(page.locator("#viewer-download")).toHaveAttribute("href", /\.usdz$/);
+    await expect(page).toHaveURL(new RegExp(`[?&]asset=${id}`));
+    await expect(page.locator("#viewer-reference")).toHaveAttribute(
+      "src",
+      new RegExp(`/references/.+\\.jpg$`),
+    );
+    await expect
+      .poll(() =>
+        page.locator("#viewer-reference").evaluate((image) => image.naturalWidth),
+      )
+      .toBeGreaterThan(0);
     await expect(dialog).toHaveAttribute("data-state", "ready", { timeout: 30_000 });
     await expect(page.locator("#viewer-status")).toBeHidden();
 
@@ -88,12 +102,39 @@ test("representative assets open as lazy-loaded interactive USDZ previews", asyn
     expect(canvasSize.height).toBeGreaterThan(200);
 
     await page.locator("#viewer-reset").click();
+    await page.locator("#viewer-background").click();
+    await expect(dialog).toHaveAttribute("data-background", "dark");
+    await page.locator("#viewer-background").click();
+    await expect(dialog).toHaveAttribute("data-background", "light");
     await page.locator("#viewer-close").click();
     await expect(dialog).toBeHidden();
+    await expect(page).not.toHaveURL(/[?&]asset=/);
   }
 
   expect(consoleErrors).toEqual([]);
   expect(pageErrors).toEqual([]);
+});
+
+test("direct object URLs open the requested side-by-side comparison", async ({ page }) => {
+  test.setTimeout(45_000);
+  const objectURL = new URL(baseURL);
+  objectURL.searchParams.set("asset", "DRS-0002");
+
+  await page.goto(objectURL.toString(), { waitUntil: "networkidle" });
+  await expect(page.locator("#asset-viewer")).toBeVisible();
+  await expect(page.locator("#viewer-title")).toHaveText(
+    "French Provincial Painted-Ash Serpentine Dresser",
+  );
+  await expect(page.locator("#viewer-reference")).toHaveAttribute(
+    "src",
+    /references\/cabinets-storage\/dressers\/drs-0002-.+\.jpg$/,
+  );
+  await expect(page.locator("#viewer-reference")).toBeVisible();
+  await expect(page.locator("#viewer-canvas")).toBeVisible();
+
+  await page.locator("#viewer-close").click();
+  await expect(page.locator("#asset-viewer")).toBeHidden();
+  await expect(page).not.toHaveURL(/[?&]asset=/);
 });
 
 test("mobile layout preserves navigation and search", async ({ page }) => {

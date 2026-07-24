@@ -40,6 +40,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0009-white-oak-glass-front-column-clock.usdz",
   "preview": "previews/decor/clocks/clk-0009-white-oak-glass-front-column-clock.jpg",
+  "reference": "references/decor/clocks/clk-0009-white-oak-glass-front-column-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0009-white-oak-glass-front-column-clock.usdz",
   "file_size_bytes": 1364791,
   "sha256": "a259786de73349e3568b67bccfdf9a60879d63a69e00cda9369235ec5b6d26db",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0008-smoked-glass-mushroom-table-lamp.usdz",
   "file_size_bytes": 468349,
   "sha256": "2d4705dc26eea30b20ddc5320d591a688e1318ebec316a5d79df7d1a4cbbec75",

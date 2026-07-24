@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0006-matte-black-up-down-cylinder-sconce.usdz",
   "file_size_bytes": 402798,
   "sha256": "96096ab37a95c383c9474321492f17bd2bf3dfd004e7a9a9af55dd6dea7d4ee0",

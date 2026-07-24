@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0012-white-front-load-washer.usdz",
   "preview": "previews/appliances/major-appliances/map-0012-white-front-load-washer.jpg",
+  "reference": "references/appliances/major-appliances/map-0012-white-front-load-washer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0012-white-front-load-washer.usdz",
   "file_size_bytes": 904981,
   "sha256": "3feceda4a4a01beb7bff7ca485d6044f1e061a231e18294596585911283188a0",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0001-shaker-maple-spindle-crib.usdz",
   "file_size_bytes": 775994,
   "sha256": "3a9ca596e4eb271bc923d75fadf830107107fa047bd7f32d9e68a02a8b74a445",
