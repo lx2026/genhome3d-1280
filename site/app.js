@@ -43,6 +43,12 @@ const elements = {
   viewerReset: document.querySelector("#viewer-reset"),
   viewerBackground: document.querySelector("#viewer-background"),
   viewerCopyLink: document.querySelector("#viewer-copy-link"),
+  viewerKicker: document.querySelector("#viewer-kicker"),
+  featuredOpen: document.querySelector("#featured-open"),
+  featuredReference: document.querySelector("#featured-reference"),
+  featuredPreview: document.querySelector("#featured-preview"),
+  featuredId: document.querySelector("#featured-id"),
+  featuredTitle: document.querySelector("#featured-title"),
 };
 
 let viewerModulePromise;
@@ -118,6 +124,7 @@ async function openViewer(asset) {
   const loadId = ++state.viewerLoad;
   state.currentAsset = asset;
   elements.viewerTitle.textContent = asset.title;
+  elements.viewerKicker.textContent = `${asset.id} · ${asset.category_label}`;
   elements.viewerMeta.textContent = `${asset.id} · ${formatDimensions(
     asset.dimensions_m,
   )} · ${formatBytes(asset.file_size_bytes)}`;
@@ -172,20 +179,21 @@ async function openViewer(asset) {
   }
 }
 
-function populateShowcase(assets) {
-  const preferred = ["ARM-0001", "PND-0010", "MXB-0014"];
-  const showcase = preferred
-    .map((id) => assets.find((asset) => asset.id === id))
-    .filter(Boolean);
-  if (showcase.length < 3) showcase.push(...assets.slice(0, 3 - showcase.length));
+function populateFeatured(assets) {
+  const asset = assets.find((item) => item.id === "DRS-0002") || assets[0];
+  if (!asset) return;
 
-  document.querySelectorAll("[data-showcase]").forEach((tile, index) => {
-    const asset = showcase[index];
-    if (!asset) return;
-    tile.querySelector(".tile-image").style.backgroundImage = `url('./${asset.preview}')`;
-    tile.querySelector("strong").textContent = asset.title;
-    tile.querySelector("small").textContent = asset.id;
-  });
+  elements.featuredReference.src = `./${asset.reference}`;
+  elements.featuredReference.alt = `${asset.title} reference image`;
+  elements.featuredPreview.src = `./${asset.preview}`;
+  elements.featuredPreview.alt = `${asset.title} generated 3D result`;
+  elements.featuredId.textContent = `${asset.id} · ${asset.category_label}`;
+  elements.featuredTitle.textContent = asset.title;
+  elements.featuredOpen.setAttribute(
+    "aria-label",
+    `Open the interactive comparison for ${asset.title}`,
+  );
+  elements.featuredOpen.addEventListener("click", () => navigateToAsset(asset));
 }
 
 function populateFilters(dataset) {
@@ -204,7 +212,8 @@ function renderCards() {
 
   visibleAssets.forEach((asset, index) => {
     const card = elements.template.content.firstElementChild.cloneNode(true);
-    const image = card.querySelector("img");
+    const reference = card.querySelector(".asset-reference");
+    const preview = card.querySelector(".asset-preview");
     const download = card.querySelector(".asset-download");
     const view = card.querySelector(".asset-view");
     download.href = asset.download_url;
@@ -215,9 +224,14 @@ function renderCards() {
       `Compare the original AI reference and interactive 3D result for ${asset.title}`,
     );
     view.addEventListener("click", () => navigateToAsset(asset));
-    image.src = `./${asset.preview}`;
-    image.alt = `${asset.title} generated 3D preview`;
-    if (index < 8) image.loading = "eager";
+    reference.src = `./${asset.reference}`;
+    reference.alt = `${asset.title} reference image`;
+    preview.src = `./${asset.preview}`;
+    preview.alt = `${asset.title} generated 3D preview`;
+    if (index < 6) {
+      reference.loading = "eager";
+      preview.loading = "eager";
+    }
     card.querySelector(".asset-category").textContent = asset.category_label;
     card.querySelector("h3").textContent = asset.title;
     card.querySelector(".asset-id").textContent = asset.id;
@@ -287,7 +301,7 @@ async function initialize() {
     document.querySelector('[data-stat="categories"]').textContent =
       state.dataset.category_count.toLocaleString();
     populateFilters(state.dataset);
-    populateShowcase(state.dataset.assets);
+    populateFeatured(state.dataset.assets);
     renderCards();
     updateBackgroundControl();
 

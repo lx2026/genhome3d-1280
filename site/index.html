@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="GenHome3D-1280 is an open benchmark showing how an AI-assisted pipeline draws and constructs 1,280 household objects in 3D."
+      content="GenHome3D-1280 is an open benchmark pairing 1,280 AI-generated reference images with the 3D objects built from them."
     />
-    <meta name="theme-color" content="#17352e" />
+    <meta name="theme-color" content="#f7f6f2" />
     <meta property="og:title" content="GenHome3D-1280" />
     <meta
       property="og:description"
-      content="A benchmark of how AI draws and constructs 1,280 everyday household objects in 3D."
+      content="1,280 reference images paired with the 3D objects an AI-assisted pipeline made from them."
     />
     <meta property="og:type" content="website" />
-    <title>GenHome3D-1280 — Open USDZ Asset Collection</title>
+    <title>GenHome3D-1280 — Reference images and 3D results</title>
     <link rel="stylesheet" href="./styles.css" />
     <script type="importmap">
       {
@@ -27,94 +27,88 @@
     <script src="./app.js" defer></script>
   </head>
   <body>
-    <a class="skip-link" href="#library">Skip to asset library</a>
+    <a class="skip-link" href="#library">Skip to the benchmark</a>
 
     <header class="site-header">
       <a class="brand" href="#top" aria-label="GenHome3D home">
-        <span class="brand-mark" aria-hidden="true">
-          <i></i><i></i><i></i>
-        </span>
+        <span class="brand-symbol" aria-hidden="true"></span>
         <span>GenHome3D</span>
         <small>1280</small>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#library">Library</a>
+        <a href="#library">Objects</a>
         <a href="#method">Method</a>
-        <a href="https://huggingface.co/datasets/linxy97/genhome3d-1280">Hugging Face</a>
         <a href="https://github.com/lx2026/genhome3d-1280">GitHub</a>
+        <a href="https://huggingface.co/datasets/linxy97/genhome3d-1280">Dataset</a>
       </nav>
     </header>
 
     <main id="top">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
-          <p class="eyebrow"><span></span> Open 3D benchmark · v1.0</p>
-          <h1 id="hero-title">
-            How AI draws<br />
-            <em>the everyday.</em>
-          </h1>
+          <p class="eyebrow">Open benchmark · 1,280 objects</p>
+          <h1 id="hero-title">From reference image to 3D object.</h1>
           <p class="hero-intro">
-            A benchmark of how one AI-assisted pipeline draws and constructs 1,280
-            household objects in 3D. Compare each original AI reference with the
-            generated object, including the mistakes.
+            Browse every attempt from one AI-assisted pipeline. Each entry puts the
+            generated reference beside the resulting USDZ, including the misses.
           </p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#library">Explore the collection</a>
-            <a class="button button-secondary" href="./catalog.json" download>
-              Download catalog
-            </a>
+            <a class="button button-primary" href="#library">Browse the objects</a>
+            <a class="button button-secondary" href="#method">How they were made</a>
           </div>
-          <p class="hero-note">
-            CC BY 4.0 · Metric scale · Self-contained textures · RealityKit-oriented
-          </p>
+          <p class="hero-note">CC BY 4.0 · Metric scale · Downloadable USDZ</p>
         </div>
 
-        <div class="hero-gallery" aria-label="Selected objects from the collection">
-          <article class="hero-tile hero-tile-main" data-showcase="0">
-            <div class="tile-image"></div>
-            <span class="tile-index">01</span>
-            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
-          </article>
-          <article class="hero-tile hero-tile-top" data-showcase="1">
-            <div class="tile-image"></div>
-            <span class="tile-index">02</span>
-            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
-          </article>
-          <article class="hero-tile hero-tile-bottom" data-showcase="2">
-            <div class="tile-image"></div>
-            <span class="tile-index">03</span>
-            <div class="tile-caption"><strong>Loading collection</strong><small>USDZ</small></div>
-          </article>
-        </div>
+        <article class="featured-card" aria-label="Featured object comparison">
+          <button class="featured-open" id="featured-open" type="button">
+            <span class="featured-images">
+              <span class="featured-image">
+                <span class="image-label">Reference</span>
+                <img id="featured-reference" alt="" />
+              </span>
+              <span class="featured-image">
+                <span class="image-label">3D result</span>
+                <img id="featured-preview" alt="" />
+              </span>
+            </span>
+            <span class="featured-caption">
+              <span>
+                <small id="featured-id">Loading</small>
+                <strong id="featured-title">Featured comparison</strong>
+              </span>
+              <span class="open-cue" aria-hidden="true">View in 3D <b>↗</b></span>
+            </span>
+          </button>
+        </article>
       </section>
 
-      <section class="metrics" aria-label="Dataset summary">
-        <div><strong data-stat="assets">1,280</strong><span>generated attempts</span></div>
-        <div><strong data-stat="categories">64</strong><span>focused categories</span></div>
-        <div><strong>20</strong><span>assets per category</span></div>
-        <div><strong>USDZ</strong><span>portable delivery format</span></div>
+      <section class="metrics" aria-label="Benchmark summary">
+        <div><strong data-stat="assets">1,280</strong><span>attempts</span></div>
+        <div><strong data-stat="categories">64</strong><span>categories</span></div>
+        <div><strong>20</strong><span>objects per category</span></div>
+        <div><strong>CC BY 4.0</strong><span>open license</span></div>
       </section>
 
       <section class="library" id="library" aria-labelledby="library-title">
         <div class="section-heading">
           <div>
-            <p class="eyebrow"><span></span> The benchmark</p>
-            <h2 id="library-title">Inspect every attempt.</h2>
+            <p class="eyebrow">The full benchmark</p>
+            <h2 id="library-title">Compare every object.</h2>
           </div>
           <p>
-            Search by name or asset ID, compare the reference and result side by side,
-            rotate the object in 3D, and share a direct link to any attempt.
+            Reference on the left, generated result on the right. Click either image to
+            rotate the model, change its background, or copy a direct link.
           </p>
         </div>
 
         <div class="catalog-toolbar">
           <label class="search-field">
-            <span class="visually-hidden">Search assets</span>
+            <span class="visually-hidden">Search objects</span>
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <circle cx="11" cy="11" r="6.5"></circle>
               <path d="m16 16 4 4"></path>
             </svg>
-            <input id="search" type="search" placeholder="Search lamp, oak, MXB-0014…" />
+            <input id="search" type="search" placeholder="Search by name, material, or ID" />
           </label>
           <label class="select-field">
             <span class="visually-hidden">Filter by category</span>
@@ -122,52 +116,68 @@
               <option value="all">All 64 categories</option>
             </select>
           </label>
-          <p class="result-count" aria-live="polite"><strong id="result-count">1,280</strong> objects</p>
+          <p class="result-count" aria-live="polite">
+            <strong id="result-count">1,280</strong> results
+          </p>
         </div>
 
         <div id="asset-grid" class="asset-grid" aria-live="polite"></div>
         <div class="catalog-footer">
-          <button class="button button-secondary" id="load-more" type="button">Load more objects</button>
+          <button class="button button-secondary" id="load-more" type="button">
+            Load more
+          </button>
           <p id="shown-count">Showing the first 24 objects</p>
         </div>
       </section>
 
       <section class="method" id="method" aria-labelledby="method-title">
         <div class="method-lead">
-          <p class="eyebrow light"><span></span> One repeatable experiment</p>
-          <h2 id="method-title">The recipe is part of the benchmark.</h2>
+          <p class="eyebrow">Method</p>
+          <h2 id="method-title">One pipeline, repeated 1,280 times.</h2>
           <p>
-            Every asset follows a fixed production path—from authored dimensions and a
-            generated design reference to Blender construction and USDZ packaging.
-            Codex also performed the visual review, so the review scores are AI output,
+            Each object starts with fixed dimensions and a generated reference image.
+            The pipeline builds it in Blender, packages it as USDZ, and runs technical
+            checks. Codex performed the visual review too, so those scores are AI output,
             not human curation.
           </p>
           <a href="https://github.com/lx2026/genhome3d-1280/blob/main/METHOD.md">
-            Read the full generation method <span aria-hidden="true">↗</span>
+            Read the full method <span aria-hidden="true">↗</span>
           </a>
         </div>
         <ol class="method-steps">
-          <li><span>01</span><div><strong>Specify</strong><p>Stable IDs, metric dimensions, topology constraints, and category coverage.</p></div></li>
-          <li><span>02</span><div><strong>Generate</strong><p>AI-assisted references and procedural Blender construction with authored materials.</p></div></li>
-          <li><span>03</span><div><strong>Package</strong><p>Self-contained USDZ delivery with texture, stage, bounds, and archive checks.</p></div></li>
-          <li><span>04</span><div><strong>Compare</strong><p>Reference and result shown side by side, with technical checks and known visual failures left visible.</p></div></li>
+          <li>
+            <span>01</span>
+            <div><strong>Specify</strong><p>Set the size, category, and construction constraints.</p></div>
+          </li>
+          <li>
+            <span>02</span>
+            <div><strong>Generate</strong><p>Create the reference and build the object in Blender.</p></div>
+          </li>
+          <li>
+            <span>03</span>
+            <div><strong>Package</strong><p>Export a self-contained USDZ and run structural checks.</p></div>
+          </li>
+          <li>
+            <span>04</span>
+            <div><strong>Compare</strong><p>Keep the reference and result together, mistakes included.</p></div>
+          </li>
         </ol>
       </section>
 
-      <section class="license-band" aria-label="License and compatibility information">
+      <section class="license-band" aria-label="License and review limits">
         <div>
-          <p class="eyebrow"><span></span> Read the result carefully</p>
-          <h2>A benchmark,<br />not a furniture catalog.</h2>
+          <p class="eyebrow">Use with judgment</p>
+          <h2>The files are open. The results are imperfect.</h2>
         </div>
         <div class="license-copy">
           <p>
-            Assets are available under CC BY 4.0. Credit “GenHome3D-1280 contributors”
-            and link to the repository when you redistribute or adapt them.
+            The assets are available under CC BY 4.0. Credit “GenHome3D-1280
+            contributors” and link to the repository when redistributing or adapting them.
           </p>
           <p>
-            Automated checks cover USDZ structure, scale, bounds, placement, textures,
-            and checksums. They do not mean an object is correct, realistic, safe, or
-            production-ready. Apple Vision Pro on-device review remains pending.
+            Automated checks cover file structure, scale, bounds, placement, textures,
+            and checksums. They do not prove an object is correct, realistic, safe, or
+            production-ready.
           </p>
         </div>
       </section>
@@ -175,13 +185,13 @@
 
     <footer>
       <a class="brand footer-brand" href="#top">
-        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-symbol" aria-hidden="true"></span>
         <span>GenHome3D</span>
       </a>
-      <p>1,280 generated objects for spatial work.</p>
+      <p>1,280 reference images and 3D results.</p>
       <div>
         <a href="https://github.com/lx2026/genhome3d-1280">Repository</a>
-        <a href="https://huggingface.co/datasets/linxy97/genhome3d-1280">Hugging Face</a>
+        <a href="https://huggingface.co/datasets/linxy97/genhome3d-1280">Dataset</a>
         <a href="https://github.com/lx2026/genhome3d-1280/releases">Releases</a>
         <a href="https://creativecommons.org/licenses/by/4.0/">License</a>
       </div>
@@ -191,17 +201,29 @@
       <div class="viewer-shell">
         <header class="viewer-header">
           <div>
-            <p class="viewer-kicker">Original AI reference + generated 3D</p>
-            <h2 id="viewer-title">3D asset</h2>
+            <p class="viewer-kicker" id="viewer-kicker">Object comparison</p>
+            <h2 id="viewer-title">3D object</h2>
           </div>
-          <button class="viewer-close" id="viewer-close" type="button" aria-label="Close 3D viewer">
+          <button class="viewer-close" id="viewer-close" type="button" aria-label="Close object">
             <span aria-hidden="true">×</span>
           </button>
         </header>
 
         <div class="viewer-comparison">
+          <section class="viewer-panel viewer-reference-panel" aria-labelledby="viewer-reference-label">
+            <div class="viewer-panel-heading">
+              <p class="viewer-panel-label" id="viewer-reference-label">Reference</p>
+              <span>Generated inspiration image</span>
+            </div>
+            <div class="viewer-reference-stage">
+              <img id="viewer-reference" alt="" />
+            </div>
+          </section>
           <section class="viewer-panel" aria-labelledby="viewer-result-label">
-            <p class="viewer-panel-label" id="viewer-result-label">Generated 3D result</p>
+            <div class="viewer-panel-heading">
+              <p class="viewer-panel-label" id="viewer-result-label">3D result</p>
+              <span>Drag to rotate · Scroll or pinch to zoom</span>
+            </div>
             <div class="viewer-stage" id="viewer-stage">
               <img class="viewer-poster" id="viewer-poster" alt="" />
               <canvas
@@ -213,13 +235,6 @@
                 <strong id="viewer-status-title">Preparing 3D preview</strong>
                 <small id="viewer-status-detail">The model loads only when requested.</small>
               </div>
-              <p class="viewer-hint">Drag to rotate · Scroll or pinch to zoom</p>
-            </div>
-          </section>
-          <section class="viewer-panel viewer-reference-panel" aria-labelledby="viewer-reference-label">
-            <p class="viewer-panel-label" id="viewer-reference-label">Original AI reference</p>
-            <div class="viewer-reference-stage">
-              <img id="viewer-reference" alt="" />
             </div>
           </section>
         </div>
@@ -230,11 +245,11 @@
             <button class="button button-secondary" id="viewer-background" type="button">
               Dark background
             </button>
-            <button class="button button-secondary" id="viewer-copy-link" type="button">
-              Copy object link
-            </button>
             <button class="button button-secondary" id="viewer-reset" type="button">
               Reset view
+            </button>
+            <button class="button button-secondary" id="viewer-copy-link" type="button">
+              Copy link
             </button>
             <a class="button button-primary" id="viewer-download" rel="ar" download>
               Download USDZ
@@ -246,21 +261,31 @@
 
     <template id="asset-card-template">
       <article class="asset-card">
-        <div class="asset-image">
-          <img alt="" loading="lazy" decoding="async" />
-          <span class="asset-format">USDZ</span>
-          <a class="asset-download" rel="ar" download>
-            <span aria-hidden="true">↓</span>
-          </a>
+        <div class="asset-images">
+          <div class="asset-image asset-reference-image">
+            <span class="image-label">Reference</span>
+            <img class="asset-reference" alt="" loading="lazy" decoding="async" />
+          </div>
+          <div class="asset-image asset-result-image">
+            <span class="image-label">3D result</span>
+            <img class="asset-preview" alt="" loading="lazy" decoding="async" />
+          </div>
           <button class="asset-view" type="button">
             <span class="visually-hidden">Open interactive 3D comparison</span>
-            <span class="asset-view-cue" aria-hidden="true">3D ↻</span>
           </button>
+          <a class="asset-download" rel="ar" download>
+            <span class="visually-hidden">Download USDZ</span>
+            <span aria-hidden="true">↓</span>
+          </a>
         </div>
         <div class="asset-body">
           <p class="asset-category"></p>
           <h3></h3>
-          <div class="asset-meta"><span class="asset-id"></span><span class="asset-size"></span></div>
+          <div class="asset-meta">
+            <span class="asset-id"></span>
+            <span class="asset-size"></span>
+            <span class="asset-open" aria-hidden="true">Open ↗</span>
+          </div>
         </div>
       </article>
     </template>

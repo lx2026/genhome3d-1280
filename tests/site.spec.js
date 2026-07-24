@@ -16,16 +16,23 @@ test("catalog loads, filters, and expands without browser errors", async ({ page
   });
 
   await page.goto(baseURL, { waitUntil: "networkidle" });
-  await expect(page.locator("h1")).toContainText("How AI draws");
+  await expect(page.locator("h1")).toContainText("From reference image to 3D object");
   await expect(page.locator("body")).not.toContainText("validated");
   await expect(page.locator("#result-count")).toHaveText("1,280");
   await expect(page.locator(".asset-card")).toHaveCount(24);
 
-  const firstImage = page.locator(".asset-card img").first();
-  await firstImage.scrollIntoViewIfNeeded();
-  await expect(firstImage).toBeVisible();
+  const firstReference = page.locator(".asset-reference").first();
+  const firstPreview = page.locator(".asset-preview").first();
+  await firstReference.scrollIntoViewIfNeeded();
+  await expect(firstReference).toBeVisible();
+  await expect(firstPreview).toBeVisible();
+  await expect(firstReference).toHaveAttribute("src", /references\/.+\.jpg$/);
+  await expect(firstPreview).toHaveAttribute("src", /previews\/.+\.jpg$/);
   await expect
-    .poll(() => firstImage.evaluate((image) => image.naturalWidth))
+    .poll(() => firstReference.evaluate((image) => image.naturalWidth))
+    .toBeGreaterThan(0);
+  await expect
+    .poll(() => firstPreview.evaluate((image) => image.naturalWidth))
     .toBeGreaterThan(0);
   const firstView = page.locator(".asset-view").first();
   await expect(firstView).toBeVisible();
@@ -130,6 +137,11 @@ test("direct object URLs open the requested side-by-side comparison", async ({ p
     /references\/cabinets-storage\/dressers\/drs-0002-.+\.jpg$/,
   );
   await expect(page.locator("#viewer-reference")).toBeVisible();
+  await expect
+    .poll(() =>
+      page.locator("#viewer-reference").evaluate((image) => image.naturalWidth),
+    )
+    .toBeGreaterThan(0);
   await expect(page.locator("#viewer-canvas")).toBeVisible();
 
   await page.locator("#viewer-close").click();
