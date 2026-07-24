@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0005-matte-black-low-profile-whistle-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0005-matte-black-low-profile-whistle-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0005-matte-black-low-profile-whistle-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0005-matte-black-low-profile-whistle-kettle.usdz",
   "file_size_bytes": 917543,
   "sha256": "b30b7bc287993e65502e76a079b46e2bb246021c54b50a4c4e91978b4da217cb",

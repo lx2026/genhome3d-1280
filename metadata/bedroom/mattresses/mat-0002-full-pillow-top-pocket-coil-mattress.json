@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0002-full-pillow-top-pocket-coil-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0002-full-pillow-top-pocket-coil-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0002-full-pillow-top-pocket-coil-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0002-full-pillow-top-pocket-coil-mattress.usdz",
   "file_size_bytes": 1159715,
   "sha256": "95e9df25a866a0e3556c256be580666f1ec82b23d09e9a9c2961ffa028f4bd7d",

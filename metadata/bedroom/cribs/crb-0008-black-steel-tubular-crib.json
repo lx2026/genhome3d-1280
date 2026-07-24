@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0008-black-steel-tubular-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0008-black-steel-tubular-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0008-black-steel-tubular-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0008-black-steel-tubular-crib.usdz",
   "file_size_bytes": 1053571,
   "sha256": "8ce9fbbfce2d4c4b3781aea7ae3f1ceed7ecf83077c6adbe910da3e28b94a07a",

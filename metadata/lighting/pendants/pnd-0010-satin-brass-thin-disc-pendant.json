@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0010-satin-brass-thin-disc-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0010-satin-brass-thin-disc-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0010-satin-brass-thin-disc-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0010-satin-brass-thin-disc-pendant.usdz",
   "file_size_bytes": 743519,
   "sha256": "dcaf75239140609c3a1b45c0c48bf61267210a74a4e811ffbb37069243abfd79",

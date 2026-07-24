@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0017-satin-brass-arc-and-needle-spot-task-light.usdz",
   "file_size_bytes": 734339,
   "sha256": "ab1de24b07e3114147a5f89cc9295285f1ae8835f063faff00abdf4c3736e486",

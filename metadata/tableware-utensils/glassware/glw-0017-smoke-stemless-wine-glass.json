@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0017-smoke-stemless-wine-glass.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0017-smoke-stemless-wine-glass.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0017-smoke-stemless-wine-glass.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0017-smoke-stemless-wine-glass.usdz",
   "file_size_bytes": 189647,
   "sha256": "b9549233785b92dcb03a8295bbf2f480c2b5c69de10af33f65a922fffbb8e2a2",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0001-thin-brass-round-halo-mirror.usdz",
   "file_size_bytes": 715549,
   "sha256": "3b062b5eab8bbb4d38114f2ad33d1c4393900f26cad151d5de6e9b69b0097f20",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0015-breathable-crib-mesh-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0015-breathable-crib-mesh-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0015-breathable-crib-mesh-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0015-breathable-crib-mesh-mattress.usdz",
   "file_size_bytes": 1342417,
   "sha256": "db3b9dbafb656056e2f5a607142f727c821b09847f2595b7faf1b8c44fa02eb9",

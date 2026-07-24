@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0015-alabaster-six-disc-floor-vase.usdz",
   "preview": "previews/decor/vases/vas-0015-alabaster-six-disc-floor-vase.jpg",
+  "reference": "references/decor/vases/vas-0015-alabaster-six-disc-floor-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0015-alabaster-six-disc-floor-vase.usdz",
   "file_size_bytes": 826838,
   "sha256": "f3bc994540a895e15da9622b21c27b336f54181932470cacce18a0dd64112b43",

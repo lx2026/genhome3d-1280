@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0012-smoked-glass-three-drum-tier-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0012-smoked-glass-three-drum-tier-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0012-smoked-glass-three-drum-tier-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0012-smoked-glass-three-drum-tier-chandelier.usdz",
   "file_size_bytes": 832639,
   "sha256": "cc8bef4ddf016a334a4e9a806a97334e33c35194bdd4e56dddb8e1c583b088a3",

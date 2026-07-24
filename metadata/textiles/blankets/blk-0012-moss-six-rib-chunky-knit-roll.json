@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0012-moss-six-rib-chunky-knit-roll.usdz",
   "preview": "previews/textiles/blankets/blk-0012-moss-six-rib-chunky-knit-roll.jpg",
+  "reference": "references/textiles/blankets/blk-0012-moss-six-rib-chunky-knit-roll.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0012-moss-six-rib-chunky-knit-roll.usdz",
   "file_size_bytes": 1227927,
   "sha256": "981536786783d298087332d41494f0464fb081dc1a85898ef0de8d7f728fd446",

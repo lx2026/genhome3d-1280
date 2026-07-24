@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.usdz",
   "preview": "previews/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.jpg",
+  "reference": "references/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/nightstands/nst-0015-stackable-birch-open-cube-nightstand.usdz",
   "file_size_bytes": 525407,
   "sha256": "d0ebe2d56960ab1905fb513f18dec365893523fe31193613ae636c9371ead7de",

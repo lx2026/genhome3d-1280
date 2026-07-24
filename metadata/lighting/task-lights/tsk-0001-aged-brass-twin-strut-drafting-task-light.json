@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0001-aged-brass-twin-strut-drafting-task-light.usdz",
   "file_size_bytes": 719151,
   "sha256": "d2903e53c9dbe962540129658de09921ba26692399b1a4adfbe77443c4240904",

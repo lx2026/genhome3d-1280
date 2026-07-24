@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.usdz",
   "preview": "previews/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.jpg",
+  "reference": "references/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0018-black-wire-three-tier-corner-shower-caddy.usdz",
   "file_size_bytes": 405705,
   "sha256": "6dd6192b68bc1634f00eb96877cd223cf08b9a4f8e5a3fd90b4ac5499ef82e9b",

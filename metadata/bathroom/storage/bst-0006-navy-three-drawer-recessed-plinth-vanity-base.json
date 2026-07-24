@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.usdz",
   "preview": "previews/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.jpg",
+  "reference": "references/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0006-navy-three-drawer-recessed-plinth-vanity-base.usdz",
   "file_size_bytes": 522275,
   "sha256": "468244649db973c387ae1e3eb255a11f410e1dc5f9e52d7875dfd7bff827cc44",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0010-frosted-opal-oval-loop-vase.usdz",
   "preview": "previews/decor/vases/vas-0010-frosted-opal-oval-loop-vase.jpg",
+  "reference": "references/decor/vases/vas-0010-frosted-opal-oval-loop-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0010-frosted-opal-oval-loop-vase.usdz",
   "file_size_bytes": 613652,
   "sha256": "15752743d6f149e77aa46f0e8e2827b04ef7ed30ec97380802740840a5c0b86d",

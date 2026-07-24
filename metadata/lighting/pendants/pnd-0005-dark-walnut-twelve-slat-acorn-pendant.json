@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0005-dark-walnut-twelve-slat-acorn-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0005-dark-walnut-twelve-slat-acorn-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0005-dark-walnut-twelve-slat-acorn-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0005-dark-walnut-twelve-slat-acorn-pendant.usdz",
   "file_size_bytes": 1309192,
   "sha256": "7d287d6df41e33b5b7f40b823ea94651610bfa9939555b71a1a10b44a707e8b1",

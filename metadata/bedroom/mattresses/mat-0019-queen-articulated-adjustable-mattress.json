@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0019-queen-articulated-adjustable-mattress.usdz",
   "file_size_bytes": 727799,
   "sha256": "561aeaa0bcd5dda476abe3fbee90d10bde15f0f756a39226266017cd78d3e7ce",

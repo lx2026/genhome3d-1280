@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0016-chesterfield-club-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0016-chesterfield-club-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0016-chesterfield-club-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0016-chesterfield-club-armchair.usdz",
   "file_size_bytes": 993466,
   "sha256": "ad977d22eedd6dbd4baa39d8c018601049e97544caedee7d73cee49d25ac2868",

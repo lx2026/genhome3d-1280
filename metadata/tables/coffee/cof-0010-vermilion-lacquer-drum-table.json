@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0010-vermilion-lacquer-drum-table.usdz",
   "preview": "previews/tables/coffee/cof-0010-vermilion-lacquer-drum-table.jpg",
+  "reference": "references/tables/coffee/cof-0010-vermilion-lacquer-drum-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0010-vermilion-lacquer-drum-table.usdz",
   "file_size_bytes": 300764,
   "sha256": "47426ee4d8ac1f1bbe7f9be5a7fc977482dbbfca7923bd9b8d3942c8998d0224",

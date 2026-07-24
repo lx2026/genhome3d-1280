@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0008-french-cabriole-camelback-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0008-french-cabriole-camelback-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0008-french-cabriole-camelback-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0008-french-cabriole-camelback-sofa.usdz",
   "file_size_bytes": 1287669,
   "sha256": "6edcf76751fc528bdb9ae50ae9faf6139774caece25d0dc39f161dbcc6655d3a",

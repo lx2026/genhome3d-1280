@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.usdz",
   "preview": "previews/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.jpg",
+  "reference": "references/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/bakeware/bak-0008-blue-four-rib-handled-loaf-pan.usdz",
   "file_size_bytes": 486176,
   "sha256": "55a1976d46553ccba129b1afcfd1a7be56f1a6fcc92514690e49639ffdece75b",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.usdz",
   "preview": "previews/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.jpg",
+  "reference": "references/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0006-white-voile-fourteen-wave-sheer-pair.usdz",
   "file_size_bytes": 1101828,
   "sha256": "5dc993031774d477e908a1f7a44e82725e066423bed16c39b322128aaf3b1d23",

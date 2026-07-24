@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0017-terracotta-nine-coil-two-handle-vase.usdz",
   "preview": "previews/decor/vases/vas-0017-terracotta-nine-coil-two-handle-vase.jpg",
+  "reference": "references/decor/vases/vas-0017-terracotta-nine-coil-two-handle-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0017-terracotta-nine-coil-two-handle-vase.usdz",
   "file_size_bytes": 728142,
   "sha256": "510e1ac682221069d235ddc187d19f48ed36de5e7c16b11e36cf68b8d4eb252f",

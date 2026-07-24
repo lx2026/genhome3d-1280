@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0010-bronze-two-tier-wood-handle-steamer-pot.usdz",
   "file_size_bytes": 1204902,
   "sha256": "efd805e164a002db0ef7195aecdca2b198b896396e0a918f262f89c5035858ad",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0007-black-four-zone-induction-range.usdz",
   "preview": "previews/appliances/major-appliances/map-0007-black-four-zone-induction-range.jpg",
+  "reference": "references/appliances/major-appliances/map-0007-black-four-zone-induction-range.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0007-black-four-zone-induction-range.usdz",
   "file_size_bytes": 555297,
   "sha256": "b4403be2d76c80153461796d80e13b78ab49977bb93d32536e9cb27afa300086",

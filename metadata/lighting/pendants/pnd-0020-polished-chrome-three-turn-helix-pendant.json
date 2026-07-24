@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0020-polished-chrome-three-turn-helix-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0020-polished-chrome-three-turn-helix-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0020-polished-chrome-three-turn-helix-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0020-polished-chrome-three-turn-helix-pendant.usdz",
   "file_size_bytes": 868304,
   "sha256": "e3365782a7142717cf3cae809e849b40590ee8ad2dac2389e9eaf161078bcada",

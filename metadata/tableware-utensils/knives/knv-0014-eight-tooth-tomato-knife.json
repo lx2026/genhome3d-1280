@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0014-eight-tooth-tomato-knife.usdz",
   "file_size_bytes": 724665,
   "sha256": "9dd3f10878705304f23f1c5d1e781f233fa486ee29b5872763c7f7b8f19914f7",

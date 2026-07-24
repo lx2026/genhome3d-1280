@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0005-rattan-hourglass-drum-stool.usdz",
   "preview": "previews/seating/stools/stl-0005-rattan-hourglass-drum-stool.jpg",
+  "reference": "references/seating/stools/stl-0005-rattan-hourglass-drum-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0005-rattan-hourglass-drum-stool.usdz",
   "file_size_bytes": 1443311,
   "sha256": "206c55ba33cfd43665f805a5cf32d57a394f3341882744e930d6060965a4e155",

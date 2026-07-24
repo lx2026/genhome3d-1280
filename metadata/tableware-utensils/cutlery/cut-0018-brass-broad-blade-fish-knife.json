@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/cutlery/cut-0018-brass-broad-blade-fish-knife.usdz",
   "preview": "previews/tableware-utensils/cutlery/cut-0018-brass-broad-blade-fish-knife.jpg",
+  "reference": "references/tableware-utensils/cutlery/cut-0018-brass-broad-blade-fish-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0018-brass-broad-blade-fish-knife.usdz",
   "file_size_bytes": 418489,
   "sha256": "dc25ecfdfc5cd3792c80332086657b78289f45a213f1fa047899bb935652f8a9",

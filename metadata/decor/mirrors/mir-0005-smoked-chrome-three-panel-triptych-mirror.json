@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0005-smoked-chrome-three-panel-triptych-mirror.usdz",
   "file_size_bytes": 709730,
   "sha256": "005b4160ef17f0571ae778f654e303985dbf2c0bd1841e28308c5da3a353d8b2",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0017-brushed-nickel-five-tube-organ-sconce.usdz",
   "file_size_bytes": 705616,
   "sha256": "568f1c0a97d5efbc08ee4d8dbb7a743d57ea764b178a5115b13af7094d792a32",

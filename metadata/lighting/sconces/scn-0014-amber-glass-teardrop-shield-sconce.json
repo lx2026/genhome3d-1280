@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0014-amber-glass-teardrop-shield-sconce.usdz",
   "file_size_bytes": 796033,
   "sha256": "3d866eecabef7eeb8b0468ca70fe9ad7eb3802e0157a574263a2bbdf74c82734",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.usdz",
   "preview": "previews/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.jpg",
+  "reference": "references/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0004-stainless-two-beater-hand-mixer.usdz",
   "file_size_bytes": 616960,
   "sha256": "8a2522a3dc60b544f5592d2b80fc6180766574f1afaa8cd9a6c0da7ec346de5c",

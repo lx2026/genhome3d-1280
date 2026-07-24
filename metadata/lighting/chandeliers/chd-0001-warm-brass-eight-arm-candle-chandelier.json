@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0001-warm-brass-eight-arm-candle-chandelier.usdz",
   "file_size_bytes": 846113,
   "sha256": "023276d1514d7ab5cf42a140c9e9210ecf49ec5f013cb7c3e3fc4b53b1a073e3",

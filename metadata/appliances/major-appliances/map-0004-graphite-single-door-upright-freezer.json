@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.usdz",
   "preview": "previews/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.jpg",
+  "reference": "references/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0004-graphite-single-door-upright-freezer.usdz",
   "file_size_bytes": 503605,
   "sha256": "012abc513886e59a867a4206e76491eab603ff40379ee538d1df38c59ce939fe",

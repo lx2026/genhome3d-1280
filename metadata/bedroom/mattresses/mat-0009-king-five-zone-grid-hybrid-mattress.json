@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0009-king-five-zone-grid-hybrid-mattress.usdz",
   "file_size_bytes": 1178302,
   "sha256": "d007b6f1d8ebfb843a9397afb6e796bd89cc5ee85402b15f2742eb8f62a508c3",

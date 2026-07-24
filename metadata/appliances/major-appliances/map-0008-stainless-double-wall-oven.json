@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0008-stainless-double-wall-oven.usdz",
   "preview": "previews/appliances/major-appliances/map-0008-stainless-double-wall-oven.jpg",
+  "reference": "references/appliances/major-appliances/map-0008-stainless-double-wall-oven.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0008-stainless-double-wall-oven.usdz",
   "file_size_bytes": 629872,
   "sha256": "3b7b7f8e81d193652ff81cb0f7b9c9eb90e90750b6e52f12c52b8f78c494d6a5",

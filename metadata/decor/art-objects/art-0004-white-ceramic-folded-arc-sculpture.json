@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0004-white-ceramic-folded-arc-sculpture.usdz",
   "file_size_bytes": 287050,
   "sha256": "fa8b068fcd389fc6f2f86160890ff308e906eba97a7c15967e2c4d50bc7ad11c",

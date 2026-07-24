@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0005-blue-six-scallop-nakiri.usdz",
   "file_size_bytes": 575419,
   "sha256": "824b1f89531b18baa1d185c532197fe9efa8ea80e44d250ac37e21e220c0f22d",

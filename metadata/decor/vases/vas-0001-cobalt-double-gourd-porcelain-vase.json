@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0001-cobalt-double-gourd-porcelain-vase.usdz",
   "preview": "previews/decor/vases/vas-0001-cobalt-double-gourd-porcelain-vase.jpg",
+  "reference": "references/decor/vases/vas-0001-cobalt-double-gourd-porcelain-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0001-cobalt-double-gourd-porcelain-vase.usdz",
   "file_size_bytes": 360213,
   "sha256": "23f7c23f6c286180adb6b74d21aa5694f9f63c595bb580b52987863b6e375cc9",

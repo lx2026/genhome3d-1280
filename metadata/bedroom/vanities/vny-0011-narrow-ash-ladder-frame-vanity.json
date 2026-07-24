@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.usdz",
   "preview": "previews/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.jpg",
+  "reference": "references/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0011-narrow-ash-ladder-frame-vanity.usdz",
   "file_size_bytes": 689438,
   "sha256": "211d0a9bfbdb889341ff47130ec99f808488746666613a87ad8ea3e818710ac7",

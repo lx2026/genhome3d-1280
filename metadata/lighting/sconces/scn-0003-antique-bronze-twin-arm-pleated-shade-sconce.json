@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0003-antique-bronze-twin-arm-pleated-shade-sconce.usdz",
   "file_size_bytes": 1012515,
   "sha256": "41a1268513bc8015173462a153f81aa6177cb7656cdd1f9fce736283590c3072",

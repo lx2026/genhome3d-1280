@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0010-color-blocked-modular-task-chair.usdz",
   "preview": "previews/office/office-chairs/och-0010-color-blocked-modular-task-chair.jpg",
+  "reference": "references/office/office-chairs/och-0010-color-blocked-modular-task-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0010-color-blocked-modular-task-chair.usdz",
   "file_size_bytes": 728720,
   "sha256": "ade806bd3da1626b0d3904fb1371a25f95d03664014d19819336934b1bddcff1",

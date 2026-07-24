@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0001-aged-brass-bell-pump-soap-dispenser.usdz",
   "preview": "previews/bathroom/accessories/bac-0001-aged-brass-bell-pump-soap-dispenser.jpg",
+  "reference": "references/bathroom/accessories/bac-0001-aged-brass-bell-pump-soap-dispenser.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0001-aged-brass-bell-pump-soap-dispenser.usdz",
   "file_size_bytes": 535271,
   "sha256": "d745e065b4350310d3e82dcde9cc59f62ef6d9f62fec88dfec19f3130184839f",

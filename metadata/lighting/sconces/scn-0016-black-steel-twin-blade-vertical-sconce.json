@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0016-black-steel-twin-blade-vertical-sconce.usdz",
   "file_size_bytes": 388073,
   "sha256": "ceff69221c1a37020d17ae03b6411136adfe7ab151c7340d3c4891d92ddf8e45",

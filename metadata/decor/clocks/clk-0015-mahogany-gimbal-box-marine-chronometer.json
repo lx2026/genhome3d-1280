@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0015-mahogany-gimbal-box-marine-chronometer.usdz",
   "preview": "previews/decor/clocks/clk-0015-mahogany-gimbal-box-marine-chronometer.jpg",
+  "reference": "references/decor/clocks/clk-0015-mahogany-gimbal-box-marine-chronometer.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0015-mahogany-gimbal-box-marine-chronometer.usdz",
   "file_size_bytes": 1402064,
   "sha256": "a5761c0d9e4c8ce84aa9252acf4022ca622af8ff6c9f9f480e7290f8da5c79e6",

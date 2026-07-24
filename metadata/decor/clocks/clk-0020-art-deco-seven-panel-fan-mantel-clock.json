@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.usdz",
   "preview": "previews/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.jpg",
+  "reference": "references/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0020-art-deco-seven-panel-fan-mantel-clock.usdz",
   "file_size_bytes": 878546,
   "sha256": "4769fea28e64669917f71752274f918446cf7bd869a6f12e126d17f41ed55505",

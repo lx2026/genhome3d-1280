@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0002-cream-black-rim-enamel-kettle.usdz",
   "file_size_bytes": 942245,
   "sha256": "70e6e7f3fc116b3653510559bfcd48ee2286bddf28fe13536dda6f0057b7b287",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0003-shaker-maple-tavern-table.usdz",
   "preview": "previews/tables/bar/bar-0003-shaker-maple-tavern-table.jpg",
+  "reference": "references/tables/bar/bar-0003-shaker-maple-tavern-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0003-shaker-maple-tavern-table.usdz",
   "file_size_bytes": 327710,
   "sha256": "e9ea562b802eb28a7db30e757d6daf1243daa9e82357c33d2757178601177567",

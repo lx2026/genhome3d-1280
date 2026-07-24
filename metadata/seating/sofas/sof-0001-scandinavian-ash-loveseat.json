@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0001-scandinavian-ash-loveseat.usdz",
   "preview": "previews/seating/sofas/sof-0001-scandinavian-ash-loveseat.jpg",
+  "reference": "references/seating/sofas/sof-0001-scandinavian-ash-loveseat.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0001-scandinavian-ash-loveseat.usdz",
   "file_size_bytes": 840271,
   "sha256": "467e2c9fa84f25c7c843fa6aeeda3dd04156e7e2948e7908231573cc9f22db57",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0010-burgundy-nine-button-chesterfield-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0010-burgundy-nine-button-chesterfield-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0010-burgundy-nine-button-chesterfield-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0010-burgundy-nine-button-chesterfield-cushion.usdz",
   "file_size_bytes": 922081,
   "sha256": "dca352422528e1c377afbfd25e88df9c9f6d944c930a0b60b32275e55f692759",

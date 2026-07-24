@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0007-white-aluminum-twin-halo-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0007-white-aluminum-twin-halo-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0007-white-aluminum-twin-halo-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0007-white-aluminum-twin-halo-pendant.usdz",
   "file_size_bytes": 805097,
   "sha256": "deeb0b9388263df78a6282f1e0a316c20b6c6141faecc2a2a79e15d59ee3b4b7",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.usdz",
   "preview": "previews/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.jpg",
+  "reference": "references/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/knives/knv-0006-twelve-tooth-bread-knife.usdz",
   "file_size_bytes": 612429,
   "sha256": "a6521caf6c455ffab823ab58a2e9e7cde8acd420c83773f590d880e988285534",

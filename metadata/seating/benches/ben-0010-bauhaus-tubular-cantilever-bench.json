@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.usdz",
   "preview": "previews/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.jpg",
+  "reference": "references/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0010-bauhaus-tubular-cantilever-bench.usdz",
   "file_size_bytes": 875345,
   "sha256": "72561f4f5f347748872b7174a2ba9ab6e0597b3e76e9baf5706dd5c9e5a948b4",

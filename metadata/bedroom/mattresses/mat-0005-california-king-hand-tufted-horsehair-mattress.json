@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0005-california-king-hand-tufted-horsehair-mattress.usdz",
   "file_size_bytes": 911032,
   "sha256": "ffdbfd8153bbf29a0251debe2a0dc403bdb9e567caba8f7878a0237c142ef4bd",

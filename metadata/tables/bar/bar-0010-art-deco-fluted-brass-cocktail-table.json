@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0010-art-deco-fluted-brass-cocktail-table.usdz",
   "preview": "previews/tables/bar/bar-0010-art-deco-fluted-brass-cocktail-table.jpg",
+  "reference": "references/tables/bar/bar-0010-art-deco-fluted-brass-cocktail-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0010-art-deco-fluted-brass-cocktail-table.usdz",
   "file_size_bytes": 768869,
   "sha256": "052e0b4ac1535f46d03a5d47f687acf7bb3e966cc5f6e00f01e79d0ee44d52ca",

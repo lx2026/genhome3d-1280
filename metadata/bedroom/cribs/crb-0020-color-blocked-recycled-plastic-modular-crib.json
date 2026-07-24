@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0020-color-blocked-recycled-plastic-modular-crib.usdz",
   "file_size_bytes": 2444965,
   "sha256": "0a704fcaa924caaa32c61191134527ed5fdbb1c8d82cfee4f5abaf9dc4e68417",

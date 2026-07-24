@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.usdz",
   "preview": "previews/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.jpg",
+  "reference": "references/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/cabinets-storage/cabinets/cab-0006-mid-century-walnut-bar-cabinet.usdz",
   "file_size_bytes": 866791,
   "sha256": "2296652f9cc12d3cb0371b30d7bcfca422f907e2ad700ad9de4c4547371c5a95",

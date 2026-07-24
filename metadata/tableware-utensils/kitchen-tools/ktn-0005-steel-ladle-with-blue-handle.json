@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.usdz",
   "preview": "previews/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.jpg",
+  "reference": "references/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0005-steel-ladle-with-blue-handle.usdz",
   "file_size_bytes": 631063,
   "sha256": "9d9499c16a3b4c9dfe31e9eb967fa87882ae70d47fa05fc8540680405d040007",

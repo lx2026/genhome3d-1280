@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.usdz",
   "preview": "previews/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.jpg",
+  "reference": "references/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0016-teak-slatted-outdoor-bar-table.usdz",
   "file_size_bytes": 458075,
   "sha256": "d3719de6b6967efca814e96bcd022cf01fceb23b997f9426a3f1af923ea29d94",

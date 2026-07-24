@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0013-coastal-rattan-peacock-armchair.usdz",
   "file_size_bytes": 1643747,
   "sha256": "447df3e84292ebfe03cb27087d792e60af7024711f72efab2dcd678a7aa75a05",

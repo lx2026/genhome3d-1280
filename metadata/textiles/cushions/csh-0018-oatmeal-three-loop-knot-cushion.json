@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0018-oatmeal-three-loop-knot-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0018-oatmeal-three-loop-knot-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0018-oatmeal-three-loop-knot-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0018-oatmeal-three-loop-knot-cushion.usdz",
   "file_size_bytes": 1443686,
   "sha256": "8fb27905d295cfcf9e3d8df15cbed59e54e812e57b9cca3438ba010b3271014d",

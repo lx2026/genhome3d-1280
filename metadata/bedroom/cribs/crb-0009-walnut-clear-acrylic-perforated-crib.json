@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0009-walnut-clear-acrylic-perforated-crib.usdz",
   "file_size_bytes": 1072560,
   "sha256": "cfd99e46be9a78b3dabb569a2957c85d9873f0093df992478c66124e55626b08",

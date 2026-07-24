@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0017-brass-oval-canopy-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0017-brass-oval-canopy-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0017-brass-oval-canopy-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0017-brass-oval-canopy-crib.usdz",
   "file_size_bytes": 1835097,
   "sha256": "bfe5d61daa4c29ba8e0b9125b359545272badd3a02f998a99d30163696229e1b",

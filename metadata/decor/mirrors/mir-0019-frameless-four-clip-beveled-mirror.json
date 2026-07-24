@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0019-frameless-four-clip-beveled-mirror.usdz",
   "file_size_bytes": 862945,
   "sha256": "55fc449ca4f91257c05de4e03d1921cd29ad1e5c443bb36565a92dae8f8b70ae",

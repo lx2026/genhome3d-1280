@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0020-travertine-plinth-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0020-travertine-plinth-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0020-travertine-plinth-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0020-travertine-plinth-sofa.usdz",
   "file_size_bytes": 1291110,
   "sha256": "cbdc664625c9ed2fcc7aacac83366b9613a62fa55ef9c7fe59e5aadf72c8b17c",

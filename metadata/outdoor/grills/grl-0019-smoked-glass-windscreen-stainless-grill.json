@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.usdz",
   "preview": "previews/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.jpg",
+  "reference": "references/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0019-smoked-glass-windscreen-stainless-grill.usdz",
   "file_size_bytes": 625412,
   "sha256": "85e4e5059045b2453866666fb14f84de780d127aef5647b74ed0546aa6fe1a0c",

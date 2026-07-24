@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0002-shaker-maple-milking-stool.usdz",
   "preview": "previews/seating/stools/stl-0002-shaker-maple-milking-stool.jpg",
+  "reference": "references/seating/stools/stl-0002-shaker-maple-milking-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0002-shaker-maple-milking-stool.usdz",
   "file_size_bytes": 354475,
   "sha256": "3a3d2b7accba36bf75a7f98793b5b3088467468e49dbc676eec8744d07f19141",

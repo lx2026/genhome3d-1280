@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0004-verdigris-brass-five-leaf-uplight-sconce.usdz",
   "file_size_bytes": 745057,
   "sha256": "b45a3c236118b753b25ec64c53f4a033d2de7fd4d3496e5618551868316b3f8a",

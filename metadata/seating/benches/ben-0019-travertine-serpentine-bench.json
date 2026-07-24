@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0019-travertine-serpentine-bench.usdz",
   "preview": "previews/seating/benches/ben-0019-travertine-serpentine-bench.jpg",
+  "reference": "references/seating/benches/ben-0019-travertine-serpentine-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0019-travertine-serpentine-bench.usdz",
   "file_size_bytes": 547000,
   "sha256": "3042c1198f40fd687f4f812db0a0ddafd210c9de9fe68dade22732b634651834",

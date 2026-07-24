@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0019-perforated-aluminum-ribbon-sofa.usdz",
   "file_size_bytes": 906510,
   "sha256": "a3986a803d67b704e73930a43f1162f10f8cd7b1b26b9ee23860f414f4566b8c",

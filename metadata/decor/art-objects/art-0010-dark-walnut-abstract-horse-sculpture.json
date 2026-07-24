@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0010-dark-walnut-abstract-horse-sculpture.usdz",
   "file_size_bytes": 517619,
   "sha256": "5a6ae69c4deea7a6f89930ef3e64498b31324a9fd0396eea98c670da1e5a767e",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0018-walnut-reading-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0018-walnut-reading-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0018-walnut-reading-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0018-walnut-reading-armchair.usdz",
   "file_size_bytes": 1248285,
   "sha256": "a8ab4b3369027a3923432d503fa979604cc257eca77221cd7ac56a2841e3e8c3",

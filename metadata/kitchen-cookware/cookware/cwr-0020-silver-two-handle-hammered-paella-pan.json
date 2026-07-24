@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0020-silver-two-handle-hammered-paella-pan.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0020-silver-two-handle-hammered-paella-pan.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0020-silver-two-handle-hammered-paella-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0020-silver-two-handle-hammered-paella-pan.usdz",
   "file_size_bytes": 1094730,
   "sha256": "d79b5c0d9edc484fafba5dbec365591230a0324d6d07551e2f588ae16da0d986",

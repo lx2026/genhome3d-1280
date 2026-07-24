@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0018-mixed-metal-triple-orbit-clock.usdz",
   "preview": "previews/decor/clocks/clk-0018-mixed-metal-triple-orbit-clock.jpg",
+  "reference": "references/decor/clocks/clk-0018-mixed-metal-triple-orbit-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0018-mixed-metal-triple-orbit-clock.usdz",
   "file_size_bytes": 1698651,
   "sha256": "17d2ee0b26faf1400df302d9b7495a6c86aab80a352064fc740c59da72cc063e",

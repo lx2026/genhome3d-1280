@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0017-blackened-steel-sixteen-light-double-helix-chandelier.usdz",
   "file_size_bytes": 1033624,
   "sha256": "e4d5a684e1a092ecbf5a6fd8d0ae2a57b440659d601e0ad6452c51620467d7d2",

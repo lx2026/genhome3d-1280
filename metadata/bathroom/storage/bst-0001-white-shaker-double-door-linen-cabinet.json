@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.usdz",
   "preview": "previews/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.jpg",
+  "reference": "references/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0001-white-shaker-double-door-linen-cabinet.usdz",
   "file_size_bytes": 429619,
   "sha256": "93547c07ae5c0502fe53e4de6225798e5a5101b2a336df86984a3bfd4f337534",

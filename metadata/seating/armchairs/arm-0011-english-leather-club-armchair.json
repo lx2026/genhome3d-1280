@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0011-english-leather-club-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0011-english-leather-club-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0011-english-leather-club-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0011-english-leather-club-armchair.usdz",
   "file_size_bytes": 951977,
   "sha256": "2fea62a12c4db4864341dc54c54d04134ae01f8dc3742f7c6423298b5ad279af",

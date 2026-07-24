@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0002-walnut-single-hole-paddle-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0002-walnut-single-hole-paddle-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0002-walnut-single-hole-paddle-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0002-walnut-single-hole-paddle-board.usdz",
   "file_size_bytes": 566667,
   "sha256": "3ccc798184734c4a09b712ae44c297a3d28737e78a2461be15761ce00f3a6df2",

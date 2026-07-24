@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0016-raku-offset-slit-mouth-vase.usdz",
   "preview": "previews/decor/vases/vas-0016-raku-offset-slit-mouth-vase.jpg",
+  "reference": "references/decor/vases/vas-0016-raku-offset-slit-mouth-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0016-raku-offset-slit-mouth-vase.usdz",
   "file_size_bytes": 548863,
   "sha256": "61a26dd7f33a6386b2218e3b9ee2f27374ebd89ed3d68b46618d01e6a6280c6d",

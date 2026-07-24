@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0006-black-glass-carafe-drip-coffee-maker.usdz",
   "preview": "previews/appliances/small-appliances/sap-0006-black-glass-carafe-drip-coffee-maker.jpg",
+  "reference": "references/appliances/small-appliances/sap-0006-black-glass-carafe-drip-coffee-maker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0006-black-glass-carafe-drip-coffee-maker.usdz",
   "file_size_bytes": 833199,
   "sha256": "744ff3609faa24c17eab7a8451644e8ee92586752f0676d690434a764932b6c3",

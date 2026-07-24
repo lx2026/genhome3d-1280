@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/grills/grl-0016-corten-hinged-hemisphere-sphere-grill.usdz",
   "preview": "previews/outdoor/grills/grl-0016-corten-hinged-hemisphere-sphere-grill.jpg",
+  "reference": "references/outdoor/grills/grl-0016-corten-hinged-hemisphere-sphere-grill.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/grills/grl-0016-corten-hinged-hemisphere-sphere-grill.usdz",
   "file_size_bytes": 327514,
   "sha256": "92a02163844b695c3edcf3165fa532378ee58cc45e76c85fa0267409eec8ee14",

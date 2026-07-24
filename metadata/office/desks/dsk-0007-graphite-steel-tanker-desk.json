@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0007-graphite-steel-tanker-desk.usdz",
   "preview": "previews/office/desks/dsk-0007-graphite-steel-tanker-desk.jpg",
+  "reference": "references/office/desks/dsk-0007-graphite-steel-tanker-desk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0007-graphite-steel-tanker-desk.usdz",
   "file_size_bytes": 415566,
   "sha256": "b7ed794fcce7c97c6c04c86d1680cfb6c5429c6998413ce0a92023587dec5ab8",

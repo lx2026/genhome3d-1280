@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0019-white-porcelain-pebble-pair-clock.usdz",
   "preview": "previews/decor/clocks/clk-0019-white-porcelain-pebble-pair-clock.jpg",
+  "reference": "references/decor/clocks/clk-0019-white-porcelain-pebble-pair-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0019-white-porcelain-pebble-pair-clock.usdz",
   "file_size_bytes": 810835,
   "sha256": "52d2f1527f6de135f7500e87ef88dc9ed7c503550a15a63eb5d984936b656729",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0014-navy-domed-lid-shallow-braiser.usdz",
   "file_size_bytes": 1011189,
   "sha256": "0cfd6bba9d996b1e6f07bf1f063b6a944117195ba71e513c36ca0bfc309c9919",

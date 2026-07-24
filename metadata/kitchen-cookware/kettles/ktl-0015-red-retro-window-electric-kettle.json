@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0015-red-retro-window-electric-kettle.usdz",
   "file_size_bytes": 1408064,
   "sha256": "cbb623640c6493d8af038a11e217e2e51a0f088a3efb055d650504a914518761",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0020-blackened-three-band-campfire-kettle.usdz",
   "file_size_bytes": 932786,
   "sha256": "656b8059630ee4ff37bfaf390f9053fdff854010b37257305a315a6d17ce76c8",

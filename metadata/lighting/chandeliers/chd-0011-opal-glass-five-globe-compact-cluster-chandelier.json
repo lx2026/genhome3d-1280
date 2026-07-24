@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0011-opal-glass-five-globe-compact-cluster-chandelier.usdz",
   "file_size_bytes": 725202,
   "sha256": "1a5e36d891dc9c7cd4c4944b5e45581ab715dedba6237f5efd6cb2e486cfd29e",

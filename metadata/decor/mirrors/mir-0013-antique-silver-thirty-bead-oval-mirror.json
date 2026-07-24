@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0013-antique-silver-thirty-bead-oval-mirror.usdz",
   "file_size_bytes": 782567,
   "sha256": "8ceb23a0fe8aac42c1c26f5cb214a69fd227889b7a77ac2e93709521577b170b",

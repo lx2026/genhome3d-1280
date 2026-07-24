@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0006-smoked-glass-long-neck-teardrop-vase.usdz",
   "preview": "previews/decor/vases/vas-0006-smoked-glass-long-neck-teardrop-vase.jpg",
+  "reference": "references/decor/vases/vas-0006-smoked-glass-long-neck-teardrop-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0006-smoked-glass-long-neck-teardrop-vase.usdz",
   "file_size_bytes": 272454,
   "sha256": "b646042d6531e2915f7f5cc23d4d2735ba6541eda2899043c793509aacfbac11",

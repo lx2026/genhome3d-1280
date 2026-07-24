@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.usdz",
   "preview": "previews/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.jpg",
+  "reference": "references/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0013-sage-sit-stand-leaning-stool.usdz",
   "file_size_bytes": 1013795,
   "sha256": "4c833329087a6903669a4e4a8c18720718329edb746ada96ad02f5ad1cec60a8",

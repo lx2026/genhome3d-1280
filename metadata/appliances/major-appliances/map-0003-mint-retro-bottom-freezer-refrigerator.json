@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.usdz",
   "preview": "previews/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.jpg",
+  "reference": "references/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0003-mint-retro-bottom-freezer-refrigerator.usdz",
   "file_size_bytes": 758082,
   "sha256": "ea6f28e28a537b57f2feb36b5cce1d5636eed998fedab08dfca1a0cb0cff92b9",

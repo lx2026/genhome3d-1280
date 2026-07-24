@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0003-white-porcelain-sixteen-rib-trumpet-vase.usdz",
   "preview": "previews/decor/vases/vas-0003-white-porcelain-sixteen-rib-trumpet-vase.jpg",
+  "reference": "references/decor/vases/vas-0003-white-porcelain-sixteen-rib-trumpet-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0003-white-porcelain-sixteen-rib-trumpet-vase.usdz",
   "file_size_bytes": 570336,
   "sha256": "a175d6b547753d78944335d070bac6bf50e0746f925a216bfa16360582c85397",

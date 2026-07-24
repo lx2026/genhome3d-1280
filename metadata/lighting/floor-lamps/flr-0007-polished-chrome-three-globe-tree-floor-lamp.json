@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.usdz",
   "preview": "previews/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.jpg",
+  "reference": "references/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0007-polished-chrome-three-globe-tree-floor-lamp.usdz",
   "file_size_bytes": 773552,
   "sha256": "c8a04d9b12b66f3af95370a48be67917fe70b9f745112a7d73b96ff803d50211",

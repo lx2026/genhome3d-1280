@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0004-french-walnut-wine-table.usdz",
   "preview": "previews/tables/bar/bar-0004-french-walnut-wine-table.jpg",
+  "reference": "references/tables/bar/bar-0004-french-walnut-wine-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0004-french-walnut-wine-table.usdz",
   "file_size_bytes": 792714,
   "sha256": "21c846b6529e4a5834cdb0603f312aaebc08bdbc31cd5c7a82a939fbe2da42dd",

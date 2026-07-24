@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="GenHome3D-1280 is an open collection of 1,280 validated USDZ household assets across 64 categories."
+      content="GenHome3D-1280 is an open benchmark showing how an AI-assisted pipeline draws and constructs 1,280 household objects in 3D."
     />
     <meta name="theme-color" content="#17352e" />
     <meta property="og:title" content="GenHome3D-1280" />
     <meta
       property="og:description"
-      content="1,280 validated USDZ assets for spatial prototyping, simulation, and research."
+      content="A benchmark of how AI draws and constructs 1,280 everyday household objects in 3D."
     />
     <meta property="og:type" content="website" />
     <title>GenHome3D-1280 — Open USDZ Asset Collection</title>
@@ -48,14 +48,15 @@
     <main id="top">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
-          <p class="eyebrow"><span></span> Open 3D asset collection · v1.0</p>
+          <p class="eyebrow"><span></span> Open 3D benchmark · v1.0</p>
           <h1 id="hero-title">
-            Built for rooms.<br />
-            <em>Ready for spaces.</em>
+            How AI draws<br />
+            <em>the everyday.</em>
           </h1>
           <p class="hero-intro">
-            A carefully structured collection of 1,280 household objects in USDZ—each
-            generated, packaged, and reviewed through the same reproducible pipeline.
+            A benchmark of how one AI-assisted pipeline draws and constructs 1,280
+            household objects in 3D. Compare each original AI reference with the
+            generated object, including the mistakes.
           </p>
           <div class="hero-actions">
             <a class="button button-primary" href="#library">Explore the collection</a>
@@ -88,7 +89,7 @@
       </section>
 
       <section class="metrics" aria-label="Dataset summary">
-        <div><strong data-stat="assets">1,280</strong><span>validated assets</span></div>
+        <div><strong data-stat="assets">1,280</strong><span>generated attempts</span></div>
         <div><strong data-stat="categories">64</strong><span>focused categories</span></div>
         <div><strong>20</strong><span>assets per category</span></div>
         <div><strong>USDZ</strong><span>portable delivery format</span></div>
@@ -97,12 +98,12 @@
       <section class="library" id="library" aria-labelledby="library-title">
         <div class="section-heading">
           <div>
-            <p class="eyebrow"><span></span> The library</p>
-            <h2 id="library-title">Find the piece your space needs.</h2>
+            <p class="eyebrow"><span></span> The benchmark</p>
+            <h2 id="library-title">Inspect every attempt.</h2>
           </div>
           <p>
-            Search by name or asset ID, narrow by category, rotate any object in 3D,
-            and download the original USDZ directly from GitHub.
+            Search by name or asset ID, compare the reference and result side by side,
+            rotate the object in 3D, and share a direct link to any attempt.
           </p>
         </div>
 
@@ -133,12 +134,13 @@
 
       <section class="method" id="method" aria-labelledby="method-title">
         <div class="method-lead">
-          <p class="eyebrow light"><span></span> One shared contract</p>
-          <h2 id="method-title">A dataset is only useful when its rules are visible.</h2>
+          <p class="eyebrow light"><span></span> One repeatable experiment</p>
+          <h2 id="method-title">The recipe is part of the benchmark.</h2>
           <p>
             Every asset follows a fixed production path—from authored dimensions and a
-            generated design reference to Blender construction, USDZ sealing, and
-            evidence-bound review.
+            generated design reference to Blender construction and USDZ packaging.
+            Codex also performed the visual review, so the review scores are AI output,
+            not human curation.
           </p>
           <a href="https://github.com/lx2026/genhome3d-1280/blob/main/METHOD.md">
             Read the full generation method <span aria-hidden="true">↗</span>
@@ -148,14 +150,14 @@
           <li><span>01</span><div><strong>Specify</strong><p>Stable IDs, metric dimensions, topology constraints, and category coverage.</p></div></li>
           <li><span>02</span><div><strong>Generate</strong><p>AI-assisted references and procedural Blender construction with authored materials.</p></div></li>
           <li><span>03</span><div><strong>Package</strong><p>Self-contained USDZ delivery with texture, stage, bounds, and archive checks.</p></div></li>
-          <li><span>04</span><div><strong>Review</strong><p>Seven visual criteria, technical evidence seals, and collection-level regression tests.</p></div></li>
+          <li><span>04</span><div><strong>Compare</strong><p>Reference and result shown side by side, with technical checks and known visual failures left visible.</p></div></li>
         </ol>
       </section>
 
       <section class="license-band" aria-label="License and compatibility information">
         <div>
-          <p class="eyebrow"><span></span> Use it well</p>
-          <h2>Open enough to build on.<br />Documented enough to trust.</h2>
+          <p class="eyebrow"><span></span> Read the result carefully</p>
+          <h2>A benchmark,<br />not a furniture catalog.</h2>
         </div>
         <div class="license-copy">
           <p>
@@ -163,8 +165,9 @@
             and link to the repository when you redistribute or adapt them.
           </p>
           <p>
-            Packages are structurally validated for USDZ workflows. Apple Vision Pro
-            on-device review remains pending and is not implied by this release.
+            Automated checks cover USDZ structure, scale, bounds, placement, textures,
+            and checksums. They do not mean an object is correct, realistic, safe, or
+            production-ready. Apple Vision Pro on-device review remains pending.
           </p>
         </div>
       </section>
@@ -188,7 +191,7 @@
       <div class="viewer-shell">
         <header class="viewer-header">
           <div>
-            <p class="viewer-kicker">Interactive USDZ preview</p>
+            <p class="viewer-kicker">Original AI reference + generated 3D</p>
             <h2 id="viewer-title">3D asset</h2>
           </div>
           <button class="viewer-close" id="viewer-close" type="button" aria-label="Close 3D viewer">
@@ -196,23 +199,40 @@
           </button>
         </header>
 
-        <div class="viewer-stage" id="viewer-stage">
-          <img class="viewer-poster" id="viewer-poster" alt="" />
-          <canvas
-            id="viewer-canvas"
-            aria-label="Interactive 3D model. Drag to rotate and scroll or pinch to zoom."
-          ></canvas>
-          <div class="viewer-status" id="viewer-status" role="status" aria-live="polite">
-            <span class="viewer-spinner" aria-hidden="true"></span>
-            <strong id="viewer-status-title">Preparing 3D preview</strong>
-            <small id="viewer-status-detail">The model loads only when requested.</small>
-          </div>
-          <p class="viewer-hint">Drag to rotate · Scroll or pinch to zoom</p>
+        <div class="viewer-comparison">
+          <section class="viewer-panel" aria-labelledby="viewer-result-label">
+            <p class="viewer-panel-label" id="viewer-result-label">Generated 3D result</p>
+            <div class="viewer-stage" id="viewer-stage">
+              <img class="viewer-poster" id="viewer-poster" alt="" />
+              <canvas
+                id="viewer-canvas"
+                aria-label="Interactive 3D model. Drag to rotate and scroll or pinch to zoom."
+              ></canvas>
+              <div class="viewer-status" id="viewer-status" role="status" aria-live="polite">
+                <span class="viewer-spinner" aria-hidden="true"></span>
+                <strong id="viewer-status-title">Preparing 3D preview</strong>
+                <small id="viewer-status-detail">The model loads only when requested.</small>
+              </div>
+              <p class="viewer-hint">Drag to rotate · Scroll or pinch to zoom</p>
+            </div>
+          </section>
+          <section class="viewer-panel viewer-reference-panel" aria-labelledby="viewer-reference-label">
+            <p class="viewer-panel-label" id="viewer-reference-label">Original AI reference</p>
+            <div class="viewer-reference-stage">
+              <img id="viewer-reference" alt="" />
+            </div>
+          </section>
         </div>
 
         <footer class="viewer-footer">
           <p id="viewer-meta"></p>
           <div class="viewer-actions">
+            <button class="button button-secondary" id="viewer-background" type="button">
+              Dark background
+            </button>
+            <button class="button button-secondary" id="viewer-copy-link" type="button">
+              Copy object link
+            </button>
             <button class="button button-secondary" id="viewer-reset" type="button">
               Reset view
             </button>
@@ -233,8 +253,8 @@
             <span aria-hidden="true">↓</span>
           </a>
           <button class="asset-view" type="button">
-            <span aria-hidden="true">↻</span>
-            View in 3D
+            <span class="visually-hidden">Open interactive 3D comparison</span>
+            <span class="asset-view-cue" aria-hidden="true">3D ↻</span>
           </button>
         </div>
         <div class="asset-body">

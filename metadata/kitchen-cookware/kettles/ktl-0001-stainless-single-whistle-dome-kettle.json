@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0001-stainless-single-whistle-dome-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0001-stainless-single-whistle-dome-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0001-stainless-single-whistle-dome-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0001-stainless-single-whistle-dome-kettle.usdz",
   "file_size_bytes": 890857,
   "sha256": "3d1a8734754956c7800a21bb2fd317b4eab4a6a0a0d774248fb87fd0e004c2da",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.usdz",
   "preview": "previews/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.jpg",
+  "reference": "references/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0020-black-two-brush-robot-vacuum.usdz",
   "file_size_bytes": 614147,
   "sha256": "4bcef8d1c296cf123c8fedc37c950cc38704049bf4d64f77e7c4b9f137e8f353",

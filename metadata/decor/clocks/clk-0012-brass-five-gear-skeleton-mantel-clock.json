@@ -39,6 +39,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0012-brass-five-gear-skeleton-mantel-clock.usdz",
   "preview": "previews/decor/clocks/clk-0012-brass-five-gear-skeleton-mantel-clock.jpg",
+  "reference": "references/decor/clocks/clk-0012-brass-five-gear-skeleton-mantel-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0012-brass-five-gear-skeleton-mantel-clock.usdz",
   "file_size_bytes": 1626910,
   "sha256": "e261cd12e74f05f424ce44d20f0ba619fe958197712f0ec50f54f41bbcd5ba81",

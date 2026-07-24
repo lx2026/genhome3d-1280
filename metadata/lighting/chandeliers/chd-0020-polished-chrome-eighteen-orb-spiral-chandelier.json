@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.usdz",
   "preview": "previews/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.jpg",
+  "reference": "references/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/chandeliers/chd-0020-polished-chrome-eighteen-orb-spiral-chandelier.usdz",
   "file_size_bytes": 1406365,
   "sha256": "5757bfe56b316042bcddd73e8f81e0cbd020132a85eb361934ceaef2492df48e",

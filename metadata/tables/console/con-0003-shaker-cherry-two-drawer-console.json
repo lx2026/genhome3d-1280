@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/console/con-0003-shaker-cherry-two-drawer-console.usdz",
   "preview": "previews/tables/console/con-0003-shaker-cherry-two-drawer-console.jpg",
+  "reference": "references/tables/console/con-0003-shaker-cherry-two-drawer-console.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0003-shaker-cherry-two-drawer-console.usdz",
   "file_size_bytes": 447689,
   "sha256": "aae869a792f43bb95d191b87cc2a7778d0731de36795ea3a063e4e7a8699a558",

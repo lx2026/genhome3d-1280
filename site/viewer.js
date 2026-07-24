@@ -21,6 +21,15 @@ const disposeObject = (object) => {
   });
 };
 
+const fixOpaqueMaterial = (material) => {
+  const transmission = Number(material.transmission || 0);
+  if (material.opacity >= 0.999 && transmission <= 0.001 && material.alphaTest === 0) {
+    material.transparent = false;
+    material.depthWrite = true;
+    material.needsUpdate = true;
+  }
+};
+
 export class AssetViewer {
   constructor({ canvas, container }) {
     this.canvas = canvas;
@@ -29,10 +38,12 @@ export class AssetViewer {
     this.ground = null;
     this.loadSequence = 0;
     this.initialView = null;
+    this.backgroundMode = "light";
     this.reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
     this.scene = new THREE.Scene();
-    this.scene.background = new THREE.Color(0xe7e0d3);
+    this.scene.background = new THREE.Color();
+    this.setBackground("light");
 
     this.camera = new THREE.PerspectiveCamera(34, 1, 0.01, 1000);
     this.renderer = new THREE.WebGLRenderer({
@@ -108,6 +119,11 @@ export class AssetViewer {
       if (!child.isMesh) return;
       child.castShadow = true;
       child.receiveShadow = true;
+      if (Array.isArray(child.material)) {
+        child.material.forEach(fixOpaqueMaterial);
+      } else if (child.material) {
+        fixOpaqueMaterial(child.material);
+      }
     });
     this.scene.add(model);
     this.frame(bounds);
@@ -123,7 +139,10 @@ export class AssetViewer {
 
     this.ground = new THREE.Mesh(
       new THREE.CircleGeometry(maxDimension * 1.15, 64),
-      new THREE.ShadowMaterial({ color: 0x17352e, opacity: 0.16 }),
+      new THREE.ShadowMaterial({
+        color: this.backgroundMode === "dark" ? 0x000000 : 0x17352e,
+        opacity: this.backgroundMode === "dark" ? 0.34 : 0.16,
+      }),
     );
     this.ground.rotation.x = -Math.PI / 2;
     this.ground.position.set(center.x, bounds.min.y - maxDimension * 0.006, center.z);
@@ -167,6 +186,18 @@ export class AssetViewer {
     this.camera.position.copy(this.initialView.position);
     this.controls.target.copy(this.initialView.target);
     this.controls.update();
+  }
+
+  setBackground(mode) {
+    this.backgroundMode = mode === "dark" ? "dark" : "light";
+    this.scene.background.set(this.backgroundMode === "dark" ? 0x111a17 : 0xe7e0d3);
+    if (this.ground?.material) {
+      this.ground.material.color.set(
+        this.backgroundMode === "dark" ? 0x000000 : 0x17352e,
+      );
+      this.ground.material.opacity = this.backgroundMode === "dark" ? 0.34 : 0.16;
+      this.ground.material.needsUpdate = true;
+    }
   }
 
   start() {

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0006-twin-memory-foam-layered-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0006-twin-memory-foam-layered-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0006-twin-memory-foam-layered-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0006-twin-memory-foam-layered-mattress.usdz",
   "file_size_bytes": 1126294,
   "sha256": "92c036bbccd78bd3c6b68b878876f540d83ca671ea5043076ef46c18a4ac4821",

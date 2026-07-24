@@ -15,8 +15,8 @@ Each category passed through the same ordered workflow:
 3. Construct geometry, materials, textures, and renders procedurally in
    Blender from asset-local Python wrappers and a shared runtime.
 4. Export a self-contained USDZ package and seal technical evidence.
-5. Review the generated reference, hero render, and reverse inspection render
-   against seven visual criteria.
+5. Have Codex review the generated reference, hero render, and reverse
+   inspection render against seven visual criteria.
 6. Run strict packaging and collection-level regression checks before closing
    the category.
 
@@ -28,6 +28,7 @@ because that model identity was not sealed in each asset's provenance record.
 
 - Final USDZ package
 - Optimized preview derived from the final hero render
+- Web-sized copy of the original AI design reference
 - Compact public metadata
 - SHA-256 package checksum
 - Dataset- and asset-level validation status
@@ -35,7 +36,7 @@ because that model identity was not sealed in each asset's provenance record.
 ## Retained in the production archive
 
 - Blender source files and builder scripts
-- Generated style boards and authoritative reference images
+- Generated style boards and full-resolution authoritative reference images
 - Full-resolution textures outside the USDZ package
 - Inspection renders and comparison boards
 - Internal manifests, reports, and regression artifacts

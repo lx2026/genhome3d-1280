@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0001-white-porcelain-close-coupled-two-piece-toilet.usdz",
   "file_size_bytes": 1277008,
   "sha256": "c61043e24c954e29e3578ded4c46aa444575b22a08282aa0d0cc789cc7357f4b",

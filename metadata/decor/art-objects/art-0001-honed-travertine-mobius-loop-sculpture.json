@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0001-honed-travertine-mobius-loop-sculpture.usdz",
   "file_size_bytes": 1158125,
   "sha256": "d8403cd4a0ca3d6b56bc6b8e070976ff6b643221275ec8e78cc8c00cf0f7910c",

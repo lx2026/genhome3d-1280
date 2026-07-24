@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0003-antique-copper-twin-pulley-dome-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0003-antique-copper-twin-pulley-dome-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0003-antique-copper-twin-pulley-dome-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0003-antique-copper-twin-pulley-dome-pendant.usdz",
   "file_size_bytes": 888632,
   "sha256": "862de3f44e6b8455ba8876f10bc1f9e392a194481bc2832fab81bc498fa9957f",

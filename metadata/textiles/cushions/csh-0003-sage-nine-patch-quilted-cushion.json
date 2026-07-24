@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0003-sage-nine-patch-quilted-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0003-sage-nine-patch-quilted-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0003-sage-nine-patch-quilted-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0003-sage-nine-patch-quilted-cushion.usdz",
   "file_size_bytes": 873891,
   "sha256": "b79eca5a9ca1ff6227be5741b0c305e7bcf04cbfcf91677ded800ce06098abb7",

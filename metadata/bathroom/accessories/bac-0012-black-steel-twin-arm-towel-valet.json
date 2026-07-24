@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.usdz",
   "preview": "previews/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.jpg",
+  "reference": "references/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0012-black-steel-twin-arm-towel-valet.usdz",
   "file_size_bytes": 202458,
   "sha256": "ac136e3f1d951cc69fbb40bcd61091f2667689131de19940ad63e9a9d6da5676",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0015-travertine-two-handle-rectangular-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0015-travertine-two-handle-rectangular-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0015-travertine-two-handle-rectangular-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0015-travertine-two-handle-rectangular-board.usdz",
   "file_size_bytes": 605548,
   "sha256": "22e0e8dd58bb31d58f798156bc5bff066b9d56921b0ca8b5f2079165f60b4df1",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0002-matte-black-capsule-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0002-matte-black-capsule-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0002-matte-black-capsule-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0002-matte-black-capsule-mirror.usdz",
   "file_size_bytes": 430224,
   "sha256": "cc68495ca49e287ec6e512c8c76c7d0c7e23cff0a53396e857e791bf6b4cbe78",

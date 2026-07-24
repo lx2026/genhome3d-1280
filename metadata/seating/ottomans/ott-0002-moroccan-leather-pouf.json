@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0002-moroccan-leather-pouf.usdz",
   "preview": "previews/seating/ottomans/ott-0002-moroccan-leather-pouf.jpg",
+  "reference": "references/seating/ottomans/ott-0002-moroccan-leather-pouf.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0002-moroccan-leather-pouf.usdz",
   "file_size_bytes": 1753056,
   "sha256": "8159911a2ec7b2c5f73770f7fb80761e033afba23863cf56ef46e34cd7e664e0",

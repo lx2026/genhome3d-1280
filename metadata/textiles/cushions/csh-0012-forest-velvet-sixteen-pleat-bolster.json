@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0012-forest-velvet-sixteen-pleat-bolster.usdz",
   "preview": "previews/textiles/cushions/csh-0012-forest-velvet-sixteen-pleat-bolster.jpg",
+  "reference": "references/textiles/cushions/csh-0012-forest-velvet-sixteen-pleat-bolster.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0012-forest-velvet-sixteen-pleat-bolster.usdz",
   "file_size_bytes": 1277012,
   "sha256": "d72230279c7ad000ecd10d2b325d65e71545ea8cd1680c9f373d7737e1620961",

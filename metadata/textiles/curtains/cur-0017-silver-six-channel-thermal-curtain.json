@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.usdz",
   "preview": "previews/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.jpg",
+  "reference": "references/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/curtains/cur-0017-silver-six-channel-thermal-curtain.usdz",
   "file_size_bytes": 545146,
   "sha256": "fd65ca770bb19e05537c98440ec9b879fcdb60a7c7fa64ff1ad26bdbc7a8613b",

@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.usdz",
   "preview": "previews/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.jpg",
+  "reference": "references/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0005-red-detachable-shaft-immersion-blender.usdz",
   "file_size_bytes": 679101,
   "sha256": "6421bcc4886397ce1a04b4be581a48787347873786d8bbac37f31cdb2a66030a",

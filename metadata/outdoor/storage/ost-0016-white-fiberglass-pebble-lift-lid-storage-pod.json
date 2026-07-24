@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.usdz",
   "preview": "previews/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.jpg",
+  "reference": "references/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/storage/ost-0016-white-fiberglass-pebble-lift-lid-storage-pod.usdz",
   "file_size_bytes": 875481,
   "sha256": "74bee6f04b560cd4b54062bcb67ccb0debac338310ea7222bdaecc1a5d05423f",

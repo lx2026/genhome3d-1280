@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.usdz",
   "preview": "previews/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.jpg",
+  "reference": "references/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/armchairs/arm-0009-ivory-boucle-barrel-armchair.usdz",
   "file_size_bytes": 1109655,
   "sha256": "a450463205d5353af30f3b57082bb9b846a77a4adada9a7c673cc1ada3240f48",

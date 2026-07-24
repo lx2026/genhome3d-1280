@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0011-art-deco-channel-vanity-stool.usdz",
   "preview": "previews/seating/stools/stl-0011-art-deco-channel-vanity-stool.jpg",
+  "reference": "references/seating/stools/stl-0011-art-deco-channel-vanity-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0011-art-deco-channel-vanity-stool.usdz",
   "file_size_bytes": 675307,
   "sha256": "44a4bb6835d76e5a4bd0b540a163765e03d1c5e7efa9a3d3d683457d303adf48",

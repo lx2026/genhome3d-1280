@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0007-windsor-spindle-back-dining-bench.usdz",
   "preview": "previews/seating/benches/ben-0007-windsor-spindle-back-dining-bench.jpg",
+  "reference": "references/seating/benches/ben-0007-windsor-spindle-back-dining-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0007-windsor-spindle-back-dining-bench.usdz",
   "file_size_bytes": 855577,
   "sha256": "bd10bdfd893e3c1a2a2f61fa7f93b8608a981c002ebaa754e9bed5b2ced4c021",

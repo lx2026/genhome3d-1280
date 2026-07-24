@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0008-white-porcelain-embracing-figures-sculpture.usdz",
   "file_size_bytes": 366849,
   "sha256": "fdd88f962e60b925869a0e296982d43bb0200e908205f8e0a24336bdc03f251f",

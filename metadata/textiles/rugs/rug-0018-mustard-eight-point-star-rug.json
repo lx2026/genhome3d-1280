@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0018-mustard-eight-point-star-rug.usdz",
   "preview": "previews/textiles/rugs/rug-0018-mustard-eight-point-star-rug.jpg",
+  "reference": "references/textiles/rugs/rug-0018-mustard-eight-point-star-rug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0018-mustard-eight-point-star-rug.usdz",
   "file_size_bytes": 1164305,
   "sha256": "3720dbee47a47f9921a24644b8a9f3e7532959937a58db2d9601b42139e76e3b",

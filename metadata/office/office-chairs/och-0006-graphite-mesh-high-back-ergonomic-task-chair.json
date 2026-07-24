@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0006-graphite-mesh-high-back-ergonomic-task-chair.usdz",
   "preview": "previews/office/office-chairs/och-0006-graphite-mesh-high-back-ergonomic-task-chair.jpg",
+  "reference": "references/office/office-chairs/och-0006-graphite-mesh-high-back-ergonomic-task-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0006-graphite-mesh-high-back-ergonomic-task-chair.usdz",
   "file_size_bytes": 929162,
   "sha256": "9d2e0ed1f3a7882b38c9160a9f373f85274f176a0f7b187f378658df2f399089",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0013-terracotta-twelve-segment-round-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0013-terracotta-twelve-segment-round-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0013-terracotta-twelve-segment-round-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0013-terracotta-twelve-segment-round-cushion.usdz",
   "file_size_bytes": 948971,
   "sha256": "efa950b9accf97f9c6df8edb1d20a413bf8d696ae78fe24788e82538b52bfc1f",

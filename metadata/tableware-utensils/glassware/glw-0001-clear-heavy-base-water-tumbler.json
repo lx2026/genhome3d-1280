@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0001-clear-heavy-base-water-tumbler.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0001-clear-heavy-base-water-tumbler.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0001-clear-heavy-base-water-tumbler.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0001-clear-heavy-base-water-tumbler.usdz",
   "file_size_bytes": 285814,
   "sha256": "4e58329717773f05fec29513cf3f930646c8138e670ed0fd989e9704a3437b4d",

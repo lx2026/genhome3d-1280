@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/vases/vas-0002-speckled-stoneware-two-handle-amphora-vase.usdz",
   "preview": "previews/decor/vases/vas-0002-speckled-stoneware-two-handle-amphora-vase.jpg",
+  "reference": "references/decor/vases/vas-0002-speckled-stoneware-two-handle-amphora-vase.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/vases/vas-0002-speckled-stoneware-two-handle-amphora-vase.usdz",
   "file_size_bytes": 732346,
   "sha256": "1b7392c21fa7a30fbdd966246eeec3efcf2c3d7b8f673101fc04fa47720265bc",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/sconces/scn-0020-polished-chrome-two-turn-ribbon-sconce.usdz",
   "preview": "previews/lighting/sconces/scn-0020-polished-chrome-two-turn-ribbon-sconce.jpg",
+  "reference": "references/lighting/sconces/scn-0020-polished-chrome-two-turn-ribbon-sconce.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/sconces/scn-0020-polished-chrome-two-turn-ribbon-sconce.usdz",
   "file_size_bytes": 785061,
   "sha256": "485e7fbd41f155654ed10bd2ec5c9962af7d7bc2545a9b7252b707c72b451885",

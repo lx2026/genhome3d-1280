@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.usdz",
   "preview": "previews/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.jpg",
+  "reference": "references/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/vanities/vny-0001-shaker-maple-tri-fold-mirror-vanity.usdz",
   "file_size_bytes": 725770,
   "sha256": "697133fecaba57cc742ce489208537110c63a4bae8377e1d0dfe49f441c1b644",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/benches/ben-0014-modular-wool-platform-bench.usdz",
   "preview": "previews/seating/benches/ben-0014-modular-wool-platform-bench.jpg",
+  "reference": "references/seating/benches/ben-0014-modular-wool-platform-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/benches/ben-0014-modular-wool-platform-bench.usdz",
   "file_size_bytes": 734908,
   "sha256": "92deb2fc885d85a8c8dfedfbed92bee273fcafeb1859248212ffec8902931013",

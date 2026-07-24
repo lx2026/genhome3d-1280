@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0007-navy-velvet-wingback-headboard.usdz",
   "file_size_bytes": 451151,
   "sha256": "34120ccad669bcdf67eba0b8481dab87a1a2603d882fbf7fdf3407c0883b2b2f",

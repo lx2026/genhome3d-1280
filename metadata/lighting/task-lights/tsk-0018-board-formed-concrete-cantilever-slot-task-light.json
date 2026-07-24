@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0018-board-formed-concrete-cantilever-slot-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0018-board-formed-concrete-cantilever-slot-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0018-board-formed-concrete-cantilever-slot-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0018-board-formed-concrete-cantilever-slot-task-light.usdz",
   "file_size_bytes": 1015598,
   "sha256": "4665106c2eafd5aac3c6ca27394bea587c9a5b2a094c95ea73584ea9fea6a0dd",

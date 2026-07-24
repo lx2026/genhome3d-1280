@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/storage/bst-0018-teak-slat-shelf-spa-storage-bench.usdz",
   "preview": "previews/bathroom/storage/bst-0018-teak-slat-shelf-spa-storage-bench.jpg",
+  "reference": "references/bathroom/storage/bst-0018-teak-slat-shelf-spa-storage-bench.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/storage/bst-0018-teak-slat-shelf-spa-storage-bench.usdz",
   "file_size_bytes": 488802,
   "sha256": "b0315f5641c59ec22e46d763da0e52dc38cb9aec9828025ba63b60d1ab255f59",

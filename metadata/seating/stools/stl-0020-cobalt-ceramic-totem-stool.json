@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0020-cobalt-ceramic-totem-stool.usdz",
   "preview": "previews/seating/stools/stl-0020-cobalt-ceramic-totem-stool.jpg",
+  "reference": "references/seating/stools/stl-0020-cobalt-ceramic-totem-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0020-cobalt-ceramic-totem-stool.usdz",
   "file_size_bytes": 121462,
   "sha256": "d413fb2d99afe44bc4433924fc57eeb5f0378bf501576ebcb6f5d139b610680b",

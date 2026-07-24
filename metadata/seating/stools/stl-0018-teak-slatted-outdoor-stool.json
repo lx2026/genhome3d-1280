@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0018-teak-slatted-outdoor-stool.usdz",
   "preview": "previews/seating/stools/stl-0018-teak-slatted-outdoor-stool.jpg",
+  "reference": "references/seating/stools/stl-0018-teak-slatted-outdoor-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0018-teak-slatted-outdoor-stool.usdz",
   "file_size_bytes": 456775,
   "sha256": "06ff8dc12a8a5901569147a91d492c03e1954a0a6b9e45897fef1a7c2459d261",

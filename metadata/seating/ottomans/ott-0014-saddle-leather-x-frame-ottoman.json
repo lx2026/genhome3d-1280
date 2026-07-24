@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.usdz",
   "preview": "previews/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.jpg",
+  "reference": "references/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/ottomans/ott-0014-saddle-leather-x-frame-ottoman.usdz",
   "file_size_bytes": 1450385,
   "sha256": "cc2adcf95f264553ffa3d185e19bcd67318100f95ca22b7c41ba4a4b4724a971",

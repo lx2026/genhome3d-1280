@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0012-cream-twelve-rib-round-enameled-cocotte.usdz",
   "file_size_bytes": 1232634,
   "sha256": "5797107349ddb18a37f1e1ad12ef2af748ffd199a2b3c8f12dfa48f8fb3572a5",

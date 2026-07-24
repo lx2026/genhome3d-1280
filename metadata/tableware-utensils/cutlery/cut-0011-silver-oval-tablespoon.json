@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.usdz",
   "preview": "previews/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.jpg",
+  "reference": "references/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0011-silver-oval-tablespoon.usdz",
   "file_size_bytes": 523982,
   "sha256": "859c96e85b75b64478819ce9b2f9928189b6109ba501ce2165bfcab7dac8c867",

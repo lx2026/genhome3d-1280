@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/office/office-chairs/och-0007-white-polymer-twelve-slot-task-chair.usdz",
   "preview": "previews/office/office-chairs/och-0007-white-polymer-twelve-slot-task-chair.jpg",
+  "reference": "references/office/office-chairs/och-0007-white-polymer-twelve-slot-task-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/office-chairs/och-0007-white-polymer-twelve-slot-task-chair.usdz",
   "file_size_bytes": 744732,
   "sha256": "5ffcb5a992b83fc26294af92b93144a5e416b9c47bb0e34a2d3f474861d7be8e",

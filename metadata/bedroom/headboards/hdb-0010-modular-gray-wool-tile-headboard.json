@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0010-modular-gray-wool-tile-headboard.usdz",
   "file_size_bytes": 994321,
   "sha256": "5f40b4ece429263cba1283c1c3777eb344d623a0e3e4f9290b3acbf7ec66cfb7",

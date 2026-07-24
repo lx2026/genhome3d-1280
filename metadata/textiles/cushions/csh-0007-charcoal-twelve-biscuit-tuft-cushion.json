@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0007-charcoal-twelve-biscuit-tuft-cushion.usdz",
   "file_size_bytes": 533276,
   "sha256": "3598d0b48e32038bed15fdd3cc01257c8c6786940daad693514d45cb20965720",

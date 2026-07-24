@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cutting-boards/ctb-0004-acacia-two-handle-oval-board.usdz",
   "preview": "previews/kitchen-cookware/cutting-boards/ctb-0004-acacia-two-handle-oval-board.jpg",
+  "reference": "references/kitchen-cookware/cutting-boards/ctb-0004-acacia-two-handle-oval-board.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cutting-boards/ctb-0004-acacia-two-handle-oval-board.usdz",
   "file_size_bytes": 599209,
   "sha256": "685990e89d593094a5ebf4944f6082fabbab517126c4bb69eeac1623f3675e21",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0016-black-steel-twin-blade-beacon-table-lamp.usdz",
   "file_size_bytes": 430658,
   "sha256": "69c3f051cfcf8c9c88e478517ad127e536dd77359d7cb9069d05ebaa894ac316",

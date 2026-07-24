@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0014-clear-conical-martini-glass.usdz",
   "file_size_bytes": 334371,
   "sha256": "84dea6bfd7f7a3253485cd47f3443c692db4632acbf574631037ee6d52ff76e1",

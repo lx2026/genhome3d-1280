@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0005-graphite-ten-rib-square-grill-pan.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0005-graphite-ten-rib-square-grill-pan.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0005-graphite-ten-rib-square-grill-pan.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0005-graphite-ten-rib-square-grill-pan.usdz",
   "file_size_bytes": 333816,
   "sha256": "12f0cbdeafac577d1c639240ca4ca5712567557d9f6bb62c6d4a700d4f5824a3",

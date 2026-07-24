@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.usdz",
   "preview": "previews/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.jpg",
+  "reference": "references/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0013-japanese-cotton-shikibuton.usdz",
   "file_size_bytes": 803822,
   "sha256": "3345d13f0543f3471545f5870309d0d9eacdc4bd3c373a5077f840d4b6b1cc8c",

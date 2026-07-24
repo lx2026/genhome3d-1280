@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.usdz",
   "preview": "previews/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.jpg",
+  "reference": "references/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0004-rust-alpaca-five-band-waterfall-throw.usdz",
   "file_size_bytes": 1835540,
   "sha256": "d47d66c884b5a12872c7b5f15d91c6967435e1ec24120549228dbbb9f2af76f7",

@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.usdz",
   "preview": "previews/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.jpg",
+  "reference": "references/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0009-graphite-twelve-tick-analog-bathroom-scale.usdz",
   "file_size_bytes": 1099350,
   "sha256": "3615b73d4f35e2b27b4bfdedad3a125e46576b5cc662bf4e36802d4d05362317",

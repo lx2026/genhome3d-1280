@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.usdz",
   "preview": "previews/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.jpg",
+  "reference": "references/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/small-appliances/sap-0015-white-hinged-lid-rice-cooker.usdz",
   "file_size_bytes": 772066,
   "sha256": "cd9d24452f411ca419eb869257f874e705457d6ce78fb1b710ea77232a29d1b8",

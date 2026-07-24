@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0018-oak-and-leather-strap-round-mirror.usdz",
   "file_size_bytes": 1657910,
   "sha256": "a55e7262729f0f7102f0842475b3c8b3cc00347b4a44a3bb5ebd147e92b42c0b",

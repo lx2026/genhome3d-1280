@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Build the public GenHome3D-1280 dataset from the production library.
+"""Build the public GenHome3D-1280 benchmark from the production library.
 
 The script intentionally exports only the completed 2026-07-17 expansion:
-64 categories with exactly 20 validated assets per category. Blender sources,
-authoritative references, and internal QA evidence remain in the production
-repository.
+64 categories with exactly 20 assets per category. Blender sources and
+internal QA evidence remain in the production repository. Web-sized copies of
+the authoritative AI reference images are published for side-by-side review.
 """
 
 from __future__ import annotations
@@ -157,6 +157,28 @@ def make_preview(source: Path, destination: Path) -> None:
     )
 
 
+def make_reference(source: Path, destination: Path) -> None:
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    subprocess.run(
+        (
+            "ffmpeg",
+            "-y",
+            "-loglevel",
+            "error",
+            "-i",
+            str(source),
+            "-vf",
+            "scale=960:960:force_original_aspect_ratio=decrease",
+            "-c:v",
+            "mjpeg",
+            "-q:v",
+            "5",
+            str(destination),
+        ),
+        check=True,
+    )
+
+
 def category_label(category_path: str) -> str:
     return " / ".join(
         segment.replace("-", " ").title() for segment in category_path.split("/")
@@ -178,6 +200,7 @@ def compact_asset_record(
     slug = identity["slug"]
     relative_usdz = public_usdz.as_posix()
     relative_preview = f"previews/{category_path}/{slug}.jpg"
+    relative_reference = f"references/{category_path}/{slug}.jpg"
 
     return {
         "id": asset_id,
@@ -209,6 +232,7 @@ def compact_asset_record(
         "format": "USDZ",
         "usdz": relative_usdz,
         "preview": relative_preview,
+        "reference": relative_reference,
         "download_url": f"https://raw.githubusercontent.com/{REPOSITORY}/main/{relative_usdz}",
         "file_size_bytes": public_usdz.stat().st_size,
         "sha256": usdz_sha256,
@@ -243,7 +267,7 @@ def main() -> None:
     if len(CATEGORY_PATHS) != 64:
         raise SystemExit(f"Expected 64 category paths, found {len(CATEGORY_PATHS)}")
 
-    for dirname in ("assets", "metadata"):
+    for dirname in ("assets", "metadata", "references"):
         recreate_directory(output_root / dirname)
     if not args.skip_previews:
         recreate_directory(output_root / "previews")
@@ -266,9 +290,10 @@ def main() -> None:
             metadata_path = source_asset / "metadata" / "asset.json"
             technical_path = source_asset / "qa" / "technical-state.json"
             hero_path = source_asset / "renders" / "hero.png"
+            reference_path = source_asset / "references" / "reference.png"
             usdz_files = sorted((source_asset / "exports").glob("*.usdz"))
 
-            required = (metadata_path, technical_path, hero_path)
+            required = (metadata_path, technical_path, hero_path, reference_path)
             missing = [str(path) for path in required if not path.is_file()]
             if len(usdz_files) != 1:
                 missing.append(
@@ -305,6 +330,10 @@ def main() -> None:
                     hero_path,
                     output_root / "previews" / category_path / f"{slug}.jpg",
                 )
+            make_reference(
+                reference_path,
+                output_root / "references" / category_path / f"{slug}.jpg",
+            )
 
             record = compact_asset_record(
                 metadata, technical, category_path, digest, relative_usdz
@@ -370,6 +399,7 @@ def main() -> None:
         "sha256",
         "usdz",
         "preview",
+        "reference",
     )
     with (output_root / "catalog.csv").open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=csv_fields)
@@ -391,6 +421,7 @@ def main() -> None:
                     "sha256": record["sha256"],
                     "usdz": record["usdz"],
                     "preview": record["preview"],
+                    "reference": record["reference"],
                 }
             )
 

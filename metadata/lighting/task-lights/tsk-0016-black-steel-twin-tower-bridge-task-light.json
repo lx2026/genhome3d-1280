@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0016-black-steel-twin-tower-bridge-task-light.usdz",
   "file_size_bytes": 411355,
   "sha256": "7e106a526dc2e3369c1121bbe36dfc7264e2a190bab6fc4bb87e9e73ad69986d",

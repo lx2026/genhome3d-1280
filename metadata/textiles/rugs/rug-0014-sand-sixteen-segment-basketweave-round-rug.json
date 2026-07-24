@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0014-sand-sixteen-segment-basketweave-round-rug.usdz",
   "preview": "previews/textiles/rugs/rug-0014-sand-sixteen-segment-basketweave-round-rug.jpg",
+  "reference": "references/textiles/rugs/rug-0014-sand-sixteen-segment-basketweave-round-rug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0014-sand-sixteen-segment-basketweave-round-rug.usdz",
   "file_size_bytes": 1278840,
   "sha256": "12bc30378bcb73b7e54ece9870c310e7a92ab1d23a24a26d3c53f4450691c9cf",

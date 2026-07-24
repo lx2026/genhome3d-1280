@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0002-arts-and-crafts-oak-panel-headboard.usdz",
   "file_size_bytes": 562191,
   "sha256": "e834f0f2e0d81336ba00cbc8aae373015cd2e8fadf1de459dca5a9c413ab352a",

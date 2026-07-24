@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0019-polished-chrome-balance-crane-task-light.usdz",
   "file_size_bytes": 775247,
   "sha256": "fd50996de2347685eac94adac79002adadd056772f2b3a99b64592ffd9b6985b",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.usdz",
   "preview": "previews/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.jpg",
+  "reference": "references/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0008-bauhaus-chrome-smoked-glass-two-tier-table.usdz",
   "file_size_bytes": 678680,
   "sha256": "1350cfe0feeffc206534cbde2fd57cd46bfdcaff234d3e15e29d35768ec16421",

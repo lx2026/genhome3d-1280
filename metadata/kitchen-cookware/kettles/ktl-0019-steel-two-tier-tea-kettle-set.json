@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0019-steel-two-tier-tea-kettle-set.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0019-steel-two-tier-tea-kettle-set.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0019-steel-two-tier-tea-kettle-set.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0019-steel-two-tier-tea-kettle-set.usdz",
   "file_size_bytes": 999017,
   "sha256": "6d3b8ec20278e16f45ca53f1bd25b7e0147b3fc205f01c92044dec81873a2a34",

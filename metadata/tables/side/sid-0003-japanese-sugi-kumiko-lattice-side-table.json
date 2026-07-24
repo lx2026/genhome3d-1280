@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.usdz",
   "preview": "previews/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.jpg",
+  "reference": "references/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/side/sid-0003-japanese-sugi-kumiko-lattice-side-table.usdz",
   "file_size_bytes": 449770,
   "sha256": "a886ea39dd710617fc7ccbda95db27b8b0538857fb291ad9a1c8d66d1734e201",

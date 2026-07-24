@@ -40,6 +40,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0013-black-steel-escapement-regulator-table-clock.usdz",
   "preview": "previews/decor/clocks/clk-0013-black-steel-escapement-regulator-table-clock.jpg",
+  "reference": "references/decor/clocks/clk-0013-black-steel-escapement-regulator-table-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0013-black-steel-escapement-regulator-table-clock.usdz",
   "file_size_bytes": 838368,
   "sha256": "c991887e435082edc3f932d884c93b504dfe45b2df4964ff2ae65d655b952900",

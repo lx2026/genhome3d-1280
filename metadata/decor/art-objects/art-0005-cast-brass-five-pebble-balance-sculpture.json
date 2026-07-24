@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0005-cast-brass-five-pebble-balance-sculpture.usdz",
   "preview": "previews/decor/art-objects/art-0005-cast-brass-five-pebble-balance-sculpture.jpg",
+  "reference": "references/decor/art-objects/art-0005-cast-brass-five-pebble-balance-sculpture.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0005-cast-brass-five-pebble-balance-sculpture.usdz",
   "file_size_bytes": 870281,
   "sha256": "ab9936413f22958e6d503d0aaffad003c8dfda47e7094247fa05e1548f49afbe",

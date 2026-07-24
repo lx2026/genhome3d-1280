@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0016-brushed-nickel-round-tray-rain-shower-tower.usdz",
   "file_size_bytes": 805757,
   "sha256": "fecf3ba2bae5fec5e07d9046a0c5feb31e1ddff22b62f7525ef6535ace51b3b7",

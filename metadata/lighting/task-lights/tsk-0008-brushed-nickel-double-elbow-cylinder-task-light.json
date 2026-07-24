@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0008-brushed-nickel-double-elbow-cylinder-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0008-brushed-nickel-double-elbow-cylinder-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0008-brushed-nickel-double-elbow-cylinder-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0008-brushed-nickel-double-elbow-cylinder-task-light.usdz",
   "file_size_bytes": 704561,
   "sha256": "47a98f7e21756f13fa2474a7b25605f140382f274ce559e090a159fc32da604b",

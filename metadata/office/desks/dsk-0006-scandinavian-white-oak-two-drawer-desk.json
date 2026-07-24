@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.usdz",
   "preview": "previews/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.jpg",
+  "reference": "references/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0006-scandinavian-white-oak-two-drawer-desk.usdz",
   "file_size_bytes": 582803,
   "sha256": "61735ccc5cc71c6ae77cb39b70f676fe7b2741ab7675b905bfbca85ea0a7329c",

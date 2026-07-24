@@ -40,6 +40,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/clocks/clk-0010-blackened-steel-open-frame-tower-clock.usdz",
   "preview": "previews/decor/clocks/clk-0010-blackened-steel-open-frame-tower-clock.jpg",
+  "reference": "references/decor/clocks/clk-0010-blackened-steel-open-frame-tower-clock.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/clocks/clk-0010-blackened-steel-open-frame-tower-clock.usdz",
   "file_size_bytes": 1491113,
   "sha256": "9179124321f20ca68e80512af65aada578c29b91ba866f46ef8bd4cb4b9de987",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/seating/ods-0012-ochre-recycled-plastic-eighteen-perforation-stack-chair.usdz",
   "preview": "previews/outdoor/seating/ods-0012-ochre-recycled-plastic-eighteen-perforation-stack-chair.jpg",
+  "reference": "references/outdoor/seating/ods-0012-ochre-recycled-plastic-eighteen-perforation-stack-chair.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0012-ochre-recycled-plastic-eighteen-perforation-stack-chair.usdz",
   "file_size_bytes": 301156,
   "sha256": "12778cbff69d2a22bab7009d6111c727e58d824b1c35eb878c551163eb908c6c",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/console/con-0010-smoked-glass-bent-waterfall-console.usdz",
   "preview": "previews/tables/console/con-0010-smoked-glass-bent-waterfall-console.jpg",
+  "reference": "references/tables/console/con-0010-smoked-glass-bent-waterfall-console.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0010-smoked-glass-bent-waterfall-console.usdz",
   "file_size_bytes": 143728,
   "sha256": "3ce45f8db3760b11cc004d4c7f22899094e18b9a349d951dda2419c6295806a1",

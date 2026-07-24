@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0005-antique-copper-twin-arm-library-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0005-antique-copper-twin-arm-library-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0005-antique-copper-twin-arm-library-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0005-antique-copper-twin-arm-library-table-lamp.usdz",
   "file_size_bytes": 670527,
   "sha256": "5a016aaf749fc9cad67d95ad840c2b3bb294ac5b16d95591ac9534771fdfc59d",

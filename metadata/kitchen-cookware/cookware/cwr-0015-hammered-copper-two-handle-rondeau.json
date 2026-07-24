@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/cookware/cwr-0015-hammered-copper-two-handle-rondeau.usdz",
   "preview": "previews/kitchen-cookware/cookware/cwr-0015-hammered-copper-two-handle-rondeau.jpg",
+  "reference": "references/kitchen-cookware/cookware/cwr-0015-hammered-copper-two-handle-rondeau.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/cookware/cwr-0015-hammered-copper-two-handle-rondeau.usdz",
   "file_size_bytes": 1481845,
   "sha256": "00631a9c27c107afa9013defcf86d1d9e2df12b24ef2c228f39a6fb8f019d8dc",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0016-bent-plywood-wave-headboard.usdz",
   "file_size_bytes": 353655,
   "sha256": "ac0ceb2a2055d1918ecc204b4fc96b8e64a9884519855af118727bef22ec1206",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0013-white-double-wall-electric-kettle.usdz",
   "file_size_bytes": 1215992,
   "sha256": "5302212f49817bf721e1d7c301533039b731c61de78c085d16dc7a72a613b5ce",

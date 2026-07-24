@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0006-steel-single-thermometer-gooseneck-kettle.usdz",
   "file_size_bytes": 1272985,
   "sha256": "280a2e2bbda80700a0f42730b1bfee5ce27ef4af07c1816d412d95d4b083c96e",

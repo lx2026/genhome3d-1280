@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.usdz",
   "preview": "previews/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.jpg",
+  "reference": "references/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/coffee/cof-0020-cobalt-cream-checker-mosaic-table.usdz",
   "file_size_bytes": 541332,
   "sha256": "ad12f41a92e956340d82008edc777cd72cf7e00fc04662b9d509eb54df71ebfd",

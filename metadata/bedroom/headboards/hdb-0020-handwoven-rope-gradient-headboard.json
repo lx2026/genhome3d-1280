@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0020-handwoven-rope-gradient-headboard.usdz",
   "file_size_bytes": 1910652,
   "sha256": "2d0de405b2d4a4104bba6a142c06f3fcf111e3657ac33fcee7435f251cda9681",

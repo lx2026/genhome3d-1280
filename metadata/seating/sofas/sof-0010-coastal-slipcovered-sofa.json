@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0010-coastal-slipcovered-sofa.usdz",
   "preview": "previews/seating/sofas/sof-0010-coastal-slipcovered-sofa.jpg",
+  "reference": "references/seating/sofas/sof-0010-coastal-slipcovered-sofa.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0010-coastal-slipcovered-sofa.usdz",
   "file_size_bytes": 569413,
   "sha256": "37895eb2c24880c49bb40b3979cd2a2ab2b0f3dba30b3b62ee1a841dff91e73d",

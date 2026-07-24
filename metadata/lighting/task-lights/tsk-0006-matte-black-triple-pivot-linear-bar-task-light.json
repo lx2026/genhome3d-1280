@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.usdz",
   "preview": "previews/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.jpg",
+  "reference": "references/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/task-lights/tsk-0006-matte-black-triple-pivot-linear-bar-task-light.usdz",
   "file_size_bytes": 415682,
   "sha256": "c44bcb499ceb87a2065e9e57f2fca81544cc98235d30defb526971c1413cd008",

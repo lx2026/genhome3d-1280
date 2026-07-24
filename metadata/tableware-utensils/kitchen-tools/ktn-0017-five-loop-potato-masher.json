@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.usdz",
   "preview": "previews/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.jpg",
+  "reference": "references/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/kitchen-tools/ktn-0017-five-loop-potato-masher.usdz",
   "file_size_bytes": 788389,
   "sha256": "0f99ccb6f9d5aa39626b8c05fed1117307d2b7dc178a2c6ec291568b981fafd3",

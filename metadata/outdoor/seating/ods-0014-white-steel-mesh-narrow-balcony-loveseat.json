@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.usdz",
   "preview": "previews/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.jpg",
+  "reference": "references/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/outdoor/seating/ods-0014-white-steel-mesh-narrow-balcony-loveseat.usdz",
   "file_size_bytes": 599733,
   "sha256": "2b0d59568ed1df5dcb259d71749a4945694a337fe85f530d85a7bd94adb08858",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0008-blue-and-white-twelve-flying-geese-quilt.usdz",
   "preview": "previews/textiles/blankets/blk-0008-blue-and-white-twelve-flying-geese-quilt.jpg",
+  "reference": "references/textiles/blankets/blk-0008-blue-and-white-twelve-flying-geese-quilt.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0008-blue-and-white-twelve-flying-geese-quilt.usdz",
   "file_size_bytes": 727339,
   "sha256": "9939eaaeca7103673f40227d19d0f56cf03e7bf364c4a8732f0240f69ffd72ba",

@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.usdz",
   "preview": "previews/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.jpg",
+  "reference": "references/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/office/desks/dsk-0008-white-lacquer-l-shaped-return-desk.usdz",
   "file_size_bytes": 305714,
   "sha256": "8d1b40e4b17eb7abb46920607d9ec86edf128a440f15f58eb85fabb0d482ceb1",

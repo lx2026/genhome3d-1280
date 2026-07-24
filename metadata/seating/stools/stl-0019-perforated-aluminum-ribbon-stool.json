@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/stools/stl-0019-perforated-aluminum-ribbon-stool.usdz",
   "preview": "previews/seating/stools/stl-0019-perforated-aluminum-ribbon-stool.jpg",
+  "reference": "references/seating/stools/stl-0019-perforated-aluminum-ribbon-stool.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/stools/stl-0019-perforated-aluminum-ribbon-stool.usdz",
   "file_size_bytes": 572756,
   "sha256": "c1532afd4d5897d6b054b1365fff8997f65e5fa5f48f6ef49e19ba9810f7c14c",

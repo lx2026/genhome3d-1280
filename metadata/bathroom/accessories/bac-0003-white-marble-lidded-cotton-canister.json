@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.usdz",
   "preview": "previews/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.jpg",
+  "reference": "references/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/accessories/bac-0003-white-marble-lidded-cotton-canister.usdz",
   "file_size_bytes": 1014401,
   "sha256": "f0e16051e12ea65a8a085d15eb7b6a449ebde903dd720899ea1eb10f4c81f693",

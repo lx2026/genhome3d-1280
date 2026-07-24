@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/glassware/glw-0005-clear-stackable-step-waist-tumbler.usdz",
   "preview": "previews/tableware-utensils/glassware/glw-0005-clear-stackable-step-waist-tumbler.jpg",
+  "reference": "references/tableware-utensils/glassware/glw-0005-clear-stackable-step-waist-tumbler.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/glassware/glw-0005-clear-stackable-step-waist-tumbler.usdz",
   "file_size_bytes": 354340,
   "sha256": "44fa000897a971780b732410f2f44a30c8f6d33acdd3ec896f4bf6d7c7c04d40",

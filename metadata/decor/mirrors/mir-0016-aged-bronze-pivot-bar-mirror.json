@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0016-aged-bronze-pivot-bar-mirror.usdz",
   "file_size_bytes": 626524,
   "sha256": "67527972d8b331bc31781a56a8688c4031b6ea817d04ef2f35b0115c4f57d9b2",

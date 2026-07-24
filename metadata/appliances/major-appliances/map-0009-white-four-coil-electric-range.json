@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/appliances/major-appliances/map-0009-white-four-coil-electric-range.usdz",
   "preview": "previews/appliances/major-appliances/map-0009-white-four-coil-electric-range.jpg",
+  "reference": "references/appliances/major-appliances/map-0009-white-four-coil-electric-range.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/appliances/major-appliances/map-0009-white-four-coil-electric-range.usdz",
   "file_size_bytes": 572239,
   "sha256": "5feae18abd3593639350d890fbcc604ca8df144277b52f051e3a43dc2a4335bc",

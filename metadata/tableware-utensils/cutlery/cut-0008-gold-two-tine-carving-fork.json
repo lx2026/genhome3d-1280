@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.usdz",
   "preview": "previews/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.jpg",
+  "reference": "references/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0008-gold-two-tine-carving-fork.usdz",
   "file_size_bytes": 436142,
   "sha256": "45c1aa37eee4d3f55433a5e9f387a705c1f96e8769f1aef36f001d9b5bb0bfbe",

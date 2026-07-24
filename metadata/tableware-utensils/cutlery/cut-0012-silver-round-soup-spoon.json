@@ -34,6 +34,7 @@
   "format": "USDZ",
   "usdz": "assets/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.usdz",
   "preview": "previews/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.jpg",
+  "reference": "references/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tableware-utensils/cutlery/cut-0012-silver-round-soup-spoon.usdz",
   "file_size_bytes": 524181,
   "sha256": "26262112c2df1f16220d244638376af764da6674a60a0640f49a93f66e971a54",

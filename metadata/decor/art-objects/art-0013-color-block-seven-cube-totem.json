@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0013-color-block-seven-cube-totem.usdz",
   "preview": "previews/decor/art-objects/art-0013-color-block-seven-cube-totem.jpg",
+  "reference": "references/decor/art-objects/art-0013-color-block-seven-cube-totem.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0013-color-block-seven-cube-totem.usdz",
   "file_size_bytes": 568311,
   "sha256": "2d01ef5c318747d9e5f88be8a5f322f0009e687e1a52475598a0591c1a5fe84c",

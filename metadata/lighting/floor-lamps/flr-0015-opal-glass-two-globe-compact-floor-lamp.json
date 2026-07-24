@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/floor-lamps/flr-0015-opal-glass-two-globe-compact-floor-lamp.usdz",
   "preview": "previews/lighting/floor-lamps/flr-0015-opal-glass-two-globe-compact-floor-lamp.jpg",
+  "reference": "references/lighting/floor-lamps/flr-0015-opal-glass-two-globe-compact-floor-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/floor-lamps/flr-0015-opal-glass-two-globe-compact-floor-lamp.usdz",
   "file_size_bytes": 641736,
   "sha256": "82cd144238a97299afad835c8a2a27d7d2b2a23c623426d13566c0ea543a90b1",

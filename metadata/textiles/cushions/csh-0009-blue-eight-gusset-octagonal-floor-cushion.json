@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0009-blue-eight-gusset-octagonal-floor-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0009-blue-eight-gusset-octagonal-floor-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0009-blue-eight-gusset-octagonal-floor-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0009-blue-eight-gusset-octagonal-floor-cushion.usdz",
   "file_size_bytes": 838046,
   "sha256": "ff071749393ad87bdfae49614f368efc72377c9a35777e1a6a50f23f84f694de",

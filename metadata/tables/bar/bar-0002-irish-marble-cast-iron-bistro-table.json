@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.usdz",
   "preview": "previews/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.jpg",
+  "reference": "references/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/bar/bar-0002-irish-marble-cast-iron-bistro-table.usdz",
   "file_size_bytes": 640068,
   "sha256": "1dd27d9d445ae2ba9e288887031241d289edf6ac75cb046c96fd77f960bc501b",

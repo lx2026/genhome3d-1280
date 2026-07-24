@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/cushions/csh-0016-mustard-five-point-piped-star-cushion.usdz",
   "preview": "previews/textiles/cushions/csh-0016-mustard-five-point-piped-star-cushion.jpg",
+  "reference": "references/textiles/cushions/csh-0016-mustard-five-point-piped-star-cushion.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/cushions/csh-0016-mustard-five-point-piped-star-cushion.usdz",
   "file_size_bytes": 1194245,
   "sha256": "30e07cd5d62eb883104fab743d9ee68db70719fcc463404c12880532d87cb2ae",

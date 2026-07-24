@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0003-arts-and-crafts-oak-panel-end-crib.usdz",
   "file_size_bytes": 829624,
   "sha256": "693b1caef979855e83fb2e45f7e658ef9e100e73d5343809e7d796b962bcc8e3",

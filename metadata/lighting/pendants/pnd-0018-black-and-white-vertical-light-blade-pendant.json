@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/pendants/pnd-0018-black-and-white-vertical-light-blade-pendant.usdz",
   "preview": "previews/lighting/pendants/pnd-0018-black-and-white-vertical-light-blade-pendant.jpg",
+  "reference": "references/lighting/pendants/pnd-0018-black-and-white-vertical-light-blade-pendant.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/pendants/pnd-0018-black-and-white-vertical-light-blade-pendant.usdz",
   "file_size_bytes": 397158,
   "sha256": "8971fc76eac11ee7649060abbf8aa28fa51738a97922ffbe73e06e47f2681d14",

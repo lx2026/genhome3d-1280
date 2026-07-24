@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/seating/sofas/sof-0005-art-deco-scallop-settee.usdz",
   "preview": "previews/seating/sofas/sof-0005-art-deco-scallop-settee.jpg",
+  "reference": "references/seating/sofas/sof-0005-art-deco-scallop-settee.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/seating/sofas/sof-0005-art-deco-scallop-settee.usdz",
   "file_size_bytes": 947582,
   "sha256": "b6410f397f4838d2c7800d6212e0d9b0c050416cf58b3cf811467983454211fc",

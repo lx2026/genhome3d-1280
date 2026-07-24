@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0012-matte-white-oval-recessed-plinth-bathtub.usdz",
   "file_size_bytes": 776709,
   "sha256": "c3e1f9026faebfd7d4aa14fd60f4daaf2676bcf5ebe81c56976a80ee30ea14c1",

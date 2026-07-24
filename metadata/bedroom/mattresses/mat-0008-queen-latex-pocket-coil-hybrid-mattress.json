@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0008-queen-latex-pocket-coil-hybrid-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0008-queen-latex-pocket-coil-hybrid-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0008-queen-latex-pocket-coil-hybrid-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0008-queen-latex-pocket-coil-hybrid-mattress.usdz",
   "file_size_bytes": 1494293,
   "sha256": "4115ad59355f3942eb5787f410df45983321afdfc79f03f3cc448eda1138be2e",

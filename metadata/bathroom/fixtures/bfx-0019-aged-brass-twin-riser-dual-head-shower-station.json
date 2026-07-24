@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.usdz",
   "preview": "previews/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.jpg",
+  "reference": "references/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bathroom/fixtures/bfx-0019-aged-brass-twin-riser-dual-head-shower-station.usdz",
   "file_size_bytes": 871943,
   "sha256": "50cea6a4f338f7eedd9d5204945c052cdd0a24352dd60e7bb2012d6f35acd768",

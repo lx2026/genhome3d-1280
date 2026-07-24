@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/kitchen-cookware/kettles/ktl-0012-steel-five-button-variable-temperature-kettle.usdz",
   "preview": "previews/kitchen-cookware/kettles/ktl-0012-steel-five-button-variable-temperature-kettle.jpg",
+  "reference": "references/kitchen-cookware/kettles/ktl-0012-steel-five-button-variable-temperature-kettle.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/kitchen-cookware/kettles/ktl-0012-steel-five-button-variable-temperature-kettle.usdz",
   "file_size_bytes": 1299450,
   "sha256": "7afb2f5aef96aaac9f82e8e5210a34543411fe1c595df697dfb7ad2bee8264fc",

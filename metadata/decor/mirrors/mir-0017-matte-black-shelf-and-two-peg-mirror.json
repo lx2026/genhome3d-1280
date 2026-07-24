@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.usdz",
   "preview": "previews/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.jpg",
+  "reference": "references/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/mirrors/mir-0017-matte-black-shelf-and-two-peg-mirror.usdz",
   "file_size_bytes": 419320,
   "sha256": "8d4ab5c33fd55f7e06c142b534dfaddf5625cfd318d161f1c40c859a8c790bbf",

@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.usdz",
   "preview": "previews/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.jpg",
+  "reference": "references/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0004-sage-eight-chevron-flatweave-runner.usdz",
   "file_size_bytes": 714983,
   "sha256": "74bb7b039cf3cb221992e13f9e292b0cf681532b02beb8b2f6405cb75ce50320",

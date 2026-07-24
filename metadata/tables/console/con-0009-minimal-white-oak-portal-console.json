@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/tables/console/con-0009-minimal-white-oak-portal-console.usdz",
   "preview": "previews/tables/console/con-0009-minimal-white-oak-portal-console.jpg",
+  "reference": "references/tables/console/con-0009-minimal-white-oak-portal-console.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/tables/console/con-0009-minimal-white-oak-portal-console.usdz",
   "file_size_bytes": 544799,
   "sha256": "ac6b590d17d671d5b2067de23635720d26bff503c40a63a43609029d97a9ef31",

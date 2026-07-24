@@ -37,6 +37,7 @@
   "format": "USDZ",
   "usdz": "assets/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.usdz",
   "preview": "previews/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.jpg",
+  "reference": "references/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/lighting/table-lamps/tlp-0020-polished-chrome-two-turn-ribbon-table-lamp.usdz",
   "file_size_bytes": 810387,
   "sha256": "87f7c5ac0277572359dcc6c5ddec2472a321af01e4373063b5d55f0770c8727f",

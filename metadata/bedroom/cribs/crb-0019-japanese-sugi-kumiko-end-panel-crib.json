@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.usdz",
   "preview": "previews/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.jpg",
+  "reference": "references/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/cribs/crb-0019-japanese-sugi-kumiko-end-panel-crib.usdz",
   "file_size_bytes": 973896,
   "sha256": "595c2e21d20e340200f452868b4083fff18ac864c800409ce6311d7849f991a9",

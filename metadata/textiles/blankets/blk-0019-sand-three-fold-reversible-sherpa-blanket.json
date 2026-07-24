@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/blankets/blk-0019-sand-three-fold-reversible-sherpa-blanket.usdz",
   "preview": "previews/textiles/blankets/blk-0019-sand-three-fold-reversible-sherpa-blanket.jpg",
+  "reference": "references/textiles/blankets/blk-0019-sand-three-fold-reversible-sherpa-blanket.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/blankets/blk-0019-sand-three-fold-reversible-sherpa-blanket.usdz",
   "file_size_bytes": 1025151,
   "sha256": "127c8c9fa7a5775b1b0ee686aa6d6ae73131bcf4fecc5872fff9a309dc426541",

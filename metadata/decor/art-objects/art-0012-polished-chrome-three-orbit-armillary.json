@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0012-polished-chrome-three-orbit-armillary.usdz",
   "preview": "previews/decor/art-objects/art-0012-polished-chrome-three-orbit-armillary.jpg",
+  "reference": "references/decor/art-objects/art-0012-polished-chrome-three-orbit-armillary.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0012-polished-chrome-three-orbit-armillary.usdz",
   "file_size_bytes": 921876,
   "sha256": "fa75ad7c7faa074f68095d8d5a5825fe89f196c32eca9e1c8c2f1c48cdafc15e",

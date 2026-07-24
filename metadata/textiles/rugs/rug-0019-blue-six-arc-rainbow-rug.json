@@ -36,6 +36,7 @@
   "format": "USDZ",
   "usdz": "assets/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.usdz",
   "preview": "previews/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.jpg",
+  "reference": "references/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/textiles/rugs/rug-0019-blue-six-arc-rainbow-rug.usdz",
   "file_size_bytes": 1812336,
   "sha256": "cc7d5fd60fad334f3457f8cd3f9ecc44854ab474d301c147d6fe8f5e3d105b15",

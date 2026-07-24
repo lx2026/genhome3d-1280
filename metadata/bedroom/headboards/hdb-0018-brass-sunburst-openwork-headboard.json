@@ -35,6 +35,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.usdz",
   "preview": "previews/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.jpg",
+  "reference": "references/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/headboards/hdb-0018-brass-sunburst-openwork-headboard.usdz",
   "file_size_bytes": 859486,
   "sha256": "55c8c0480c336c8a97f72c71b56bba1332034e584c3dcdaf2530819f1d390b16",

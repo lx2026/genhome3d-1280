@@ -38,6 +38,7 @@
   "format": "USDZ",
   "usdz": "assets/decor/art-objects/art-0020-mixed-metal-twelve-ray-sunburst-object.usdz",
   "preview": "previews/decor/art-objects/art-0020-mixed-metal-twelve-ray-sunburst-object.jpg",
+  "reference": "references/decor/art-objects/art-0020-mixed-metal-twelve-ray-sunburst-object.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/decor/art-objects/art-0020-mixed-metal-twelve-ray-sunburst-object.usdz",
   "file_size_bytes": 858588,
   "sha256": "18791287081abbd465c4211826092d0e6fb6f7db486ff659a54205dbc1928465",

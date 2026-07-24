@@ -33,6 +33,7 @@
   "format": "USDZ",
   "usdz": "assets/bedroom/mattresses/mat-0001-twin-quilted-cotton-innerspring-mattress.usdz",
   "preview": "previews/bedroom/mattresses/mat-0001-twin-quilted-cotton-innerspring-mattress.jpg",
+  "reference": "references/bedroom/mattresses/mat-0001-twin-quilted-cotton-innerspring-mattress.jpg",
   "download_url": "https://raw.githubusercontent.com/lx2026/genhome3d-1280/main/assets/bedroom/mattresses/mat-0001-twin-quilted-cotton-innerspring-mattress.usdz",
   "file_size_bytes": 1048059,
   "sha256": "68fb6938b03acbef5f68658bbded2df5e5011df676e6c6ebd420c915acc3d384",
