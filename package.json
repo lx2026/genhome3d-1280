@@ -8,6 +8,7 @@
     "test:site": "playwright test tests/site.spec.js --reporter=line"
   },
   "devDependencies": {
-    "@playwright/test": "1.61.1"
+    "@playwright/test": "1.61.1",
+    "three": "0.185.1"
   }
 }

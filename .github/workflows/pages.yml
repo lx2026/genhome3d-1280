@@ -7,6 +7,9 @@ on:
       - "site/**"
       - "previews/**"
       - "catalog.json"
+      - "package.json"
+      - "package-lock.json"
+      - "tools/build_site.sh"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -29,13 +32,12 @@ jobs:
       - name: Check out dataset
         uses: actions/checkout@v4
 
+      - name: Install site dependencies
+        run: npm ci
+
       - name: Assemble site artifact
         run: |
-          mkdir _site
-          cp -R site/. _site/
-          cp catalog.json _site/catalog.json
-          cp -R previews _site/previews
-          touch _site/.nojekyll
+          npm run build:site
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
