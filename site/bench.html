@@ -11,12 +11,20 @@
     <meta property="og:title" content="GenHome3D model benches" />
     <meta
       property="og:description"
-      content="One reference image given to more than one model, with both builds published."
+      content="One reference image given to more than one model, with every build published."
     />
     <meta property="og:type" content="website" />
     <title>Model benches — GenHome3D</title>
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="./bench.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "./vendor/three.module.js",
+          "three/addons/": "./vendor/addons/"
+        }
+      }
+    </script>
     <script src="./bench.js" defer></script>
   </head>
   <body>
@@ -40,7 +48,7 @@
       <section class="bench-hero" aria-labelledby="bench-hero-title">
         <div>
           <p class="eyebrow">Model bench</p>
-          <h1 id="bench-hero-title">The same reference, built twice.</h1>
+          <h1 id="bench-hero-title">The same reference, built by different models.</h1>
           <p class="hero-intro">
             The catalog records one pipeline's output. A bench gives the same reference
             image to more than one model, then publishes every build with the checks it
@@ -96,6 +104,65 @@
       </div>
     </footer>
 
+    <dialog class="viewer-dialog" id="bench-viewer" aria-labelledby="bench-viewer-title">
+      <div class="viewer-shell">
+        <header class="viewer-header">
+          <div>
+            <p class="viewer-kicker" id="bench-viewer-kicker">Bench build</p>
+            <h2 id="bench-viewer-title">3D build</h2>
+          </div>
+          <button class="viewer-close" id="bench-viewer-close" type="button" aria-label="Close build">
+            <span aria-hidden="true">×</span>
+          </button>
+        </header>
+
+        <div class="viewer-comparison">
+          <section class="viewer-panel viewer-reference-panel" aria-labelledby="bench-viewer-reference-label">
+            <div class="viewer-panel-heading">
+              <p class="viewer-panel-label" id="bench-viewer-reference-label">Reference</p>
+              <span>The shared design target</span>
+            </div>
+            <div class="viewer-reference-stage">
+              <img id="bench-viewer-reference" alt="" />
+            </div>
+          </section>
+          <section class="viewer-panel" aria-labelledby="bench-viewer-result-label">
+            <div class="viewer-panel-heading">
+              <p class="viewer-panel-label" id="bench-viewer-result-label">3D result</p>
+              <span>Drag to rotate · Scroll or pinch to zoom</span>
+            </div>
+            <div class="viewer-stage" id="bench-viewer-stage">
+              <img class="viewer-poster" id="bench-viewer-poster" alt="" />
+              <canvas
+                id="bench-viewer-canvas"
+                aria-label="Interactive 3D model. Drag to rotate and scroll or pinch to zoom."
+              ></canvas>
+              <div class="viewer-status" id="bench-viewer-status" role="status" aria-live="polite">
+                <span class="viewer-spinner" aria-hidden="true"></span>
+                <strong id="bench-viewer-status-title">Preparing 3D preview</strong>
+                <small id="bench-viewer-status-detail">The model loads only when requested.</small>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <footer class="viewer-footer">
+          <p id="bench-viewer-meta"></p>
+          <div class="viewer-actions">
+            <button class="button button-secondary" id="bench-viewer-background" type="button">
+              Dark background
+            </button>
+            <button class="button button-secondary" id="bench-viewer-reset" type="button">
+              Reset view
+            </button>
+            <a class="button button-primary" id="bench-viewer-download" rel="ar" download>
+              Download USDZ
+            </a>
+          </div>
+        </footer>
+      </div>
+    </dialog>
+
     <template id="bench-template">
       <article class="bench">
         <header class="bench-header">
@@ -137,13 +204,14 @@
           <p class="bench-sealed" data-field="sealed"></p>
         </header>
         <div class="bench-shots">
-          <figure>
+          <button class="bench-shot bench-shot-open" type="button" data-field="view">
+            <span class="bench-label">Result</span>
             <img data-field="hero" alt="" loading="lazy" decoding="async" />
-            <figcaption class="bench-label">Result</figcaption>
-          </figure>
-          <figure>
+            <span class="bench-shot-cue" aria-hidden="true">View in 3D <b>↗</b></span>
+          </button>
+          <figure class="bench-shot">
+            <span class="bench-label">Reverse</span>
             <img data-field="inspection" alt="" loading="lazy" decoding="async" />
-            <figcaption class="bench-label">Reverse</figcaption>
           </figure>
         </div>
         <dl class="bench-metrics">

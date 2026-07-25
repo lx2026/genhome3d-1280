@@ -11,6 +11,22 @@ cp "$repo_root/catalog.json" "$site_output/catalog.json"
 cp "$repo_root/benchmarks.json" "$site_output/benchmarks.json"
 cp -R "$repo_root/previews" "$site_output/previews"
 cp -R "$repo_root/references" "$site_output/references"
+python3 - "$repo_root" "$site_output" <<'PY'
+import json
+import shutil
+import sys
+from pathlib import Path
+
+repo_root, site_output = Path(sys.argv[1]), Path(sys.argv[2])
+document = json.loads((repo_root / "benchmarks.json").read_text(encoding="utf-8"))
+for bench in document.get("benches", []):
+    for entry in bench["entries"]:
+        source = repo_root / entry["usdz"]
+        destination = site_output / entry["usdz"]
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+        print(f"bench package {entry['usdz']}")
+PY
 mkdir -p "$site_output/vendor/addons/controls"
 mkdir -p "$site_output/vendor/addons/environments"
 mkdir -p "$site_output/vendor/addons/loaders"

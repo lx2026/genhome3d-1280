@@ -9,6 +9,7 @@ on:
       - "references/**"
       - "catalog.json"
       - "benchmarks.json"
+      - "assets/benchmarks/**"
       - "package.json"
       - "package-lock.json"
       - "tools/build_site.sh"

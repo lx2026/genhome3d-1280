@@ -229,11 +229,46 @@
   align-items: start;
 }
 
-.bench-shots figure {
+.bench-shot {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   gap: 0.5rem;
+  align-items: flex-start;
+  width: 100%;
   margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  text-align: left;
+}
+
+.bench-shot-open {
+  position: relative;
+  cursor: pointer;
+}
+
+.bench-shot-open img {
+  transition: transform 140ms ease, border-color 140ms ease;
+}
+
+.bench-shot-open:hover img,
+.bench-shot-open:focus-visible img {
+  border-color: var(--green);
+  transform: translateY(-2px);
+}
+
+.bench-shot-cue {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(37, 40, 36, 0.82);
+  color: var(--white);
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 .bench-shots img {
@@ -243,9 +278,7 @@
   background: var(--surface);
 }
 
-.bench-shots figcaption {
-  align-self: flex-start;
-}
+
 
 .bench-metrics {
   display: grid;

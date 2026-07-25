@@ -177,7 +177,7 @@ test("the bench page compares one reference against every model build", async ({
   page.on("pageerror", (error) => pageErrors.push(error.message));
 
   await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-  await expect(page.locator("h1")).toContainText("The same reference, built twice");
+  await expect(page.locator("h1")).toContainText("The same reference, built by different models");
 
   const bench = page.locator(".bench").first();
   await expect(bench).toBeVisible();
@@ -216,10 +216,43 @@ test("the bench page compares one reference against every model build", async ({
   expect(pageErrors).toEqual([]);
 });
 
+test("bench builds open as interactive USDZ previews beside the reference", async ({
+  page,
+}) => {
+  const consoleErrors = [];
+  page.on("console", (message) => {
+    if (message.type() === "error") consoleErrors.push(message.text());
+  });
+
+  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
+  const column = page.locator(".bench-column").nth(1);
+  await column.locator("[data-field='view']").click();
+
+  const dialog = page.locator("#bench-viewer");
+  await expect(dialog).toBeVisible();
+  await expect(page.locator("#bench-viewer-title")).toContainText("Claude Opus 5");
+  await expect(page.locator("#bench-viewer-reference")).toHaveAttribute(
+    "src",
+    /references\/benchmarks\/.+\.jpg$/,
+  );
+  await expect.poll(() => dialog.getAttribute("data-state"), { timeout: 40000 }).toBe(
+    "ready",
+  );
+  await expect(page.locator("#bench-viewer-poster")).toBeHidden();
+  await expect(page.locator("#bench-viewer-meta")).toContainText("triangles");
+
+  await page.locator("#bench-viewer-background").click();
+  await expect(dialog).toHaveAttribute("data-background", "dark");
+  await page.locator("#bench-viewer-reset").click();
+  await page.locator("#bench-viewer-close").click();
+  await expect(dialog).toBeHidden();
+  expect(consoleErrors).toEqual([]);
+});
+
 test("the landing page routes to the bench", async ({ page }) => {
   await page.goto(baseURL, { waitUntil: "networkidle" });
   await expect(page.locator('[data-stat="benches"]')).toHaveText("1");
   await expect(page.locator('[data-stat="bench-models"]')).toHaveText("2");
   await page.locator(".bench-band-card a.button").click();
-  await expect(page.locator("h1")).toContainText("The same reference, built twice");
+  await expect(page.locator("h1")).toContainText("The same reference, built by different models");
 });

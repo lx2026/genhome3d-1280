@@ -53,6 +53,9 @@ Claude Opus 5 from the reference image alone, with no shared crib geometry. Both
 normalise to the same declared 1.42 × 0.82 × 1.00 m envelope, so they differ by
 interpretation rather than by size.
 
+Each build opens as an interactive USDZ next to the reference image, the same
+viewer the catalog uses.
+
 Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
 the category counts, the catalog indexes, and `checksums.sha256`, and ship under
 `assets/benchmarks/` with their own records in

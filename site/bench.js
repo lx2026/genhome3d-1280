@@ -10,7 +10,40 @@ const elements = {
   list: document.querySelector("#benches"),
   benchTemplate: document.querySelector("#bench-template"),
   columnTemplate: document.querySelector("#bench-column-template"),
+  dialog: document.querySelector("#bench-viewer"),
+  stage: document.querySelector("#bench-viewer-stage"),
+  canvas: document.querySelector("#bench-viewer-canvas"),
+  poster: document.querySelector("#bench-viewer-poster"),
+  reference: document.querySelector("#bench-viewer-reference"),
+  status: document.querySelector("#bench-viewer-status"),
+  statusTitle: document.querySelector("#bench-viewer-status-title"),
+  statusDetail: document.querySelector("#bench-viewer-status-detail"),
+  title: document.querySelector("#bench-viewer-title"),
+  kicker: document.querySelector("#bench-viewer-kicker"),
+  meta: document.querySelector("#bench-viewer-meta"),
+  download: document.querySelector("#bench-viewer-download"),
+  close: document.querySelector("#bench-viewer-close"),
+  reset: document.querySelector("#bench-viewer-reset"),
+  background: document.querySelector("#bench-viewer-background"),
 };
+
+const readBackgroundPreference = () => {
+  try {
+    return localStorage.getItem("genhome3d-viewer-background") === "dark"
+      ? "dark"
+      : "light";
+  } catch {
+    return "light";
+  }
+};
+
+const state = {
+  viewer: null,
+  viewerLoad: 0,
+  background: readBackgroundPreference(),
+};
+
+let viewerModulePromise;
 
 const formatBytes = (bytes) => {
   if (!Number.isFinite(bytes)) return "—";
@@ -50,7 +83,110 @@ const checkText = (value) => {
   return String(value);
 };
 
-const buildColumn = (entry, benchTitle) => {
+
+const setStatus = (title, detail, stateName = "loading") => {
+  elements.dialog.dataset.state = stateName;
+  elements.status.hidden = false;
+  elements.statusTitle.textContent = title;
+  elements.statusDetail.textContent = detail;
+};
+
+const updateBackgroundControl = () => {
+  const dark = state.background === "dark";
+  elements.dialog.dataset.background = state.background;
+  elements.background.textContent = dark ? "Light background" : "Dark background";
+  elements.background.setAttribute("aria-pressed", String(dark));
+  state.viewer?.setBackground(state.background);
+};
+
+const openBuild = async (entry, bench) => {
+  const loadId = ++state.viewerLoad;
+  elements.title.textContent = `${bench.title} · ${entry.model}`;
+  elements.kicker.textContent = `${entry.asset_id} · built ${formatDate(entry.built_on)}`;
+  elements.meta.textContent = `${entry.model} · ${formatCount(
+    entry.geometry.triangles,
+  )} triangles · ${formatBytes(entry.file_size_bytes)}`;
+  elements.poster.src = `./${entry.hero}`;
+  elements.poster.alt = `${bench.title} built by ${entry.model}, shown while its 3D model loads`;
+  elements.poster.hidden = false;
+  elements.reference.src = `./${bench.reference}`;
+  elements.reference.alt = `Generated reference image for ${bench.title}`;
+  elements.download.href = `./${entry.usdz}`;
+  elements.download.download = `${entry.asset_id.toLowerCase()}.usdz`;
+  elements.download.setAttribute(
+    "aria-label",
+    `Download the USDZ ${entry.model} built for ${bench.title}`,
+  );
+  updateBackgroundControl();
+  setStatus("Loading 3D build", `Downloading ${formatBytes(entry.file_size_bytes)}`);
+
+  if (!elements.dialog.open) elements.dialog.showModal();
+  document.body.classList.add("viewer-open");
+
+  try {
+    viewerModulePromise ||= import("./viewer.js");
+    const { AssetViewer } = await viewerModulePromise;
+    if (loadId !== state.viewerLoad || !elements.dialog.open) return;
+
+    state.viewer ||= new AssetViewer({
+      canvas: elements.canvas,
+      container: elements.stage,
+    });
+    state.viewer.setBackground(state.background);
+
+    const loaded = await state.viewer.load(`./${entry.usdz}`, (received, total) => {
+      if (loadId !== state.viewerLoad) return;
+      const progress = total
+        ? `${Math.round((received / total) * 100)}%`
+        : formatBytes(received);
+      elements.statusDetail.textContent = `${progress} · ${formatBytes(
+        entry.file_size_bytes,
+      )}`;
+    });
+
+    if (!loaded || loadId !== state.viewerLoad || !elements.dialog.open) return;
+    elements.poster.hidden = true;
+    elements.status.hidden = true;
+    elements.dialog.dataset.state = "ready";
+  } catch (error) {
+    if (loadId !== state.viewerLoad) return;
+    console.warn("Interactive USDZ preview unavailable:", error);
+    setStatus(
+      "Preview unavailable",
+      "This USDZ can still be downloaded and opened with Apple Quick Look.",
+      "error",
+    );
+  }
+};
+
+const closeBuild = () => {
+  if (elements.dialog.open) elements.dialog.close();
+};
+
+elements.close.addEventListener("click", closeBuild);
+elements.reset.addEventListener("click", () => state.viewer?.reset());
+elements.background.addEventListener("click", () => {
+  state.background = state.background === "light" ? "dark" : "light";
+  try {
+    localStorage.setItem("genhome3d-viewer-background", state.background);
+  } catch {
+    // The preference is optional when storage is unavailable.
+  }
+  updateBackgroundControl();
+});
+elements.dialog.addEventListener("click", (event) => {
+  if (event.target === elements.dialog) closeBuild();
+});
+elements.dialog.addEventListener("close", () => {
+  state.viewerLoad += 1;
+  state.viewer?.cancel();
+  elements.poster.hidden = false;
+  elements.reference.removeAttribute("src");
+  document.body.classList.remove("viewer-open");
+});
+
+const buildColumn = (entry, bench) => {
+  const benchTitle = bench.title;
   const fragment = elements.columnTemplate.content.cloneNode(true);
   const field = (name) => fragment.querySelector(`[data-field="${name}"]`);
 
@@ -96,6 +232,9 @@ const buildColumn = (entry, benchTitle) => {
   field("method").textContent = entry.method;
   field("review").textContent = entry.review_note;
 
+  const view = field("view");
+  view.addEventListener("click", () => void openBuild(entry, bench));
+
   const download = field("download");
   download.href = `./${entry.usdz}`;
   download.setAttribute(
@@ -127,7 +266,7 @@ const buildBench = (bench) => {
   field("brief").textContent = bench.brief;
 
   const columns = field("columns");
-  bench.entries.forEach((entry) => columns.append(buildColumn(entry, bench.title)));
+  bench.entries.forEach((entry) => columns.append(buildColumn(entry, bench)));
 
   const observations = field("observations");
   if (bench.observations && bench.observations.length) {

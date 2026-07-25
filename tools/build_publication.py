@@ -116,6 +116,14 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Skip WebP preview generation (useful for metadata-only checks)",
     )
+    parser.add_argument(
+        "--benches-only",
+        action="store_true",
+        help=(
+            "Re-export only the model benches, reusing the published catalog. "
+            "Leaves the 1,280-asset catalog, its indexes, and its checksums untouched."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -474,6 +482,26 @@ def main() -> None:
         if entry.asset_id != bench.reference_asset_id
     }
     rebuild_prefixes = tuple(f"{asset_id.lower()}-" for asset_id in sorted(rebuild_ids))
+
+    if args.benches_only:
+        if not bench_registry:
+            raise SystemExit("No benches are registered in the production library.")
+        published = load_json(output_root / "catalog.json")
+        bench_document = export_benchmarks(
+            source_root,
+            output_root,
+            bench_module,
+            bench_registry,
+            {record["id"]: record["usdz"] for record in published["assets"]},
+            args.skip_previews,
+        )
+        (output_root / "benchmarks.json").write_text(
+            json.dumps(bench_document, separators=(",", ":")) + "\n", encoding="utf-8"
+        )
+        for bench in bench_document["benches"]:
+            models = ", ".join(entry["model"] for entry in bench["entries"])
+            print(f"Published bench {bench['id']}: {models}.")
+        return
 
     for dirname in ("assets", "metadata", "references"):
         recreate_directory(output_root / dirname)
