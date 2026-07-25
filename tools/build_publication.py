@@ -303,7 +303,6 @@ def compact_asset_record(
             "package_audit": "pass"
             if technical.get("package_audit", {}).get("pass")
             else "fail",
-            "visual_review": metadata.get("qa", {}).get("visual_review"),
             "bounds": metadata.get("qa", {}).get("bounds_match"),
             "placement": metadata.get("qa", {}).get("placement_plane"),
             "vision_pro_device_review": metadata.get("qa", {}).get(
@@ -388,7 +387,6 @@ def export_benchmarks(
                     "harness": entry.harness,
                     "built_on": entry.built_on,
                     "method": entry.method,
-                    "review_note": entry.review,
                     "asset_id": entry.asset_id,
                     "title": identity["title"],
                     "reference_build": entry.asset_id == bench.reference_asset_id,
@@ -412,7 +410,6 @@ def export_benchmarks(
                         else "fail",
                         "bounds": quality.get("bounds_match"),
                         "placement": quality.get("placement_plane"),
-                        "visual_review": quality.get("visual_review"),
                     },
                     "recorded_attribution": {
                         "author": provenance.get("author"),
@@ -548,9 +545,6 @@ def main() -> None:
             technical = load_json(technical_path)
             if technical.get("result") != "pass":
                 failures.append(f"{source_asset.name}: technical result is not pass")
-                continue
-            if metadata.get("qa", {}).get("visual_review") != "pass":
-                failures.append(f"{source_asset.name}: visual review is not pass")
                 continue
 
             slug = metadata["identity"]["slug"]
@@ -696,9 +690,6 @@ def main() -> None:
         ),
         "package_audit_passes": sum(
             record["validation"]["package_audit"] == "pass" for record in records
-        ),
-        "visual_review_passes": sum(
-            record["validation"]["visual_review"] == "pass" for record in records
         ),
         "total_usdz_bytes": total_bytes,
         "benches": [

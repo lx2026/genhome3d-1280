@@ -6,7 +6,6 @@
   "categories": 64,
   "technical_passes": 1280,
   "package_audit_passes": 1280,
-  "visual_review_passes": 1280,
   "total_usdz_bytes": 1020966722,
   "benches": [
     {

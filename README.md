@@ -30,7 +30,6 @@ household and spatial-design objects in 3D.**
 | Asset license | CC BY 4.0 |
 | Original AI references | 1,280 |
 | Automated package checks | 1,280/1,280 recorded |
-| AI visual review | 1,280/1,280 pass |
 | Vision Pro device review | Pending |
 
 GenHome3D-1280 records the output of one repeatable AI-assisted pipeline across
@@ -38,8 +37,9 @@ seating, tables, bedroom furnishings, cabinetry,
 office, entryway, kids, outdoor, lighting, bathroom, decor, textiles,
 cookware, tableware, and appliances. Each category contains exactly 20 assets
 with stable IDs, authored dimensions, searchable metadata, an original AI
-reference, a generated preview, and a self-contained USDZ package. The visual
-review was also performed by Codex and is benchmark output, not human curation.
+reference, a generated preview, and a self-contained USDZ package. No object here
+carries a visual review: the published checks are automated, and nobody has
+inspected these results by eye.
 
 ## Model bench
 

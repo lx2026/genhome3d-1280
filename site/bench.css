@@ -359,11 +359,6 @@
   font-size: 0.85rem;
 }
 
-.bench-review {
-  padding-left: 0.85rem;
-  border-left: 2px solid var(--line);
-}
-
 .bench-column-actions {
   display: flex;
   align-items: center;

@@ -196,8 +196,9 @@ test("the bench page compares one reference against every model build", async ({
   // is allowed to claim a review the library has not sealed.
   await expect(columns.nth(0).locator(".bench-sealed")).toContainText("no model version");
   await expect(columns.nth(1).locator(".bench-sealed")).toContainText("claude-opus-5");
-  await expect(columns.nth(0).locator(".bench-check-pass").last()).toContainText("pass");
-  await expect(columns.nth(1).locator(".bench-check-pending")).toContainText("not reviewed");
+  await expect(columns.nth(0).locator(".bench-check-pass")).toHaveCount(4);
+  await expect(columns.nth(1).locator(".bench-check-pass")).toHaveCount(4);
+  await expect(bench).not.toContainText("Visual review");
 
   for (const index of [0, 1]) {
     const hero = columns.nth(index).locator("img").first();

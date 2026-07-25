@@ -25,7 +25,7 @@ Every completed asset had:
 - a hero render and a reverse inspection render;
 - a self-contained USDZ package;
 - structured metadata and checksums;
-- technical, package, and visual review results.
+- technical and package check results.
 
 The public dataset contains the final USDZ, preview, original AI design
 reference, metadata, and technical check state. The full Blender sources and
@@ -45,7 +45,6 @@ category brief
     → Blender source and evidence renders
     → USDZ export
     → technical validation
-    → visual review
     → catalog publication
 ```
 
@@ -505,7 +504,6 @@ Before accepting an asset, confirm:
 - [ ] USDZ opens as a Y-up, meter-authored stage;
 - [ ] packaged bounds and placement match the specification;
 - [ ] package paths, textures, size, and checksum pass;
-- [ ] all seven visual criteria pass;
 - [ ] device review remains pending until it happens on device.
 
 ## Related documents

@@ -40,7 +40,6 @@
   "validation": {
     "technical": "pass",
     "package_audit": "pass",
-    "visual_review": "pass",
     "bounds": "pass",
     "placement": "pass",
     "vision_pro_device_review": "pending"

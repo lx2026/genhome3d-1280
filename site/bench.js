@@ -3,7 +3,6 @@ const CHECK_LABELS = {
   package_audit: "Package audit",
   bounds: "Bounds",
   placement: "Floor placement",
-  visual_review: "Visual review",
 };
 
 const elements = {
@@ -79,7 +78,7 @@ const checkState = (value) => {
 
 const checkText = (value) => {
   if (value === "pass") return "pass";
-  if (value === "pending" || value === undefined || value === null) return "not reviewed";
+  if (value === "pending" || value === undefined || value === null) return "not run";
   return String(value);
 };
 
@@ -230,7 +229,6 @@ const buildColumn = (entry, bench) => {
   }
 
   field("method").textContent = entry.method;
-  field("review").textContent = entry.review_note;
 
   const view = field("view");
   view.addEventListener("click", () => void openBuild(entry, bench));

@@ -15,10 +15,12 @@ Each category passed through the same ordered workflow:
 3. Construct geometry, materials, textures, and renders procedurally in
    Blender from asset-local Python wrappers and a shared runtime.
 4. Export a self-contained USDZ package and seal technical evidence.
-5. Have Codex review the generated reference, hero render, and reverse
-   inspection render against seven visual criteria.
-6. Run strict packaging and collection-level regression checks before closing
+5. Run strict packaging and collection-level regression checks before closing
    the category.
+
+The pipeline also ran an automated self-review of its own renders. That verdict
+is not a human judgment, so it is not published and no asset here carries a
+visual-review claim.
 
 The production metadata identifies OpenAI Codex as the authoring assistant.
 The public record intentionally does not claim a specific GPT model version

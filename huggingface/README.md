@@ -48,7 +48,6 @@ household and spatial-design objects in 3D.**
 | Asset license | CC BY 4.0 |
 | Original AI references | 1,280 |
 | Automated package checks | 1,280/1,280 recorded |
-| AI visual review | 1,280/1,280 pass |
 | Vision Pro device review | Pending |
 
 The collection covers seating, tables, bedroom furnishings, cabinetry,
@@ -56,8 +55,8 @@ office, entryway, kids, outdoor, lighting, bathroom, decor, textiles,
 cookware, tableware, and appliances. Every asset has a stable ID, authored
 metric dimensions, searchable metadata, an optimized preview, and a
 self-contained USDZ package. The original AI design reference is published
-beside each result. The visual review was also performed by Codex and is
-benchmark output, not human curation.
+beside each result. No object carries a visual review: the published checks are
+automated, and nobody has inspected these results by eye.
 
 ## Using the dataset
 

@@ -1,9 +1,9 @@
-# Technical Checks and AI Review
+# Technical Checks
 
 This benchmark records the output of an AI-assisted generation pipeline. The
-checks below describe package structure and the pipeline's own review state.
-They do not mean the objects are correct, realistic, safe, human-curated, or
-production-ready.
+checks below describe package structure and authored scale. They do not mean the
+objects are correct, realistic, safe, or production-ready, and no published
+check reflects a human looking at the result.
 
 ## Asset-level technical checks
 
@@ -16,25 +16,13 @@ production-ready.
 - Evaluated triangle count remains below the 75,000-triangle asset limit.
 - Package SHA-256 and file size are sealed into the technical state.
 
-## AI visual review criteria
+## No visual review is published
 
-Codex compared each generated reference, hero render, and inspection render
-using seven pass/fail criteria:
-
-1. Silhouette
-2. Proportions
-3. Topology and defining feature counts
-4. Material fidelity
-5. Surface detail
-6. Construction realism
-7. Presentation
-
-The public catalog includes assets only when the technical result, package
-audit, and visual review are all `pass`.
-
-The references and review were generated inside the same AI-assisted workflow.
-The resulting pass states are part of the benchmark. They are not independent
-human judgments, and visible mistakes may remain in assets marked `pass`.
+The production pipeline ran an automated self-review of its own renders. Those
+verdicts are not published, and no version of them is a human judgment, so this
+dataset makes no visual-review claim at all. Every object ships with its
+reference image and both renders precisely so you can judge the result yourself.
+Visible mistakes remain in assets whose technical checks pass.
 
 ## Collection gate
 
@@ -44,13 +32,13 @@ passed. The completed expansion records 64/64 categories and 1,280/1,280
 assets.
 
 The generated [`reports/publication-audit.json`](reports/publication-audit.json)
-verifies the public copy count, per-category count, source checksums, pass
-states, and geometry range.
+verifies the public copy count, per-category count, source checksums, technical
+pass states, and geometry range.
 
 ## Important boundaries
 
-Apple Vision Pro on-device review is pending. Technical USDZ validity and
-evidence-bound visual review do not constitute device certification or a
-guarantee of performance in a particular application. Validate selected
+Apple Vision Pro on-device review is pending. Technical USDZ validity does not
+constitute device certification or a guarantee of performance in a particular
+application. Validate selected
 assets in Reality Composer Pro, Instruments, and on target hardware before
 shipping.
