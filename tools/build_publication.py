@@ -342,7 +342,10 @@ def export_benchmarks(
             spec = specs[entry.asset_id]
             asset_dir = asset_library / spec.asset_relative_dir
             metadata = load_json(asset_dir / "metadata" / "asset.json")
-            technical = load_json(asset_dir / "qa" / "technical-state.json")
+            # The oldest collections predate the sealed technical-state record.
+            # Publish their checks as not run rather than inventing a result.
+            technical_path = asset_dir / "qa" / "technical-state.json"
+            technical = load_json(technical_path) if technical_path.is_file() else {}
             usdz_files = sorted((asset_dir / "exports").glob("*.usdz"))
             if len(usdz_files) != 1:
                 raise SystemExit(f"{entry.asset_id}: expected one USDZ export")
@@ -405,9 +408,11 @@ def export_benchmarks(
                     },
                     "validation": {
                         "technical": technical.get("result"),
-                        "package_audit": "pass"
-                        if technical.get("package_audit", {}).get("pass")
-                        else "fail",
+                        "package_audit": (
+                            "pass"
+                            if technical.get("package_audit", {}).get("pass")
+                            else ("fail" if technical else None)
+                        ),
                         "bounds": quality.get("bounds_match"),
                         "placement": quality.get("placement_plane"),
                     },

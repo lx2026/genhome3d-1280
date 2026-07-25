@@ -47,11 +47,17 @@ The catalog is one pipeline's output. A bench gives the same reference image to
 more than one model and publishes every build side by side, with the checks it
 passed and the ones it did not.
 
-The first bench is the Scandinavian Birch Oval Crib. `CRB-0002` was built by
-GPT-5.6 Sol inside the twenty-asset crib collection run. `CRB-1002` was built by
-Claude Opus 5 from the reference image alone, with no shared crib geometry. Both
-normalise to the same declared 1.42 × 0.82 × 1.00 m envelope, so they differ by
-interpretation rather than by size.
+There are 68 benches, one design target per category. In each, the catalog asset
+was built by GPT-5.6 Sol inside that category's twenty-asset run, and the second
+build was made by Claude Opus 5 from the reference image alone, with no shared
+category geometry. Both normalise to the same declared envelope, so a bench shows
+interpretation rather than size.
+
+The Opus 5 builds were audited against their references after the fact: 29 of 68
+are clean and 39 carry a construction defect, 60 in total, listed in
+[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md). Those defects are left
+in the published builds. A bench that quietly repaired one model's misses would
+not measure anything.
 
 Each build opens as an interactive USDZ next to the reference image, the same
 viewer the catalog uses.

@@ -179,10 +179,15 @@ test("the bench page compares one reference against every model build", async ({
   await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
   await expect(page.locator("h1")).toContainText("The same reference, built by different models");
 
+  await expect(page.locator(".bench")).toHaveCount(68);
+  await expect(page.locator("#bench-index li")).toHaveCount(68);
+
   const bench = page.locator(".bench").first();
   await expect(bench).toBeVisible();
   const reference = bench.locator(".bench-reference img");
   await expect(reference).toHaveAttribute("src", /references\/benchmarks\/.+\.jpg$/);
+  // 68 benches carry over 300 images, so they load lazily; scroll before asserting.
+  await reference.scrollIntoViewIfNeeded();
   await expect
     .poll(() => reference.evaluate((image) => image.naturalWidth))
     .toBeGreaterThan(0);
@@ -203,6 +208,7 @@ test("the bench page compares one reference against every model build", async ({
   for (const index of [0, 1]) {
     const hero = columns.nth(index).locator("img").first();
     await expect(hero).toHaveAttribute("src", /previews\/benchmarks\/.+\.jpg$/);
+    await hero.scrollIntoViewIfNeeded();
     await expect
       .poll(() => hero.evaluate((image) => image.naturalWidth))
       .toBeGreaterThan(0);
@@ -212,7 +218,10 @@ test("the bench page compares one reference against every model build", async ({
     );
   }
 
-  await expect(bench.locator(".bench-observations li").first()).toBeVisible();
+  // Observations are hand written per bench, so assert the one that has them.
+  const observed = page.locator("#bench-oval-crib .bench-observations li");
+  await expect(observed.first()).toBeAttached();
+  expect(await observed.count()).toBeGreaterThan(2);
   expect(consoleErrors).toEqual([]);
   expect(pageErrors).toEqual([]);
 });
@@ -252,7 +261,7 @@ test("bench builds open as interactive USDZ previews beside the reference", asyn
 
 test("the landing page routes to the bench", async ({ page }) => {
   await page.goto(baseURL, { waitUntil: "networkidle" });
-  await expect(page.locator('[data-stat="benches"]')).toHaveText("1");
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("68");
   await expect(page.locator('[data-stat="bench-models"]')).toHaveText("2");
   await page.locator(".bench-band-card a.button").click();
   await expect(page.locator("h1")).toContainText("The same reference, built by different models");

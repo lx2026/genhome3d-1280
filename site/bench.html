@@ -82,8 +82,16 @@
             No bench picks a winner. The differences are listed so you can judge the
             builds yourself.
           </li>
+          <li>
+            The Claude Opus 5 builds were audited against their references afterwards
+            and 39 of 68 carry a construction defect. Those are recorded in
+            <a href="https://github.com/lx2026/genhome3d-1280/blob/main/reports/bench-visual-qc.md">the
+            audit report</a> and left in the builds, because the misses are the result.
+          </li>
         </ul>
       </section>
+
+      <nav class="bench-index" id="bench-index" aria-label="All benches"></nav>
 
       <div id="benches" class="bench-list" aria-live="polite">
         <p class="bench-loading">Loading benches…</p>

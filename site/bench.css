@@ -436,3 +436,52 @@
     border-radius: 14px;
   }
 }
+
+.bench-index {
+  /* The stylesheet lays bare <nav> out as a flex row for the site header. */
+  display: block;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 5vw 3rem;
+}
+
+.bench-index h2 {
+  margin: 0 0 1rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--muted);
+}
+
+.bench-index ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.35rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.bench-index li {
+  display: flex;
+  flex-direction: column;
+  padding: 0.4rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.bench-index a {
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.bench-index a:hover {
+  text-decoration: underline;
+}
+
+.bench-index span {
+  color: var(--muted);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}

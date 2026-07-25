@@ -291,6 +291,27 @@ const renderSummary = (document_) => {
   set("builds", formatCount(builds));
 };
 
+const renderIndex = (benches) => {
+  const index = document.querySelector("#bench-index");
+  if (!index) return;
+  index.replaceChildren();
+  const heading = document.createElement("h2");
+  heading.textContent = `All ${benches.length} benches`;
+  index.append(heading);
+  const list = document.createElement("ul");
+  benches.forEach((bench) => {
+    const item = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = `#bench-${bench.id}`;
+    link.textContent = bench.title;
+    const category = document.createElement("span");
+    category.textContent = bench.category_label;
+    item.append(link, category);
+    list.append(item);
+  });
+  index.append(list);
+};
+
 const showMessage = (message) => {
   elements.list.replaceChildren();
   const paragraph = document.createElement("p");
@@ -310,6 +331,7 @@ const init = async () => {
       showMessage("No benches published yet.");
       return;
     }
+    renderIndex(benches);
     elements.list.replaceChildren();
     benches.forEach((bench) => elements.list.append(buildBench(bench)));
   } catch (error) {
