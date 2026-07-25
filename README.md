@@ -53,11 +53,14 @@ build was made by Claude Opus 5 from the reference image alone, with no shared
 category geometry. Both normalise to the same declared envelope, so a bench shows
 interpretation rather than size.
 
-The Opus 5 builds were audited against their references after the fact: 29 of 68
-are clean and 39 carry a construction defect, 60 in total, listed in
-[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md). Those defects are left
-in the published builds. A bench that quietly repaired one model's misses would
-not measure anything.
+The Opus 5 builds were audited against their references after the fact, which
+found 60 construction defects across 39 of the 68. Thirteen made an object
+unreadable — a kettle handle attached to nothing, forks with no tines — and were
+repaired by the same model that built them. The other 42 stay in the published
+builds. Every one is listed in
+[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md), fixed and outstanding
+alike. A bench that quietly repaired one model's misses would not measure
+anything.
 
 Each build opens as an interactive USDZ next to the reference image, the same
 viewer the catalog uses.

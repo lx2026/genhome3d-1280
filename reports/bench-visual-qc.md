@@ -5,73 +5,74 @@ authoritative reference images. Each asset's reference, hero render and reverse
 inspection render were compared; every candidate defect was then re-examined by a
 second reviewer instructed to refute it. 61 candidates were raised and 60 survived.
 
-This file is benchmark output, not a defect backlog that gates release. The point
-of the bench is what the model actually built, so the misses are recorded rather
-than hidden. Camera, lighting, texture detail and simplified ornament were
-explicitly out of scope.
+Camera, lighting, texture detail and simplified ornament were out of scope.
 
 ## Result
 
 - 68 rebuilds audited; 29 clean, 39 carrying at least one confirmed defect.
-- 13 blocking, 31 major, 16 minor.
-- Dominant classes: missing feature (16), floating or detached part (14),
-  proportion (8), wrong orientation (4).
-- `ART-1001` is fixed: its ribbon crossing now lands on a post sized by the same
-  solve that places the lobes clear of the base. The rest stand as built.
+- 60 defects confirmed: 13 blocking, 31 major, 16 minor.
+- 18 are now fixed, including every blocking one (0 blocking outstanding).
+- 42 remain, listed below and left in the published builds.
+
+Fixing every remaining defect would make the bench a measure of how long the
+author kept iterating rather than of what the model built, so the outstanding
+list stays in the record. The blocking ones were repaired because they made an
+object unreadable: a detached handle, a chandelier hanging off its column,
+forks with no tines.
 
 ## Confirmed defects
 
 ### ART-1001
 
-- **blocking** (floating-part) — FIXED 2026-07-25: The figure-eight ribbon is completely detached from its support: it hovers in mid-air roughly 6 cm above the tip of the base post, touching nothing.
+- **blocking** (floating-part) — **fixed**: The figure-eight ribbon is completely detached from its support: it hovers in mid-air roughly 6 cm above the tip of the base post, touching nothing.
 
 ### BLK-1001
 
-- **blocking** (intersecting-part): The twelve tassels are buried inside the folded stack instead of hanging off the front edge, so the reference's defining tassel fringe does not read at all.
-- **major** (floating-part): The woven ladder-band trim is detached and floats in mid-air at both ends of the throw.
-- **major** (degenerate-geometry): Each fold layer tapers to a zero-thickness knife point at its left and right ends, so the object reads as three sheets of sharp card rather than a folded textile.
+- **blocking** (intersecting-part) — **fixed**: The twelve tassels are buried inside the folded stack instead of hanging off the front edge, so the reference's defining tassel fringe does not read at all.
+- **major** (floating-part) — **fixed**: The woven ladder-band trim is detached and floats in mid-air at both ends of the throw.
+- **major** (degenerate-geometry) — **fixed**: Each fold layer tapers to a zero-thickness knife point at its left and right ends, so the object reads as three sheets of sharp card rather than a folded textile.
 
 ### CHD-1001
 
-- **blocking** (floating-part): The entire eight-arm candle cluster is detached from the central column and hangs in mid-air roughly 0.17 m below it.
-- **major** (floating-part): The drop finial floats free below the arm hub instead of being attached under the central ball.
+- **blocking** (floating-part) — **fixed**: The entire eight-arm candle cluster is detached from the central column and hangs in mid-air roughly 0.17 m below it.
+- **major** (floating-part) — **fixed**: The drop finial floats free below the arm hub instead of being attached under the central ball.
 - **minor** (missing-feature): The eight candle lamps are absent; each candle sleeve ends as a bare flat-topped tube.
 
 ### CHR-1002
 
-- **blocking** (floating-part): The continuous arm bow's two forward ends stop in mid-air as blunt, flat-cut tube ends about 0.2 m above the seat — the chair has no arms at all.
+- **blocking** (floating-part) — **fixed**: The continuous arm bow's two forward ends stop in mid-air as blunt, flat-cut tube ends about 0.2 m above the seat — the chair has no arms at all.
 - **major** (proportion): The seat is a plain square-cornered rectangular board roughly as deep as it is wide, instead of the reference's shaped saddle seat.
 
 ### CUT-1001
 
-- **blocking** (missing-feature): Neither fork has tines - both fork pieces are solid convex almond-shaped heads with no slots cut through them.
-- **blocking** (missing-feature): The knife has no blade - the middle piece is the same convex blob as the forks, with no flat blade, cutting edge, serration or bolster.
-- **blocking** (missing-feature): Both spoons have convex domed heads instead of hollow bowls - there is no cavity at all.
+- **blocking** (missing-feature) — **fixed**: Neither fork has tines - both fork pieces are solid convex almond-shaped heads with no slots cut through them.
+- **blocking** (missing-feature) — **fixed**: The knife has no blade - the middle piece is the same convex blob as the forks, with no flat blade, cutting edge, serration or bolster.
+- **blocking** (missing-feature) — **fixed**: Both spoons have convex domed heads instead of hollow bowls - there is no cavity at all.
 - **major** (proportion): All five handles are bulbous round-section ellipsoids rather than flat flatware handles, so every piece reads as a dumbbell rather than cutlery.
 
 ### KSE-1001
 
-- **blocking** (geometry-broken): The seven back spindles overshoot the bent hoop and stand roughly 9 cm proud of it, so the chair back reads as a ragged picket fence with a small arch buried inside it instead of a hoop-back enclosing the spindles.
+- **blocking** (geometry-broken) — **fixed**: The seven back spindles overshoot the bent hoop and stand roughly 9 cm proud of it, so the chair back reads as a ragged picket fence with a small arch buried inside it instead of a hoop-back enclosing the spindles.
 
 ### KST-1001
 
-- **blocking** (floating-part): All four turned bun feet are detached from the cabinet: they stand on the floor as separate free-floating bodies roughly 6-7 cm below the carcase underside, so the case itself hovers with no visible support.
+- **blocking** (floating-part) — **fixed**: All four turned bun feet are detached from the cabinet: they stand on the floor as separate free-floating bodies roughly 6-7 cm below the carcase underside, so the case itself hovers with no visible support.
 
 ### KTL-1001
 
-- **blocking** (floating-part): The arched handle is completely detached from the kettle body — both handle legs end in mid-air outboard of the shoulder instead of landing on brackets fixed to the body.
+- **blocking** (floating-part) — **fixed**: The arched handle is completely detached from the kettle body — both handle legs end in mid-air outboard of the shoulder instead of landing on brackets fixed to the body.
 - **major** (missing-feature): The whistle cap on the spout is entirely missing; the spout is a bare open cone.
 
 ### TLP-1001
 
-- **blocking** (wrong-orientation): The brass yoke is built upside down: it arcs up over the stem as an inverted U with both ends hanging free in mid-air, joined neither to the stem below nor to the shade above.
-- **blocking** (floating-part): The green glass shade hovers unsupported above the arm; nothing structural touches it.
-- **major** (broken-surface): The top of the brass stem is an uncapped opening that renders as a black cavity, with the pull chain modelled as a bare straight rod dropping into the hole.
+- **blocking** (wrong-orientation) — **fixed**: The brass yoke is built upside down: it arcs up over the stem as an inverted U with both ends hanging free in mid-air, joined neither to the stem below nor to the shade above.
+- **blocking** (floating-part) — **fixed**: The green glass shade hovers unsupported above the arm; nothing structural touches it.
+- **major** (broken-surface) — **fixed**: The top of the brass stem is an uncapped opening that renders as a black cavity, with the pull chain modelled as a bare straight rod dropping into the hole.
 
 ### VNY-1001
 
-- **blocking** (floating-part): The whole tri-fold mirror assembly hovers above the vanity top: both wings float roughly 4 cm clear of the surface with nothing supporting them, and the centre panel plus its foot stand about 1 cm clear.
-- **major** (wrong-orientation): The two mirror wings are detached from the centre panel and splay backward instead of hinging on the centre frame's stiles and angling forward, so the mirror reads as three separate free-standing boards.
+- **blocking** (floating-part) — **fixed**: The whole tri-fold mirror assembly hovers above the vanity top: both wings float roughly 4 cm clear of the surface with nothing supporting them, and the centre panel plus its foot stand about 1 cm clear.
+- **major** (wrong-orientation) — **fixed**: The two mirror wings are detached from the centre panel and splay backward instead of hinging on the centre frame's stiles and angling forward, so the mirror reads as three separate free-standing boards.
 
 ### ARM-1001
 
