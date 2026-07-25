@@ -5,6 +5,10 @@ The script intentionally exports only the completed 2026-07-17 expansion:
 64 categories with exactly 20 assets per category. Blender sources and
 internal QA evidence remain in the production repository. Web-sized copies of
 the authoritative AI reference images are published for side-by-side review.
+
+Model benches are published alongside the catalog. A bench pairs one reference
+image with the assets different models built from it; the rebuilds are kept out
+of the 20-per-category catalog so the dataset stays one pipeline's output.
 """
 
 from __future__ import annotations
@@ -12,9 +16,11 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import importlib.util
 import json
 import shutil
 import subprocess
+import sys
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -179,6 +185,54 @@ def make_reference(source: Path, destination: Path) -> None:
     )
 
 
+def make_bench_image(source: Path, destination: Path) -> None:
+    """Write one wide web copy of a bench render, keeping its framing."""
+
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    subprocess.run(
+        (
+            "ffmpeg",
+            "-y",
+            "-loglevel",
+            "error",
+            "-i",
+            str(source),
+            "-vf",
+            "scale=900:-2:flags=lanczos",
+            "-c:v",
+            "mjpeg",
+            "-q:v",
+            "4",
+            str(destination),
+        ),
+        check=True,
+    )
+
+
+def load_bench_registry(source_root: Path):
+    """Load and audit the production bench registry with its own validator."""
+
+    tools_root = source_root / "tools"
+    module_path = tools_root / "benchmarks.py"
+    if not module_path.is_file():
+        return None, {}
+    if str(tools_root) not in sys.path:
+        sys.path.insert(0, str(tools_root))
+    specification = importlib.util.spec_from_file_location(
+        "production_benchmarks", module_path
+    )
+    module = importlib.util.module_from_spec(specification)
+    # dataclasses resolves annotations through sys.modules, so register first.
+    sys.modules[specification.name] = module
+    specification.loader.exec_module(module)
+    config = module.load_config(source_root)
+    registry = module.load_benchmarks(config)
+    issues = module.audit_benchmarks(registry.values(), config)
+    if issues:
+        raise SystemExit("Bench registry audit failed:\n- " + "\n- ".join(issues))
+    return module, registry
+
+
 def category_label(category_path: str) -> str:
     return " / ".join(
         segment.replace("-", " ").title() for segment in category_path.split("/")
@@ -256,6 +310,151 @@ def compact_asset_record(
     }
 
 
+def export_benchmarks(
+    source_root: Path,
+    output_root: Path,
+    module,
+    registry: dict,
+    catalog_usdz: dict[str, str],
+    skip_previews: bool,
+) -> dict:
+    """Publish every registered bench and return the site-facing document."""
+
+    config = module.load_config(source_root)
+    specs = module.load_specs(config)
+    asset_library = source_root / "3d-asset-design" / "assets"
+    benches: list[dict] = []
+
+    for bench in registry.values():
+        reference_source = source_root / "3d-asset-design" / bench.reference
+        reference_relative = f"references/benchmarks/{bench.bench_id}.jpg"
+        make_reference(reference_source, output_root / reference_relative)
+
+        entries: list[dict] = []
+        for entry in bench.entries:
+            spec = specs[entry.asset_id]
+            asset_dir = asset_library / spec.asset_relative_dir
+            metadata = load_json(asset_dir / "metadata" / "asset.json")
+            technical = load_json(asset_dir / "qa" / "technical-state.json")
+            usdz_files = sorted((asset_dir / "exports").glob("*.usdz"))
+            if len(usdz_files) != 1:
+                raise SystemExit(f"{entry.asset_id}: expected one USDZ export")
+
+            hero_relative = f"previews/benchmarks/{bench.bench_id}/{entry.entry_id}.jpg"
+            inspection_relative = (
+                f"previews/benchmarks/{bench.bench_id}/{entry.entry_id}-inspection.jpg"
+            )
+            if not skip_previews:
+                make_bench_image(
+                    asset_dir / "renders" / "hero.png", output_root / hero_relative
+                )
+                make_bench_image(
+                    asset_dir / "renders" / "inspection.png",
+                    output_root / inspection_relative,
+                )
+
+            published_usdz = catalog_usdz.get(entry.asset_id)
+            if published_usdz is None:
+                published_usdz = (
+                    f"assets/benchmarks/{bench.bench_id}/{entry.entry_id}.usdz"
+                )
+                destination = output_root / published_usdz
+                destination.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(usdz_files[0], destination)
+                usdz_size = destination.stat().st_size
+                usdz_digest = sha256(destination)
+            else:
+                published = output_root / published_usdz
+                usdz_size = published.stat().st_size
+                usdz_digest = sha256(published)
+
+            identity = metadata["identity"]
+            dimensions = metadata["dimensions"]
+            geometry = metadata["geometry"]
+            provenance = metadata.get("provenance", {})
+            quality = metadata.get("qa", {})
+            entries.append(
+                {
+                    "id": entry.entry_id,
+                    "model": entry.model,
+                    "harness": entry.harness,
+                    "built_on": entry.built_on,
+                    "method": entry.method,
+                    "review_note": entry.review,
+                    "asset_id": entry.asset_id,
+                    "title": identity["title"],
+                    "reference_build": entry.asset_id == bench.reference_asset_id,
+                    "hero": hero_relative,
+                    "inspection": inspection_relative,
+                    "dimensions_m": {
+                        "width": dimensions["width_m"],
+                        "depth": dimensions["depth_m"],
+                        "height": dimensions["height_m"],
+                    },
+                    "geometry": {
+                        "objects": geometry.get("objects"),
+                        "vertices": geometry.get("evaluated_vertices"),
+                        "triangles": geometry.get("evaluated_triangles"),
+                        "material_slots": metadata.get("materials", {}).get("slot_count"),
+                    },
+                    "validation": {
+                        "technical": technical.get("result"),
+                        "package_audit": "pass"
+                        if technical.get("package_audit", {}).get("pass")
+                        else "fail",
+                        "bounds": quality.get("bounds_match"),
+                        "placement": quality.get("placement_plane"),
+                        "visual_review": quality.get("visual_review"),
+                    },
+                    "recorded_attribution": {
+                        "author": provenance.get("author"),
+                        "model": provenance.get("model"),
+                        "harness": provenance.get("harness"),
+                    },
+                    "usdz": published_usdz,
+                    "file_size_bytes": usdz_size,
+                    "sha256": usdz_digest,
+                    "download_url": (
+                        f"https://raw.githubusercontent.com/{REPOSITORY}/main/{published_usdz}"
+                    ),
+                }
+            )
+
+        benches.append(
+            {
+                "id": bench.bench_id,
+                "title": bench.title,
+                "summary": bench.summary,
+                "brief": bench.brief,
+                "category_path": bench.category_path,
+                "category_label": category_label(bench.category_path),
+                "dimensions_m": {
+                    "width": bench.dimensions_m[0],
+                    "depth": bench.dimensions_m[1],
+                    "height": bench.dimensions_m[2],
+                },
+                "reference": reference_relative,
+                "reference_asset_id": bench.reference_asset_id,
+                "observations": list(bench.observations),
+                "entries": entries,
+            }
+        )
+
+    return {
+        "name": "GenHome3D model benches",
+        "version": VERSION,
+        "generated_on": date.today().isoformat(),
+        "repository": f"https://github.com/{REPOSITORY}",
+        "bench_count": len(benches),
+        "note": (
+            "Each bench builds one reference image with more than one model. "
+            "Attribution is copied from the metadata recorded at build time, and "
+            "review states are reported as the library sealed them."
+        ),
+        "benches": benches,
+    }
+
+
 def main() -> None:
     args = parse_args()
     source_root = args.source.resolve()
@@ -267,6 +466,15 @@ def main() -> None:
     if len(CATEGORY_PATHS) != 64:
         raise SystemExit(f"Expected 64 category paths, found {len(CATEGORY_PATHS)}")
 
+    bench_module, bench_registry = load_bench_registry(source_root)
+    rebuild_ids = {
+        entry.asset_id
+        for bench in bench_registry.values()
+        for entry in bench.entries
+        if entry.asset_id != bench.reference_asset_id
+    }
+    rebuild_prefixes = tuple(f"{asset_id.lower()}-" for asset_id in sorted(rebuild_ids))
+
     for dirname in ("assets", "metadata", "references"):
         recreate_directory(output_root / dirname)
     if not args.skip_previews:
@@ -276,10 +484,15 @@ def main() -> None:
     records: list[dict] = []
     checksums: list[str] = []
     failures: list[str] = []
+    catalog_usdz: dict[str, str] = {}
 
     for category_path in CATEGORY_PATHS:
         category_dir = asset_library / category_path
-        asset_dirs = sorted(path for path in category_dir.iterdir() if path.is_dir())
+        asset_dirs = sorted(
+            path
+            for path in category_dir.iterdir()
+            if path.is_dir() and not path.name.startswith(rebuild_prefixes)
+        )
         if len(asset_dirs) != 20:
             failures.append(
                 f"{category_path}: expected 20 asset directories, found {len(asset_dirs)}"
@@ -344,6 +557,7 @@ def main() -> None:
                 json.dumps(record, indent=2, sort_keys=False) + "\n", encoding="utf-8"
             )
             records.append(record)
+            catalog_usdz[record["id"]] = relative_usdz.as_posix()
             checksums.append(f"{digest}  {relative_usdz.as_posix()}")
 
     records.sort(key=lambda item: (item["category_path"], item["id"]))
@@ -428,6 +642,21 @@ def main() -> None:
     (output_root / "checksums.sha256").write_text(
         "\n".join(checksums) + "\n", encoding="utf-8"
     )
+
+    bench_document = {"benches": []}
+    if bench_registry:
+        bench_document = export_benchmarks(
+            source_root,
+            output_root,
+            bench_module,
+            bench_registry,
+            catalog_usdz,
+            args.skip_previews,
+        )
+    (output_root / "benchmarks.json").write_text(
+        json.dumps(bench_document, separators=(",", ":")) + "\n", encoding="utf-8"
+    )
+
     audit = {
         "dataset": "GenHome3D-1280",
         "version": VERSION,
@@ -444,6 +673,13 @@ def main() -> None:
             record["validation"]["visual_review"] == "pass" for record in records
         ),
         "total_usdz_bytes": total_bytes,
+        "benches": [
+            {
+                "id": bench["id"],
+                "entries": [entry["model"] for entry in bench["entries"]],
+            }
+            for bench in bench_document["benches"]
+        ],
         "triangle_range": {
             "minimum": min(triangle_counts) if triangle_counts else None,
             "maximum": max(triangle_counts) if triangle_counts else None,
@@ -461,6 +697,9 @@ def main() -> None:
         f"Published {len(records)} assets across {len(category_counts)} categories "
         f"({total_bytes / 1_000_000_000:.2f} GB USDZ)."
     )
+    for bench in bench_document["benches"]:
+        models = ", ".join(entry["model"] for entry in bench["entries"])
+        print(f"Published bench {bench['id']}: {models}.")
 
 
 if __name__ == "__main__":

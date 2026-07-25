@@ -24,6 +24,21 @@ The production metadata identifies OpenAI Codex as the authoring assistant.
 The public record intentionally does not claim a specific GPT model version
 because that model identity was not sealed in each asset's provenance record.
 
+## Model benches
+
+A bench publishes more than one build of the same reference image so different
+models can be compared directly.
+
+Bench entries name their model in the production bench registry. That name is a
+declaration by the repository owner rather than a sealed record: the expansion
+program's assets seal only "OpenAI Codex" as the authoring assistant, with no
+model version. Builds made after asset specs gained an attribution block seal
+their own author, model, and harness, and `benchmarks.json` reports whichever of
+the two each entry has.
+
+Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
+the category counts, the catalog indexes, and `checksums.sha256`.
+
 ## Included in this public dataset
 
 - Final USDZ package

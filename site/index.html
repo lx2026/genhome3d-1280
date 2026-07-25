@@ -36,8 +36,9 @@
         <small>1280</small>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#library">Objects</a>
-        <a href="#method">Method</a>
+        <a href="#library" data-nav="section">Objects</a>
+        <a href="./bench.html">Benches</a>
+        <a href="#method" data-nav="section">Method</a>
         <a href="https://github.com/lx2026/genhome3d-1280">GitHub</a>
         <a href="https://huggingface.co/datasets/linxy97/genhome3d-1280">Dataset</a>
       </nav>
@@ -162,6 +163,24 @@
             <div><strong>Compare</strong><p>Keep the reference and result together, mistakes included.</p></div>
           </li>
         </ol>
+      </section>
+
+      <section class="bench-band" aria-labelledby="bench-band-title">
+        <div class="bench-band-card">
+          <p class="eyebrow">Model bench</p>
+          <h2 id="bench-band-title">A second model built one of these objects.</h2>
+          <p>
+            The catalog is one pipeline's output. A bench gives the same reference image
+            to more than one model and publishes both builds side by side, with the checks
+            each one passed and the ones it did not.
+          </p>
+          <a class="button button-primary" href="./bench.html">See the benches</a>
+        </div>
+        <dl class="bench-hero-facts">
+          <div><dt>Benches</dt><dd data-stat="benches">1</dd></div>
+          <div><dt>Models</dt><dd data-stat="bench-models">2</dd></div>
+          <div><dt>Scored</dt><dd>No</dd></div>
+        </dl>
       </section>
 
       <section class="license-band" aria-label="License and review limits">

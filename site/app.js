@@ -284,6 +284,25 @@ async function copyObjectLink() {
   }, 1600);
 }
 
+async function loadBenchSummary() {
+  const benchCount = document.querySelector('[data-stat="benches"]');
+  const modelCount = document.querySelector('[data-stat="bench-models"]');
+  if (!benchCount && !modelCount) return;
+  try {
+    const response = await fetch("./benchmarks.json", { cache: "no-cache" });
+    if (!response.ok) return;
+    const document_ = await response.json();
+    const benches = document_.benches || [];
+    const models = new Set(
+      benches.flatMap((bench) => bench.entries.map((entry) => entry.model)),
+    );
+    if (benchCount) benchCount.textContent = benches.length.toLocaleString();
+    if (modelCount) modelCount.textContent = models.size.toLocaleString();
+  } catch {
+    /* the bench teaser keeps its published defaults */
+  }
+}
+
 async function initialize() {
   try {
     const response = await fetch("./catalog.json");
@@ -300,6 +319,7 @@ async function initialize() {
       state.dataset.asset_count.toLocaleString();
     document.querySelector('[data-stat="categories"]').textContent =
       state.dataset.category_count.toLocaleString();
+    void loadBenchSummary();
     populateFilters(state.dataset);
     populateFeatured(state.dataset.assets);
     renderCards();

@@ -8,6 +8,15 @@
   "package_audit_passes": 1280,
   "visual_review_passes": 1280,
   "total_usdz_bytes": 1020966722,
+  "benches": [
+    {
+      "id": "oval-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    }
+  ],
   "triangle_range": {
     "minimum": 540,
     "maximum": 71248

@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Model benches: one generated reference image, built by more than one model, shown side by side with the checks each build passed."
+    />
+    <meta name="theme-color" content="#f7f6f2" />
+    <meta property="og:title" content="GenHome3D model benches" />
+    <meta
+      property="og:description"
+      content="One reference image given to more than one model, with both builds published."
+    />
+    <meta property="og:type" content="website" />
+    <title>Model benches — GenHome3D</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./bench.css" />
+    <script src="./bench.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#benches">Skip to the benches</a>
+
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="GenHome3D home">
+        <span class="brand-symbol" aria-hidden="true"></span>
+        <span>GenHome3D</span>
+        <small>1280</small>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="./index.html#library" data-nav="section">Objects</a>
+        <a href="./bench.html" aria-current="page">Benches</a>
+        <a href="./index.html#method" data-nav="section">Method</a>
+        <a href="https://github.com/lx2026/genhome3d-1280">GitHub</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="bench-hero" aria-labelledby="bench-hero-title">
+        <div>
+          <p class="eyebrow">Model bench</p>
+          <h1 id="bench-hero-title">The same reference, built twice.</h1>
+          <p class="hero-intro">
+            The catalog records one pipeline's output. A bench gives the same reference
+            image to more than one model, then publishes every build with the checks it
+            passed and the ones it did not.
+          </p>
+        </div>
+        <dl class="bench-hero-facts">
+          <div><dt>Benches</dt><dd data-stat="benches">—</dd></div>
+          <div><dt>Builds</dt><dd data-stat="builds">—</dd></div>
+          <div><dt>Scored</dt><dd>No</dd></div>
+        </dl>
+      </section>
+
+      <section class="bench-reading" aria-label="How to read a bench">
+        <h2>How to read a bench</h2>
+        <ul>
+          <li>
+            Every build normalises to the same declared envelope, so the builds differ by
+            interpretation, not by size.
+          </li>
+          <li>
+            Model names come from the bench registry. Each build also reports what its
+            own metadata sealed at build time; the original library sealed an assistant
+            name and no model version.
+          </li>
+          <li>
+            Review states are reported exactly as the library sealed them. A build that
+            has not been reviewed says so; nothing here self-certifies.
+          </li>
+          <li>
+            No bench picks a winner. The differences are listed so you can judge the
+            builds yourself.
+          </li>
+        </ul>
+      </section>
+
+      <div id="benches" class="bench-list" aria-live="polite">
+        <p class="bench-loading">Loading benches…</p>
+      </div>
+    </main>
+
+    <footer>
+      <a class="brand footer-brand" href="./index.html">
+        <span class="brand-symbol" aria-hidden="true"></span>
+        <span>GenHome3D</span>
+      </a>
+      <p>One reference image, more than one model.</p>
+      <div>
+        <a href="./index.html">Catalog</a>
+        <a href="https://github.com/lx2026/genhome3d-1280">Repository</a>
+        <a href="https://github.com/lx2026/genhome3d-1280/blob/main/METHOD.md">Method</a>
+        <a href="https://creativecommons.org/licenses/by/4.0/">License</a>
+      </div>
+    </footer>
+
+    <template id="bench-template">
+      <article class="bench">
+        <header class="bench-header">
+          <div>
+            <p class="eyebrow" data-field="category">Category</p>
+            <h2 data-field="title">Bench</h2>
+            <p class="bench-summary" data-field="summary"></p>
+          </div>
+          <dl class="bench-target-facts">
+            <div><dt>Target</dt><dd data-field="target-id"></dd></div>
+            <div><dt>Declared size</dt><dd data-field="dimensions"></dd></div>
+            <div><dt>Builds</dt><dd data-field="entry-count"></dd></div>
+          </dl>
+        </header>
+
+        <div class="bench-body">
+          <figure class="bench-reference">
+            <span class="bench-label">The reference</span>
+            <img data-field="reference" alt="" loading="lazy" decoding="async" />
+            <figcaption>
+              <p data-field="brief"></p>
+            </figcaption>
+          </figure>
+          <div class="bench-columns" data-field="columns"></div>
+        </div>
+
+        <section class="bench-observations" data-field="observations-section">
+          <h3>What differs</h3>
+          <ul data-field="observations"></ul>
+        </section>
+      </article>
+    </template>
+
+    <template id="bench-column-template">
+      <article class="bench-column">
+        <header>
+          <p class="bench-model" data-field="model"></p>
+          <p class="bench-harness"><span data-field="harness"></span> · <span data-field="built-on"></span></p>
+          <p class="bench-sealed" data-field="sealed"></p>
+        </header>
+        <div class="bench-shots">
+          <figure>
+            <img data-field="hero" alt="" loading="lazy" decoding="async" />
+            <figcaption class="bench-label">Result</figcaption>
+          </figure>
+          <figure>
+            <img data-field="inspection" alt="" loading="lazy" decoding="async" />
+            <figcaption class="bench-label">Reverse</figcaption>
+          </figure>
+        </div>
+        <dl class="bench-metrics">
+          <div><dt>Triangles</dt><dd data-field="triangles"></dd></div>
+          <div><dt>Parts</dt><dd data-field="objects"></dd></div>
+          <div><dt>Materials</dt><dd data-field="materials"></dd></div>
+          <div><dt>USDZ</dt><dd data-field="size"></dd></div>
+        </dl>
+        <ul class="bench-checks" data-field="checks"></ul>
+        <p class="bench-note" data-field="method"></p>
+        <p class="bench-note bench-review" data-field="review"></p>
+        <div class="bench-column-actions">
+          <a class="button button-primary" data-field="download" rel="ar" download>Download USDZ</a>
+          <span class="bench-asset-id" data-field="asset-id"></span>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>

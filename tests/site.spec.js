@@ -167,3 +167,59 @@ test("mobile layout preserves navigation and search", async ({ page }) => {
     fullPage: true,
   });
 });
+
+test("the bench page compares one reference against every model build", async ({ page }) => {
+  const consoleErrors = [];
+  const pageErrors = [];
+  page.on("console", (message) => {
+    if (message.type() === "error") consoleErrors.push(message.text());
+  });
+  page.on("pageerror", (error) => pageErrors.push(error.message));
+
+  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
+  await expect(page.locator("h1")).toContainText("The same reference, built twice");
+
+  const bench = page.locator(".bench").first();
+  await expect(bench).toBeVisible();
+  const reference = bench.locator(".bench-reference img");
+  await expect(reference).toHaveAttribute("src", /references\/benchmarks\/.+\.jpg$/);
+  await expect
+    .poll(() => reference.evaluate((image) => image.naturalWidth))
+    .toBeGreaterThan(0);
+
+  const columns = bench.locator(".bench-column");
+  await expect(columns).toHaveCount(2);
+  await expect(columns.nth(0).locator(".bench-model")).toHaveText("GPT-5.6 Sol");
+  await expect(columns.nth(1).locator(".bench-model")).toHaveText("Claude Opus 5");
+
+  // Every build reports the attribution its own metadata sealed, and no build
+  // is allowed to claim a review the library has not sealed.
+  await expect(columns.nth(0).locator(".bench-sealed")).toContainText("no model version");
+  await expect(columns.nth(1).locator(".bench-sealed")).toContainText("claude-opus-5");
+  await expect(columns.nth(0).locator(".bench-check-pass").last()).toContainText("pass");
+  await expect(columns.nth(1).locator(".bench-check-pending")).toContainText("not reviewed");
+
+  for (const index of [0, 1]) {
+    const hero = columns.nth(index).locator("img").first();
+    await expect(hero).toHaveAttribute("src", /previews\/benchmarks\/.+\.jpg$/);
+    await expect
+      .poll(() => hero.evaluate((image) => image.naturalWidth))
+      .toBeGreaterThan(0);
+    await expect(columns.nth(index).locator("[data-field='download']")).toHaveAttribute(
+      "href",
+      /\.usdz$/,
+    );
+  }
+
+  await expect(bench.locator(".bench-observations li").first()).toBeVisible();
+  expect(consoleErrors).toEqual([]);
+  expect(pageErrors).toEqual([]);
+});
+
+test("the landing page routes to the bench", async ({ page }) => {
+  await page.goto(baseURL, { waitUntil: "networkidle" });
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("1");
+  await expect(page.locator('[data-stat="bench-models"]')).toHaveText("2");
+  await page.locator(".bench-band-card a.button").click();
+  await expect(page.locator("h1")).toContainText("The same reference, built twice");
+});

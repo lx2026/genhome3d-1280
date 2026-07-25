@@ -4,6 +4,7 @@
 household and spatial-design objects in 3D.**
 
 [Explore the visual catalog](https://lx2026.github.io/genhome3d-1280/) ·
+[Compare models on the bench](https://lx2026.github.io/genhome3d-1280/bench.html) ·
 [Browse on Hugging Face](https://huggingface.co/datasets/linxy97/genhome3d-1280) ·
 [Download release archives](https://github.com/lx2026/genhome3d-1280/releases) ·
 [Read the generation method](METHOD.md) ·
@@ -40,6 +41,25 @@ with stable IDs, authored dimensions, searchable metadata, an original AI
 reference, a generated preview, and a self-contained USDZ package. The visual
 review was also performed by Codex and is benchmark output, not human curation.
 
+## Model bench
+
+The catalog is one pipeline's output. A bench gives the same reference image to
+more than one model and publishes every build side by side, with the checks it
+passed and the ones it did not.
+
+The first bench is the Scandinavian Birch Oval Crib. `CRB-0002` was built by
+GPT-5.6 Sol inside the twenty-asset crib collection run. `CRB-1002` was built by
+Claude Opus 5 from the reference image alone, with no shared crib geometry. Both
+normalise to the same declared 1.42 × 0.82 × 1.00 m envelope, so they differ by
+interpretation rather than by size.
+
+Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
+the category counts, the catalog indexes, and `checksums.sha256`, and ship under
+`assets/benchmarks/` with their own records in
+[`benchmarks.json`](benchmarks.json). Model names come from the production bench
+registry; each entry also reports the attribution its own metadata sealed at
+build time. No bench assigns a score.
+
 ## Download
 
 Download individual assets directly from [`assets/`](assets) or the
@@ -66,6 +86,10 @@ assets/<group>/<category>/<slug>.usdz       Runtime packages
 metadata/<group>/<category>/<slug>.json     Per-asset records
 previews/<group>/<category>/<slug>.jpg      Optimized hero previews
 references/<group>/<category>/<slug>.jpg    Original AI design references
+assets/benchmarks/<bench>/<entry>.usdz      Bench build packages
+previews/benchmarks/<bench>/<entry>.jpg     Bench build previews
+references/benchmarks/<bench>.jpg           Bench reference images
+benchmarks.json                             Bench records
 catalog.json                                Complete machine-readable catalog
 catalog.csv                                 Flat analysis-friendly catalog
 checksums.sha256                            USDZ integrity manifest

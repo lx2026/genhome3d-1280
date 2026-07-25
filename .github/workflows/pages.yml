@@ -8,6 +8,7 @@ on:
       - "previews/**"
       - "references/**"
       - "catalog.json"
+      - "benchmarks.json"
       - "package.json"
       - "package-lock.json"
       - "tools/build_site.sh"
