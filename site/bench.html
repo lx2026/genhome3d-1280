@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Model benches: one generated reference image, built by more than one model, shown side by side with the checks each build passed."
+      content="One picture, built by two models. Every build is shown next to the picture it came from, with the checks it passed and the problems found in it."
     />
     <meta name="theme-color" content="#f7f6f2" />
     <meta property="og:title" content="GenHome3D model benches" />
     <meta
       property="og:description"
-      content="One reference image given to more than one model, with every build published."
+      content="One picture, given to two models. Every build published."
     />
     <meta property="og:type" content="website" />
     <title>Model benches — GenHome3D</title>
@@ -45,59 +45,73 @@
     </header>
 
     <main id="top">
-      <section class="bench-hero" aria-labelledby="bench-hero-title">
+      <section class="bench-intro" aria-labelledby="bench-intro-title">
         <div>
           <p class="eyebrow">Model bench</p>
-          <h1 id="bench-hero-title">The same reference, built by different models.</h1>
+          <h1 id="bench-intro-title">Same picture, different models.</h1>
           <p class="hero-intro">
-            The catalog records one pipeline's output. A bench gives the same reference
-            image to more than one model, then publishes every build with the checks it
-            passed and the ones it did not.
+            Every object in this catalog started as one picture. For the objects below,
+            a second model got that same picture and built the object again on its own.
+            Both builds are here, next to the picture they came from. Click any build to
+            turn it around in 3D.
           </p>
         </div>
-        <dl class="bench-hero-facts">
-          <div><dt>Benches</dt><dd data-stat="benches">—</dd></div>
+        <dl class="bench-facts">
+          <div><dt>Pictures</dt><dd data-stat="benches">—</dd></div>
           <div><dt>Builds</dt><dd data-stat="builds">—</dd></div>
-          <div><dt>Scored</dt><dd>No</dd></div>
+          <div><dt>Models</dt><dd data-stat="models">—</dd></div>
         </dl>
       </section>
 
-      <section class="bench-reading" aria-label="How to read a bench">
-        <h2>How to read a bench</h2>
+      <section class="bench-notes" aria-label="Worth knowing">
         <ul>
           <li>
-            Every build normalises to the same declared envelope, so the builds differ by
-            interpretation, not by size.
+            <strong>Same box.</strong> Every build is scaled to the same measurements, so
+            what changes between them is the shape, not the size.
           </li>
           <li>
-            Model names come from the bench registry. Each build also reports what its
-            own metadata sealed at build time; the original library sealed an assistant
-            name and no model version.
+            <strong>No ranking.</strong> Nothing here picks a winner. Look at the two
+            builds and decide for yourself.
           </li>
           <li>
-            No build on this page has been reviewed by a person. The checks are
-            automated: package structure, scale, authored bounds, and floor placement.
+            <strong>The checks are automatic.</strong> A program checks the file, the
+            measurements, and whether the object sits on the floor. It cannot tell you
+            whether the object looks right.
           </li>
-          <li>
-            No bench picks a winner. The differences are listed so you can judge the
-            builds yourself.
-          </li>
-          <li>
-            The Claude Opus 5 builds were audited against their references afterwards,
-            which found 60 construction defects across 39 of the 68. The 13 that made
-            an object unreadable were repaired; 42 remain in 33 builds. All of them are
-            listed in
-            <a href="https://github.com/lx2026/genhome3d-1280/blob/main/reports/bench-visual-qc.md">the
-            audit report</a>, fixed and outstanding alike, because the misses are the
-            result.
+          <li data-field="audit-note">
+            <strong>The problems are listed.</strong> The Claude Opus 5 builds were
+            compared against their pictures afterwards.
           </li>
         </ul>
       </section>
 
-      <nav class="bench-index" id="bench-index" aria-label="All benches"></nav>
+      <div class="bench-controls" role="search">
+        <input
+          class="bench-search"
+          type="search"
+          id="bench-search"
+          aria-label="Search benches"
+          placeholder="Search by name or room"
+          autocomplete="off"
+        />
+        <select id="bench-category" aria-label="Filter by room">
+          <option value="">Every room</option>
+        </select>
+        <label class="bench-toggle">
+          <input type="checkbox" id="bench-only-issues" />
+          <span>Only ones with problems</span>
+        </label>
+        <p class="bench-count" id="bench-count" role="status" aria-live="polite"></p>
+      </div>
 
       <div id="benches" class="bench-list" aria-live="polite">
-        <p class="bench-loading">Loading benches…</p>
+        <p class="bench-loading">Loading…</p>
+      </div>
+
+      <div class="bench-more-row">
+        <button class="button button-secondary" id="bench-show-more" type="button" hidden>
+          Show more
+        </button>
       </div>
     </main>
 
@@ -106,7 +120,7 @@
         <span class="brand-symbol" aria-hidden="true"></span>
         <span>GenHome3D</span>
       </a>
-      <p>One reference image, more than one model.</p>
+      <p>One picture, more than one model.</p>
       <div>
         <a href="./index.html">Catalog</a>
         <a href="https://github.com/lx2026/genhome3d-1280">Repository</a>
@@ -130,8 +144,8 @@
         <div class="viewer-comparison">
           <section class="viewer-panel viewer-reference-panel" aria-labelledby="bench-viewer-reference-label">
             <div class="viewer-panel-heading">
-              <p class="viewer-panel-label" id="bench-viewer-reference-label">Reference</p>
-              <span>The shared design target</span>
+              <p class="viewer-panel-label" id="bench-viewer-reference-label">The picture</p>
+              <span>What both models were given</span>
             </div>
             <div class="viewer-reference-stage">
               <img id="bench-viewer-reference" alt="" />
@@ -139,8 +153,8 @@
           </section>
           <section class="viewer-panel" aria-labelledby="bench-viewer-result-label">
             <div class="viewer-panel-heading">
-              <p class="viewer-panel-label" id="bench-viewer-result-label">3D result</p>
-              <span>Drag to rotate · Scroll or pinch to zoom</span>
+              <p class="viewer-panel-label" id="bench-viewer-result-label">The build</p>
+              <span>Drag to turn · Scroll or pinch to zoom</span>
             </div>
             <div class="viewer-stage" id="bench-viewer-stage">
               <img class="viewer-poster" id="bench-viewer-poster" alt="" />
@@ -150,8 +164,8 @@
               ></canvas>
               <div class="viewer-status" id="bench-viewer-status" role="status" aria-live="polite">
                 <span class="viewer-spinner" aria-hidden="true"></span>
-                <strong id="bench-viewer-status-title">Preparing 3D preview</strong>
-                <small id="bench-viewer-status-detail">The model loads only when requested.</small>
+                <strong id="bench-viewer-status-title">Getting the 3D file</strong>
+                <small id="bench-viewer-status-detail">It loads only when you ask for it.</small>
               </div>
             </div>
           </section>
@@ -176,68 +190,82 @@
 
     <template id="bench-template">
       <article class="bench">
-        <header class="bench-header">
+        <header class="bench-head">
           <div>
-            <p class="eyebrow" data-field="category">Category</p>
+            <p class="bench-cat" data-field="category">Category</p>
             <h2 data-field="title">Bench</h2>
-            <p class="bench-summary" data-field="summary"></p>
           </div>
-          <dl class="bench-target-facts">
-            <div><dt>Target</dt><dd data-field="target-id"></dd></div>
-            <div><dt>Declared size</dt><dd data-field="dimensions"></dd></div>
-            <div><dt>Builds</dt><dd data-field="entry-count"></dd></div>
-          </dl>
+          <p class="bench-size"><span data-field="dimensions"></span></p>
         </header>
 
-        <div class="bench-body">
-          <figure class="bench-reference">
-            <span class="bench-label">The reference</span>
-            <img data-field="reference" alt="" loading="lazy" decoding="async" />
+        <div class="bench-row" data-field="tiles">
+          <figure class="tile">
+            <div class="tile-frame">
+              <img data-field="reference" alt="" loading="lazy" decoding="async" />
+            </div>
             <figcaption>
-              <p data-field="brief"></p>
+              <span class="tile-name">The picture</span>
+              <span class="tile-sub" data-field="brief"></span>
             </figcaption>
           </figure>
-          <div class="bench-columns" data-field="columns"></div>
         </div>
 
-        <section class="bench-observations" data-field="observations-section">
-          <h3>What differs</h3>
+        <p class="bench-swipe" aria-hidden="true">Swipe to compare</p>
+
+        <section class="bench-diff" data-field="observations-section">
+          <h3>What's different</h3>
           <ul data-field="observations"></ul>
         </section>
+
+        <details class="bench-more">
+          <summary>Numbers, checks and downloads</summary>
+          <div class="bench-more-body" data-field="details"></div>
+        </details>
       </article>
     </template>
 
-    <template id="bench-column-template">
-      <article class="bench-column">
-        <header>
-          <p class="bench-model" data-field="model"></p>
-          <p class="bench-harness"><span data-field="harness"></span> · <span data-field="built-on"></span></p>
-          <p class="bench-sealed" data-field="sealed"></p>
-        </header>
-        <div class="bench-shots">
-          <button class="bench-shot bench-shot-open" type="button" data-field="view">
-            <span class="bench-label">Result</span>
-            <img data-field="hero" alt="" loading="lazy" decoding="async" />
-            <span class="bench-shot-cue" aria-hidden="true">View in 3D <b>↗</b></span>
-          </button>
-          <figure class="bench-shot">
-            <span class="bench-label">Reverse</span>
+    <template id="bench-tile-template">
+      <button class="tile tile-build" type="button">
+        <div class="tile-frame">
+          <img data-field="hero" alt="" loading="lazy" decoding="async" />
+          <span class="tile-cue" aria-hidden="true">Open in 3D</span>
+        </div>
+        <span class="tile-caption">
+          <span class="tile-name" data-field="model"></span>
+          <span class="tile-sub" data-field="numbers"></span>
+          <span class="tile-flags" data-field="flags"></span>
+        </span>
+      </button>
+    </template>
+
+    <template id="bench-detail-template">
+      <section class="detail">
+        <h3 data-field="model"></h3>
+        <div class="detail-body">
+          <figure class="detail-shot">
             <img data-field="inspection" alt="" loading="lazy" decoding="async" />
+            <figcaption>From behind</figcaption>
           </figure>
+          <div class="detail-text">
+            <dl class="detail-numbers">
+              <div><dt>Triangles</dt><dd data-field="triangles"></dd></div>
+              <div><dt>Parts</dt><dd data-field="objects"></dd></div>
+              <div><dt>Materials</dt><dd data-field="materials"></dd></div>
+              <div><dt>File</dt><dd data-field="size"></dd></div>
+            </dl>
+            <p class="detail-line" data-field="checks"></p>
+            <p class="detail-line" data-field="method"></p>
+            <p class="detail-line detail-quiet" data-field="sealed"></p>
+            <ul class="issue-list" data-field="issues"></ul>
+            <div class="detail-actions">
+              <a class="button button-primary" data-field="download" rel="ar" download>
+                Download USDZ
+              </a>
+              <span class="detail-id" data-field="asset-id"></span>
+            </div>
+          </div>
         </div>
-        <dl class="bench-metrics">
-          <div><dt>Triangles</dt><dd data-field="triangles"></dd></div>
-          <div><dt>Parts</dt><dd data-field="objects"></dd></div>
-          <div><dt>Materials</dt><dd data-field="materials"></dd></div>
-          <div><dt>USDZ</dt><dd data-field="size"></dd></div>
-        </dl>
-        <ul class="bench-checks" data-field="checks"></ul>
-        <p class="bench-note" data-field="method"></p>
-        <div class="bench-column-actions">
-          <a class="button button-primary" data-field="download" rel="ar" download>Download USDZ</a>
-          <span class="bench-asset-id" data-field="asset-id"></span>
-        </div>
-      </article>
+      </section>
     </template>
   </body>
 </html>

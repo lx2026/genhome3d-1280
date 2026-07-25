@@ -177,53 +177,94 @@ test("the bench page compares one reference against every model build", async ({
   page.on("pageerror", (error) => pageErrors.push(error.message));
 
   await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-  await expect(page.locator("h1")).toContainText("The same reference, built by different models");
+  await expect(page.locator("h1")).toContainText("Same picture, different models");
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("68");
+  await expect(page.locator('[data-stat="builds"]')).toHaveText("136");
 
-  await expect(page.locator(".bench")).toHaveCount(68);
-  await expect(page.locator("#bench-index li")).toHaveCount(68);
+  // Benches load a page at a time, so the whole set is never in the DOM at once.
+  await expect(page.locator(".bench")).toHaveCount(12);
+  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 68 benches");
+  await page.locator("#bench-show-more").click();
+  await expect(page.locator(".bench")).toHaveCount(24);
 
   const bench = page.locator(".bench").first();
   await expect(bench).toBeVisible();
-  const reference = bench.locator(".bench-reference img");
+  const reference = bench.locator(".tile img").first();
   await expect(reference).toHaveAttribute("src", /references\/benchmarks\/.+\.jpg$/);
-  // 68 benches carry over 300 images, so they load lazily; scroll before asserting.
   await reference.scrollIntoViewIfNeeded();
   await expect
     .poll(() => reference.evaluate((image) => image.naturalWidth))
     .toBeGreaterThan(0);
 
-  const columns = bench.locator(".bench-column");
-  await expect(columns).toHaveCount(2);
-  await expect(columns.nth(0).locator(".bench-model")).toHaveText("GPT-5.6 Sol");
-  await expect(columns.nth(1).locator(".bench-model")).toHaveText("Claude Opus 5");
-
-  // Every build reports the attribution its own metadata sealed, and no build
-  // is allowed to claim a review the library has not sealed.
-  await expect(columns.nth(0).locator(".bench-sealed")).toContainText("no model version");
-  await expect(columns.nth(1).locator(".bench-sealed")).toContainText("claude-opus-5");
-  await expect(columns.nth(0).locator(".bench-check-pass")).toHaveCount(4);
-  await expect(columns.nth(1).locator(".bench-check-pass")).toHaveCount(4);
+  const builds = bench.locator(".tile-build");
+  await expect(builds).toHaveCount(2);
+  await expect(builds.nth(0).locator(".tile-name")).toHaveText("GPT-5.6 Sol");
+  await expect(builds.nth(1).locator(".tile-name")).toHaveText("Claude Opus 5");
+  // Only the Opus 5 builds were compared against the picture, and the page says so.
+  await expect(builds.nth(0).locator(".chip-quiet")).toHaveText("Not checked");
   await expect(bench).not.toContainText("Visual review");
 
   for (const index of [0, 1]) {
-    const hero = columns.nth(index).locator("img").first();
+    const hero = builds.nth(index).locator("img");
     await expect(hero).toHaveAttribute("src", /previews\/benchmarks\/.+\.jpg$/);
     await hero.scrollIntoViewIfNeeded();
     await expect
       .poll(() => hero.evaluate((image) => image.naturalWidth))
       .toBeGreaterThan(0);
-    await expect(columns.nth(index).locator("[data-field='download']")).toHaveAttribute(
-      "href",
-      /\.usdz$/,
-    );
   }
 
-  // Observations are hand written per bench, so assert the one that has them.
-  const observed = page.locator("#bench-oval-crib .bench-observations li");
-  await expect(observed.first()).toBeAttached();
-  expect(await observed.count()).toBeGreaterThan(2);
+  // Every build reports the attribution its own metadata sealed.
+  await bench.locator(".bench-more summary").click();
+  const details = bench.locator(".detail");
+  await expect(details.nth(0)).toContainText("no model version");
+  await expect(details.nth(1)).toContainText("claude-opus-5");
+  await expect(details.nth(0)).toContainText("all four passed");
+  await expect(details.nth(0).locator("[data-field='download']")).toHaveAttribute(
+    "href",
+    /\.usdz$/,
+  );
+
   expect(consoleErrors).toEqual([]);
   expect(pageErrors).toEqual([]);
+});
+
+test("the bench page filters, searches, and reports its own defects", async ({ page }) => {
+  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
+
+  await page.locator("#bench-search").fill("kettle");
+  await expect(page.locator(".bench")).toHaveCount(1);
+  const kettle = page.locator("#bench-stainless-single-whistle-dome-kettle");
+  await expect(kettle).toBeVisible();
+
+  // The kettle's detached handle was found in the audit and repaired.
+  const opus = kettle.locator(".tile-build").nth(1);
+  await expect(opus.locator(".chip-issue")).toHaveText("1 problem");
+  await expect(opus.locator(".chip-fixed")).toHaveText("1 fixed");
+  await kettle.locator(".bench-more summary").click();
+  const issues = kettle.locator(".detail").nth(1).locator(".issue");
+  await expect(issues).toHaveCount(2);
+  await expect(issues.nth(0)).toContainText("Blocking");
+  await expect(issues.nth(0)).toContainText("Fixed");
+
+  await page.locator("#bench-search").fill("");
+  await page.locator("#bench-category").selectOption("bathroom");
+  await expect(page.locator(".bench-cat").first()).toContainText("Bathroom");
+  await page.locator("#bench-only-issues").check();
+  const counts = await page.locator(".bench").evaluateAll((cards) =>
+    cards.map((card) => card.querySelectorAll(".chip-issue").length),
+  );
+  expect(counts.length).toBeGreaterThan(0);
+  expect(counts.every((count) => count > 0)).toBe(true);
+
+  await page.locator("#bench-search").fill("nothing matches this");
+  await expect(page.locator(".bench")).toHaveCount(0);
+  await expect(page.locator(".bench-loading")).toBeVisible();
+
+  // Hash links reach benches beyond the first page.
+  await page.goto(`${baseURL}/bench.html#bench-windsor-comb-back-armchair`, {
+    waitUntil: "networkidle",
+  });
+  await expect(page.locator("#bench-windsor-comb-back-armchair")).toBeVisible();
 });
 
 test("bench builds open as interactive USDZ previews beside the reference", async ({
@@ -235,8 +276,7 @@ test("bench builds open as interactive USDZ previews beside the reference", asyn
   });
 
   await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-  const column = page.locator(".bench-column").nth(1);
-  await column.locator("[data-field='view']").click();
+  await page.locator(".tile-build").nth(1).click();
 
   const dialog = page.locator("#bench-viewer");
   await expect(dialog).toBeVisible();
@@ -264,5 +304,5 @@ test("the landing page routes to the bench", async ({ page }) => {
   await expect(page.locator('[data-stat="benches"]')).toHaveText("68");
   await expect(page.locator('[data-stat="bench-models"]')).toHaveText("2");
   await page.locator(".bench-band-card a.button").click();
-  await expect(page.locator("h1")).toContainText("The same reference, built by different models");
+  await expect(page.locator("h1")).toContainText("Same picture, different models");
 });

@@ -43,27 +43,25 @@ inspected these results by eye.
 
 ## Model bench
 
-The catalog is one pipeline's output. A bench gives the same reference image to
-more than one model and publishes every build side by side, with the checks it
-passed and the ones it did not.
+A bench gives the same picture to more than one model and publishes both builds
+next to it, with the checks each one passed and the problems found in it.
 
-There are 68 benches, one design target per category. In each, the catalog asset
-was built by GPT-5.6 Sol inside that category's twenty-asset run, and the second
-build was made by Claude Opus 5 from the reference image alone, with no shared
-category geometry. Both normalise to the same declared envelope, so a bench shows
-interpretation rather than size.
+There are 68 benches, one object per category. In each, the catalog build came
+from GPT-5.6 Sol as one of twenty objects in that category's run, and the second
+build came from Claude Opus 5 working from the picture alone, with none of that
+category's code. Both are scaled to the same measurements, so what differs is the
+shape, not the size.
 
-The Opus 5 builds were audited against their references after the fact, which
-found 60 construction defects across 39 of the 68. Thirteen made an object
-unreadable — a kettle handle attached to nothing, forks with no tines — and were
-repaired by the same model that built them. The other 42 stay in the published
-builds. Every one is listed in
-[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md), fixed and outstanding
-alike. A bench that quietly repaired one model's misses would not measure
-anything.
+The Opus 5 builds were later compared against their pictures, which turned up 60
+problems in 39 of the 68. Thirteen left the object unreadable — a kettle handle
+attached to nothing, forks with no tines — and were repaired by the model that
+built them. The other 42 are still in the published builds. All of them are
+listed in [`reports/bench-visual-qc.md`](reports/bench-visual-qc.md) and attached
+to their build in [`benchmarks.json`](benchmarks.json), fixed and unfixed alike.
+A bench that quietly repaired one model's misses would not measure anything.
 
-Each build opens as an interactive USDZ next to the reference image, the same
-viewer the catalog uses.
+Each build opens as an interactive USDZ next to the picture, the same viewer the
+catalog uses.
 
 Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
 the category counts, the catalog indexes, and `checksums.sha256`, and ship under

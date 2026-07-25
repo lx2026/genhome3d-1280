@@ -317,6 +317,26 @@ def compact_asset_record(
     }
 
 
+def load_bench_audit(source_root: Path) -> tuple[dict, dict[str, list[dict]]]:
+    """Read the newest bench visual audit and index its findings by asset."""
+
+    audits = sorted((source_root / "3d-asset-design" / "qa").glob("bench-visual-qc-*.json"))
+    if not audits:
+        return {}, {}
+    audit = load_json(audits[-1])
+    findings: dict[str, list[dict]] = {}
+    for finding in audit.get("findings", []):
+        findings.setdefault(finding["asset_id"], []).append(
+            {
+                "severity": finding["severity"],
+                "category": finding["category"],
+                "defect": finding["defect"],
+                "fixed": bool(finding.get("fixed")),
+            }
+        )
+    return audit, findings
+
+
 def export_benchmarks(
     source_root: Path,
     output_root: Path,
@@ -330,6 +350,8 @@ def export_benchmarks(
     config = module.load_config(source_root)
     specs = module.load_specs(config)
     asset_library = source_root / "3d-asset-design" / "assets"
+    audit, audit_findings = load_bench_audit(source_root)
+    audited_entries = set(audit.get("audited_entry_ids", []))
     benches: list[dict] = []
 
     for bench in registry.values():
@@ -416,6 +438,8 @@ def export_benchmarks(
                         "bounds": quality.get("bounds_match"),
                         "placement": quality.get("placement_plane"),
                     },
+                    "reviewed": entry.entry_id in audited_entries,
+                    "findings": audit_findings.get(entry.asset_id, []),
                     "recorded_attribution": {
                         "author": provenance.get("author"),
                         "model": provenance.get("model"),
@@ -461,6 +485,17 @@ def export_benchmarks(
             "Attribution is copied from the metadata recorded at build time, and "
             "review states are reported as the library sealed them."
         ),
+        "audit": {
+            "audited_on": audit.get("audited_on"),
+            "audited_entry_ids": sorted(audited_entries),
+            "reviewer": audit.get("reviewer"),
+            "method": audit.get("method"),
+            "report_url": (
+                f"https://github.com/{REPOSITORY}/blob/main/reports/bench-visual-qc.md"
+            ),
+        }
+        if audit
+        else None,
         "benches": benches,
     }
 
