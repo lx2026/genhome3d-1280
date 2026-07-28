@@ -9,7 +9,1785 @@
   "total_usdz_bytes": 1020966722,
   "benches": [
     {
+      "id": "aged-brass-bell-pump-soap-dispenser",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-bridge-arm-reading-floor-lamp",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-green-glass-banker-table-lamp",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-ribbed-glass-candle-arm-sconce",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-ribbed-glass-schoolhouse-pendant",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-three-tier-glass-rolling-cart",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-twin-riser-dual-head-shower-station",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "aged-brass-twin-strut-drafting-task-light",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "art-deco-burl-walnut-fan-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "art-deco-channel-velvet-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "art-deco-fan-back-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-morris-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-oak-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-oak-panel-end-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-oak-panel-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-oak-slat-frame-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "arts-and-crafts-oak-two-drawer-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bauhaus-tubular-cantilever-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "beech-folding-mini-crib-on-casters",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bent-plywood-loop-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bent-plywood-loop-suspended-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bent-plywood-wave-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bent-plywood-wave-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "bentwood-cafe-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "black-framed-three-panel-corner-shower",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-glass-jar-countertop-blender",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-mesh-double-door-locker",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-sliding-door-vanity-console",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-smoked-glass-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-smoked-glass-round-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-tubular-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-twin-arm-towel-valet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-steel-twin-leg-console-sink",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-triple-rivet-chef-knife",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "black-wire-three-tier-corner-shower-caddy",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "board-formed-concrete-four-well-hair-tool-organizer",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brass-oval-canopy-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brass-sunburst-openwork-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "breathable-crib-mesh-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brushed-brass-arched-mantel-clock",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brushed-five-piece-teardrop-place-setting",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brushed-nickel-floor-squeegee-and-drip-stand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brushed-nickel-round-tray-rain-shower-tower",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brushed-single-rim-stainless-mixing-bowl",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "brutalist-concrete-slot-bronze-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "california-king-hand-tufted-horsehair-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "campaign-mahogany-folding-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "campaign-mahogany-three-drawer-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "cantilever-steel-leather-drawer-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "chippendale-fretwork-side-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "clear-heavy-base-water-tumbler",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "clear-panel-rolling-nursery-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "coastal-rattan-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "cobalt-double-gourd-porcelain-vase",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "cognac-leather-strap-cushion-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "colonial-campaign-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "color-block-recycled-plastic-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "color-block-recycled-plastic-oval-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "color-blocked-recycled-plastic-modular-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "corner-oak-triangular-pivot-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "danish-cord-lounge-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "danish-walnut-floating-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "english-captains-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "english-oak-round-pub-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "federal-shield-back-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "fluted-oak-crescent-half-moon-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "fluted-travertine-drum-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "fluted-travertine-triple-arch-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "forest-green-ceramic-four-socket-toothbrush-caddy",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "french-louis-xv-bergere",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "french-provincial-cane-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "french-provincial-cane-medallion-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "french-provincial-limed-oak-bombe-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "french-provincial-limed-oak-medallion-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "french-provincial-limed-oak-oval-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "frosted-acrylic-five-drawer-rolling-cart",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "frosted-glass-two-panel-walk-in-shower-station",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "full-bi-fold-sofa-bed-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "full-coconut-coir-wool-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "full-pillow-top-pocket-coil-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "full-tri-fold-guest-foam-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-ash-seven-spindle-child-windsor-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-cast-iron-oval-pedestal-charcoal-grill",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-bow-front-drawer-console",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-bow-front-dresser",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-breakfront-credenza",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-breakfront-library-bookcase",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-broken-pediment-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-double-door-wardrobe",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-eight-hook-mirror-hall-tree",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-four-drawer-lateral-file",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-glazed-display-cabinet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-kneehole-pedestal-desk",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-oval-stretcher-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-tripod-wine-side-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-tufted-executive-swivel-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-twelve-cubby-shoe-bench",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-mahogany-twelve-spindle-umbrella-stand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-painted-pine-eight-cubby-toy-cabinet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-painted-pine-six-leg-rectangular-activity-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "georgian-weathered-lead-oval-lion-handle-urn-planter",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "graphite-twelve-tick-analog-bathroom-scale",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "hammered-copper-bateau-cradle-bathtub",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "hammered-copper-bowl-tripod-washstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "handwoven-rope-gradient-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "honed-travertine-mobius-loop-sculpture",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "honey-rattan-arched-twin-door-linen-cabinet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "industrial-black-steel-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-and-navy-seven-stripe-fringe-flatweave-rug",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-arch-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-arch-end-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-channel-arch-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-rounded-capsule-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-rounded-cube-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-high-cistern-pull-chain-toilet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-linen-eight-pinch-pleat-curtain-pair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "ivory-linen-four-corner-tassel-square-cushion",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "jacobean-quarter-sawn-oak-panel-chest",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "japanese-ash-platform-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "japanese-cotton-shikibuton",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "japanese-sugi-kumiko-end-panel-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "japanese-sugi-kumiko-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "japanese-tatami-platform-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "king-five-zone-grid-hybrid-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "king-two-sided-wool-innerspring-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "lutyens-teak-three-bay-cross-lattice-garden-bench",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "maple-four-corner-juice-groove-board",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "maple-house-frame-floor-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "matte-black-domed-lid-toilet-brush-holder",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "matte-black-skirted-one-piece-toilet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "matte-white-bowed-four-drawer-vanity-base",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "matte-white-oval-recessed-plinth-bathtub",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "mediterranean-savonarola-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "mid-century-teak-panel-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "mid-century-walnut-floating-shelf-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "mid-century-walnut-offset-round-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "minimal-aluminum-four-poster-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "minimal-storage-platform-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "mission-slat-back-armchair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "modular-gray-wool-tile-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "modular-wool-upholstered-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "narrow-ash-ladder-frame-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "narrow-plywood-pedestal-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-bamboo-four-tier-ladder-shelf",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-cedar-louvered-lid-laundry-chest",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-cedar-sixteen-stave-deep-soaking-tub",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-oak-double-basin-open-washstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-oak-five-tier-corner-fan-shelf",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-oak-tambour-tallboy",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-oak-three-rail-towel-ladder",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-rattan-arch-cabinet-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-rattan-arch-cane-drawer-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-rattan-rocking-mini-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-teak-seven-slat-bath-bridge",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-travertine-five-slot-drainage-soap-dish",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "natural-travertine-monolith-column-basin",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "navy-mesh-aluminum-travel-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "navy-three-drawer-recessed-plinth-vanity-base",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "navy-velvet-wingback-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "nesting-oak-nightstand-pair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "oatmeal-linen-twelve-fringe-folded-throw",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
       "id": "oval-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "painted-ash-side-shelf-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "painted-ash-under-drawer-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "plywood-compact-crib-changer-combo",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "plywood-pegboard-organizer-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "plywood-slide-out-wing-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "polished-chrome-two-sided-magnifying-mirror-stand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "queen-anne-wingback-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "queen-articulated-adjustable-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "queen-copper-gel-memory-foam-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "queen-euro-top-damask-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "queen-latex-pocket-coil-hybrid-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "queen-organic-latex-pin-core-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "rattan-reading-lamp-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "reclaimed-pine-farmhouse-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "recycled-plastic-color-block-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "red-silicone-jar-spatula",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "regency-klismos-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "regency-mahogany-sleigh-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "rolling-powder-coated-bedside-cart",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "rolling-sage-salon-cart-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "round-luxury-platform-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "rustic-welsh-stick-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "rv-short-queen-radius-corner-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "saddle-leather-wing-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "sage-ceramic-twin-tap-freestanding-bidet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "sage-double-slipper-four-foot-bathtub",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "sage-fluted-door-bathroom-tower",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "sage-three-hook-tripod-robe-valet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "satin-brass-pivot-ring-towel-stand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "satin-brass-twin-reserve-toilet-roll-stand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-ash-loveseat",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-ash-round-stool",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-ash-slatted-shelf-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-oak-daybed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-oak-open-armchair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-oak-slat-entry-bench",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "scandinavian-wool-round-pouf",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "sculptural-ash-wing-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-ladder-back-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-dining-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-open-shelf-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-spindle-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-spindle-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-spindle-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "shaker-maple-tri-fold-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "silver-one-helper-handle-tri-ply-frying-pan",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "silver-three-rib-reinforced-rimmed-sheet-pan",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "smoked-acrylic-c-pedestal-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "smoked-glass-ten-rib-tissue-box-cover",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "spanish-walnut-iron-canopy-bed",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "split-king-dual-comfort-mattress-pair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "stackable-birch-open-cube-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "stainless-french-door-four-panel-refrigerator",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "stainless-single-whistle-dome-kettle",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "teak-eleven-slat-raised-panel-deck-chest",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "teak-slat-shelf-spa-storage-bench",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "teak-twelve-slat-trestle-garden-dining-table",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "terrazzo-top-oak-open-shelf-vanity-console",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "thin-brass-round-halo-mirror",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "travertine-twin-pedestal-pill-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "travertine-two-shelf-pedestal-rack",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "twin-memory-foam-layered-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "twin-quilted-cotton-innerspring-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "twin-woven-tatami-mattress",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "victorian-balloon-back-chair",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Fable 5"
+      ]
+    },
+    {
+      "id": "walnut-clear-acrylic-perforated-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "walnut-tambour-capsule-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "walnut-three-cubby-bookcase-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "walnut-twin-slat-door-vanity-base",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "walnut-windsor-bow-end-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "warm-brass-eight-arm-candle-chandelier",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-aluminum-six-bar-accordion-drying-rack",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-arched-three-tier-over-fixture-etagere",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-cast-iron-four-clawfoot-roll-top-tub",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-ceramic-tall-module-compact-toilet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-coupe-dinner-plate",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-enamel-step-pedal-bathroom-bin",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-lacquer-three-bin-laundry-sorter-cabinet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-lacquer-waterfall-arch-mirror-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-lacquer-waterfall-two-drawer-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-marble-lidded-cotton-canister",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-oak-arched-cane-door-nightstand",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-oak-lift-top-console-vanity",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-oak-three-in-one-convertible-crib",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-oak-two-niche-storage-headboard",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-oval-coupe-serving-platter",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-porcelain-close-coupled-two-piece-toilet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-porcelain-fluted-pedestal-basin",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-resin-four-bin-carousel-organizer",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-resin-three-segment-cylindrical-shower-pod",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "white-shaker-double-door-linen-cabinet",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "willow-two-compartment-tilt-out-laundry-hamper",
+      "entries": [
+        "GPT-5.6 Sol",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "id": "windsor-comb-back-armchair",
       "entries": [
         "GPT-5.6 Sol",
         "Claude Opus 5"
@@ -20,5 +1798,33 @@
     "minimum": 540,
     "maximum": 71248
   },
-  "failures": []
+  "failures": [],
+  "registered_bench_count": 258,
+  "bench_count": 255,
+  "bench_builds": 510,
+  "bench_models": [
+    "Claude Fable 5",
+    "Claude Opus 5",
+    "GPT-5.6 Sol"
+  ],
+  "unpublished_benches": [
+    {
+      "id": "chesterfield-club-chair",
+      "incomplete_entries": [
+        "claude-fable-5"
+      ]
+    },
+    {
+      "id": "ivory-boucle-frame-chair",
+      "incomplete_entries": [
+        "claude-fable-5"
+      ]
+    },
+    {
+      "id": "japanese-ming-style-armchair",
+      "incomplete_entries": [
+        "claude-fable-5"
+      ]
+    }
+  ]
 }

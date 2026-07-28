@@ -46,19 +46,19 @@ inspected these results by eye.
 A bench gives the same picture to more than one model and publishes both builds
 next to it, with the checks each one passed and the problems found in it.
 
-There are 68 benches, one object per category. In each, the catalog build came
-from GPT-5.6 Sol as one of twenty objects in that category's run, and the second
-build came from Claude Opus 5 working from the picture alone, with none of that
-category's code. Both are scaled to the same measurements, so what differs is the
-shape, not the size.
+There are 255 benches. In each, the catalog build came from GPT-5.6 Sol as one
+of twenty objects in that category's run. The second build was made from the
+same picture with no shared category code: 241 by Claude Opus 5 and 14 by
+Claude Fable 5. Both builds are scaled to the same measurements, so what differs
+is the shape, not the size.
 
-The Opus 5 builds were later compared against their pictures, which turned up 60
-problems in 39 of the 68. Thirteen left the object unreadable — a kettle handle
-attached to nothing, forks with no tines — and were repaired by the model that
-built them. The other 42 are still in the published builds. All of them are
-listed in [`reports/bench-visual-qc.md`](reports/bench-visual-qc.md) and attached
-to their build in [`benchmarks.json`](benchmarks.json), fixed and unfixed alike.
-A bench that quietly repaired one model's misses would not measure anything.
+The first 68 Opus 5 builds were later compared against their pictures. That
+check found 60 problems in 39 builds. Eighteen problems, including every one
+that made an object unreadable, were fixed; the other 42 remain in the
+published builds. All of them are listed in
+[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md) and attached to their
+build in [`benchmarks.json`](benchmarks.json), fixed and unfixed alike. A bench
+that quietly repaired every miss would not measure what the model first built.
 
 Each build opens as an interactive USDZ next to the picture, the same viewer the
 catalog uses.

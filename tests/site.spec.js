@@ -178,12 +178,13 @@ test("the bench page compares one reference against every model build", async ({
 
   await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
   await expect(page.locator("h1")).toContainText("Same picture, different models");
-  await expect(page.locator('[data-stat="benches"]')).toHaveText("68");
-  await expect(page.locator('[data-stat="builds"]')).toHaveText("136");
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("255");
+  await expect(page.locator('[data-stat="builds"]')).toHaveText("510");
+  await expect(page.locator('[data-stat="models"]')).toHaveText("3");
 
   // Benches load a page at a time, so the whole set is never in the DOM at once.
   await expect(page.locator(".bench")).toHaveCount(12);
-  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 68 benches");
+  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 255 benches");
   await page.locator("#bench-show-more").click();
   await expect(page.locator(".bench")).toHaveCount(24);
 
@@ -247,6 +248,13 @@ test("the bench page filters, searches, and reports its own defects", async ({ p
   await expect(issues.nth(0)).toContainText("Fixed");
 
   await page.locator("#bench-search").fill("");
+  await page.locator("#bench-search").fill("fable");
+  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 14 benches");
+  await expect(page.locator(".tile-build .tile-name").nth(1)).toHaveText(
+    "Claude Fable 5",
+  );
+
+  await page.locator("#bench-search").fill("");
   await page.locator("#bench-category").selectOption("bathroom");
   await expect(page.locator(".bench-cat").first()).toContainText("Bathroom");
   await page.locator("#bench-only-issues").check();
@@ -301,8 +309,8 @@ test("bench builds open as interactive USDZ previews beside the reference", asyn
 
 test("the landing page routes to the bench", async ({ page }) => {
   await page.goto(baseURL, { waitUntil: "networkidle" });
-  await expect(page.locator('[data-stat="benches"]')).toHaveText("68");
-  await expect(page.locator('[data-stat="bench-models"]')).toHaveText("2");
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("255");
+  await expect(page.locator('[data-stat="bench-models"]')).toHaveText("3");
   await page.locator(".bench-band-card a.button").click();
   await expect(page.locator("h1")).toContainText("Same picture, different models");
 });

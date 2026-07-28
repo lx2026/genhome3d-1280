@@ -337,6 +337,55 @@ def load_bench_audit(source_root: Path) -> tuple[dict, dict[str, list[dict]]]:
     return audit, findings
 
 
+def incomplete_bench_entries(bench, specs: dict, asset_library: Path) -> list[str]:
+    """Return entry IDs whose complete publishable package is not present."""
+
+    incomplete: list[str] = []
+    for entry in bench.entries:
+        spec = specs.get(entry.asset_id)
+        if spec is None:
+            incomplete.append(entry.entry_id)
+            continue
+        asset_dir = asset_library / spec.asset_relative_dir
+        required = (
+            asset_dir / "metadata" / "asset.json",
+            asset_dir / "renders" / "hero.png",
+            asset_dir / "renders" / "inspection.png",
+        )
+        usdz_files = sorted((asset_dir / "exports").glob("*.usdz"))
+        if not all(path.is_file() for path in required) or len(usdz_files) != 1:
+            incomplete.append(entry.entry_id)
+    return incomplete
+
+
+def benchmark_audit_fields(bench_document: dict) -> dict:
+    """Project the current benchmark export into the publication audit."""
+
+    benches = bench_document.get("benches", [])
+    return {
+        "registered_bench_count": bench_document.get(
+            "registered_bench_count", len(benches)
+        ),
+        "bench_count": len(benches),
+        "bench_builds": sum(len(bench["entries"]) for bench in benches),
+        "bench_models": sorted(
+            {
+                entry["model"]
+                for bench in benches
+                for entry in bench.get("entries", [])
+            }
+        ),
+        "unpublished_benches": bench_document.get("unpublished_benches", []),
+        "benches": [
+            {
+                "id": bench["id"],
+                "entries": [entry["model"] for entry in bench["entries"]],
+            }
+            for bench in benches
+        ],
+    }
+
+
 def export_benchmarks(
     source_root: Path,
     output_root: Path,
@@ -345,7 +394,7 @@ def export_benchmarks(
     catalog_usdz: dict[str, str],
     skip_previews: bool,
 ) -> dict:
-    """Publish every registered bench and return the site-facing document."""
+    """Publish every complete registered bench and return the site-facing document."""
 
     config = module.load_config(source_root)
     specs = module.load_specs(config)
@@ -353,8 +402,19 @@ def export_benchmarks(
     audit, audit_findings = load_bench_audit(source_root)
     audited_entries = set(audit.get("audited_entry_ids", []))
     benches: list[dict] = []
+    unpublished_benches: list[dict] = []
 
     for bench in registry.values():
+        incomplete_entries = incomplete_bench_entries(bench, specs, asset_library)
+        if incomplete_entries:
+            unpublished_benches.append(
+                {
+                    "id": bench.bench_id,
+                    "incomplete_entries": incomplete_entries,
+                }
+            )
+            continue
+
         reference_source = source_root / "3d-asset-design" / bench.reference
         reference_relative = f"references/benchmarks/{bench.bench_id}.jpg"
         make_reference(reference_source, output_root / reference_relative)
@@ -479,7 +539,9 @@ def export_benchmarks(
         "version": VERSION,
         "generated_on": date.today().isoformat(),
         "repository": f"https://github.com/{REPOSITORY}",
+        "registered_bench_count": len(registry),
         "bench_count": len(benches),
+        "unpublished_benches": unpublished_benches,
         "note": (
             "Each bench builds one reference image with more than one model. "
             "Attribution is copied from the metadata recorded at build time, and "
@@ -534,6 +596,12 @@ def main() -> None:
         )
         (output_root / "benchmarks.json").write_text(
             json.dumps(bench_document, separators=(",", ":")) + "\n", encoding="utf-8"
+        )
+        publication_audit_path = output_root / "reports" / "publication-audit.json"
+        publication_audit = load_json(publication_audit_path)
+        publication_audit.update(benchmark_audit_fields(bench_document))
+        publication_audit_path.write_text(
+            json.dumps(publication_audit, indent=2) + "\n", encoding="utf-8"
         )
         for bench in bench_document["benches"]:
             models = ", ".join(entry["model"] for entry in bench["entries"])
@@ -732,19 +800,13 @@ def main() -> None:
             record["validation"]["package_audit"] == "pass" for record in records
         ),
         "total_usdz_bytes": total_bytes,
-        "benches": [
-            {
-                "id": bench["id"],
-                "entries": [entry["model"] for entry in bench["entries"]],
-            }
-            for bench in bench_document["benches"]
-        ],
         "triangle_range": {
             "minimum": min(triangle_counts) if triangle_counts else None,
             "maximum": max(triangle_counts) if triangle_counts else None,
         },
         "failures": failures,
     }
+    audit.update(benchmark_audit_fields(bench_document))
     (output_root / "reports" / "publication-audit.json").write_text(
         json.dumps(audit, indent=2) + "\n", encoding="utf-8"
     )
