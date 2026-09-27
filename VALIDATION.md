@@ -35,6 +35,20 @@ The generated [`reports/publication-audit.json`](reports/publication-audit.json)
 verifies the public copy count, per-category count, source checksums, technical
 pass states, and geometry range.
 
+## Astra benchmark publication
+
+The Astra importer checks the completed production manifest and technical
+build/export/evidence states, then verifies each copied USDZ against its source
+SHA-256. It publishes exactly 1,280 new Astra entries, 20 for each of the 64
+expansion categories, while preserving the original catalog and prior model
+entries. The run's geometry maximum is 74,228 triangles against the 75,000 limit.
+Warnings about unequal axis scaling remain limitations of reference fidelity;
+passing the geometry budget does not imply a visual score.
+
+The site fetches USDZ files on demand from the repository's existing download
+host. Deployment verification checks the published comparison counts, model
+and category filters, previews, downloads, and representative interactive models.
+
 ## Important boundaries
 
 Apple Vision Pro on-device review is pending. Technical USDZ validity does not

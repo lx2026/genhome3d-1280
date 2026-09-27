@@ -13,6 +13,25 @@ asset and validation contracts.
 
 The prompts mattered, but the system around the prompts mattered more.
 
+## September 2026 Astra run
+
+The GPT-6 Astra comparison run follows the same fixed references and dimensions
+for all 1,280 expansion objects, using newly authored category geometry with
+shared primitive and packaging utilities. Parallel authoring and bounded
+render/export workers ran on one DGX Spark. Final renders use Eevee at
+1440 × 1080 and 256 samples; persistent Blender USD workers export the packages.
+The published result includes targeted corrections made after initial production.
+
+The initial complete package set took 236.08 minutes, with 94.26% mean observed
+GPU utilization. Later corrections and final integrity verification ended
+19h52m after the production baseline, including an overnight usage-limit pause.
+The [run record](reports/astra-2026-09-26.json) separates these phases and retains
+recovered failures. Unequal task scope, authoring methods and correction budgets
+mean these numbers do not establish a speed or quality ranking of the models.
+
+The original method below describes the July dataset. Its concurrency and
+render settings should not be read as the later Astra run's settings.
+
 ## What the workflow produced
 
 Every completed asset had:

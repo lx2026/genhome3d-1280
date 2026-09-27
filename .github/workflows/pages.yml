@@ -10,6 +10,7 @@ on:
       - "catalog.json"
       - "benchmarks.json"
       - "assets/benchmarks/**"
+      - "reports/**"
       - "package.json"
       - "package-lock.json"
       - "tools/build_site.sh"

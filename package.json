@@ -5,7 +5,8 @@
   "description": "Landing page and browser checks for GenHome3D-1280",
   "scripts": {
     "build:site": "./tools/build_site.sh",
-    "test:site": "playwright test tests/site.spec.js --reporter=line"
+    "test:site": "playwright test tests/site.spec.js --reporter=line",
+    "test:attached": "node tools/verify_site_cdp.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.61.1",

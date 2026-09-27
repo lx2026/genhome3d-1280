@@ -41,6 +41,19 @@ the two each entry has.
 Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
 the category counts, the catalog indexes, and `checksums.sha256`.
 
+## GPT-6 Astra publication
+
+The September run adds 1,280 benchmark entries with sealed `gpt-6-astra` /
+`OpenAI Codex` attribution, using the same reference images and dimensions as
+the original expansion. Asset IDs use the 3000 series. Final corrected USDZ
+bytes are copied without modification and retain their source SHA-256; web
+previews are JPEG derivatives of the final hero and inspection renders.
+
+Astra entries coexist with the original baseline and all previously published
+Opus and Fable entries. They do not replace the catalog or claim a first-attempt
+result. The public run summary includes measured production phases and limits;
+internal AI verdicts and local workspace paths are excluded.
+
 ## Included in this public dataset
 
 - Final USDZ package

@@ -41,46 +41,63 @@ reference, a generated preview, and a self-contained USDZ package. No object her
 carries a visual review: the published checks are automated, and nobody has
 inspected these results by eye.
 
-## Model bench
+## Model benchmark
 
-A bench gives the same picture to more than one model and publishes both builds
-next to it, with the checks each one passed and the problems found in it.
+[Compare the models](https://lx2026.github.io/genhome3d-1280/bench.html) by shared
+reference, model, room, or category. The page contains **1,319 comparisons and
+2,854 builds**. GPT-6 Astra covers every object in the original 64-category
+expansion; the 39 additional comparisons preserve earlier chair, dining-table,
+and bed benchmarks.
 
-There are 255 benches. In each, the catalog build came from GPT-5.6 Sol as one
-of twenty objects in that category's run. The second build was made from the
-same picture with no shared category code: 241 by Claude Opus 5 and 14 by
-Claude Fable 5. Both builds are scaled to the same measurements, so what differs
-is the shape, not the size.
+| Model | Published builds | Authoring method |
+|---|---:|---|
+| GPT-6 Astra | 1,280 | Full-library run with newly authored category helpers, parallel agents and targeted corrections |
+| GPT-5.6 Sol | 1,319 | Original builds with shared category code; model name declared by the registry |
+| Claude Opus 5 | 241 | Individual reference-led builds |
+| Claude Fable 5 | 14 | Individual reference-led builds |
 
-The first 68 Opus 5 builds were later compared against their pictures. That
-check found 60 problems in 39 builds. Eighteen problems, including every one
-that made an object unreadable, were fixed; the other 42 remain in the
-published builds. All of them are listed in
-[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md) and attached to their
-build in [`benchmarks.json`](benchmarks.json), fixed and unfixed alike. A bench
-that quietly repaired every miss would not measure what the model first built.
+Each comparison shows its fixed reference, available model builds, rear views,
+geometry and package checks, and individual USDZ downloads. Selecting a model
+filters to references it actually completed; it does not imply equal coverage.
+The original catalog remains exactly 1,280 objects. Benchmark additions stay
+outside its category counts, indexes and `checksums.sha256`.
 
-Each build opens as an interactive USDZ next to the picture, the same viewer the
-catalog uses.
+Astra's first complete production pass on DGX Spark took **236.08 minutes**
+(5.42 assets/minute) with **94.26% mean observed GPU utilization**. Completion
+through later corrections and final integrity verification took **19h52m**,
+including an overnight usage-limit interruption. These are measurements of
+this run, not a controlled speed comparison against the earlier models. See
+[the run record](reports/astra-2026-09-26.json) for timing, hardware and limitations.
 
-Bench rebuilds are not part of the 1,280-asset dataset. They are excluded from
-the category counts, the catalog indexes, and `checksums.sha256`, and ship under
-`assets/benchmarks/` with their own records in
-[`benchmarks.json`](benchmarks.json). Model names come from the production bench
-registry; each entry also reports the attribution its own metadata sealed at
-build time. No bench assigns a score.
+The published Astra assets are the final corrected versions. Original references
+and dimensions remain fixed, while fine carving, textile structure, material
+appearance and some proportions remain approximate. No model receives a score
+or independent human-acceptance claim.
+
+The historical inspection of the first 68 Opus 5 builds remains available in
+[`reports/bench-visual-qc.md`](reports/bench-visual-qc.md) and attached to the same
+entries in [`benchmarks.json`](benchmarks.json): 60 findings across 39 builds,
+18 fixed and 42 retained. That earlier audit is not a comparable score for the
+other runs. Each build also retains its sealed attribution; the original
+catalog metadata recorded OpenAI Codex without a model version.
+
+USDZ files load on demand from this repository's existing raw-content host.
+The Pages site contains the previews and comparison records, keeping its
+published artifact below the hosting size limit.
 
 ## Download
 
-Download individual assets directly from [`assets/`](assets) or the
-[Hugging Face mirror](https://huggingface.co/datasets/linxy97/genhome3d-1280),
-or use the complete archive attached to the latest GitHub release.
+Download individual catalog and model-benchmark assets directly from
+[`assets/`](assets) or from the website. The
+[Hugging Face mirror](https://huggingface.co/datasets/linxy97/genhome3d-1280)
+and existing release archives provide the original 1,280-object catalog;
+additional model runs are available through the benchmark page and this repository.
 
 ```bash
-# Clone the full collection (approximately 1.2 GB including previews)
+# Clone the catalog and published model benchmark runs
 git clone --depth 1 https://github.com/lx2026/genhome3d-1280.git
 
-# Verify every USDZ package
+# Verify the original catalog packages
 cd genhome3d-1280
 sha256sum --check checksums.sha256
 ```
@@ -145,3 +162,16 @@ dress, safety, accessibility, and regulatory requirements for your use case.
 ## Citation
 
 Citation metadata is available in [`CITATION.cff`](CITATION.cff).
+
+## Website development
+
+Run `npm ci` and `npm run build:site` to assemble the Pages artifact. Model
+packages remain on the existing raw-content download host and load on demand.
+For an unpublished local candidate, `npm run build:site -- --local-assets`
+uses local packages; that mode is never deployed.
+
+`npm run test:attached -- <site-url> <output-directory>` verifies the website
+through the existing browser at `127.0.0.1:9222`. It creates and closes only its
+own tab. The report distinguishes interactive rendering from package parsing
+and fallback behavior when that browser has WebGL disabled. The regular
+`npm run test:site` suite targets a browser with WebGL support.

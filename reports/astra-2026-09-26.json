@@ -1,0 +1,54 @@
+{
+  "run_id": "astra-2026-09-26",
+  "model": "GPT-6 Astra",
+  "asset_count": 1280,
+  "category_count": 64,
+  "hardware": "NVIDIA DGX Spark / GB10",
+  "render": {
+    "engine": "Blender Eevee",
+    "width": 1440,
+    "height": 1080,
+    "samples": 256,
+    "texture_resolution": [
+      2048,
+      2048
+    ]
+  },
+  "timing": {
+    "initial_production_minutes": 236.07540143333333,
+    "initial_assets_per_minute": 5.421996498696907,
+    "first_complete_utc": "2026-09-26T09:32:04.524086+00:00",
+    "latest_stage_finish_utc": "2026-09-27T01:26:00.585127+00:00",
+    "final_verification_utc": "2026-09-27T01:28:23.931755+00:00",
+    "wall_hours_through_final_verification": 19.873314376388887,
+    "unobserved_pause_hours": 15.352561589722223,
+    "observed_processing_hours": 4.473136646388889
+  },
+  "gpu": {
+    "initial_mean_percent": 94.25726744186046,
+    "observed_mean_percent": 92.29986657771848,
+    "peak_percent": 96.0,
+    "peak_host_used_ram_gib": 54.73955612182617
+  },
+  "historical_failures": 6,
+  "unmatched_stage_start_records": 15,
+  "technical_checks": {
+    "usd_package_passes": 1280,
+    "geometry_passes": 1280,
+    "maximum_triangles": 74228,
+    "triangle_budget": 75000,
+    "normalization_warnings": 138
+  },
+  "method": "GPT-6 Astra authored procedural geometry from the same authoritative references and declared dimensions, using shared Astra primitives and family builders. Multiple agents made iterative corrections before this final publication.",
+  "limitations": [
+    "These are final revised outputs, not an untouched first-attempt sample. Historical Opus and Fable records remain as previously published; methods, hardware, rendering and correction budgets differ, so this is not a controlled model ranking.",
+    "Technical checks do not establish visual fidelity or a quality score. No human or on-device certification is claimed.",
+    "Declared dimensions can alter the silhouette relative to the picture. Fine ornament, wood/stone microtexture, fabric folds and some constructions remain simplified.",
+    "Native Cycles could not run because its CUDA kernel rejected GB10 sm_121; images use Eevee. Transparent materials can look milkier or clearer than the reference. Eevee display alpha and exported USD opacity are not equivalent.",
+    "The long unobserved interval contains a usage-limit interruption. GPU statistics cover observed samples; absent telemetry is not imputed. Host RAM includes unrelated workloads. Concurrency observations do not prove a causal speedup."
+  ],
+  "report": "reports/astra-2026-09-26.json",
+  "report_markdown": "reports/astra-2026-09-26.md",
+  "timeline": "reports/astra-efficiency-timeline.png",
+  "timeline_svg": "reports/astra-efficiency-timeline.svg"
+}

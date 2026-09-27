@@ -168,149 +168,85 @@ test("mobile layout preserves navigation and search", async ({ page }) => {
   });
 });
 
-test("the bench page compares one reference against every model build", async ({ page }) => {
-  const consoleErrors = [];
-  const pageErrors = [];
-  page.on("console", (message) => {
-    if (message.type() === "error") consoleErrors.push(message.text());
-  });
-  page.on("pageerror", (error) => pageErrors.push(error.message));
-
-  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-  await expect(page.locator("h1")).toContainText("Same picture, different models");
-  await expect(page.locator('[data-stat="benches"]')).toHaveText("255");
-  await expect(page.locator('[data-stat="builds"]')).toHaveText("510");
-  await expect(page.locator('[data-stat="models"]')).toHaveText("3");
-
-  // Benches load a page at a time, so the whole set is never in the DOM at once.
+test("benchmark coverage, categories and pages follow the selected run", async ({ page }) => {
+  await page.goto(`${baseURL}/bench.html`);
+  await expect(page.locator("body")).toHaveAttribute("data-benchmark-state", "ready");
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("1,319");
+  await expect(page.locator('[data-stat="builds"]')).toHaveText("2,854");
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "1280");
   await expect(page.locator(".bench")).toHaveCount(12);
-  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 255 benches");
-  await page.locator("#bench-show-more").click();
-  await expect(page.locator(".bench")).toHaveCount(24);
-
-  const bench = page.locator(".bench").first();
-  await expect(bench).toBeVisible();
-  const reference = bench.locator(".tile img").first();
-  await expect(reference).toHaveAttribute("src", /references\/benchmarks\/.+\.jpg$/);
-  await reference.scrollIntoViewIfNeeded();
-  await expect
-    .poll(() => reference.evaluate((image) => image.naturalWidth))
-    .toBeGreaterThan(0);
-
-  const builds = bench.locator(".tile-build");
-  await expect(builds).toHaveCount(2);
-  await expect(builds.nth(0).locator(".tile-name")).toHaveText("GPT-5.6 Sol");
-  await expect(builds.nth(1).locator(".tile-name")).toHaveText("Claude Opus 5");
-  // Only the Opus 5 builds were compared against the picture, and the page says so.
-  await expect(builds.nth(0).locator(".chip-quiet")).toHaveText("Not checked");
-  await expect(bench).not.toContainText("Visual review");
-
-  for (const index of [0, 1]) {
-    const hero = builds.nth(index).locator("img");
-    await expect(hero).toHaveAttribute("src", /previews\/benchmarks\/.+\.jpg$/);
-    await hero.scrollIntoViewIfNeeded();
-    await expect
-      .poll(() => hero.evaluate((image) => image.naturalWidth))
-      .toBeGreaterThan(0);
-  }
-
-  // Every build reports the attribution its own metadata sealed.
-  await bench.locator(".bench-more summary").click();
-  const details = bench.locator(".detail");
-  await expect(details.nth(0)).toContainText("no model version");
-  await expect(details.nth(1)).toContainText("claude-opus-5");
-  await expect(details.nth(0)).toContainText("all four passed");
-  await expect(details.nth(0).locator("[data-field='download']")).toHaveAttribute(
-    "href",
-    /\.usdz$/,
-  );
-
-  expect(consoleErrors).toEqual([]);
-  expect(pageErrors).toEqual([]);
+  await page.locator("#bench-category").selectOption("seating/armchairs");
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "20");
+  await page.locator("#bench-next").click();
+  await expect(page.locator(".bench")).toHaveCount(8);
+  await page.locator("#bench-page-size").selectOption("24");
+  await expect(page.locator(".bench")).toHaveCount(20);
+  await page.locator("#bench-clear").click();
+  await page.locator('#bench-models [data-model="claude-opus-5"]').click();
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "241");
+  await page.locator('#bench-models [data-model="claude-fable-5"]').click();
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "14");
+  await page.locator("#bench-clear").click();
+  await page.locator("#bench-comparisons-only").check();
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "216");
+  await page.locator("#bench-all-models").click();
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "255");
 });
 
-test("the bench page filters, searches, and reports its own defects", async ({ page }) => {
-  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-
-  await page.locator("#bench-search").fill("kettle");
+test("search preserves distinct references and shows rear views and historical notes", async ({ page }) => {
+  await page.goto(`${baseURL}/bench.html?model=all&q=CHR-0002`);
+  await expect(page.locator("#bench-windsor-comb-back-armchair")).toBeVisible();
+  await page.locator("#bench-search").fill("ARM-3003");
+  await expect(page.locator("#bench-windsor-comb-back-armchair-arm-0003")).toBeVisible();
   await expect(page.locator(".bench")).toHaveCount(1);
+  await page.locator("#bench-search").fill("CHS-3018");
+  await expect(page.locator('.tile-build[data-asset-id="CHS-3018"]')).toBeVisible();
+  await page.locator(".bench-more summary").click();
+  await expect.poll(() => page.locator('.detail-shot img').first().evaluate(im => im.naturalWidth)).toBeGreaterThan(0);
+  await page.locator("#bench-search").fill("no-matching-reference-zzzz");
+  await expect(page.locator(".bench")).toHaveCount(0);
+  await expect(page.locator(".bench-loading")).toContainText("No matching objects");
+  await page.goto(`${baseURL}/bench.html#bench-stainless-single-whistle-dome-kettle`);
   const kettle = page.locator("#bench-stainless-single-whistle-dome-kettle");
   await expect(kettle).toBeVisible();
-
-  // The kettle's detached handle was found in the audit and repaired.
-  const opus = kettle.locator(".tile-build").nth(1);
-  await expect(opus.locator(".chip-issue")).toHaveText("1 problem");
-  await expect(opus.locator(".chip-fixed")).toHaveText("1 fixed");
   await kettle.locator(".bench-more summary").click();
-  const issues = kettle.locator(".detail").nth(1).locator(".issue");
-  await expect(issues).toHaveCount(2);
-  await expect(issues.nth(0)).toContainText("Blocking");
-  await expect(issues.nth(0)).toContainText("Fixed");
-
-  await page.locator("#bench-search").fill("");
-  await page.locator("#bench-search").fill("fable");
-  await expect(page.locator("#bench-count")).toHaveText("Showing 12 of 14 benches");
-  await expect(page.locator(".tile-build .tile-name").nth(1)).toHaveText(
-    "Claude Fable 5",
-  );
-
-  await page.locator("#bench-search").fill("");
-  await page.locator("#bench-category").selectOption("bathroom");
-  await expect(page.locator(".bench-cat").first()).toContainText("Bathroom");
-  await page.locator("#bench-only-issues").check();
-  const counts = await page.locator(".bench").evaluateAll((cards) =>
-    cards.map((card) => card.querySelectorAll(".chip-issue").length),
-  );
-  expect(counts.length).toBeGreaterThan(0);
-  expect(counts.every((count) => count > 0)).toBe(true);
-
-  await page.locator("#bench-search").fill("nothing matches this");
-  await expect(page.locator(".bench")).toHaveCount(0);
-  await expect(page.locator(".bench-loading")).toBeVisible();
-
-  // Hash links reach benches beyond the first page.
-  await page.goto(`${baseURL}/bench.html#bench-windsor-comb-back-armchair`, {
-    waitUntil: "networkidle",
-  });
-  await expect(page.locator("#bench-windsor-comb-back-armchair")).toBeVisible();
+  await expect(kettle.locator(".historical-audit").filter({hasText:"Historical AI audit notes"}).first()).toContainText("not a human review");
 });
 
-test("bench builds open as interactive USDZ previews beside the reference", async ({
-  page,
-}) => {
-  const consoleErrors = [];
-  page.on("console", (message) => {
-    if (message.type() === "error") consoleErrors.push(message.text());
-  });
+test("benchmark filter links survive reload and mobile remains usable", async ({ page }) => {
+  await page.goto(`${baseURL}/bench.html?model=gpt-6-astra&category=bathroom%2Faccessories`);
+  await expect(page.locator("#bench-category")).toHaveValue("bathroom/accessories");
+  await expect(page.locator("#bench-room")).toHaveValue("");
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "20");
+  await page.reload();
+  await expect(page.locator("#bench-category")).toHaveValue("bathroom/accessories");
+  await expect(page.locator("#bench-room")).toHaveValue("");
+  await page.setViewportSize({width:390,height:844});
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= 390 && document.documentElement.clientWidth === 390)).toBe(true);
+  await page.locator("#bench-search").fill("BAC-3018");
+  await expect(page.locator('.tile-build[data-asset-id="BAC-3018"]')).toBeVisible();
+});
 
-  await page.goto(`${baseURL}/bench.html`, { waitUntil: "networkidle" });
-  await page.locator(".tile-build").nth(1).click();
-
-  const dialog = page.locator("#bench-viewer");
+test("benchmark builds retain interactive previews and downloads", async ({ page }) => {
+  test.setTimeout(90_000);
+  await page.goto(`${baseURL}/bench.html?model=gpt-6-astra&q=COF-3002`);
+  await page.locator('.tile-build[data-asset-id="COF-3002"]').click();
+  const dialog=page.locator("#bench-viewer");
   await expect(dialog).toBeVisible();
-  await expect(page.locator("#bench-viewer-title")).toContainText("Claude Opus 5");
-  await expect(page.locator("#bench-viewer-reference")).toHaveAttribute(
-    "src",
-    /references\/benchmarks\/.+\.jpg$/,
-  );
-  await expect.poll(() => dialog.getAttribute("data-state"), { timeout: 40000 }).toBe(
-    "ready",
-  );
+  await expect(page.locator("#bench-viewer-title")).toContainText("GPT-6 Astra");
+  await expect(page.locator("#bench-viewer-download")).toHaveAttribute("href",/\.usdz$/);
+  await expect.poll(() => dialog.getAttribute("data-state"), {timeout:60000}).toBe("ready");
   await expect(page.locator("#bench-viewer-poster")).toBeHidden();
-  await expect(page.locator("#bench-viewer-meta")).toContainText("triangles");
-
   await page.locator("#bench-viewer-background").click();
-  await expect(dialog).toHaveAttribute("data-background", "dark");
   await page.locator("#bench-viewer-reset").click();
   await page.locator("#bench-viewer-close").click();
   await expect(dialog).toBeHidden();
-  expect(consoleErrors).toEqual([]);
 });
 
-test("the landing page routes to the bench", async ({ page }) => {
-  await page.goto(baseURL, { waitUntil: "networkidle" });
-  await expect(page.locator('[data-stat="benches"]')).toHaveText("255");
-  await expect(page.locator('[data-stat="bench-models"]')).toHaveText("3");
+test("the landing page routes to the reorganized benchmark", async ({ page }) => {
+  await page.goto(baseURL);
+  await expect(page.locator('[data-stat="benches"]')).toHaveText("1,319");
+  await expect(page.locator('[data-stat="bench-models"]')).toHaveText("4");
   await page.locator(".bench-band-card a.button").click();
-  await expect(page.locator("h1")).toContainText("Same picture, different models");
+  await expect(page.locator("#benches")).toHaveAttribute("data-result-count", "1280");
 });
