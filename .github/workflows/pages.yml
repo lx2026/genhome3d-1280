@@ -33,14 +33,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check out dataset
+      - name: Check out website files
         uses: actions/checkout@v4
+        with:
+          # Root manifests are included automatically. USDZ packages are served
+          # on demand from raw GitHub and are unnecessary for a Pages build.
+          sparse-checkout: |
+            .github
+            site
+            previews
+            references
+            reports
+            tools
 
       - name: Install site dependencies
         run: npm ci
 
       - name: Assemble site artifact
         run: |
+          test ! -d assets
           npm run build:site
 
       - name: Configure Pages
